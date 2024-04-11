@@ -1616,20 +1616,21 @@
 063f=錆
 
 1001=—
+1002=ぐ
 1003=<square>
 1004=<triangle>
 1005=<cross>
 1006=<circle>
-1007=<L1>
-1008=<L2>
-1009=<R1>
-100a=<R2>
-100b=<R3>
+1007=<L1a>
+1008=<L1b>
+100a=<L2a>
+100b=<L2b>
+100c=<R1a>
+100d=<R1b>
+100e=<R2a>
+100f=<R2b>
 
 8001=|
-8005=<msg>
-8006=<tutorial_text>
-8007=<tutorial_header>
 
 800a=<white>
 800c=<orange>
@@ -1637,12 +1638,12 @@
 
 801d=>>
 
-8031=<space?>
-8033=<title_font>
-
 8110=<edward>
 8111=<alphonse>
 8127=<soldier?>
+8128=<girl>
+8129=<mother?>
+812a=<man?>
 8130=<woman>
 8131=<oldman?>
 8136=<boy?>
