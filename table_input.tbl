@@ -1,4 +1,4 @@
-0000=　#space
+0000= #space
 0001=０
 0002=１
 0003=２
@@ -1815,14 +1815,22 @@
 100f=<R2b>
 
 8001=|
+8005=<smalltext>
 8007=<bigtext>
 
 800a=<white>
+800b=<red>
 800c=<orange>
 800d=<yellow>
+800e=<green>
+800f=<teal>
 
 801d=>>
 8031=　#fullwidth space
+8033=<blackbold>
+8034=<bluebold>
+8035=<redbold>
+8036=<normal>
 
 8110=<edward>
 8111=<alphonse>
@@ -1843,6 +1851,8 @@
 8120=<hammer>
 8121=<trigger>
 8122=<craigin>
+8123=<verda>
+8124=<victor>
 8125=<gilbert>
 8126=<bradley>
 8127=<soldier>#軍人
@@ -1852,6 +1862,7 @@
 812b=<mysteriouswoman>
 812c=<cat>
 812e=<???>
+812d=<norn>#ノルン
 812f=<man>
 8130=<woman>
 8131=<oldman>
@@ -1860,3 +1871,6 @@
 8134=<king>
 8135=<younggirl>
 8136=<boy>
+8137=<yoki>#ヨキ
+8138=<cow>
+8139=<godsoldier>#神兵
