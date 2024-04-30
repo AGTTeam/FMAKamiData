@@ -5,4 +5,5 @@ out_*
 *_output*
 *.iso
 *.xdelta
+fontdata.bin
 .DS_Store
