@@ -207,8 +207,8 @@
 00cc=初
 00cd=期
 00ce=打
-00cf=攻
-00d0=撃
+00cf=撃
+00d0=攻
 00d1=/
 00d2=武
 00d3=器
@@ -361,7 +361,7 @@
 0165=ヤ
 0166=ツ
 0167=ハ
-0168=‐#unused dupe em-dash
+0168=‐#unused dupe em-dash replaced with ;
 0169=「
 016a=印
 016b=」
@@ -1100,7 +1100,7 @@
 0441=俗
 0442=徳
 
-0443=〆#unused dupe ‥
+0443=〆#unused dupe ‥ replaced with q
 0444=骨
 0445=折
 0446=健
@@ -1211,7 +1211,7 @@
 04ae=更
 04af=,
 
-04b0=x
+04b0=❌
 04b1=.
 04b2=％
 04b3=軽
@@ -1290,7 +1290,7 @@
 04fc=習
 04fd=肥
 04fe=割
-04ff=⋅#not sure about this one
+04ff=⋅#replaced with “
 0500=魅
 0501=福
 0502=範
