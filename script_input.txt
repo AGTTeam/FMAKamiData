@@ -2308,7 +2308,7 @@
 <8006><L2a><L2b>押しながら<square>　＝　<yellow>「槍」を錬成=<8006>Press <square> while holding <L2a><L2b> ＝ <yellow> Transmute a "Spear"
 エドは、地面から「槍」を錬成できます。|<square>連打で、<orange>強力な連続攻撃<white>が可能です。=Ed can transmute a "Spear" from the ground。|By pressing <square> multiple times, you can perform <orange>a powerful continous attack.
 <smalltext>  【コンボの例】|  ・<square>→<square>連打|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>=<smalltext>  "Combo examples"|  ・<square>→<square>Multiple times|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>
-<smalltext><blackbold>アクセサリ<normal>【決意の弾丸】<blackbold>を手に入れた！！=<smalltext><blackbold>Found accessory "Bullet of Resolve"!
+<smalltext><blackbold>アクセサリ<normal>【決意の弾丸】<blackbold>を手に入れた！！=<smalltext><blackbold>Found accessory <normal>"Bullet of Resolve"!
 <leonid>フフフ……。=<leonid>Heh heh heh...
 <riza>——動かないで。=<riza>Don't move.
 <leonid>醜い者は存在するだけで罪。|見るのも汚らわしい——。=<leonid>The mere existence of an ugly person is a sin. |They're detestable to look at.
