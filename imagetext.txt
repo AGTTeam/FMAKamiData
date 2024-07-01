@@ -6,40 +6,46 @@
 
 0000_008\001_00.png#nametags, some parts are reused
 エドワード=Edward
-ゼルギウス=Zelgius
-ネコ=Cat
 アルフォンス=Alphonse
-仮面男=Masked Man
-ノルン=Norn
+ウィンリィ=Winry
 ロイ=Roy
+アームソトロング=Armstrong
+ホークアイ=Hawkeye
+ヨキ=Yoki
+ブラッドレイ=Bradley
+ソフィ=Sophie
+ネコ=Cat
+ノルン=Norn
+ヴィクトール=Victor
+ギルベルト=Gilbert
+ゼルギウス=Zelgius
+ジャニス=Janice
 レオニード=Leonid
 ゴドー=Godo
-子
-？
-アームソトロング=Armstrong
-軍人
-ホークアイ=Hawkeye
-ジャニス=Janice
-母親=Mother
-年
-ウィンリィ=Winry
 ヴィーメス=Venus
-神兵
-憲兵
 ハンマー=Hammer
 トリガー=Trigger
-ヨキ=Yoki
-兵士
 クレイギン=Craigin
 ヴェルザ=Velza
-牛=Cow
-ソフィ=Sophie
-ヴィクトール=Victor
+少年=Boy
+少女=Girl
+男=Man
+女=Woman
+仮面の男=Masked Man
+謎の男＝Mysterious Man
+謎の女＝Mysterious Woman
 謎の少女＝Mysterious Girl
-ギルベルト=Gilbert
-老若者一族
-王
-ブラッド=Brad(ley)
+一族の男=Clansmen
+一族の若者=Young Clansmen
+母親=Mother
+女の子#unused cell?
+牛=Cow
+老人=Elder
+軍人=Soldier
+神兵=Holy Soldier
+兵士=Officer
+憲兵=Guard
+王=King
 
 0006_001\001_00.png
 鋼の錬金術師=Fullmetal Alchemist
