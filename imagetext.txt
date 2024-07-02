@@ -5,47 +5,49 @@
 0000_007\003_00.png#may be unused
 
 0000_008\001_00.png#nametags, some parts are reused
-エドワード=Edward
-アルフォンス=Alphonse
-ウィンリィ=Winry
-ロイ=Roy
-アームソトロング=Armstrong
-ホークアイ=Hawkeye
-ヨキ=Yoki
-ブラッドレイ=Bradley
-ソフィ=Sophie
-ネコ=Cat
-ノルン=Norn
-ヴィクトール=Victor
-ギルベルト=Gilbert
-ゼルギウス=Zelgius
-ジャニス=Janice
-レオニード=Leonid
-ゴドー=Godo
-ヴィーメス=Venus
-ハンマー=Hammer
-トリガー=Trigger
-クレイギン=Craigin
-ヴェルザ=Velza
-少年=Boy
-少女=Girl
-男=Man
-女=Woman
-仮面の男=Masked Man
-謎の男＝Mysterious Man
-謎の女＝Mysterious Woman
-謎の少女＝Mysterious Girl
-一族の男=Clansmen
-一族の若者=Young Clansmen
-母親=Mother
-女の子#unused cell?
-牛=Cow
-老人=Elder
-軍人=Soldier
-神兵=Holy Soldier
-兵士=Officer
-憲兵=Guard
-王=King
+01  エドワード=Edward 
+02 アルフォンス=Alphonse
+06 ウィンリィ=Winry
+03 ロイ=Roy
+04 アームソトロング=Armstrong
+05 ホークアイ=Hawkeye
+3aヨキ=Yoki
+ブラッド1bレイ1c=Bradley
+09 ソフィ=Sophie
+26ネコ=Cat
+27ノルン=Norn
+19ヴィクトール=Victor
+1aギルベルト=Gilbert
+0dゼルギウス=Zelgius
+13ジャニス=Janice
+11レオニード=Leonid
+12ゴドー=Godo
+14ヴィーメス=Venus
+15ハンマー=Hammer
+16トリガー=Trigger
+17クレイギン=Craigin
+18ヴェルザ=Velza
+少38年39=Boy
+少36女37=Girl
+2b男=Man
+2c女=Woman
+仮面0eの10男0f=Masked Man
+謎の22男23＝Mysterious Man
+謎の24女25＝Mysterious Woman
+ 謎の0a少0b女0c=Mysterious Girl
+一族2fの31男30=Clansmen
+一族34の32若者33=Young Clansmen
+21母親=Mother
+女1eの1f子20#unused cell?
+3b牛=Cow
+老2d人2e=Elder
+1d軍人=Soldier
+3c神兵=Holy Soldier
+08 兵士=Officer
+07 憲兵=Guard
+35王=King
+28 29 2a=?
+
 
 0006_001\001_00.png
 鋼の錬金術師=Fullmetal Alchemist
