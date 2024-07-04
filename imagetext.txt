@@ -4,7 +4,7 @@
 
 0000_007\003_00.png#may be unused
 
-0000_008\001_00.png#nametags, some parts are reused
+0000_008\001_00.png#done - nametags, some parts are reused
 01  エドワード=Edward 
 02 アルフォンス=Alphonse
 06 ウィンリィ=Winry
@@ -93,15 +93,15 @@
 荒川弘/スクウェアエニックス・毎日放送・ アニプレックス・ボンズ・電通　2003=Hiromu Arakawa/Square Enix・MBS・Aniplex・Bones・Dentsu 2003
 ©2005 SQUARE ENIX All Rights Reserved 
 
-0009_002\001_00.png
+0009_002\001_00.png#done
 OPTION
 HELP
-普通=Normal
-遅い=Slow
-速い=Fast
+4a普通=Normal
+48遅49い=Slow
+4b速4cい=Fast
 ONF
-ステレオ=Stereo
-モノラル=Mono
+52ステレオ=Stereo
+53モノラル=Mono
 
 0013_000\001_06.png
 ポイントを選択してください
