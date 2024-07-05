@@ -124,37 +124,39 @@ ONF
 まかせろ
 
 0014_066\001_02.png
-アクセサル=Accessories
+260,282, 2a4アクセサル=Accessories
 HP
 EXP
 Pts
 HELP
-攻撃力=ATK
-防御力=DEF
-体=VIT
-錬成力=ALC
 
-エドワード=Edward
-アルフォンス=Alphonse
+攻撃202力203=ATK
+防御204力205=DEF
+体206　力207=VIT
+錬成208力209=ALC
 
-アイテム=Items
-アクセサル=Accessories
-ステータス=Status
-ボーナスポイント=Bonus Points
-チュトリアル=Tutorial
-コンフィグ=Config
-エリアマップ=Area Map
+fdエドワード=Edward
+feアルフォンス=Alphonse
 
-ボーナスポイント=Bonus Points
+アcfイd0テd1ムd2=Items
+アd4クセサd3リd5=Accessories
+スdaテd8ーd9タd6スd7=Status
+ボdbーdeナdcスdfポddイe0ンe1トe2=Bonus Points
+チュe6ーe4トe5リe3アe8ルe7=Tutorial
+コeaンe9フィebグec=Config
+エedリf1アf0マeeップef=Area Map
 
-設定=Confirm
-ゲーム画面に戻る=Return to Game
-普通=Normal
-遅い=Slow
-速い=Fast
+ボーナス166ポイント167=Bonus Points
+
+158設定=Select
+15a戻る=Back
+ゲーム画面に15c戻る15d=Return to Game
+224普通=Normal
+遅20aい20b=Slow
+速225い226=Fast
 ONF
-ステレオ=Stereo
-モノラル=Mono
+22cステレオ=Stereo
+22dモノラル=Mono
 スロット=Slot
 
 0015_003\001_01.png
