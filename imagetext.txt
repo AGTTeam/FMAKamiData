@@ -57,31 +57,42 @@
 エド=Ed
 スロット=Slot
 
-0006_001\001_04.png
+0006_001\001_04.png#unused?
 はい/いいえ = Yes/No
 未使用のファイルです=This file is unused.
 ここまでの話をセープしますか？=Save the game?
 他のゲームデータです=This data is for another game.
 データが壊れています=Data is corrupted.
 
-0007_003\001_03.png#seems to be a glow effect for the previous
-未使用のファイルです=This file is unused.
-データが壊れ=Data is corr
+
+0007_003\001_03.png#seems to be a glow effect for the next
+未使用c8,ccのcb,cfファイルca,ceですc9,cd=This file is unused.
+他d9,e2のd4,ddゲd5,deーd6,dfムd8,e1デd7,e0ーdb,e4タda,e3ですdc,e5=This data is for another game.
+デf7ーf9タf8がf5壊f6=Data is corr
+
 
 0007_003\001_04.png
-未使用のファイルです=This file is unused.
-他のゲームデータです=This data is for another game.
-データが壊れています=Data is corrupted.
+未使用d0のd3ファイルd2ですd1=This file is unused.
+他eaのedゲe6ーe7ムe8デe9ーeeタebですec=This data is for another game.
+デffー101タ100が壊れてい102ます103=Data is corrupted.
 
-スロットを選んでください=Select a MEMORY CARD slot.
-セーブするファイルを選んでください=Select a file to save.
-ロードするファイルを選んでください=Select a file to load.
+スロット120,123を121選んでください122=Select a MEMORY CARD slot.
+セーブ10c,111,する10d,112ファイル10e,113を10f,114選んでください110,115=Select a file to save.
+ロード116,11bする117ファイル118を119選んでください11a,11f=Select a file to load.
 
-エドワード=Edward
-アルフォンス=Alphonse
+a6エドワード=Edward
+a8アルフォンス=Alphonse
+
+105,107,108,10aスロット(blue)
+104,106(1 blue)
+109,10b(2 blue)
+
+1c4,1c6スロット (wbold)
+1c3(1 wbold)
+1c5(2 wbold)
 
 0007_003\001_09.png
-れています=upted.
+れてf2,faいますf3 f4,fb fc=upted.
 
 0009_000\001_06.png#title screen
 神を継ぐ少女
@@ -124,7 +135,7 @@ ONF
 まかせろ
 
 0014_066\001_02.png
-260,282, 2a4アクセサル=Accessories
+260,282, 2a4アクセサリ=Accessories
 HP
 EXP
 Pts
