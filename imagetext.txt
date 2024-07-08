@@ -68,7 +68,7 @@
 0007_003\001_03.png#seems to be a glow effect for the next
 未使用c8,ccのcb,cfファイルca,ceですc9,cd=This file is unused.
 他d9,e2のd4,ddゲd5,deーd6,dfムd8,e1デd7,e0ーdb,e4タda,e3ですdc,e5=This data is for another game.
-デf7ーf9タf8がf5壊f6=Data is corr
+デf7,efーf9,f1タf8,f0がf5,fd壊f6,fe=Data is corr
 
 
 0007_003\001_04.png
@@ -92,7 +92,7 @@ a8アルフォンス=Alphonse
 1c5(2 wbold)
 
 0007_003\001_09.png
-れてf2,faいますf3 f4,fb fc=upted.
+れてf2,faいますf3 f4,fb fc upted.
 
 0009_000\001_06.png#title screen
 神を継ぐ少女
@@ -171,9 +171,9 @@ ONF
 スロット=Slot
 
 0015_003\001_01.png
-ホークアイ=Hawkeye
-ロイ=Roy
-アームソトロング=Armstrong
+07ホークアイ=Hawkeye
+05ロイ=Roy
+06アームソトロング=Armstrong
 
 0015_004\001_02.png#command speech bubbles 2
 Ed:
@@ -372,13 +372,13 @@ The Last Battle
 0518_002\001_12.png
 スゴゴッ
 
-1061_000\001_00.png
+1061_000\001_00.png#done
 待機
 行動
 WAIT
 ACTION
 
-1062_000\001_00.png
+1062_000\001_00.png#done
 呼ぶ
 CALL
 
@@ -386,8 +386,8 @@ CALL
 打ち上げ花火=Fireworks
 ネズミ爆弾=Mouse Bomb
 
-エド錬成
-アル錬成
+エド錬成=Ed can transmute
+アル錬成=Al can transmute
 
 1065_000\001_00.png
 ゲージ最大=Gauge max
