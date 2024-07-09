@@ -71,7 +71,7 @@
 デf7,efーf9,f1タf8,f0がf5,fd壊f6,fe=Data is corr
 
 
-0007_003\001_04.png
+0007_003\001_04.png#done
 未使用d0のd3ファイルd2ですd1=This file is unused.
 他eaのedゲe6ーe7ムe8デe9ーeeタebですec=This data is for another game.
 デffー101タ100が壊れてい102ます103=Data is corrupted.
@@ -91,7 +91,7 @@ a8アルフォンス=Alphonse
 1c3(1 wbold)
 1c5(2 wbold)
 
-0007_003\001_09.png
+0007_003\001_09.png#done
 れてf2,faいますf3 f4,fb fc upted.
 
 0009_000\001_06.png#title screen
@@ -125,14 +125,27 @@ ONF
 
 
 0014_001\001_15.png#command speech bubbles 1
-錬成して　くれ！、
-いくぜ　アル　よ
-今　行く　止まれ
-来い　おう　OK
-これを使え　うん
-わかった　だ　て
-兄さん　っ
-まかせろ
+アル281！282
+止ま283れ284！285
+アル286、289来287い288！28a
+錬成して28bくれ28c！28d
+これを使28fえ290！28e
+いくぜ292、291アル293！294
+おう295！296
+今297行く298！299
+まかせろ29b！29a
+おう29f、29dいくぜ29e！29c
+
+わかった2a3！2a4
+今2a5行く2a6よ2a7！2a8
+OK2a9！2aa
+うん2ab、2ad兄さん2ac！2ad
+兄さん2af！2b0
+止ま2b2っ2b3て2b1！2b4
+来2b5て2b6、2b9兄さん2b7！2b8
+錬成して2ba！2bb
+これを使2bdっ2beて2bc！2bf
+今2c0だ2c1、2c4兄さん2c2！2c3
 
 0014_066\001_02.png
 260,282, 2a4アクセサリ=Accessories
@@ -233,48 +246,48 @@ Armstrong:
 　　　
 
 0015_004\001_03.png#command speech bubbles 3
-兄さん
-止まって
+150?兄さん
+152?止まって
 
 0015_006\001_03.png
-ルール・注意事項=Information & Rules
+26fルール・注意事項=Information & Rules
  　
-プレイ人数を選択してください=Select the number of players.
-プレイするコースを選択してください=Select a course.
-キャラクタを選択してください=Select a character.
-決定=Confirm
-戻る=Back
-説明=Explanation
+プレイ270人数271を272選択して273ください274=Select the number of players.
+プレイ27eする27bコース27aを27f選択してく27cださい27d=Select a course.
+キャラクタ277ー278を279選択してく275ださい276=Select a character.
+106 決定 107=Select
+108 戻る 109=Back
+10a 説明 10b=Explanation
 
-フロア=Floor
+285フロア=Floors
 
-ホークアイ=Hawkeye
-アルフォンス=Alphonse
-ロイ=Roy
-アームソトロング=Armstrong
-エドワード=Edward
+7db,806,831,85cホークアイ=Hawkeye
+6a9,6d1,6f9,721アルフォンス=Alphonse
+5fc,628,654,680ロイ=Roy
+744,768,78c,7b0アームソトロング=Armstrong
+555,57e,5a7,5d0エドワード=Edward
 
 Ed:
-万能タイプ
-ストーリーモードの
+万能556,57f,5a8タイプ557,580,5a9
+558,581,5aaストーリーモード559,582,5abの
 スキルが使用可能
 
 Roy:
-遠距離タイプ
-成力のある飛び
+遠5fe,62a,656,682距離600,62c,658,684タイプ5ff,62b,657,683
+5fd,629,655,681成力のある飛び
 道具攻撃が得意
 
 Al:
-万能タイプ
-銃弾や炎に強い
+万能6ab,6d3,6fb,723タイプ6ac,6d4,6fc,724
+6aa,6d2,6fa,722銃弾や炎に強い
 
 Armstrong:
-近距離タイプ
-攻撃力が高い
+近745,769,78d,7b1距離748,76c,790,7b4タイプ747,76b,78f,7b3
+746,76a,78e,7b2攻撃力が高い
 
 Hawkeye:
-遠距離タイプ
-連射能力に優れる
+遠7dd,808,833,85e距離7df,80a,835,860タイプ7de,809,834,85f
+7dc,807,832,85d連射能力に優れる
 
 0015_006\001_06.png
 決定=Selected#may be too long
@@ -285,10 +298,23 @@ Hawkeye:
 CPU
 
 0016_000\001_04.png
-第 章=Chapter#dupes
+8a第 8b章=Chapter#dupes
+0 8c
+1 8d
+2 8e
+3 8f
+4 90
+5 91
+6 92
+7 93
+8 94
+9 95
 
 0016_000#chapter titles
-ヴァルドラ陥落
+ヴb8,cd,e2,f7ァb9,ce,e3,f8ルba,cf,e4,f9ドbb,d0,e5,faラbc,d1,e6,fb陥bd,d2,e7,fc落be,d3,e8,fd
+
+BLUR ヴbf,c0,d4,d5,e9,ea,fe,ffァc1,c2,d6,d7,eb,ec,100,101ルc3,c4,d8,d9,ed,ee,102,103ドc5,c6,da,db,ef,f0,104,105ラc7,c8,dc,dd,f1,f2,106,107陥c9,ca,de,df,f3,f4,108,109落cb,cc,e0,e1,f5,f6,10b,10c etc
+
 Surrender Of The Valdolla#This is the original English text for the chapters, but we can change them
 
 0017_000\001_04.png
