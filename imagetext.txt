@@ -268,26 +268,36 @@ Armstrong:
 555,57e,5a7,5d0エドワード=Edward
 
 Ed:
-万能556,57f,5a8タイプ557,580,5a9
-558,581,5aaストーリーモード559,582,5abの
+万能556,57f,5a8,5d1タイプ557,580,5a9,5d2
+558,581,5aa,5d3ストーリーモード559,582,5ab,5d4の
 スキルが使用可能
+All-purpose type
+Can use skills from story mode
 
 Roy:
 遠5fe,62a,656,682距離600,62c,658,684タイプ5ff,62b,657,683
 5fd,629,655,681成力のある飛び
 道具攻撃が得意
+Long-range type
+Can perform powerful projectile attacks
 
 Al:
 万能6ab,6d3,6fb,723タイプ6ac,6d4,6fc,724
 6aa,6d2,6fa,722銃弾や炎に強い
+All-purpose type
+Bullet & fire resistance
 
 Armstrong:
 近745,769,78d,7b1距離748,76c,790,7b4タイプ747,76b,78f,7b3
 746,76a,78e,7b2攻撃力が高い
+Short-range type
+High attack power
 
 Hawkeye:
 遠7dd,808,833,85e距離7df,80a,835,860タイプ7de,809,834,85f
 7dc,807,832,85d連射能力に優れる
+Long-range type
+Rapid-fire ability
 
 0015_006\001_06.png
 決定=Selected#may be too long
