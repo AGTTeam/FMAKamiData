@@ -300,7 +300,7 @@ Long-range type
 Rapid-fire ability
 
 0015_006\001_06.png
-決定=Selected#may be too long
+決192,1a0定193,1a1=Selected#may be too long
 
 0015_006\001_10.png
 決定=Selected
