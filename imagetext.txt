@@ -125,27 +125,27 @@ ONF
 
 
 0014_001\001_15.png#command speech bubbles 1
-アル281！282
-止ま283れ284！285
-アル286、289来287い288！28a
-錬成して28bくれ28c！28d
-これを使28fえ290！28e
-いくぜ292、291アル293！294
-おう295！296
-今297行く298！299
-まかせろ29b！29a
-おう29f、29dいくぜ29e！29c
+アル281！282 =Al!
+止ま283れ284！285 =Stop!
+アル286、289来287い288！28a =Come, Al!
+錬成して28bくれ28c！28d =Transmute this!
+これを使28fえ290！28e =Use this!
+いくぜ292、291アル293！294 =Let's go, Al!
+おう295！296 =Alright!
+今297行く298！299 =Coming!
+まかせろ29b！29a =Leave it to me!
+おう29f、29dいくぜ29e！29c =Let's go!
 
-わかった2a3！2a4
-今2a5行く2a6よ2a7！2a8
-OK2a9！2aa
-うん2ab、2ad兄さん2ac！2ad
-兄さん2af！2b0
-止ま2b2っ2b3て2b1！2b4
-来2b5て2b6、2b9兄さん2b7！2b8
-錬成して2ba！2bb
-これを使2bdっ2beて2bc！2bf
-今2c0だ2c1、2c4兄さん2c2！2c3
+わかった2a3！2a4 =Alright!
+今2a5行く2a6よ2a7！2a8 =I'm coming!
+OK2a9！2aa =Okay!
+うん2ab、2ad兄さん2ac！2ae =Okay, Brother!
+兄さん2af！2b0 =Brother!
+止ま2b2っ2b3て2b1！2b4 =Stop!
+来2b5て2b6、2b9兄さん2b7！2b8 =Over here!
+錬成して2ba！2bb =Transmute this!
+これを使2bdっ2beて2bc！2bf =Use this!
+今2c0だ2c1、2c4兄さん2c2！2c3 =Now, Brother!
 
 0014_066\001_02.png
 260,282, 2a4アクセサリ=Accessories
@@ -249,7 +249,7 @@ Armstrong:
 150?兄さん
 152?止まって
 
-0015_006\001_03.png
+0015_006\001_03.png#done
 26fルール・注意事項=Information & Rules
  　
 プレイ270人数271を272選択して273ください274=Select the number of players.
@@ -299,10 +299,10 @@ Hawkeye:
 Long-range type
 Rapid-fire ability
 
-0015_006\001_06.png
+0015_006\001_06.png#done
 決192,1a0定193,1a1=Selected#may be too long
 
-0015_006\001_10.png
+0015_006\001_10.png#done
 決定=Selected
 2P
 CPU
