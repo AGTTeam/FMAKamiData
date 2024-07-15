@@ -95,14 +95,15 @@ a8アルフォンス=Alphonse
 れてf2,faいますf3 f4,fb fc upted.
 
 0009_000\001_06.png#title screen
-神を継ぐ少女
+神 1e を 1f 2-継ぐ少 女21
 
 0009_000\001_07.png
 鋼の錬金術師＝Fullmetal Alchemist 
+22,32 23,33 24,34
 
 0009_000\001_18.png
-荒川弘/スクウェアエニックス・毎日放送・ アニプレックス・ボンズ・電通　2003=Hiromu Arakawa/Square Enix・MBS・Aniplex・Bones・Dentsu 2003
-©2005 SQUARE ENIX All Rights Reserved 
+荒川弘/00 スクウェアエニックス 01 ・毎日放送 02 ・ アニプレックス 03 ・ボンズ 04 ・電通05　2003 06=Hiromu Arakawa/Square Enix・MBS・Aniplex・Bones・Dentsu 2003
+©2005 SQUARE ENIX 08 All 09 Rights 0a Reserved 0b
 
 0009_002\001_00.png#done
 OPTION
@@ -124,7 +125,7 @@ ONF
 西　古　駅
 
 
-0014_001\001_15.png#command speech bubbles 1
+0014_001\001_15.png#command speech bubbles 1 done
 アル281！282 =Al!
 止ま283れ284！285 =Stop!
 アル286、289来287い288！28a =Come, Al!
@@ -147,7 +148,7 @@ OK2a9！2aa =Okay!
 これを使2bdっ2beて2bc！2bf =Use this!
 今2c0だ2c1、2c4兄さん2c2！2c3 =Now, Brother!
 
-0014_066\001_02.png
+0014_066\001_02.png#done
 260,282, 2a4アクセサリ=Accessories
 HP
 EXP
@@ -230,7 +231,7 @@ Hawkeye:
 Armstrong:
 頼8eむ8f！90
 止ま91るのだ92！93
-来94！るのだ95！96
+来94るのだ95！96
 錬成97す98るのだ99！9a
 使うがいい9b！9c
 承知した9d！9e
@@ -390,11 +391,11 @@ The Last Battle
 開=Open
 
 0221_026\001_02.png
-プレゼントするものを選んでください=Select a present.
-前ページ=Previous page
-次ページ=Next page
-決定=Confirm
-戻る=Back
+25プレゼントするものを選んでください=Select a present.
+前82ページ83=Previous page
+次86ページ85=Next page
+12f決定=Confirm
+130戻る=Back
 
 0518_002\001_04.png#sfx
 ガッ
@@ -419,15 +420,15 @@ ACTION
 CALL
 
 1063_000\001_00.png
-打ち上げ花火=Fireworks
-ネズミ爆弾=Mouse Bomb
+打ち上げ1a花火17=Fireworks
+ネズミ19爆弾18=Mouse Bomb
 
-エド錬成=Ed can transmute
-アル錬成=Al can transmute
+15エド錬成=Ed can transmute
+16アル錬成=Al can transmute
 
 1065_000\001_00.png
-ゲージ最大=Gauge max
-SPゲージ=SP gauge
+11ゲージ最大=Gauge max
+12SPゲージ=SP gauge
 
 1210_003\001_01.png
 少年ガンガン=Gangan Comics
@@ -438,26 +439,26 @@ SPゲージ=SP gauge
 神を継ぐ少女
  
 1211_000\001_03.png
-前ページ=Previous Page
-次ページ=Next Page
-決定=Confirm
-戻る=Back
-表示OFF=Full Screen
+前132ページ131=Previous Page
+次135ページ136=Next Page
+128決定=Confirm
+130戻る=Back
+表示13eOFF13f=Full Screen
 
-ムービー=Movies
-グラフィック=Images
+11b movie title
+122 graphics title
 
-縮小=Zoom out
+12b縮小=Zoom out
 　
-モードを選んでください=Select a mode.
-見たいムービーを選んでください=Select the movie you wish to see.
-見たいグラフィックを選んでください=Select the image you wish to see.
+モード159を選んでください15a=Select a mode.
+見たい15fムービー15eを選んでください160=Select the movie you wish to see.
+見たい15bグラフィック15cを選んでください15d=Select the image you wish to see.
 
 1211_000\001_04.png
-ムービー=Movies
-グラフィック=Images
-中央=Center
-拡大=Zoom in
+10cムービー=Movies
+10bグラフィック=Graphics
+129中央=Center
+12d拡大=Zoom in
 
 1211_002\001_00.png
 鋼の錬金術師３＝Fullmetal Alchemist 3
