@@ -1,4 +1,3 @@
-﻿
 !FILE:0000_013.txt
 アイテム無し=No item
 回復薬（小）=Elixir (S)
@@ -1125,11 +1124,11 @@
 <smalltext><yellow>タッグバトルモード<white>について||・<orange>レベル１<white>からスタートします|・持っている<orange>アイテム<white>と<orange>アクセサリ<white>は使えません|（タッグバトル中に入手した物は使えます）|・<orange>スぺシャルアタック<white>は使えません|・レーダーとエリアマップは表示されません|・<orange>メインキャラ[１Ｐ]<white>が死ぬと<orange>ゲームオーバー<white>|（サブキャラクターは復活できます）||・各コースをクリアすると、成績に応じて| <orange>レアなアイテムやアクセサリ<white>がもらえます|（コースクリア後にデータセーブしてください）=<smalltext><white>About <yellow>Tag Battle mode:||<white>・You start from <orange>Level 1|<white>・Can't use <orange>items <white>or <orange>accessories <white>from inventory |(but can use items found during Tag Battle)|・Can't use <orange>special attacks|<white>・Radar and area maps aren't displayed|<white>・If the <orange>main character (1P) <white>dies, is <orange>Game Over|<white>(secondary character can be revived)||・Upon clearing each course, |you'll receive <orange>rare items and accessories |<white>(please save game after clearing a course)
 
 !FILE:0015_011.txt
-エドワード||<smalltext>　<square>　＝　<yellow>攻撃<white>|　<triangle>　＝　<yellow>強攻撃/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=a
-アルフォンス||<smalltext>　<square>　＝　<yellow>攻撃<white>|　<triangle>　＝　<yellow>強攻撃/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=b
-ロイ・マスタング||<smalltext>　<square>　＝　<yellow>炎飛ばし<white>|　<triangle>　＝　<yellow>ホーミング炎<white>|（左スティック前に入れて）|　<triangle>　＝　<yellow>ホーミング炎・大<white>|　<circle>　＝　<yellow>炎の壁<white>||・オブジェ錬成は使用不可|・サブキャラがアルの場合、| 協力ジャンプが可能=c
-リザ・ホークアイ||<smalltext>　<square>　＝　<yellow>前方射攻<white>|　<triangle>　＝　<yellow>下方射攻<white>|　<circle>　＝　<yellow>足払い<white>||・オブジェ錬成は使用不可|・ジャンプ攻撃できません|=d
-アームストロング||<smalltext>　<square>　＝　<yellow>打攻攻撃<white>|　<triangle>　＝　<yellow>ダッキング<white>|　<circle>　＝　<yellow>肉弾乱舞<white>||・オブジェ錬成は使用不可|・ジャンプ攻撃できません|=e
+エドワード||<smalltext>　<square>　＝　<yellow>撃攻<white>|　<triangle>　＝　<yellow>強撃攻/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=Edward||<smalltext>　<square> ＝ <yellow>Attack<white>|　<triangle> ＝ <yellow>Strong attack/Equip weapon<white>|　<circle> ＝ <yellow>Object transmutation<white>|   　<yellow>Spikes transmutation<white>||・Skill transmutations learned in |main story can be used. |・Special attacks can't be used|
+アルフォンス||<smalltext>　<square>　＝　<yellow>撃攻<white>|　<triangle>　＝　<yellow>強撃攻/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=Alphonse||<smalltext>　<square> ＝ <yellow>Attack<white>|　<triangle> ＝ <yellow>Strong attack/Equip weapon<white>|　<circle> ＝ <yellow>Object transmutation<white>|   　<yellow>Spikes transmutation<white>||・Skill transmutations learned in |main story can be used. |・Can't use special attacks|
+ロイ・マスタング||<smalltext>　<square>　＝　<yellow>炎飛ばし<white>|　<triangle>　＝　<yellow>ホーミング炎<white>|（左スティック前に入れて）|　<triangle>　＝　<yellow>ホーミング炎・大<white>|　<circle>　＝　<yellow>炎の壁<white>||・オブジェ錬成は使用不可|・サブキャラがアルの場合、| 協力ジャンプが可能=Roy Mustang||<smalltext>　<square> ＝ <yellow>Flame blast<white>|　<triangle> ＝ <yellow>Homing flame<white>|(push left stick forward)|　<triangle> ＝ <yellow>Homing flame (great)<white>|　<circle> ＝ <yellow>Flame wall<white>||・Can't use object transmutation|・If secondary character is Al,| can do cooperative jumps|
+リザ・ホークアイ||<smalltext>　<square>　＝　<yellow>前方射攻<white>|　<triangle>　＝　<yellow>下方射攻<white>|　<circle>　＝　<yellow>足払い<white>||・オブジェ錬成は使用不可|・ジャンプ撃攻できません|=Riza Hawkeye||<smalltext>　<square> ＝ <yellow>Forward shot<white>|　<triangle> ＝ <yellow>Low shot<white>|　<circle> ＝ <yellow>Sweep<white>||・Can't use object transmutation|・Can't do jump attacks|
+アームストロング||<smalltext>　<square>　＝　<yellow>打攻撃攻<white>|　<triangle>　＝　<yellow>ダッキング<white>|　<circle>　＝　<yellow>肉弾乱舞<white>||・オブジェ錬成は使用不可|・ジャンプ撃攻できません|=Armstrong||<smalltext>　<square> ＝ <yellow>Punch attack<white>|　<triangle> ＝ <yellow>Ducking<white>|　<circle> ＝ <yellow>Human bullet dance<white>||・Can't use object transmutation|・Can't do jump attacks|
 
 !FILE:0015_012.txt
 プラクティスコース=Practice Course

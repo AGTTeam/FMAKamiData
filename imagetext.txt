@@ -191,56 +191,58 @@ ONF
 
 0015_004\001_02.png#command speech bubbles 2
 Ed:
-頼33 んだぜ34！35
-止ま36ってくれ37！38 
-来て39くれ3a！3b
-わかった3c！3d
-アル3e！3f
-止まれ40！41 
-来い42、43アル44！45
-錬成46し47て48くれ49！4a 
-これを使え4b！4c 
-今行く4d！4e
+頼33 んだぜ34！35 =  I need you!
+止ま36ってくれ37！38  = Stop!
+来て39くれ3a！3b = Come!
+わかった3c！3d =Alright!
+アル3e！3f =Al!
+止まれ40！41  = Stop!
+来い42、43アル44！45 =Come, Al!
+錬成46し47て48くれ49！4a  =Transmute this!
+これを使え4b！4c =Use this!
+今行く4d！4e =Coming!
+まかacせadろae！ =Leave it to me!
 
 Al:
-お願い4fします50！51 
-止ま52って53！54
-来て55ください56！57
-OK 58！59
-まかせて5a！5b
-来60 て61
-錬成65し66て67！68
-これを使って69！6a
+お願い4fします50！51 =I need help!
+止ま52って53！54 = Stop!
+来て55ください56！57 =Over here!
+OK 58！59 =Okay!
+まかせて5a！5b = No problem!
+兄さん5c！5d =Brother!
+止まって5e！5f =Stop!
+来60 て61 ( 、62兄さん63！64) = Over here!
+錬成65し66て67！68 =Transmute this!
+これを使って69！6a =Use this!
 
 Roy:
-頼6bむ6cぞ6d！6e
-止ま6fれ70！71
-こっちに72来い73！74
-錬成75し76たまえ77！78
-使い79たまえ7a！7b
-わかった7c！7d
+頼6bむ6cぞ6d！6e =Cover me!
+止ま6fれ70！71 =Hold it!
+こっちに72来い73！74 =Come here!
+錬成75し76たまえ77！78 =Transmute this!
+使い79たまえ7a！7b =Use this!
+わかった7c！7d =Alright!
 
 Hawkeye:
-お願い7e！7f
-止ま80って81！82
-こっちに83来て84！85
-錬成86し87て88！89
-これを使って8a！8b
-了解8c！8d
+お願い7e！7f =I need a hand!
+止ま80って81！82 =Wait!
+こっちに83来て84！85 =Over here!
+錬成86し87て88！89 =Transmute this!
+これを使って8a！8b =Use this!
+了解8c！8d =Understood!!
 
 Armstrong:
-頼8eむ8f！90
-止ま91るのだ92！93
-来94るのだ95！96
-錬成97す98るのだ99！9a
-使うがいい9b！9c
-承知した9d！9e
+頼8eむ8f！90 =More MUSCLE!
+止ま91るのだ92！93 =Stop!
+来94るのだ95！96 =To me!
+錬成97す98るのだ99！9a =Transmute this!
+使うがいい9b！9c =Use this!
+承知した9d！9e=Understood!
+今9f行a0くa1ぞa2！a3 = On my way!
 
-今9f行a0くa1ぞa2！a3
-今a4行a5くa6！a7
-今a8行a9きますaa！ab
-まかacせadろae！af
-今行くb0よb1！b2
+今a4行a5くa6！a7 =Coming!
+今a8行a9きますaa！ab=I'm coming!
+今行くb0よb1！b2 =I'm coming!
 
 
 ##Pos dupe from e2　　　
