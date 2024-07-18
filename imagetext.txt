@@ -95,7 +95,7 @@ a8アルフォンス=Alphonse
 れてf2,faいますf3 f4,fb fc upted.
 
 0009_000\001_06.png#title screen
-神 1e を 1f 2-継ぐ少 女21
+神 1e を 1f 2-継ぐ少 女21 = The Girl who Succeeds God
 
 0009_000\001_07.png
 鋼の錬金術師＝Fullmetal Alchemist 
@@ -115,17 +115,31 @@ ONF
 52ステレオ=Stereo
 53モノラル=Mono
 
-0013_000\001_06.png
-ポイントを選択してください
+0013_000\001_06.png#done
+ポイントを選択24cしてくださ24dい34e = Select a location
 
 0013_000\001_07.png
-倉庫　街　城　市　東
-地下鉄　神殿
-司令部 教会
-西　古　駅
+倉庫街
+Warehouse Area
 
+地下鉄駅
+Metro station
 
-0014_001\001_15.png#command speech bubbles 1 done
+教会
+Vacant Church
+
+市街
+Town area
+
+市街 西
+West town area
+
+城　　東
+神殿
+司令部 
+古　
+
+0014_001\001_15.png#command speech bubbles 1 - done
 アル281！282 =Al!
 止ま283れ284！285 =Stop!
 アル286、289来287い288！28a =Come, Al!
@@ -189,7 +203,7 @@ ONF
 05ロイ=Roy
 06アームソトロング=Armstrong
 
-0015_004\001_02.png#command speech bubbles 2
+0015_004\001_02.png#command speech bubbles 2 - needs further testing
 Ed:
 頼33 んだぜ34！35 =  I need you!
 止ま36ってくれ37！38  = Stop!
@@ -311,9 +325,9 @@ Rapid-fire ability
 CPU
 
 0016_000\001_04.png
-8a第 8b章=Chapter#dupes
+2d1-2e6 etc 第 2d2-2e7 etc 章=Chapter#dupes
 0 8c
-1 8d
+1 2d3-2e8 etc
 2 8e
 3 8f
 4 90
@@ -323,19 +337,63 @@ CPU
 8 94
 9 95
 
+
+
 0016_000#chapter titles
-ヴb8,cd,e2,f7ァb9,ce,e3,f8ルba,cf,e4,f9ドbb,d0,e5,faラbc,d1,e6,fb陥bd,d2,e7,fc落be,d3,e8,fd
+ヴab,b8,cd,e2,f7ァac,b9,ce,e3,f8ルad,ba,cf,e4,f9ドae,bb,d0,e5,faラaf,bc,d1,e6,fb陥b0,bd,d2,e7,fc落b1,be,d3,e8,fd
 
-BLUR ヴbf,c0,d4,d5,e9,ea,fe,ffァc1,c2,d6,d7,eb,ec,100,101ルc3,c4,d8,d9,ed,ee,102,103ドc5,c6,da,db,ef,f0,104,105ラc7,c8,dc,dd,f1,f2,106,107陥c9,ca,de,df,f3,f4,108,109落cb,cc,e0,e1,f5,f6,10b,10c etc
+328-32e, 376-37c, match ab etc
 
-Surrender Of The Valdolla#This is the original English text for the chapters, but we can change them
+BLUR ヴc0,d4,d5,e9,ea,fe,ffァc1,c2,d6,d7,eb,ec,100,101ルc3,c4,d8,d9,ed,ee,102,103ドc5,c6,da,db,ef,f0,104,105ラc7,c8,dc,dd,f1,f2,106,107陥c9,ca,de,df,f3,f4,108,109落cb,cc,e0,e1,f5,f6,10b,10c etc
+
+The Fall of Valdolla
+
+Screen center "screenx": -26
+
+96 - 9c, 9d - a3, a4 -  are moving from inside inwards animation - THIS IS THE INTRO ANIM
+a4 is most pronounced, going down to 9d then 96
+
+	96-98, 9d-9f, a4-a6 move from left
+	99, a0, a7 is off centered to left by -2/-1/-1 
+	99-9c, a1-a3, a8-aa move from right
+
+2a4 - 2aa, 2b9 - 2bf moving from outside inwards animation - THIS IS THE OUTRO ANIM
+	2b is more pronounced
+
+	2a4-6, 2b9- move from left
+	2a7, 2bc is static
+	2a8-2aa, 2bd-2bf move from right
+
+The blur contains a top to center and bottom to center animation.
+
+Top to center - bf
+Bottom to center - c0
+
+ORIGINAL POS:
+ヴ={"x": 2, "y": 1, "width": 54, "height": 52, "screenx": -156, "screeny": -45}
+ァ={"x": 57, "y": 15, "width": 42, "height": 38, "screenx": -110, "screeny": -32}
+ル={"x": 102, "y": 5, "width": 52, "height": 48, "screenx": -75, "screeny": -41}
+ド={"x": 161, "y": 3, "width": 40, "height": 50, "screenx": -26, "screeny": -44}
+ラ={"x": 205, "y": 6, "width": 48, "height": 46, "screenx": 8, "screeny": -40}
+陥={"x": 1, "y": 53, "width": 52, "height": 54, "screenx": 52, "screeny": -46}
+落={"x": 55, "y": 53, "width": 54, "height": 54, "screenx": 100, "screeny": -46}
+
+BLUR POS:
+ヴ={"x": 1, "y": 179, "width": 52, "height": 74,
+ァ={"x": 58, "y": 192, "width": 42, "height": 62,
+ル={"x": 104, "y": 184, "width": 52, "height": 68,
+ド={"x": 162, "y": 182, "width": 40, "height": 71,
+ラ={"x": 206, "y": 183, "width": 48, "height": 70,
+陥={"x": 114, "y": 65, "width": 52, "height": 76,
+落={"x": 166, "y": 65, "width": 54, "height": 76,
+
 
 0017_000\001_04.png
 第 章=Chapter#dupes
 
 0017_000
 氷の守護者
-Icicle Guardian
+Ice Guardian
 
 0018_000\001_04.png
 第 章=Chapter#dupes
@@ -349,7 +407,7 @@ Beast Of The Earth
 
 0019_000
 煉獄の野望
-Ambition Of Hell
+Ambition Of Purgatory
 
 0020_000\001_04.png
 第 章=Chapter#dupes
@@ -370,14 +428,14 @@ Escape
 
 0022_000
 強行突破
-Through The Line
+Through The Lines
 
 0023_000\001_04.png
 第 章=Chapter#dupes
 
 0023_000
 神を継ぐ少女
-Receptacle Of God
+The Girl Who Succeeds God
 
 0024_000\001_04.png
 第 章=Chapter#dupes
