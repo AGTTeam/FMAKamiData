@@ -350,8 +350,8 @@ The Fall of Valdolla
 
 Screen center "screenx": -26
 
-96 - 9c, 9d - a3, a4 -  are moving from inside inwards animation - THIS IS THE INTRO ANIM
-a4 is most pronounced, going down to 9d then 96
+96 - 9c, 9d - a3, a4 - aa are moving from inside outwards animation
+96 is closest to the screen center, then 9d, then a4
 
 	96-98, 9d-9f, a4-a6 move from left
 	99, a0, a7 is off centered to left by -2/-1/-1 
