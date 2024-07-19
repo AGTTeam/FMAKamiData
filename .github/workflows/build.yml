@@ -54,6 +54,8 @@ jobs:
           url: ${{ secrets.URL_PS2REPLACE }}
       - name: Extract PS2Replace
         run: 7z x -aoa PS2Replace.7z
+      - name: Set permissions
+        run: chmod +x PS2Replace
       - name: Install dependencies
         run: pipenv --python 3.12 sync
       - name: Extract
