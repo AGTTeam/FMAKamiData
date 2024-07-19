@@ -57,7 +57,7 @@ jobs:
           sudo apt install software-properties-common
           sudo apt install dotnet-runtime-8.0
       - name: Extract
-        run: pipenv run python tool.py extract --rom
+        run: pipenv run python tool.py extract
       - name: Repack
         run: pipenv run python tool.py repack
       - name: Upload patch
