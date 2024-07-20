@@ -337,7 +337,7 @@ CPU
 8 94
 9 95
 
-
+The screenx for the anim can be determined by finding the central point of the text
 
 0016_000#chapter titles
 ヴab,b8,cd,e2,f7ァac,b9,ce,e3,f8ルad,ba,cf,e4,f9ドae,bb,d0,e5,faラaf,bc,d1,e6,fb陥b0,bd,d2,e7,fc落b1,be,d3,e8,fd
