@@ -411,7 +411,32 @@ Ice Guardian
 0018_000\001_04.png
 第 章=Chapter 3#dupes
 
-0018_000
+ORIG
+2d1 (第)={"x": 0, "y": 0, "width": 24, "height": 24, "screenx": -37, "screeny": -74}
+2d2 (章)={"x": 24, "y": 0, "width": 24, "height": 24, "screenx": 13, "screeny": -74}
+2d3 (1)={"x": 15, "y": 24, "width": 9, "height": 20, "screenx": -5, "screeny": -72}
+
+2e9 (第)={"x": 0, "y": 0, "width": 24, "height": 24, "screenx": -43, "screeny": -81, "width2": 36, "height2": 36}
+2ea (章)={"x": 24, "y": 0, "width": 24, "height": 24, "screenx": 7, "screeny": -81, "width2": 36, "height2": 36}
+2f2 (第)={"x": 0, "y": 0, "width": 24, "height": 24, "screenx": -50, "screeny": -86, "width2": 48, "height2": 48}
+2f3 (章)={"x": 24, "y": 0, "width": 24, "height": 24, "screenx": 0, "screeny": -86, "width2": 48, "height2": 48}
+
+2eb (1)={"x": 15, "y": 24, "width": 9, "height": 20, "screenx": -7, "screeny": -78, "width2": 14, "height2": 30}
+2f4 (1)={"x": 15, "y": 24, "width": 9, "height": 20, "screenx": -10, "screeny": -83, "width2": 18, "height2": 40}
+
+EDIT
+2d1 (第)={"x": 0, "y": 0, "width": 64, "height": 24, "screenx": -38, "screeny": -64}
+2d2 (章)={"x": 24, "y": 0, "width": 0, "height": 24, "screenx": 13, "screeny": -74}
+2d3 (1)={"x": 0, "y": 43, "width": 9, "height": 16, "screenx": 30, "screeny": -61}
+
+2e9 (第)={"x": 0, "y": 0, "width": 64, "height": 24, "screenx": -46, "screeny": -67, "width2": 80, "height2": 30}
+2ea (章)={"x": 24, "y": 0, "width": 0, "height": 24, "screenx": 7, "screeny": -81, "width2": 0, "height2": 0}
+2f2 (第)={"x": 0, "y": 0, "width": 64, "height": 24, "screenx": -54, "screeny": -70, "width2": 96, "height2": 36}
+2f3 (章)={"x": 24, "y": 0, "width": 0, "height": 24, "screenx": 0, "screeny": -86, "width2": 0, "height2": 0}
+
+2eb (1)={"x": 0, "y": 43, "width": 11, "height": 16, "screenx": 32, "screeny": -63, "width2": 16, "height2": 20}
+2f4 (1)={"x": 0, "y": 43, "width": 11, "height": 16, "screenx": 33, "screeny": -67, "width2": 20, "height2": 28}
+
 地a4をa5裂a6くa7獣a8
 Beast of the Earth
 
