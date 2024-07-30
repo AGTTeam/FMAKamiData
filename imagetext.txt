@@ -401,14 +401,13 @@ BLUR POS:
 落={"x": 166, "y": 65, "width": 54, "height": 76,
 
 
-0017_000\001_04.png
+0017_000\001_04.png  - TBD
 第 章=Chapter 2#dupes
 
-0017_000 - TBD
 氷の守護者
 Ice Guardian
 
-0018_000\001_04.png
+0018_000\001_04.png#done
 第 章=Chapter 3#dupes
 
 ORIG
@@ -496,9 +495,32 @@ Through the Lines
 0023_000\001_04.png
 第 章=Chapter 8#dupes
 
-0023_000
-神を継ぐ少女
+神a7をa8継a9ぐaa少ab女ac
 The Girl Who Succeeds God
+
+95 - 9a, 9b - a0, a1 - a6 are moving from the center outwards animation
+95 is closest to the screen center, then 9b, then a1
+
+1ca - 1cf, 1d0 - 1d5 moving from their places outwards animation
+1d0 is further out
+
+ORIGINAL POS:
+神={"x": 1, "y": 0, "width": 55, "height": 54, "screenx": -164, "screeny": -47}
+を={"x": 64, "y": 0, "width": 47, "height": 54, "screenx": -106, "screeny": -47}
+継={"x": 117, "y": 0, "width": 56, "height": 54, "screenx": -57, "screeny": -47}
+ぐ={"x": 182, "y": 0, "width": 49, "height": 54, "screenx": 1, "screeny": -47}
+少={"x": 3, "y": 57, "width": 56, "height": 54, "screenx": 54, "screeny": -47}
+女={"x": 60, "y": 57, "width": 56, "height": 54, "screenx": 113, "screeny": -47}
+
+BLUR starts from cb
+神={"x": 2, "y": 179, "width": 54, "height": 75, 
+を={"x": 64, "y": 179, "width": 46, "height": 75,
+継={"x": 117, "y": 179, "width": 56, "height": 75, 
+ぐ={"x": 182, "y": 179, "width": 49, "height": 75,
+少={"x": 118, "y": 57, "width": 56, "height": 75,
+女={"x": 175, "y": 57, "width": 55, "height": 75,
+
+"screeny": -57 are the centered blurs
 
 0024_000\001_04.png
 第 章=Chapter 9#dupes
