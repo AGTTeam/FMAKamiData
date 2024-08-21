@@ -2020,7 +2020,7 @@
 <smalltext>アクセサリの装備：キャンプ画面=<smalltext>Equip accessories: Camp screen
 <smalltext>車の上にある宝箱を開けよう！=<smalltext>Open the treasure chest on top of the car!
 <edward>そうだな。（テスト）=<edward>That's right. (test)
-<blackbold>アクセサリ<normal>【不幸の神像】|<blackbold>を手に入れた！！=<blackbold>Got accessory|<normal> "Idol of Misfortune"!
+<blackbold>アクセサリ<normal>【不幸の神像】|<blackbold>を手に入れた！！=<blackbold>Got accessory|<normal>"Idol of Misfortune"!
 <woman>さっき、兵隊さんたちが走ってったわ。|怖い顏して、おっかない武器持って……。|いったい、何が起こったというの……！？=<woman>Just now, soldiers were running around. They had grim faces and frightening weapons... What on earth is going on!?
 <mysteriousman>くっそぉぉ！！|何で、俺がこんな戦いに|巻き込まれなきゃならねーんだよっ！！=<mysteriousman>Dammit! Why the hell did I get caught up in this fight!?
 <mysteriousman>何が幸福をもたらす神像だ！|あのぺテン野郎のハゲ野郎！！|コイツを買ってから不幸続きじゃねーか！=<mysteriousman>An idol which brings fortune!? That swindling bald bastard...! I haven't had anything but bad luck since I bought this thing!!
