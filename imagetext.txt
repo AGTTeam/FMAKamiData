@@ -49,20 +49,9 @@
 28 29 2a=?
 
 
-0006_001\001_00.png
-鋼の錬金術師=Fullmetal Alchemist
-ロード=Load
-セーブ=Save
-アル=Al
-エド=Ed
-スロット=Slot
+0006_001\001_00.png#unused
 
-0006_001\001_04.png#unused?
-はい/いいえ = Yes/No
-未使用のファイルです=This file is unused.
-ここまでの話をセープしますか？=Save the game?
-他のゲームデータです=This data is for another game.
-データが壊れています=Data is corrupted.
+0006_001\001_04.png#unused
 
 
 0007_003\001_03.png#seems to be a glow effect for the next
@@ -564,14 +553,14 @@ ACTION
 呼ぶ
 CALL
 
-1063_000\001_00.png
+1063_000\001_00.png#done
 打ち上げ1a花火17=Fireworks
 ネズミ19爆弾18=Mouse Bomb
 
 15エド錬成=Ed can transmute
 16アル錬成=Al can transmute
 
-1065_000\001_00.png
+1065_000\001_00.png#done
 11ゲージ最大=Gauge max
 12SPゲージ=SP gauge
 
@@ -584,16 +573,16 @@ CALL
 神を継ぐ少女
  
 1211_000\001_03.png
-前132ページ131=Previous Page
-次135ページ136=Next Page
-128決定=Confirm
-130戻る=Back
-表示13eOFF13f=Full Screen
+131 L1 前132ページ133=Previous Page
+134 L2 次135ページ136=Next Page
+127 o 128決定=Select
+ x 130戻る=Back
+⬜ 表示13eOFF13f=Hide UI
 
 11b movie title
-122 graphics title
+120 graphics title
 
-12b縮小=Zoom out
+12a O 12b縮小=Zoom out
 　
 モード159を選んでください15a=Select a mode.
 見たい15fムービー15eを選んでください160=Select the movie you wish to see.
