@@ -90,9 +90,9 @@ a8アルフォンス=Alphonse
 鋼の錬金術師＝Fullmetal Alchemist 
 22,32 23,33 24,34
 
-0009_000\001_18.png
-荒川弘/00 スクウェアエニックス 01 ・毎日放送 02 ・ アニプレックス 03 ・ボンズ 04 ・電通05　2003 06=Hiromu Arakawa/Square Enix・MBS・Aniplex・Bones・Dentsu 2003
-©2005 SQUARE ENIX 08 All 09 Rights 0a Reserved 0b
+0009_000\001_18.png#done
+荒川弘/00 スクウェアエニックス 01 ・毎日放送 02 ・ アニプレックス 03 ・ボンズ 04 ・電通05　2003 06=Hiromu Arakawa/Square Enix, MBS, ANX, Bones, Dentsu 2003
+©2005 Square Enix Co., Ltd. 08 All 09 rights 0a reserved. 0b
 
 0009_002\001_00.png#done
 OPTION
@@ -200,7 +200,7 @@ ONF
 22dモノラル=Mono
 スロット=Slot
 
-0015_003\001_01.png
+0015_003\001_01.png#done
 07ホークアイ=Hawkeye
 05ロイ=Roy
 06アームソトロング=Armstrong
@@ -523,7 +523,7 @@ The Last Battle
 0026_022/001_00.png
 開=Open
 
-0221_026\001_02.png\done
+0221_026\001_02.png#done
 25プレゼントするものを選んでください=Select a present.
 81 L1 84 R2
 前82ページ83=Previous page
@@ -572,7 +572,7 @@ CALL
 鋼の錬金術師３＝Fullmetal Alchemist 3
 神を継ぐ少女
  
-1211_000\001_03.png
+1211_000\001_03.png#done
 131 L1 前132ページ133=Previous Page
 134 L2 次135ページ136=Next Page
 127 o 128決定=Select
@@ -588,9 +588,9 @@ CALL
 見たい15fムービー15eを選んでください160=Select the movie you wish to see.
 見たい15bグラフィック15cを選んでください15d=Select the image you wish to see.
 
-1211_000\001_04.png
-10cムービー=Movies
+1211_000\001_04.png#done
 10bグラフィック=Graphics
+10cムービー=Movies
 129中央=Center
 12d拡大=Zoom in
 
@@ -764,6 +764,13 @@ UP時
 
 デカ神兵カラーリング
 
+左のカラー
+イラストでは
+おかしいですが
+こちらの?分が
+？にくろように#check
+してください。
+
 1274_000\001_00.png
 神兵錬金術師
 
@@ -785,7 +792,7 @@ UP時
 単色
 ツートンカラー
 迷彩
-小物变色系
+小物変色系
 
 1277_000\001_00.png
 胸のハッチが開閉し
@@ -839,7 +846,7 @@ UP時
 
 邪天使イメージ
 
-???#check
+足イレズミ
 邪天使背面
 
 1282_000\001_00.png
