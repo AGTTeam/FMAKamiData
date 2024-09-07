@@ -84,11 +84,12 @@ a8アルフォンス=Alphonse
 れてf2,faいますf3 f4,fb fc upted.
 
 0009_000\001_06.png#title screen
-神 1e を 1f 2-継ぐ少 女21 = The Girl who Succeeds God
+1c 2b, 1d 2c 神 1e 2d を 1f 2e, 20 2f 継ぐ少 女21 30 = The Girl who Succeeds God
 
 0009_000\001_07.png
 鋼の錬金術師＝Fullmetal Alchemist 
-22,32 23,33 24,34
+22 31, 23 32, 24 33
+29 38, 2a 39
 
 0009_000\001_18.png#done
 荒川弘/00 スクウェアエニックス 01 ・毎日放送 02 ・ アニプレックス 03 ・ボンズ 04 ・電通05　2003 06=Hiromu Arakawa/Square Enix, MBS, ANX, Bones, Dentsu 2003
