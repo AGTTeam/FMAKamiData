@@ -91,6 +91,14 @@ a8アルフォンス=Alphonse
 22 31, 23 32, 24 33
 29 38, 2a 39
 
+0009_000\001_08.png
+25 26 27 28
+34 35 36 37
+
+0009_000\001_21.png
+Push START button
+3a 3e 42 46, 3b 3f 43 47, 3c 40 44 48, 3d 41 45 49
+
 0009_000\001_18.png#done
 荒川弘/00 スクウェアエニックス 01 ・毎日放送 02 ・ アニプレックス 03 ・ボンズ 04 ・電通05　2003 06=Hiromu Arakawa/Square Enix, MBS, ANX, Bones, Dentsu 2003
 ©2005 Square Enix Co., Ltd. 08 All 09 rights 0a reserved. 0b
