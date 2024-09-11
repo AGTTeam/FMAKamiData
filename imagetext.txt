@@ -86,7 +86,7 @@ a8アルフォンス=Alphonse
 0009_000\001_06.png#title screen
 1c 2b, 1d 2c 神 1e 2d を 1f 2e, 20 2f 継ぐ少 女21 30 = The Girl who Succeeds God
 
-0009_000\001_07.png
+0009_000\001_07.png#done
 鋼の錬金術師＝Fullmetal Alchemist 
 22 31, 23 32, 24 33
 29 38, 2a 39
@@ -577,7 +577,7 @@ CALL
 少年ガンガン=Gangan Comics
 あらかわ　ひろむ=Hiromu Arakawa
 
-1210_003\001_03.png + 4
+1210_003\001_03.png + 4#done
 鋼の錬金術師３＝Fullmetal Alchemist 3
 神を継ぐ少女
  
