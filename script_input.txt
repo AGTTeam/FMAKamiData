@@ -597,7 +597,7 @@
 <yellow>敵のガードに関係なく、ダメージを与えることができる<white>|ソフィが作った、サイの角を素材とする腕輸=<yellow>Deal damage regardless of enemies' blocking.<white>|An armlet made by Sophie from a rhino's horn.
 <yellow>カウンター成功時のダメージが、大きく増加する<white>|ソフィが作った、トラの爪を素材とする腕輸=<yellow>Successful counters deal much more damage.<white>|An armlet made by Sophie from a tiger's claw.
 <yellow>槍属性の攻撃にふっとばし効果がつく（一部対象外あり）<white>|ソフィが作った、グリズリーの爪を素材とする腕輸=<yellow>Adds a blow-out effect to spear attacks (with some exclusions).<white>|An armlet made by Sophie from a grizzly's claw.
-<yellow>打攻撃撃で与えたダメージの２０％分、ＨＰが回復する<white>|ソフィが作った、コウモリの牙を素材とする腕輸=<yellow>20% of punch damage dealt, is recovered as HP.<white>|An armlet made by Sophie from a bat's fang.
+<yellow>打撃攻撃で与えたダメージの２０％分、ＨＰが回復する<white>|ソフィが作った、コウモリの牙を素材とする腕輸=<yellow>20% of punch damage dealt, is recovered as HP.<white>|An armlet made by Sophie from a bat's fang.
 <yellow>現在のＨＰが１００未満になると攻撃力が２倍に上昇する<white>|ソフィが作った、キメラの牙を素材とする腕輸=<yellow>When HP drops below 100, Attack doubles.<white>|An armlet made by Sophie from a chimera's fang.
 <yellow>手持ちの錬成武器が、無限に使える<white>|使っても減らない砥石、主婦の間で評判=<yellow>Transmuted hand weapons can be used indefinitely.<white>|A whetstone that doesn't wear out with use, popular among housewives.
 <yellow>弾数に制限のある武器が、無限に使える<white>|使ってもなくならない弾丸、銃マニアの間で評判=<yellow>Weapons with limited ammunition can be used indefinitely.<white>|Bullets that don't disappear with use, popular among gun fanatics.
@@ -778,7 +778,7 @@
 振動機能=Vibration
 レーダー=Radar
 初期設定に戻す=Restore default settings
-打攻撃撃/武器使用=Punch attack/Use weapon
+打撃攻撃/武器使用=Punch attack/Use weapon
 強攻撃/武器装備/武器解除=Strong attack/Equip weapon/Remove weapon
 ジャンプ/受け身=Jump/Safe fall
 オブジェ錬成/突起錬成/壁錬成=Object transmutation/Spike transmutation/Wall transmutation
@@ -1128,7 +1128,7 @@
 アルフォンス||<smalltext>　<square>　＝　<yellow>攻撃<white>|　<triangle>　＝　<yellow>強攻撃/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=Alphonse||<smalltext>　<square> ＝ <yellow>Attack<white>|　<triangle> ＝ <yellow>Strong attack/Equip weapon<white>|　<circle> ＝ <yellow>Object transmutation<white>|   　<yellow>Spikes transmutation<white>||・Skill transmutations learned in |main story can be used. |・Can't use special attacks|
 ロイ・マスタング||<smalltext>　<square>　＝　<yellow>炎飛ばし<white>|　<triangle>　＝　<yellow>ホーミング炎<white>|（左スティック前に入れて）|　<triangle>　＝　<yellow>ホーミング炎・大<white>|　<circle>　＝　<yellow>炎の壁<white>||・オブジェ錬成は使用不可|・サブキャラがアルの場合、| 協力ジャンプが可能=Roy Mustang||<smalltext>　<square> ＝ <yellow>Flame blast<white>|　<triangle> ＝ <yellow>Homing flame<white>|(push left stick forward)|　<triangle> ＝ <yellow>Homing flame (great)<white>|　<circle> ＝ <yellow>Flame wall<white>||・Can't use object transmutation|・If secondary character is Al,| can do cooperative jumps|
 リザ・ホークアイ||<smalltext>　<square>　＝　<yellow>前方射撃<white>|　<triangle>　＝　<yellow>下方射撃<white>|　<circle>　＝　<yellow>足払い<white>||・オブジェ錬成は使用不可|・ジャンプ攻撃できません|=Riza Hawkeye||<smalltext>　<square> ＝ <yellow>Forward shot<white>|　<triangle> ＝ <yellow>Low shot<white>|　<circle> ＝ <yellow>Sweep<white>||・Can't use object transmutation|・Can't do jump attacks|
-アームストロング||<smalltext>　<square>　＝　<yellow>打攻撃撃<white>|　<triangle>　＝　<yellow>ダッキング<white>|　<circle>　＝　<yellow>肉弾乱舞<white>||・オブジェ錬成は使用不可|・ジャンプ攻撃できません|=Armstrong||<smalltext>　<square> ＝ <yellow>Punch attack<white>|　<triangle> ＝ <yellow>Ducking<white>|　<circle> ＝ <yellow>Human bullet dance<white>||・Can't use object transmutation|・Can't do jump attacks|
+アームストロング||<smalltext>　<square>　＝　<yellow>打撃攻撃<white>|　<triangle>　＝　<yellow>ダッキング<white>|　<circle>　＝　<yellow>肉弾乱舞<white>||・オブジェ錬成は使用不可|・ジャンプ攻撃できません|=Armstrong||<smalltext>　<square> ＝ <yellow>Punch attack<white>|　<triangle> ＝ <yellow>Ducking<white>|　<circle> ＝ <yellow>Human bullet dance<white>||・Can't use object transmutation|・Can't do jump attacks|
 
 !FILE:0015_012.txt
 プラクティスコース=Practice Course
