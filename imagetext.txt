@@ -637,7 +637,7 @@ CALL
 鋼の錬金術師３＝Fullmetal Alchemist 3
 神を継ぐ少女
 
-1253_000\001_03.png#CG Gallery – these aren’t translated in the official releases
+1253_000\001_03.png#CG Gallery – these aren’t translated in the official releases. (UP in these means close-up)
 紋章（左手のみ）色トレス
 
 1254_000\001_03.png
@@ -648,12 +648,12 @@ CALL
 実線#check
 
 1255_000\001_01.png
-マントを?#check
+マントを写#check
 
 1256_000\001_00.png
 上の目
 UP時 実線でグリグリにしてください
-(ロング?おします)#check
+(ロング時 おします)#check
 
 下の目
 見えてます
@@ -667,13 +667,14 @@ UP時 実線でグリグリにしてください
 
 1259_000\001_02.png
 髪のHi
-???#check
+実線#check
 
 服のHi
 色T.P
 
-爪??
-???#check
+爪色??
+???
+UP時Hi#check
 
 レオ様
 イレズミ
