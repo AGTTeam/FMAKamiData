@@ -582,7 +582,7 @@
 <yellow>敵がアイテムを落とす確率が、まあまあ上がる<white>|ソフィが作った、カエルの人形「ゲロコちゃん」=<yellow>The chance of enemies dropping items increases moderately.<white>|A frog doll made by Sophie; her name is "Gecko".
 <yellow>敵がアイテムを落とす確率が、大きく上がる<white>|ソフィが作った、ウサギの人形「イナバさん」=<yellow>The chance of enemies dropping items increases a lot.<white>|A rabbit doll made by Sophie; his name is "Mr. Inaba".
 <yellow>敵がアイテムを確実に落とす<white>|四つ葉のクローバー、幸運の象徴=<yellow>Enemies will always drop items.<white>|A four-leaf clover, symbol of good luck.
-<yellow>剣属性の攻撃力が５０％上昇する<white>|剣技の心得、歴代の戦士に受け継がれる=<yellow>Increases the power of sword attacks a 50%.<white>|The knowledge of swordmanship, passed down to generations of warriors.
+<yellow>剣属性の攻撃力が５０％上昇する<white>|剣技の心得、歴代の戦士に受け継がれる=<yellow>Increases the power of sword attacks a 50%.<white>|The knowledge of swordsmanship, passed down to generations of warriors.
 <yellow>槍属性の攻撃力が５０％上昇する<white>|槍技の心得、歴代の戦士に受け継がれる=<yellow>Increases the power of spear attacks a 50%.<white>|The knowledge of lancers, passed down to generations of warriors.
 <yellow>鈍器属性の攻撃力が５０％上昇する<white>|槌技の心得、歴代の戦士に受け継がれる=<yellow>Increases the power of blunt attacks a 50%.<white>|The knowledge of hammers, passed down to generations of warriors.
 <yellow>ＨＰの最大値、攻撃力が５０％上昇する|防御力、錬成力は激減する <white>戦士の心はパンツに宿る！=<yellow>Increases maximum HP and Attack a 50%.|Defense and Alchemy are greatly reduced.<white>A soldier's spirit resides in his pants!
@@ -2030,7 +2030,7 @@
 !FILE:0033_003/004.txt
 <bigtext><blackbold> 打撃攻撃=<bigtext><blackbold> Punch attack
 <8006><white><square>　＝　<yellow>打撃攻撃=<8006><white><square> ＝ <yellow>Punch attack
- <square>→<square>→<square>のようにボタンを押すと、| コンボ（連続攻撃）を出せます。=Press <square>→<square>→<square> to perform a combo (continous attack).
+ <square>→<square>→<square>のようにボタンを押すと、| コンボ（連続攻撃）を出せます。=Press <square>→<square>→<square> to perform a combo (continuous attack).
 <bigtext><blackbold> レベルアップ=<bigtext><blackbold> Level Up
 <8006><orange>ボーナスポイント<white>が手に入ります。|ポイントを割り振って、エドとアルの|好きな能力を強化してください。=<8006>You get <orange>bonus points. <white>Distribute the points to improve Ed and Al's desired stats.
 <smalltext><yellow>攻撃力　—　<white>素手/スキル錬成武器の攻撃値=<smalltext><yellow>Attack —　<white>Affects the strength of bare-handed attacks|and skill transmutation weapons
@@ -2078,8 +2078,8 @@
 <smalltext>ＳＥＬＥＣＴボタン＝キャラクター切り替え=<smalltext>SELECT button ＝ Switch character
 <smalltext>車の上の宝箱を開けよう！=<smalltext>Open the treasure chest on top of the car!
 <smalltext><R1a><R1b>押し続け＝協力ジャンプ[エド操作時]=<smalltext>Hold <R1a><R1b> ＝ Cooperative jump (controlling Ed)
-<blackbold>アイテム<normal>【キャンディ】|<blackbold>を手に入れた！！=<blackbold>Got item |<normal>"Candy"
-<blackbold>にゃんこ<normal>【たま】|<blackbold>を拾った！！=<blackbold>Found cat |<normal>"Tama"
+<blackbold>アイテム<normal>【キャンディ】|<blackbold>を手に入れた！！=<blackbold>Got item|<normal>"Candy"
+<blackbold>にゃんこ<normal>【たま】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>"Tama"
 <girl>うぅ……ぐすっ……。|お母さーん！ 熱いよぉ……！=<girl>Uuh... (sob)...|Mommy! It's hot!
 <edward>おい！ あんな所に女の子が！=<edward>Hey! There's a little girl over there!
 <alphonse>兄さん、ここはボクに任せて！！=Leave this to me, brother!
@@ -2305,7 +2305,7 @@
 !FILE:0056_002/004.txt
 <bigtext><blackbold> スキル錬成「槍」=<bigtext><blackbold> Skill transmutation "Spear"
 <8006><L2a><L2b>押しながら<square>　＝　<yellow>「槍」を錬成=<8006>Press <square> while holding <L2a><L2b> ＝ <yellow> Transmute a "Spear"
-エドは、地面から「槍」を錬成できます。|<square>連打で、<orange>強力な連続攻撃<white>が可能です。=Ed can transmute a "Spear" from the ground。|By pressing <square> multiple times, you can perform <orange>a powerful continous attack.
+エドは、地面から「槍」を錬成できます。|<square>連打で、<orange>強力な連続攻撃<white>が可能です。=Ed can transmute a "Spear" from the ground。|By pressing <square> multiple times, you can perform <orange>a powerful continuous attack.
 <smalltext>  【コンボの例】|  ・<square>→<square>連打|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>=<smalltext>  "Combo examples"|  ・<square>→<square>Multiple times|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>
 <smalltext><blackbold>アクセサリ<normal>【決意の弾丸】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>"Bullet of Resolve"
 <leonid>フフフ……。=<leonid>Heh heh heh...
