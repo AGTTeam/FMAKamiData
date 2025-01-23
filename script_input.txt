@@ -1881,6 +1881,64 @@
 <yellow>オブジェ錬成武器「鉄球」を|攻撃力が高くガード不能な「トゲつき鉄球」に強化<white>=<yellow>Object transmutation "Iron Ball" becomes "Spiked Iron Ball", which has great attack power and can't be blocked<white>
 <yellow>オブジェ錬成武器「クレーン」を|攻撃力が高くガード不能な「トゲつきクレーン」に強化<white>=<yellow>Object transmutation "Crane" becomes "Spiked Crane", which has great attack power and can't be blocked<white>
 
+!FILE:0014_071/001.txt
+基本操作１=
+基本操作２=
+特定場所での操作=
+その他の操作=
+エド素手コンボ=
+エド強/特殊攻撃=
+「壁」=
+「槍」=
+「大剣」=
+「ハンマー」=
+アル素手コンボ=
+アル強/特殊攻撃=
+「石球」=
+「吸引マシン」=
+「石柱ジャンプ」=
+「アル地雷」=
+錬成武器の使用=
+防御とカウンター=
+ロックオン=
+ジャストアタック=
+スぺシャルアタック=
+エドとアルの特性=
+パートナー指示=
+レベルアップ=
+ステータスの意味=
+２周目以降のプレイ=
+画像マテリアル=
+
+!FILE:0014_071/002.txt
+|<smalltext>　<white>左スティック<white>　＝　<yellow>移動<white>|　<white>右スティック<white>　＝　<yellow>視点の移動<white>||　<square>　＝　<yellow>攻撃<white>|　<cross>　＝　<yellow>ジャンプ/受け身<white>|　<triangle>　＝　<yellow>強攻撃/武器装備・解除<white>|　<circle>　＝　<yellow>オブジェ錬成/突起錬成<white>||　<L1a><L1b>＝　<yellow>視点のリセット<white>|　  ＝　<yellow>ロックオン<white>|　<L2a><L2b>＝　<yellow>スキル錬成メニュー<white>|　<R1a><R1b>＝　<yellow>パートナー指示<white>|　<R2a><R2b>＝　<yellow>ガード/回避<white>|　  ＝　<yellow>カウンター<white>=
+|<smalltext><white>ＳＴＡＲＴボタン<white>|　＝　<yellow>キャンプ画面<white>||<white>ＳＥＬＥＣＴボタン<white>|　＝　<yellow>キャラクター切り替え<white>||<white>方向キー上<white>|　＝　<yellow>行動状態でキャラ切り替え<white>|<white>方向キー下<white>|　＝　<yellow>待機状態でキャラ切り替え<white>||<white>方向キー左<white>　＝　<yellow>エリアマップ表示<white>|<white>方向キー右<white>　＝　<yellow>レーダー表示<white>=
+|<smalltext>（人、宝箱、怪しい場所近くで）|　<square>/<circle>　＝　<yellow>話しかける<white>|　   　＝　<yellow>宝箱を開ける<white>|　   　＝　<yellow>調べる<white>|||（セーブポイント内で）|　<square>/<circle>　＝　<yellow>セーブ画面を開く<white>||セーブ画面を開いた時に、|<orange>エドとアルのＨＰが回復<white>します。=
+|<smalltext>　Ｒ３ボタン|（右スティック押しこみ）<white>| ＝　<yellow>操作キャラクターに|  　カメラがズーム<white>||（ロックオン中に）|　Ｒ３ボタン| ＝　<yellow>ターゲット切り替え<white>||（イベント中に）|　Ｌ３ボタン| ＝　<yellow>メッセージ非表示<white>|=
+<smalltext>【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|<square>→<square>→<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|<square>→<square>→<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>|<square>→<square>→<square>→<square>→<circle>=
+<smalltext>|　<triangle>　＝　<yellow>上昇攻撃<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>突進攻撃<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>破壊錬成<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|<square>＋<cross>同時押し＝<yellow>スライディング<white>|（左スティック後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>蹴り上げ<white>=
+|<smalltext>（エド操作時に）|　<L2a><L2b>押しながら<circle>＝<yellow>「壁」錬成<white>||敵の攻撃を防いだり、高い所に|上がる時に使える壁を錬成する|スキルです。||壁に向かって進み続けると、|<orange>自動で上に乗る<white>ことができます。||レベルが上がると、複数の壁を|錬成できるようになります。=
+<smalltext>（エド操作時に）|　<L2a><L2b>押しながら<square>＝<yellow>「槍」錬成<white>||【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>連打|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>連打→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>連打→<circle>=
+<smalltext>|（エド操作時に）|　<L2a><L2b>押しながら<triangle>|  ＝<yellow>「大剣」錬成<white>||【基本コンボ】|<square>→<square>|<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>=
+<smalltext>|（エド操作時に）|　<L2a><L2b>押しながら<cross>|  ＝<yellow>「ハンマー」錬成<white>||【基本コンボ】|<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>||<orange>ガードしている敵にダメージ<white>を|与えたり、木箱などの<orange>物を壊す<white>|ことができます。=
+|<smalltext>【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>=
+<smalltext>|　<triangle>　＝　<yellow>二段蹴り<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>タックル<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>裏拳～水面蹴り<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|　<square>＋<cross>同時押し　＝　<yellow>踏みつけ<white>|（左スティックを後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>かちあげ<white>=
+|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<circle>|  ＝<yellow>「石球」を錬成<white>||錬成した石球を攻撃して転がし|敵に当てるとダメージを与える|ことができます。||ただし、跳ね返ってきた石球に|当たらないよう、気をつけて|ください！=
+|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<square>|  ＝<yellow>「吸引マシン」を錬成<white>||周囲の敵を吸い寄せてしまう|マシンを錬成するスキルです。||レベルが上がると、吸引時間が|長くなります。=
+|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<cross>|  ＝<yellow>「石柱ジャンプ」<white>||足元に石柱を錬成して、|通常より高いジャンプができる|スキルです。=
+|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<triangle>|  ＝<yellow>「アル地雷」<white>を錬成||錬成した地雷を攻撃するか、|敵が近づいてくると爆発します。||攻撃するだけでなく、木箱など|<orange>物を壊す<white>のにも使えます。=
+|<smalltext>（オブジェ錬成武器の近くで）|　<triangle>　＝　<yellow>武器を装備<white>|  ＝　<yellow>武器に乗る<white>||（武器を装備/乗っている時）|　<triangle>　＝　<yellow>装備解除/降りる<white>||装備して使うオブジェ錬成武器|には<orange>使用回数制限<white>があります。||弾を発射する武器にも<orange>弾数制限<white>|がありますが、再錬成すれば、|再び使用できます。|（<orange>リローダー<white>を消費します）=
+|<smalltext>（その場に止まって）|　<R2a><R2b>＝　<yellow>ガード<white>||（移動しながら）|　<R2a><R2b>＝　<yellow>回避行動[エドのみ]<white>||（敵の攻撃にあわせて）|　<R2a><R2b>＝　<yellow>カウンター<white>||（吹き飛ばされた時）|　<cross>　＝　<yellow>受け身[エドのみ]<white>=
+|<smalltext>（敵の方を向いて）|　<L1a><L1b>押し続け　＝　<yellow>ロックオン<white>||（ロックオン中）|　Ｒ３ボタン|  ＝　<yellow>ターゲット切り替え<white>||ロックオン中、その敵が正面に|来るようにカメラが移動します。||Ｒ３ボタン（右スティック押し|こみ）でターゲットを切り替え|ることもできます。=
+|<smalltext>（コンボ中に）|ひとつ前の攻撃を出しきった|瞬間、次の攻撃のボタンを押す|  ＝　<yellow>ジャストアタック<white>||ジャストアタックが成立すると|手が斉く光り、通常より大きな|ダメージを敵に与えます。=
+|<smalltext>（ＳＰゲージＭＡＸ時に）|　<circle>＋<triangle>同時押し|  ＝　<yellow>スぺシャルアタック<white>||エドとアル、それぞれ別の|スぺシャルアタックが使えます。||<orange>ＳＰゲージ<white>は、敵にダメージを|与えたり、敵からダメージを|受けた時に上昇します。=
+|<smalltext><yellow>【エドの特性】<white>|・回避、受け身が使える|・壁つたい歩きができる|・ほふく前進ができる|・ＨＰが０でゲームオーバー||<yellow>【アルの特性】<white>|・ダウンしにくい|・銃弾や炎などの攻撃に強い|・ＨＰが０になっても| エドに再錬成してもらうか| 一定時間で復活できる|=
+|<smalltext>　<R1a><R1b>＝　<yellow>待機/行動の切り替え<white>||　<R1a><R1b>押し続け　＝　<yellow>呼び寄せる<white>||（エド操作・アルが側にいる時）|　<R1a><R1b>押し続け＝　<yellow>協力ジャンプ<white>||（錬成サークル内で）|　<R1a><R1b>＝<yellow>パートナーに錬成させる<white>||（武器の近くで）|　<R1a><R1b>＝　<yellow>武器を装備させる<white>|  　＝　<yellow>武器に乗せる<white>|=
+|<smalltext>敵を倒した時、カウンターや|回数の多いコンボを決めた時に|<orange>ＥＸＰ<white>を獲得できます。||一定以上のＥＸＰを溜めると、|<orange>レベルアップ<white>します。|<orange>ボーナスポイント<white>が手に入るので|好きな能力を強化してください。||レベルアップ時、スキル錬成の|レベルが上がったり、オブジェ|錬成武器を再錬成できるように|なる場合もあります。=
+|<smalltext><yellow>攻撃力<white>|素手/スキル錬成武器の攻撃値||<yellow>防御力<white>|受けるダメージを減少させる値||<yellow>体力<white>|最大ＨＰと連動する値||<yellow>錬成力<white>|オブジェ錬成武器の攻撃値|突起錬成の攻撃値=
+|<smalltext><yellow>【引き継がないもの】<white>|・キャラクター<orange>レベルとＥＸＰ<white>|（レベル１、ＥＸＰ０から開始）||<yellow>【引き継ぐもの】<white>|・<orange>アイテムとアクセサリ<white>|・ソフィへのプレゼントの状況|・未使用の<orange>ボーナスポイント<white>|・修得している<orange>スキル錬成と| オブジェの再錬成能力=
+|<smalltext>２周目のプレイでは、|各ステージに<orange>画像マテリアル<white>が|配置されています。||これを集めていくと、|<orange>ギャラリーモード<white>で閲覧できる|グラフィックが増えていきます。||また、ギャラリーモードでは、|画像マテリアルの配置エリアを|知ることができます。=
+
 !FILE:0025_003/004.txt
 全スキル錬成可能にしますか？=Enable all skill transmutations?
 はい、もちろん！=Yes, of course!
