@@ -2,8 +2,8 @@ name: Build
 
 on:
   workflow_dispatch:
-  #schedule:
-  #  - cron: "0 2 * * *"
+  schedule:
+    - cron: "0 2 * * *"
 
 jobs:
   check_date:
@@ -29,7 +29,7 @@ jobs:
       - name: Checkout tool
         uses: actions/checkout@v4
         with:
-          repository: Illidanz/FMAKamiTranslation
+          repository: AGTTeam/FMAKamiTranslation
           token: ${{ secrets.GH_PAT }}
       - name: Install Python
         uses: actions/setup-python@v5
@@ -48,14 +48,6 @@ jobs:
           url: ${{ secrets.URL_DATA }}
       - name: Extract data
         run: 7z x fma.7z
-      - name: Download PS2Replace
-        uses: suisei-cn/actions-download-file@v1.6.0
-        with:
-          url: ${{ secrets.URL_PS2REPLACE }}
-      - name: Extract PS2Replace
-        run: 7z x -aoa PS2Replace.7z
-      - name: Set permissions
-        run: chmod +x PS2Replace
       - name: Install dependencies
         run: pipenv --python 3.12 sync
       - name: Extract
@@ -73,12 +65,29 @@ jobs:
         uses: andstor/file-existence-action@v3
         with:
           files: "FMAKamiData/patch.xdelta"
+      - name: Delete release
+        if: ${{ steps.check_patch.outputs.files_exists == 'true' }}
+        uses: dev-drprasad/delete-tag-and-release@v0.2.1
+        with:
+          tag_name: nightly
+          delete_release: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+      - name: Release
+        uses: "marvinpinto/action-automatic-releases@latest"
+        if: ${{ steps.check_patch.outputs.files_exists == 'true' }}
+        with:
+          repo_token: "${{ secrets.GH_PAT }}"
+          automatic_release_tag: "nightly"
+          prerelease: true
+          title: "Nightly Build"
+          files: |
+            FMAKamiData/patch.xdelta
       - name: Webhook
         if: ${{ steps.check_patch.outputs.files_exists == 'true' }}
         uses: tsickert/discord-webhook@v6.0.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
-          content: "A new nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          content: "A new nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/releases"
           username: "AGTTBot"
           avatar-url: "https://avatars.githubusercontent.com/u/123242276?v=4"
-          filename: "FMAKamiData/patch.xdelta"
