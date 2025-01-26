@@ -88,6 +88,6 @@ jobs:
         uses: tsickert/discord-webhook@v6.0.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
-          content: "A new nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/releases"
+          content: "A new nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/releases/tag/nightly"
           username: "AGTTBot"
           avatar-url: "https://avatars.githubusercontent.com/u/123242276?v=4"
