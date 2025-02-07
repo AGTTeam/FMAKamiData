@@ -610,7 +610,7 @@
 <yellow>攻撃力が１０上がり、敵を気絶状態にしやすい<white>|ウィンリィの怒りのスパナ、狙った獲物は逃さない=<yellow>Attack increases by 10. Enemies are knocked out more easily.<white>|Winry's furious spanner never misses a target.
 <yellow>炎・爆発属性の攻撃力が３０％上昇する<white>|ロイ必須のアイテム、無ければ無能=<yellow>The power of fire and explosive attacks increases a 30%.<white>|Roy's essential item; he's useless without them.
 <yellow>ソフィに渡すと……？<white>|ロイの手帳、デートの予定がぎっしりと書かれている=<yellow>What if you give it to Sophie...?<white>|Roy's notebook is crammed with planned dates.
-<yellow>体技属性、突起錬成の攻撃力が３０％上昇する<white>|アームストロングの手甲、ズッシリ重い=<yellow>The power of physical and spike transmutation attacks increases a 30%.<white>|Armstrong's gauntlet is really heavy.
+<yellow>体技属性、突起錬成の攻撃力が３０％上昇する<white>|アームストロングの手甲、ズッシリ重い=<yellow>The power of physical and Spike transmutation attacks increases a 30%.<white>|Armstrong's gauntlet is really heavy.
 <yellow>敵を気絶状態にしやすい<white>|言わずと知れた愛の抱擁、最終兵器=<yellow>Enemies are easily stunned.<white>|The embrace of declared love: the ultimate weapon.
 <yellow>ソフィに渡すと……？<white>|アームストロングのヒゲ、取りはずし可能=<yellow>What if you give it to Sophie...?<white>|Armstrong's moustache is removable.
 <yellow>射撃属性の攻撃力が３０％上昇する<white>|ホークアイ中尉のお守り=<yellow>The power of shooting attacks increases a 30%.<white>|Lt. Hawkeye's charm.
@@ -628,7 +628,7 @@
 <yellow>錬成力が２上がる<white>|トリガーのメガネ、改造され近未来風のデザイン=<yellow>Alchemy increases by 2.<white>|Trigger's glasses, modified with a futuristic design.
 <yellow>ガード中にカウンターが自動的に発動する<white>|ブラッドレイの眼帯、「キン・ブラ専用」と書かれている=<yellow>Automatic counter while blocking.<white>|Bradley's eyepatch; it has the words "For King Bradley only" written on it.
 <yellow>ダメージを受けても、手持ち武器を落とさなくなる<white>|ウィンリィが作った、ブツブツのついた手袋=<yellow>Don't lose your hand weapon, even if damaged.<white>|Bumpy gloves made by Winry.
-<yellow>突起錬成の溜め時間がなくなる<white>|聖印の力が込められたヴィーナスのムチ=<yellow>No waiting time for spike transmutations.<white>|Venus' whip, imbued with the power of the Holy Seal.
+<yellow>突起錬成の溜め時間がなくなる<white>|聖印の力が込められたヴィーナスのムチ=<yellow>No waiting time for Spike transmutations.<white>|Venus' whip, imbued with the power of the Holy Seal.
 <yellow>すべての能力値、通常取得経験値が５％上昇する<white>|黒い靴下が白い靴下に！ ハッピーでラッキー！=<yellow>All stats and normally earned experience points increase a 5%.<white>|Black socks become white socks! Happy and lucky!
 <yellow>必ずジャストアタックになる<white>|ウィンリィが作った、サイコメガネの強化版=<yellow>All attacks have perfect timing.<white>|The Psycho Glasses, enhanced by Winry.
 <yellow>必ずジャストアタックになる|また、敵がアイテムを落とす確率が、ちょっぴり上がる=<yellow>All attacks have perfect timing.|The chance of enemies dropping items increases slightly.
@@ -779,7 +779,7 @@
 レーダー=Radar
 初期設定に戻す=Restore default settings
 打撃攻撃/武器使用=Punch attack/Use weapon
-強攻撃/武器装備/武器解除=Strong attack/Equip weapon/Remove weapon
+強攻撃/武器装備/武器解除=Heavy attack/Equip weapon/Remove weapon
 ジャンプ/受け身=Jump/Safe fall
 オブジェ錬成/突起錬成/壁錬成=Object transmutation/Spike transmutation/Wall transmutation
 カメラリセッ/ロックオン/バトル移動=Reset camera/Lock on/Battle movement
@@ -1121,14 +1121,14 @@
 エルリック・ブラザーズ=Elric Brothers
 
 !FILE:0015_010.txt
-<smalltext><yellow>タッグバトルモード<white>について||・<orange>レベル１<white>からスタートします|・持っている<orange>アイテム<white>と<orange>アクセサリ<white>は使えません|（タッグバトル中に入手した物は使えます）|・<orange>スぺシャルアタック<white>は使えません|・レーダーとエリアマップは表示されません|・<orange>メインキャラ[１Ｐ]<white>が死ぬと<orange>ゲームオーバー<white>|（サブキャラクターは復活できます）||・各コースをクリアすると、成績に応じて| <orange>レアなアイテムやアクセサリ<white>がもらえます|（コースクリア後にデータセーブしてください）=<smalltext><white>About <yellow>Tag Battle mode:||<white>・You start from <orange>Level 1|<white>・Can't use <orange>items <white>or <orange>accessories <white>from inventory |(but can use items found during Tag Battle)|・Can't use <orange>special attacks|<white>・Radar and area maps aren't displayed|<white>・If the <orange>main character (1P) <white>dies, is <orange>Game Over|<white>(secondary character can be revived)||・Upon clearing each course, |you'll receive <orange>rare items and accessories |<white>(please save game after clearing a course)
+<smalltext><yellow>タッグバトルモード<white>について||・<orange>レベル１<white>からスタートします|・持っている<orange>アイテム<white>と<orange>アクセサリ<white>は使えません|（タッグバトル中に入手した物は使えます）|・<orange>スぺシャルアタック<white>は使えません|・レーダーとエリアマップは表示されません|・<orange>メインキャラ[１Ｐ]<white>が死ぬと<orange>ゲームオーバー<white>|（サブキャラクターは復活できます）||・各コースをクリアすると、成績に応じて| <orange>レアなアイテムやアクセサリ<white>がもらえます|（コースクリア後にデータセーブしてください）=<smalltext><white>About <yellow>Tag Battle mode:||<white>・You start from <orange>Level 1|<white>・Can't use <orange>items <white>or <orange>accessories <white>from inventory |(but can use items found during Tag Battle)|・Can't use <orange>Special Attacks|<white>・Radar and area maps aren't displayed|<white>・If the <orange>main character (1P) <white>dies, is <orange>Game Over|<white>(secondary character can be revived)||・Upon clearing each course, |you'll receive <orange>rare items and accessories |<white>(please save game after clearing a course)
 
 !FILE:0015_011.txt
-エドワード||<smalltext>　<square>　＝　<yellow>攻撃<white>|　<triangle>　＝　<yellow>強攻撃/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=Edward||<smalltext>　<square> ＝ <yellow>Attack<white>|　<triangle> ＝ <yellow>Strong attack/Equip weapon<white>|　<circle> ＝ <yellow>Object transmutation<white>|   　<yellow>Spikes transmutation<white>||・Skill transmutations learned in |main story can be used. |・Special attacks can't be used|
-アルフォンス||<smalltext>　<square>　＝　<yellow>攻撃<white>|　<triangle>　＝　<yellow>強攻撃/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=Alphonse||<smalltext>　<square> ＝ <yellow>Attack<white>|　<triangle> ＝ <yellow>Strong attack/Equip weapon<white>|　<circle> ＝ <yellow>Object transmutation<white>|   　<yellow>Spikes transmutation<white>||・Skill transmutations learned in |main story can be used. |・Can't use special attacks|
-ロイ・マスタング||<smalltext>　<square>　＝　<yellow>炎飛ばし<white>|　<triangle>　＝　<yellow>ホーミング炎<white>|（左スティック前に入れて）|　<triangle>　＝　<yellow>ホーミング炎・大<white>|　<circle>　＝　<yellow>炎の壁<white>||・オブジェ錬成は使用不可|・サブキャラがアルの場合、| 協力ジャンプが可能=Roy Mustang||<smalltext>　<square> ＝ <yellow>Flame blast<white>|　<triangle> ＝ <yellow>Homing flame<white>|(push left stick forward)|　<triangle> ＝ <yellow>Homing flame (great)<white>|　<circle> ＝ <yellow>Flame wall<white>||・Can't use object transmutation|・If secondary character is Al,| can do cooperative jumps|
-リザ・ホークアイ||<smalltext>　<square>　＝　<yellow>前方射撃<white>|　<triangle>　＝　<yellow>下方射撃<white>|　<circle>　＝　<yellow>足払い<white>||・オブジェ錬成は使用不可|・ジャンプ攻撃できません|=Riza Hawkeye||<smalltext>　<square> ＝ <yellow>Forward shot<white>|　<triangle> ＝ <yellow>Low shot<white>|　<circle> ＝ <yellow>Sweep<white>||・Can't use object transmutation|・Can't do jump attacks|
-アームストロング||<smalltext>　<square>　＝　<yellow>打撃攻撃<white>|　<triangle>　＝　<yellow>ダッキング<white>|　<circle>　＝　<yellow>肉弾乱舞<white>||・オブジェ錬成は使用不可|・ジャンプ攻撃できません|=Armstrong||<smalltext>　<square> ＝ <yellow>Punch attack<white>|　<triangle> ＝ <yellow>Ducking<white>|　<circle> ＝ <yellow>Human bullet dance<white>||・Can't use object transmutation|・Can't do jump attacks|
+エドワード||<smalltext>　<square>　＝　<yellow>攻撃<white>|　<triangle>　＝　<yellow>強攻撃/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=Edward||<smalltext>　<square> ＝ <yellow>Attack<white>|　<triangle> ＝ <yellow>Heavy attack/Equip weapon<white>|　<circle> ＝ <yellow>Object transmutation<white>|   　<yellow>Spikes transmutation<white>||・Skill transmutations learned in |main story can be used. |・Special Attacks can't be used|
+アルフォンス||<smalltext>　<square>　＝　<yellow>攻撃<white>|　<triangle>　＝　<yellow>強攻撃/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=Alphonse||<smalltext>　<square> ＝ <yellow>Attack<white>|　<triangle> ＝ <yellow>Heavy attack/Equip weapon<white>|　<circle> ＝ <yellow>Object transmutation<white>|   　<yellow>Spikes transmutation<white>||・Skill transmutations learned in |main story can be used. |・Special Attacks can't be used|
+ロイ・マスタング||<smalltext>　<square>　＝　<yellow>炎飛ばし<white>|　<triangle>　＝　<yellow>ホーミング炎<white>|（左スティック前に入れて）|　<triangle>　＝　<yellow>ホーミング炎・大<white>|　<circle>　＝　<yellow>炎の壁<white>||・オブジェ錬成は使用不可|・サブキャラがアルの場合、| 協力ジャンプが可能=Roy Mustang||<smalltext>　<square> ＝ <yellow>Flame blast<white>|　<triangle> ＝ <yellow>Homing flame<white>|(push left stick forward)|　<triangle> ＝ <yellow>Homing flame (great)<white>|　<circle> ＝ <yellow>Flame wall<white>||・Can't use Object transmutation|・If secondary character is Al,| can do cooperative jumps|
+リザ・ホークアイ||<smalltext>　<square>　＝　<yellow>前方射撃<white>|　<triangle>　＝　<yellow>下方射撃<white>|　<circle>　＝　<yellow>足払い<white>||・オブジェ錬成は使用不可|・ジャンプ攻撃できません|=Riza Hawkeye||<smalltext>　<square> ＝ <yellow>Forward shot<white>|　<triangle> ＝ <yellow>Low shot<white>|　<circle> ＝ <yellow>Sweep<white>||・Can't use Object transmutation|・Can't do jump attacks|
+アームストロング||<smalltext>　<square>　＝　<yellow>打撃攻撃<white>|　<triangle>　＝　<yellow>ダッキング<white>|　<circle>　＝　<yellow>肉弾乱舞<white>||・オブジェ錬成は使用不可|・ジャンプ攻撃できません|=Armstrong||<smalltext>　<square> ＝ <yellow>Punch attack<white>|　<triangle> ＝ <yellow>Ducking<white>|　<circle> ＝ <yellow>Human bullet dance<white>||・Can't use Object transmutation|・Can't do jump attacks|
 
 !FILE:0015_012.txt
 プラクティスコース=Practice Course
@@ -1836,9 +1836,9 @@
 閃光弾・強化錬成=Flash Bullet: Enhanced Transmutation
 
 !FILE:0014_069/002.txt
-<yellow>敵を攻撃する突起を錬成<white>|・<circle>を押す=<yellow>Transmute spikes to attack enemies<white>|・Press <circle>
-<yellow>広い範囲に突起を錬成<white>|・<circle>押してエドの右手が光ったら放す（溜め押し）=<yellow>Transmute spikes in a wide area<white>|・Press <circle> and release when Ed's right hand glows (charge press)
-<yellow>エドの周囲全体に突起を錬成<white>|・<circle>長く押してエドの右手が強く光ったら放す（溜め押し）=<yellow>Transmute spikes all around Ed<white>|・Press <circle> for a while and release when Ed's right hand glows strongly (charge press)
+<yellow>敵を攻撃する突起を錬成<white>|・<circle>を押す=<yellow>Transmute Spikes to attack enemies<white>|・Press <circle>
+<yellow>広い範囲に突起を錬成<white>|・<circle>押してエドの右手が光ったら放す（溜め押し）=<yellow>Transmute Spikes in a wide area<white>|・Press <circle> and release when Ed's right hand glows (charge press)
+<yellow>エドの周囲全体に突起を錬成<white>|・<circle>長く押してエドの右手が強く光ったら放す（溜め押し）=<yellow>Transmute Spikes all around Ed<white>|・Press <circle> for a while and release when Ed's right hand glows strongly (charge press)
 <yellow>敵からの攻撃を防ぐ壁を錬成<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute a wall to protect against enemy attacks<white>|・While holding <L2a><L2b>, press <circle>
 <yellow>壁を２枚錬成可能<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute two walls<white>|・While holding <L2a><L2b>, press <circle>
 <yellow>壁を３枚錬成可能<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute three walls<white>|・While holding <L2a><L2b>, press <circle>
@@ -1866,9 +1866,9 @@
 クレーン・強化錬成=Crane: Enhanced Transmutation
 
 !FILE:0014_070/002.txt
-<yellow>敵を攻撃する突起を錬成<white>|・<circle>を押す=<yellow>Transmute spikes to attack enemies<white>|・Press <circle>
-<yellow>より強力な突起を錬成<white>|・<circle>押してアルの右手が光ったら放す（溜め押し）=<yellow>Transmute stronger spikes<white>|・Press <circle> and release when Al's right hand glows (charge press)
-<yellow>さらに強力な突起を錬成<white>|・<circle>長く押してアルの右手が強く光ったら放す（溜め押し）=<yellow>Transmute even stronger spikes<white>|・Press <circle> for a while and release when Al's right hand glows strongly (charge press)
+<yellow>敵を攻撃する突起を錬成<white>|・<circle>を押す=<yellow>Transmute Spikes to attack enemies<white>|・Press <circle>
+<yellow>より強力な突起を錬成<white>|・<circle>押してアルの右手が光ったら放す（溜め押し）=<yellow>Transmute stronger Spikes<white>|・Press <circle> and release when Al's right hand glows (charge press)
+<yellow>さらに強力な突起を錬成<white>|・<circle>長く押してアルの右手が強く光ったら放す（溜め押し）=<yellow>Transmute even stronger Spikes<white>|・Press <circle> for a while and release when Al's right hand glows strongly (charge press)
 <yellow>転がっていって敵を攻撃する石球を錬成<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute a stone ball that rolls around attacking enemies<white>|・While holding <L2a><L2b>, press <circle>
 <yellow>敵を吸い寄せる吸引マシンを錬成<white>|・<L2a><L2b>押しながら<square>=<yellow>Transmute a suction machine that attracts enemies<white>|・While holding <L2a><L2b>, press <square>
 <yellow>長時間持続する吸引マシンを錬成<white>|・<L2a><L2b>押しながら<square>=<yellow>Transmute a suction machine that works for a long time<white>|・While holding <L2a><L2b>, press <square>
@@ -1882,65 +1882,65 @@
 <yellow>オブジェ錬成武器「クレーン」を|攻撃力が高くガード不能な「トゲつきクレーン」に強化<white>=<yellow>Object transmutation "Crane" becomes "Spiked Crane", which has great attack power and can't be blocked<white>
 
 !FILE:0014_071/001.txt
-基本操作１=
-基本操作２=
-特定場所での操作=
-その他の操作=
-エド素手コンボ=
-エド強/特殊攻撃=
-「壁」=
-「槍」=
-「大剣」=
-「ハンマー」=
-アル素手コンボ=
-アル強/特殊攻撃=
-「石球」=
-「吸引マシン」=
-「石柱ジャンプ」=
-「アル地雷」=
-錬成武器の使用=
-防御とカウンター=
-ロックオン=
-ジャストアタック=
-スぺシャルアタック=
-エドとアルの特性=
-パートナー指示=
-レベルアップ=
-ステータスの意味=
-２周目以降のプレイ=
-画像マテリアル=
+基本操作１=Basic Controls 1
+基本操作２=Basic Controls 2
+特定場所での操作=Controls in Special Locations
+その他の操作=Other Controls
+エド素手コンボ=Ed's Bare-handed Combos
+エド強/特殊攻撃=Ed's Heavy/Special Moves
+「壁」="Wall"
+「槍」="Spear"
+「大剣」="Large Sword"
+「ハンマー」="Hammer"
+アル素手コンボ=Al's Bare-handed Combos
+アル強/特殊攻撃=Al's Heavy/Special Moves
+「石球」="Stone Ball"
+「吸引マシン」="Vacuum"
+「石柱ジャンプ」="Stone Pillar Jump"
+「アル地雷」="Al Land Mine"
+錬成武器の使用=Using Transmuted Weapons
+防御とカウンター=Defense and Counters
+ロックオン=Lock-on
+ジャストアタック=Perfect Timing Attack
+スぺシャルアタック=Special Attack
+エドとアルの特性=Ed and Al's Characteristics
+パートナー指示=Partner Instructions
+レベルアップ=Level Up
+ステータスの意味=Status Info
+２周目以降のプレイ=Second and Subsequent Plays
+画像マテリアル=Image Materials
 
 !FILE:0014_071/002.txt
-|<smalltext>　<white>左スティック<white>　＝　<yellow>移動<white>|　<white>右スティック<white>　＝　<yellow>視点の移動<white>||　<square>　＝　<yellow>攻撃<white>|　<cross>　＝　<yellow>ジャンプ/受け身<white>|　<triangle>　＝　<yellow>強攻撃/武器装備・解除<white>|　<circle>　＝　<yellow>オブジェ錬成/突起錬成<white>||　<L1a><L1b>＝　<yellow>視点のリセット<white>|　  ＝　<yellow>ロックオン<white>|　<L2a><L2b>＝　<yellow>スキル錬成メニュー<white>|　<R1a><R1b>＝　<yellow>パートナー指示<white>|　<R2a><R2b>＝　<yellow>ガード/回避<white>|　  ＝　<yellow>カウンター<white>=
-|<smalltext><white>ＳＴＡＲＴボタン<white>|　＝　<yellow>キャンプ画面<white>||<white>ＳＥＬＥＣＴボタン<white>|　＝　<yellow>キャラクター切り替え<white>||<white>方向キー上<white>|　＝　<yellow>行動状態でキャラ切り替え<white>|<white>方向キー下<white>|　＝　<yellow>待機状態でキャラ切り替え<white>||<white>方向キー左<white>　＝　<yellow>エリアマップ表示<white>|<white>方向キー右<white>　＝　<yellow>レーダー表示<white>=
-|<smalltext>（人、宝箱、怪しい場所近くで）|　<square>/<circle>　＝　<yellow>話しかける<white>|　   　＝　<yellow>宝箱を開ける<white>|　   　＝　<yellow>調べる<white>|||（セーブポイント内で）|　<square>/<circle>　＝　<yellow>セーブ画面を開く<white>||セーブ画面を開いた時に、|<orange>エドとアルのＨＰが回復<white>します。=
-|<smalltext>　Ｒ３ボタン|（右スティック押しこみ）<white>| ＝　<yellow>操作キャラクターに|  　カメラがズーム<white>||（ロックオン中に）|　Ｒ３ボタン| ＝　<yellow>ターゲット切り替え<white>||（イベント中に）|　Ｌ３ボタン| ＝　<yellow>メッセージ非表示<white>|=
-<smalltext>【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|<square>→<square>→<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|<square>→<square>→<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>|<square>→<square>→<square>→<square>→<circle>=
-<smalltext>|　<triangle>　＝　<yellow>上昇攻撃<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>突進攻撃<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>破壊錬成<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|<square>＋<cross>同時押し＝<yellow>スライディング<white>|（左スティック後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>蹴り上げ<white>=
-|<smalltext>（エド操作時に）|　<L2a><L2b>押しながら<circle>＝<yellow>「壁」錬成<white>||敵の攻撃を防いだり、高い所に|上がる時に使える壁を錬成する|スキルです。||壁に向かって進み続けると、|<orange>自動で上に乗る<white>ことができます。||レベルが上がると、複数の壁を|錬成できるようになります。=
-<smalltext>（エド操作時に）|　<L2a><L2b>押しながら<square>＝<yellow>「槍」錬成<white>||【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>連打|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>連打→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>連打→<circle>=
-<smalltext>|（エド操作時に）|　<L2a><L2b>押しながら<triangle>|  ＝<yellow>「大剣」錬成<white>||【基本コンボ】|<square>→<square>|<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>=
-<smalltext>|（エド操作時に）|　<L2a><L2b>押しながら<cross>|  ＝<yellow>「ハンマー」錬成<white>||【基本コンボ】|<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>||<orange>ガードしている敵にダメージ<white>を|与えたり、木箱などの<orange>物を壊す<white>|ことができます。=
-|<smalltext>【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>=
-<smalltext>|　<triangle>　＝　<yellow>二段蹴り<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>タックル<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>裏拳～水面蹴り<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|　<square>＋<cross>同時押し　＝　<yellow>踏みつけ<white>|（左スティックを後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>かちあげ<white>=
-|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<circle>|  ＝<yellow>「石球」を錬成<white>||錬成した石球を攻撃して転がし|敵に当てるとダメージを与える|ことができます。||ただし、跳ね返ってきた石球に|当たらないよう、気をつけて|ください！=
-|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<square>|  ＝<yellow>「吸引マシン」を錬成<white>||周囲の敵を吸い寄せてしまう|マシンを錬成するスキルです。||レベルが上がると、吸引時間が|長くなります。=
-|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<cross>|  ＝<yellow>「石柱ジャンプ」<white>||足元に石柱を錬成して、|通常より高いジャンプができる|スキルです。=
-|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<triangle>|  ＝<yellow>「アル地雷」<white>を錬成||錬成した地雷を攻撃するか、|敵が近づいてくると爆発します。||攻撃するだけでなく、木箱など|<orange>物を壊す<white>のにも使えます。=
-|<smalltext>（オブジェ錬成武器の近くで）|　<triangle>　＝　<yellow>武器を装備<white>|  ＝　<yellow>武器に乗る<white>||（武器を装備/乗っている時）|　<triangle>　＝　<yellow>装備解除/降りる<white>||装備して使うオブジェ錬成武器|には<orange>使用回数制限<white>があります。||弾を発射する武器にも<orange>弾数制限<white>|がありますが、再錬成すれば、|再び使用できます。|（<orange>リローダー<white>を消費します）=
-|<smalltext>（その場に止まって）|　<R2a><R2b>＝　<yellow>ガード<white>||（移動しながら）|　<R2a><R2b>＝　<yellow>回避行動[エドのみ]<white>||（敵の攻撃にあわせて）|　<R2a><R2b>＝　<yellow>カウンター<white>||（吹き飛ばされた時）|　<cross>　＝　<yellow>受け身[エドのみ]<white>=
-|<smalltext>（敵の方を向いて）|　<L1a><L1b>押し続け　＝　<yellow>ロックオン<white>||（ロックオン中）|　Ｒ３ボタン|  ＝　<yellow>ターゲット切り替え<white>||ロックオン中、その敵が正面に|来るようにカメラが移動します。||Ｒ３ボタン（右スティック押し|こみ）でターゲットを切り替え|ることもできます。=
-|<smalltext>（コンボ中に）|ひとつ前の攻撃を出しきった|瞬間、次の攻撃のボタンを押す|  ＝　<yellow>ジャストアタック<white>||ジャストアタックが成立すると|手が斉く光り、通常より大きな|ダメージを敵に与えます。=
-|<smalltext>（ＳＰゲージＭＡＸ時に）|　<circle>＋<triangle>同時押し|  ＝　<yellow>スぺシャルアタック<white>||エドとアル、それぞれ別の|スぺシャルアタックが使えます。||<orange>ＳＰゲージ<white>は、敵にダメージを|与えたり、敵からダメージを|受けた時に上昇します。=
-|<smalltext><yellow>【エドの特性】<white>|・回避、受け身が使える|・壁つたい歩きができる|・ほふく前進ができる|・ＨＰが０でゲームオーバー||<yellow>【アルの特性】<white>|・ダウンしにくい|・銃弾や炎などの攻撃に強い|・ＨＰが０になっても| エドに再錬成してもらうか| 一定時間で復活できる|=
-|<smalltext>　<R1a><R1b>＝　<yellow>待機/行動の切り替え<white>||　<R1a><R1b>押し続け　＝　<yellow>呼び寄せる<white>||（エド操作・アルが側にいる時）|　<R1a><R1b>押し続け＝　<yellow>協力ジャンプ<white>||（錬成サークル内で）|　<R1a><R1b>＝<yellow>パートナーに錬成させる<white>||（武器の近くで）|　<R1a><R1b>＝　<yellow>武器を装備させる<white>|  　＝　<yellow>武器に乗せる<white>|=
-|<smalltext>敵を倒した時、カウンターや|回数の多いコンボを決めた時に|<orange>ＥＸＰ<white>を獲得できます。||一定以上のＥＸＰを溜めると、|<orange>レベルアップ<white>します。|<orange>ボーナスポイント<white>が手に入るので|好きな能力を強化してください。||レベルアップ時、スキル錬成の|レベルが上がったり、オブジェ|錬成武器を再錬成できるように|なる場合もあります。=
-|<smalltext><yellow>攻撃力<white>|素手/スキル錬成武器の攻撃値||<yellow>防御力<white>|受けるダメージを減少させる値||<yellow>体力<white>|最大ＨＰと連動する値||<yellow>錬成力<white>|オブジェ錬成武器の攻撃値|突起錬成の攻撃値=
-|<smalltext><yellow>【引き継がないもの】<white>|・キャラクター<orange>レベルとＥＸＰ<white>|（レベル１、ＥＸＰ０から開始）||<yellow>【引き継ぐもの】<white>|・<orange>アイテムとアクセサリ<white>|・ソフィへのプレゼントの状況|・未使用の<orange>ボーナスポイント<white>|・修得している<orange>スキル錬成と| オブジェの再錬成能力=
-|<smalltext>２周目のプレイでは、|各ステージに<orange>画像マテリアル<white>が|配置されています。||これを集めていくと、|<orange>ギャラリーモード<white>で閲覧できる|グラフィックが増えていきます。||また、ギャラリーモードでは、|画像マテリアルの配置エリアを|知ることができます。=
+|<smalltext>　<white>左スティック<white>　＝　<yellow>移動<white>|　<white>右スティック<white>　＝　<yellow>視点の移動<white>||　<square>　＝　<yellow>攻撃<white>|　<cross>　＝　<yellow>ジャンプ/受け身<white>|　<triangle>　＝　<yellow>強攻撃/武器装備・解除<white>|　<circle>　＝　<yellow>オブジェ錬成/突起錬成<white>||　<L1a><L1b>＝　<yellow>視点のリセット<white>|　  ＝　<yellow>ロックオン<white>|　<L2a><L2b>＝　<yellow>スキル錬成メニュー<white>|　<R1a><R1b>＝　<yellow>パートナー指示<white>|　<R2a><R2b>＝　<yellow>ガード/回避<white>|　  ＝　<yellow>カウンター<white>=|<smalltext> <white>Left stick<white> ＝ <yellow>Movement<white>| <white>Right stick<white> ＝ <yellow>Move camera<white>|| <square> ＝ <yellow>Attack<white>| <cross> ＝ <yellow>Jump/Safe fall<white>| <triangle> ＝ <yellow>Heavy attack/Equip and remove weapon<white>| <circle> ＝ <yellow>Object transmutation/Spikes transmutation<white>|| <L1a><L1b>＝ <yellow>Reset camera<white>| ＝ <yellow>Lock-on<white>| <L2a><L2b> ＝ <yellow>Skill transmutations menu<white>| <R1a><R1b> ＝ <yellow>Partner instructions<white>| <R2a><R2b> ＝ <yellow>Block/Evasion<white>| ＝ <yellow>Counter<white>
+|<smalltext><white>ＳＴＡＲＴボタン<white>|　＝　<yellow>キャンプ画面<white>||<white>ＳＥＬＥＣＴボタン<white>|　＝　<yellow>キャラクター切り替え<white>||<white>方向キー上<white>|　＝　<yellow>行動状態でキャラ切り替え<white>|<white>方向キー下<white>|　＝　<yellow>待機状態でキャラ切り替え<white>||<white>方向キー左<white>　＝　<yellow>エリアマップ表示<white>|<white>方向キー右<white>　＝　<yellow>レーダー表示<white>=|<smalltext><white>START button<white>| ＝ <yellow>Camp screen<white>||<white>SELECT button<white>| ＝ <yellow>Switch characters<white>||<white>Directional pad up<white>| ＝ <yellow>Switch characters while active<white>|<white>Directional pad down<white>| ＝ <yellow>Switch characters while in standby<white>||<white>Directional pad left<white> ＝ <yellow>Display Area Map<white>|<white>Directional pad right<white> ＝ <yellow>Display radar<white>
+|<smalltext>（人、宝箱、怪しい場所近くで）|　<square>/<circle>　＝　<yellow>話しかける<white>|　   　＝　<yellow>宝箱を開ける<white>|　   　＝　<yellow>調べる<white>|||（セーブポイント内で）|　<square>/<circle>　＝　<yellow>セーブ画面を開く<white>||セーブ画面を開いた時に、|<orange>エドとアルのＨＰが回復<white>します。=|<smalltext>(Near people, treasure chests or suspicious places)| <square>/<circle> ＝ <yellow>Talk<white>|     ＝ <yellow>Open chest<white>|     ＝ <yellow>Examine<white>|||(Inside a Save Point)| <square>/<circle> ＝ <yellow>Open Save screen<white>||When you open the Save screen,|<orange>Ed and Al's HP will recover.<white>
+|<smalltext>　Ｒ３ボタン|（右スティック押しこみ）<white>| ＝　<yellow>操作キャラクターに|  　カメラがズーム<white>||（ロックオン中に）|　Ｒ３ボタン| ＝　<yellow>ターゲット切り替え<white>||（イベント中に）|　Ｌ３ボタン| ＝　<yellow>メッセージ非表示<white>|=|<smalltext> R3 button|(Press right stick)<white>| ＝ <yellow>Camera zooms on controlled character<white>||(While locked-on)| R3 button| ＝ <yellow>Switch target<white>||(During an event)| L3 button| ＝ <yellow>Hide message<white>|
+<smalltext>【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|<square>→<square>→<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|<square>→<square>→<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>|<square>→<square>→<square>→<square>→<circle>=<smalltext>Basic combo|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|<square>→<square>→<square>→<square>→<square>|Heavy attack combo|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|<square>→<square>→<square>→<square>→<triangle>|Spikes transmutation combo|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>|<square>→<square>→<square>→<square>→<circle>
+<smalltext>|　<triangle>　＝　<yellow>上昇攻撃<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>突進攻撃<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>破壊錬成<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|<square>＋<cross>同時押し＝<yellow>スライディング<white>|（左スティック後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>蹴り上げ<white>=<smalltext>| <triangle> ＝ <yellow>Upwards attack<white>||(Moving left stick forward)| <triangle> ＝ <yellow>Rush attack<white>|(Moving left stick backwards)| <triangle> ＝ <yellow>Destructive transmutation<white>|| Press <square>＋<cross> at the same time ＝ <yellow>Foot sweep<white>||(Moving left stick forward)|Press <square>＋<cross> at the same time ＝ <yellow>Sliding<white>|(Moving left stick backwards)|Press <square>＋<cross> at the same time ＝ <yellow>Kick up<white>
+|<smalltext>（エド操作時に）|　<L2a><L2b>押しながら<circle>＝<yellow>「壁」錬成<white>||敵の攻撃を防いだり、高い所に|上がる時に使える壁を錬成する|スキルです。||壁に向かって進み続けると、|<orange>自動で上に乗る<white>ことができます。||レベルが上がると、複数の壁を|錬成できるようになります。=|<smalltext>(While controlling Ed)| Press <circle> while holding <L2a><L2b>＝<yellow>Create wall<white>||This skill creates a wall |to protect against enemy attacks |or climb to high places.||If you walk towards a wall,|<orange>you will climb on it automatically.<white>||As you level up, you will be |able to create multiple walls.
+<smalltext>（エド操作時に）|　<L2a><L2b>押しながら<square>＝<yellow>「槍」錬成<white>||【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>連打|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>連打→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>連打→<circle>=<smalltext>(While controlling Ed)| Press <square> while holding <L2a><L2b>＝<yellow>Create spear<white>||Basic combo|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square> (repeatedly)|Heavy attack combo|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square> (repeatedly) →<triangle>|Spikes transmutation combo|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square> (repeatedly) →<circle>
+<smalltext>|（エド操作時に）|　<L2a><L2b>押しながら<triangle>|  ＝<yellow>「大剣」錬成<white>||【基本コンボ】|<square>→<square>|<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>=<smalltext>|(While controlling Ed)|Press <triangle> while holding <L2a><L2b>|  ＝<yellow>Create large sword<white>||Basic combo|<square>→<square>|<square>→<square>→<square>|Heavy attack combo|<square>→<triangle>|<square>→<square>→<triangle>|Spikes transmutation combo|<square>→<circle>|<square>→<square>→<circle>
+<smalltext>|（エド操作時に）|　<L2a><L2b>押しながら<cross>|  ＝<yellow>「ハンマー」錬成<white>||【基本コンボ】|<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>||<orange>ガードしている敵にダメージ<white>を|与えたり、木箱などの<orange>物を壊す<white>|ことができます。=<smalltext>|(While controlling Ed)|Press <cross> while holding <L2a><L2b>|  ＝<yellow>Create hammer<white>||Basic combo|<square>→<square>|Heavy attack combo|<square>→<triangle>|Spikes transmutation combo|<square>→<circle>||You can <orange>damage blocking enemies |and destroy objects <white>like wooden boxes.
+|<smalltext>【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>=|<smalltext>Basic combo|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|Heavy attack combo|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|Spikes transmutation combo|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>
+<smalltext>|　<triangle>　＝　<yellow>二段蹴り<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>タックル<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>裏拳～水面蹴り<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|　<square>＋<cross>同時押し　＝　<yellow>踏みつけ<white>|（左スティックを後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>かちあげ<white>=<smalltext>| <triangle> ＝ <yellow>Double kick<white>||(Moving left stick forward)| <triangle> ＝ <yellow>Tackle<white>|(Moving left stick backwards)| <triangle> ＝ <yellow>Backfist/surface kick<white>||Press <square>＋<cross> at the same time ＝ <yellow>Foot sweep<white>||(Moving left stick forward)|Press <square>＋<cross> at the same time ＝ <yellow>Trample<white>|(Moving left stick backwards)|Press <square>＋<cross> at the same time ＝ <yellow>Strike up<white>
+|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<circle>|  ＝<yellow>「石球」を錬成<white>||錬成した石球を攻撃して転がし|敵に当てるとダメージを与える|ことができます。||ただし、跳ね返ってきた石球に|当たらないよう、気をつけて|ください！=|<smalltext>(While controlling Al)|Press <circle> while holding <L2a><L2b>|  ＝<yellow>Create stone ball<white>||You can attack the stone ball |to make it roll and damage|the enemies it hits.||However, be careful |not to be hit by the |bouncing ball yourself!
+|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<square>|  ＝<yellow>「吸引マシン」を錬成<white>||周囲の敵を吸い寄せてしまう|マシンを錬成するスキルです。||レベルが上がると、吸引時間が|長くなります。=|<smalltext>(While controlling Al)|Press <square> while holding <L2a><L2b>|  ＝<yellow>Create a suction machine<white>||This skill creates a suction machine |to draw in surrounding enemies.||As your level goes up, |the suction time will increase.
+|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<cross>|  ＝<yellow>「石柱ジャンプ」<white>||足元に石柱を錬成して、|通常より高いジャンプができる|スキルです。=|<smalltext>(While controlling Al)|Press <cross> while holding <L2a><L2b>|  ＝<yellow>Stone pillar jump<white>||This skill creates a stone pillar |under your feet, that allows you to |jump higher than usual.
+|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<triangle>|  ＝<yellow>「アル地雷」<white>を錬成||錬成した地雷を攻撃するか、|敵が近づいてくると爆発します。||攻撃するだけでなく、木箱など|<orange>物を壊す<white>のにも使えます。=|<smalltext>(While controlling Al)|Press <triangle> while holding <L2a><L2b>|  ＝<white>Create an <yellow>Al land mine||<white>This land mine will explode if you attack it, |or enemies approach it.||It's not just useful to attack, but also to |<orange>destroy objects <white>like wooden boxes.
+|<smalltext>（オブジェ錬成武器の近くで）|　<triangle>　＝　<yellow>武器を装備<white>|  ＝　<yellow>武器に乗る<white>||（武器を装備/乗っている時）|　<triangle>　＝　<yellow>装備解除/降りる<white>||装備して使うオブジェ錬成武器|には<orange>使用回数制限<white>があります。||弾を発射する武器にも<orange>弾数制限<white>|がありますが、再錬成すれば、|再び使用できます。|（<orange>リローダー<white>を消費します）=|<smalltext>(Near a transmuted weapon)| <triangle> ＝ <yellow>Equip weapon<white>|  ＝ <yellow>Ride vehicle<white>||(While equipped/riding)| <triangle> ＝ <yellow>Unequip/Get off<white>||Transmuted weapons have a |<orange>limit for the number of times they can be used.<white>||Weapons that use bullets also have |an <orange>ammo limit, <white>but can be used again |if re-transmuted.|(Consumes one <orange>Reloader<white>)
+|<smalltext>（その場に止まって）|　<R2a><R2b>＝　<yellow>ガード<white>||（移動しながら）|　<R2a><R2b>＝　<yellow>回避行動[エドのみ]<white>||（敵の攻撃にあわせて）|　<R2a><R2b>＝　<yellow>カウンター<white>||（吹き飛ばされた時）|　<cross>　＝　<yellow>受け身[エドのみ]<white>=|<smalltext>(While standing in place)| <R2a><R2b>＝ <yellow>Block<white>||(While moving)| <R2a><R2b>＝ <yellow>Evasive action (only Ed)<white>||(While attacked by enemy)| <R2a><R2b>＝ <yellow>Counter<white>||(When blown away)| <cross> ＝ <yellow>Safe fall (only Ed)<white>
+|<smalltext>（敵の方を向いて）|　<L1a><L1b>押し続け　＝　<yellow>ロックオン<white>||（ロックオン中）|　Ｒ３ボタン|  ＝　<yellow>ターゲット切り替え<white>||ロックオン中、その敵が正面に|来るようにカメラが移動します。||Ｒ３ボタン（右スティック押し|こみ）でターゲットを切り替え|ることもできます。=|<smalltext>(Facing the enemy)|Hold <L1a><L1b> ＝ <yellow>Lock-on<white>||(While locked on)|R3 button| ＝ <yellow>Switch target<white>||While locked on, the camera |moves so the enemy is in front of you.||You can also switch targets |with the R3 button |(pressing the right stick).
+|<smalltext>（コンボ中に）|ひとつ前の攻撃を出しきった|瞬間、次の攻撃のボタンを押す|  ＝　<yellow>ジャストアタック<white>||ジャストアタックが成立すると|手が斉く光り、通常より大きな|ダメージを敵に与えます。=|<smalltext>(During a combo)|Upon finishing the previous attack, |press the button for the next attack| ＝ <yellow>Perfect Timing attack<white>||If a Perfect Timing attack is successful, |you hand will glow and you will |deal greater damage than usual.
+|<smalltext>（ＳＰゲージＭＡＸ時に）|　<circle>＋<triangle>同時押し|  ＝　<yellow>スぺシャルアタック<white>||エドとアル、それぞれ別の|スぺシャルアタックが使えます。||<orange>ＳＰゲージ<white>は、敵にダメージを|与えたり、敵からダメージを|受けた時に上昇します。=|<smalltext>(When the SP gauge is maxed)|Press <circle>＋<triangle> at the same time| ＝ <yellow>Special Attack<white>||Ed and Al can use each |different Special Attacks.||<orange>The SP gauge<white> fills when you |deal damage to enemies, |or receive damage from them.
+|<smalltext><yellow>【エドの特性】<white>|・回避、受け身が使える|・壁つたい歩きができる|・ほふく前進ができる|・ＨＰが０でゲームオーバー||<yellow>【アルの特性】<white>|・ダウンしにくい|・銃弾や炎などの攻撃に強い|・ＨＰが０になっても| エドに再錬成してもらうか| 一定時間で復活できる|=|<smalltext><yellow>Ed's characteristics<white>|・Can evade and do safe falls|・Can walk along walls|・Can crawl forward|・If his HP reaches 0 it's game over||<yellow>Al's characteristics<white>|・Hard to knock down|・Strong against bullets, fire and other attacks|・Even if his HP reaches 0, |Ed can revive him |after a certain period of time.
+|<smalltext>　<R1a><R1b>＝　<yellow>待機/行動の切り替え<white>||　<R1a><R1b>押し続け　＝　<yellow>呼び寄せる<white>||（エド操作・アルが側にいる時）|　<R1a><R1b>押し続け＝　<yellow>協力ジャンプ<white>||（錬成サークル内で）|　<R1a><R1b>＝<yellow>パートナーに錬成させる<white>||（武器の近くで）|　<R1a><R1b>＝　<yellow>武器を装備させる<white>|  　＝　<yellow>武器に乗せる<white>|=|<smalltext> <R1a><R1b>＝ <yellow>Switch between Standby/Action<white>||Hold <R1a><R1b>＝ <yellow>Summon partner<white>||(While controlling Ed, if Al is next to him)|Hold <R1a><R1b>＝ <yellow>Cooperative jump<white>||(Inside a transmutation circle)| <R1a><R1b>＝<yellow>Make the partner do the transmutation<white>||(Near a weapon)| <R1a><R1b>＝ <yellow>Make partner to equip the weapon<white>|  ＝ <yellow>Make partner ride the vehicle<white>|
+|<smalltext>敵を倒した時、カウンターや|回数の多いコンボを決めた時に|<orange>ＥＸＰ<white>を獲得できます。||一定以上のＥＸＰを溜めると、|<orange>レベルアップ<white>します。|<orange>ボーナスポイント<white>が手に入るので|好きな能力を強化してください。||レベルアップ時、スキル錬成の|レベルが上がったり、オブジェ|錬成武器を再錬成できるように|なる場合もあります。=|<smalltext>You will gain<orange> Experience<white> |upon defeating enemies, doing counters, or performing |combos with a high number of hits.||If you accumulate a certain amount of EXP|you will <orange>level up<white>.|Use the <orange>Bonus points<white> you get|to strengthen the desired stats.||When you level up, |your Skill transmutation level |may increase, and you may be |able to re-transmute weapons.
+|<smalltext><yellow>攻撃力<white>|素手/スキル錬成武器の攻撃値||<yellow>防御力<white>|受けるダメージを減少させる値||<yellow>体力<white>|最大ＨＰと連動する値||<yellow>錬成力<white>|オブジェ錬成武器の攻撃値|突起錬成の攻撃値=|<smalltext><yellow>Attack<white>|Power of bare-handed attacks and Skill transmutations||<yellow>Defense<white>|Value that reduces the damage received||<yellow>Stamina<white>|Value related to maximum HP||<yellow>Alchemy<white>|Attack power of Object transmutation |weapons and Spikes
+|<smalltext><yellow>【引き継がないもの】<white>|・キャラクター<orange>レベルとＥＸＰ<white>|（レベル１、ＥＸＰ０から開始）||<yellow>【引き継ぐもの】<white>|・<orange>アイテムとアクセサリ<white>|・ソフィへのプレゼントの状況|・未使用の<orange>ボーナスポイント<white>|・修得している<orange>スキル錬成と| オブジェの再錬成能力=|<smalltext><yellow>Things that you won't keep<white>|・Characters' <orange>Level and EXP<white>|(you start at Level 1 with 0 EXP)||<yellow>Things that you will keep<white>|・<orange>Items and accessories<white>|・The status of gifts given to Sophie|・Unused<orange> Bonus points<white>|・Learned <orange>Skill transmutations, |and the ability to re-transmute objects
+|<smalltext>２周目のプレイでは、|各ステージに<orange>画像マテリアル<white>が|配置されています。||これを集めていくと、|<orange>ギャラリーモード<white>で閲覧できる|グラフィックが増えていきます。||また、ギャラリーモードでは、|画像マテリアルの配置エリアを|知ることができます。=|<smalltext>During your second playthrough, |<orange>Image materials <white>will appear |in each stage.||As you collect these, |the amount of graphics you can view |in <orange>Gallery Mode <white>will increase.||Also, you can know the areas |where Image materials are placed |inside Gallery Mode.
 
 !FILE:0025_003/004.txt
-全スキル錬成可能にしますか？=Enable all skill transmutations?
+全スキル錬成可能にしますか？=Enable all Skill transmutations?
 はい、もちろん！=Yes, of course!
 いいえ、別に…=No, not really...
 <edward>エドですが。=<edward>I'm Ed.
@@ -2091,10 +2091,10 @@
  <square>→<square>→<square>のようにボタンを押すと、| コンボ（連続攻撃）を出せます。=Press <square>→<square>→<square> to perform a combo (continuous attack).
 <bigtext><blackbold> レベルアップ=<bigtext><blackbold> Level Up
 <8006><orange>ボーナスポイント<white>が手に入ります。|ポイントを割り振って、エドとアルの|好きな能力を強化してください。=<8006>You get <orange>bonus points. <white>Distribute the points to improve Ed and Al's desired stats.
-<smalltext><yellow>攻撃力　—　<white>素手/スキル錬成武器の攻撃値=<smalltext><yellow>Attack —　<white>Affects the strength of bare-handed attacks|and skill transmutation weapons
+<smalltext><yellow>攻撃力　—　<white>素手/スキル錬成武器の攻撃値=<smalltext><yellow>Attack —　<white>Affects the strength of bare-handed attacks|and Skill transmutations
 <smalltext><yellow>防御力　—　<white>ダメージを減少させる値=<smalltext><yellow>|Defense —　<white>Reduces the damage received
 <smalltext><yellow>体 力　—　<white>最大ＨＰと連動する値=<smalltext><yellow>|Stamina —　<white>Affects the maximum level of HP
-<smalltext><yellow>錬成力　—　<white>オブジェ錬成武器の攻撃値|     突起錬成の攻撃値=<smalltext><yellow>|Alchemy —　<white>Affects the attack strength of object|transmutation weapons and spikes
+<smalltext><yellow>錬成力　—　<white>オブジェ錬成武器の攻撃値|     突起錬成の攻撃値=<smalltext><yellow>|Alchemy —　<white>Affects the attack strength of Object|transmutation weapons and Spikes
 <smalltext>ボーナスポイント使用：キャンプ画面=<smalltext>Use bonus points: Camp screen
 <smalltext><circle>＝突起錬成=<smalltext><circle> ＝ Spikes transmutation
 <smalltext><triangle>＝上昇攻撃（強攻撃）=<smalltext><triangle> ＝ Upwards attack (heavy attack)
@@ -2219,7 +2219,7 @@
 <smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies
 
 !FILE:0041_003/004.txt
-<bigtext><blackbold> アルのスキル錬成「石球」=<bigtext><blackbold> Al's skill transmutation "Stone Ball"
+<bigtext><blackbold> アルのスキル錬成「石球」=<bigtext><blackbold> Al's Skill transmutation "Stone Ball"
 <8006><white>（アル操作時）|<8006><L2a><L2b>押しながら<circle>　＝　<yellow>「石球」を錬成=<8006><white>(While controlling Al)|<8006>Press <circle> while holding <L2a><L2b> ＝ Transmute a "Stone Ball"
 錬成した「石球」を<square>で攻撃すると、|転がっていって敵を弾き飛ばします。=Attack the "Stone Ball" with <square> and it will roll over enemies and knock them down.
 ただし、跳ね返ってきた石球に当たると|エドやアルもダメージを受けてしまうので|注意してください。=However, keep in mind that if Ed or Al are hit by the bouncing ball, they'll also receive damage.
