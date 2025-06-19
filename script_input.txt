@@ -736,7 +736,7 @@
 <yellow>司令部<white>　中央縦孔エリア=<yellow>HQ<white>　Central Shaft
 <yellow>司令部<white>　３Ｆ・兵員室Ａ=<yellow>HQ<white>　3F: Military Quarters A
 <yellow>司令部<white>　最上階=<yellow>HQ<white>　Top Floor
-<yellow>司令部<white>　閲兵場=<yellow>HQwhite>　Parade Ground
+<yellow>司令部<white>　閲兵場=<yellow>HQ<white>　Parade Ground
 <yellow>古城<white>　外郭エリア東=<yellow>Old Castle<white>　Outer Area East
 <yellow>古城<white>　北通路=<yellow>Old Castle<white>　North Passage
 <yellow>古城<white>　光封の間=<yellow>Old Castle<white>　Room of the Light Seals
