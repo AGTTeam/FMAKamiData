@@ -2644,7 +2644,7 @@
 <soldier>……で、|オマエらはいったい、|何者なんだ……？=<soldier>So... who on earth are you guys?
 <soldier>押すことも、引くこともできず、|こんな場所でくすぶっているとは……。|ああ、なんと不甲斐ない……！=<soldier>I'm staying here, neither pushing forward nor retreating... Oh, how pathetic!
 <soldier>せめて、将軍様が、|ご無事だとよいのだが……。=<soldier>I hope the General's safe at least.
-<soldier>ついさっきのことだけどよ、|中央から来た大佐さんに、|危ねぇところを助けられてな……。=<soldier>A little while ago, a colonel from the capital saved me from a dangerous sitituation.
+<soldier>ついさっきのことだけどよ、|中央から来た大佐さんに、|危ねぇところを助けられてな……。=<soldier>A little while ago, a colonel from the capital saved me from a dangerous situation.
 <soldier>スカした野郎だと思ったが、|あの強さといい、指揮能力といい……。=<soldier>I thought he was an arrogant guy, but he had great strength and leadership abilities.
 <soldier>——いやいや、確かに、|若くして大佐になるだけはあったよ。|止めるのもきかず、奥へ向かってったぜ。=<soldier>No, no, for real! He was a colonel at such a young age... |He didn't listen to anyone trying to stop him, and headed inside.
 <soldier>……お前ら、よく無事だったな。|あの銃弾の雨の中を|どうやって抜けてきたんだ……？=<soldier>It's good you two are safe. |How did you escape from that rain of bullets?
