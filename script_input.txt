@@ -742,9 +742,9 @@
 <yellow>古城<white>　光封の間=<yellow>Old Castle<white>　Room of the Light Seals
 <yellow>古城<white>　屋上=<yellow>Old Castle<white>　Rooftop
 <yellow>司令部Ｂ<white>　牢獄=<yellow>HQ - B<white>　Prison
-<yellow>司令部Ｂ<white>　トリガー研究室=<yellow>HQ - B<white>　Trigger's Laboratory
-<yellow>司令部Ｂ<white>　中央縦孔エリア=<yellow>HQ - B<white>　Central Shaft
-<yellow>司令部Ｂ<white>　閲兵場=<yellow>HQ - B<white>　Parade Ground
+<yellow>司令部Ｂ<white>　トリガー研究室=<yellow>HQ: B<white>　Trigger's Laboratory
+<yellow>司令部Ｂ<white>　中央縦孔エリア=<yellow>HQ: B<white>　Central Shaft
+<yellow>司令部Ｂ<white>　閲兵場=<yellow>HQ: B<white>　Parade Ground
 <yellow>市街・西<white>　４番地=<yellow>City West<white>　4th Area
 <yellow>市街・西<white>　９番地=<yellow>City West<white>　9th Area
 <yellow>古城Ｂ<white>　仕掛け部屋Ａ=<yellow>Old Castle B<white>　Trap Room A
@@ -2960,9 +2960,9 @@
 <sophie>お願い、もうやめて。|印の力を使いすぎると、|あなたも、あの人のように——。=<sophie>Please, you must stop now! If you use the power of the seal too much, you'll end up just like him.
 <leonid>まぁ。この氷塵のレオニードが、|こんな小娘に心配されるだなんて、|とんだ侮辱だわ。=<leonid>Oh, it's offensive that such a young girl worries about Leonid of Diamond Dust.
 <sophie>私、そんなつもりじゃ……！=<sophie>I didn't mean to...!
-<leonid>何も知らず、イイ気なもんね。|アナタ、人の心配なんてしてる場合じゃ|ないと思うけど？=<leonid>You're so cocky, despite not knowing anyhing. I think you're in no position to worry about others.
+<leonid>何も知らず、イイ気なもんね。|アナタ、人の心配なんてしてる場合じゃ|ないと思うけど？=<leonid>You're so cocky, despite not knowing anything. I think you're in no position to worry about others.
 <sophie>え？……それって、どういうこと……？=<sophie>Huh? What do you mean?
-<leonid>ウフフ……。|ちゃんと教えてあげるわよ。|この邪魔な２人を片づけた後にね……！=<leonid>Hu hu hu! I'll explain to you in detail. After I get rid of these two bothers!
+<leonid>ウフフ……。|ちゃんと教えてあげるわよ。|この邪魔な２人を片づけた後にね……！=<leonid>Hu hu hu! I'll explain it to you in detail. After I get rid of these two nuisances!
 <alphonse>兄さん！=<alphonse>Brother!
 <edward>やるしか、ねぇみたいだな……！=<edward>Looks like we have no choice!
 <leonid>アナタたち、良かったわねぇ。=<leonid>You're quite lucky.
@@ -3359,7 +3359,7 @@
 <trigger>今からでも遅くはない。戻っておいで、|ボクのカワイイ鎧ちゃん！|今なら、ミサイルもつけてあげるよぉ！=<trigger>It's not too late. Come back, my cute armor boy! This time I'll give you missiles too!
 <edward>くそッ……！|やるしかねぇってか！=<edward>Dammit! I guess we have no choice!
 <venus>——フン。やっぱり、|おとなしく捕まるつもりは|ないんだね。=<venus>Hmph! It seems you're not going to be captured quietly after all.
-<venus>フフ、だったら力ずくで、|身体に言って聞かせる|しかないわよねぇ……！=<venus>Heh heh, in that case, there's no choice but make your bodies listen through brute force!
+<venus>フフ、だったら力ずくで、|身体に言って聞かせる|しかないわよねぇ……！=<venus>Heh heh, in that case, there's no choice but to make your bodies listen through brute force!
 <venus>いくよっ、ハンマー！ トリガー！|ヴィーナス隊の恐ろしさ、|思い知らせておやりっ！！=<venus>Let's go, Hammer! Trigger! |We'll show them the terror of the Venus corps!
 <trigger>ヒィィィィィィィ！？|ウ、ウソだぁ———っ！！|ボクのメカがやられるなんてぇぇ！！！=<trigger>Heeeeeyyyy!? No-No way!! |My mecha was destroyeeed!!
 <venus>——ア、アンタたち！|何やってんだい！？=<venus>You...You two! What are you doing!?
