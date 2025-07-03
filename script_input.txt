@@ -5475,7 +5475,7 @@
 <winry>何よ。せっかく誉めてあげてるんだから|いちいち絡んでこないでよ。まったく、|小さいことにこだわるんだから。=<winry>What? I'm giving you a compliment, so stop picking a fight with me all the time. |Really, you get so obsessed about such small things...
 <edward>だああああぁっ！！|また小さいって|言いやがったな——っ！！=<edward>Aaaaaaargh!! There it is, you said "small" again!!
 <winry>あーうるさい！ うるさい！！|実際に小さいんだから、小さいって言って|何が悪いのよ！=<winry>Oh, shut up, shut up!! You're actually small, so what's the problem with calling you "small"!?
-<winry>まったく、身体が小さいと|心まで小さくなるみたいね……。|さすが、史上最小国家錬金術師だわ。=<winry>It seems that if your body is small, you heart becomes small too... Just as one would expect from the smallest State Alchemist in history.
+<winry>まったく、身体が小さいと|心まで小さくなるみたいね……。|さすが、史上最小国家錬金術師だわ。=<winry>It seems that if your body is small, your heart becomes small too... Just as one would expect from the smallest State Alchemist in history.
 <edward>史・上・最・年・少・だ！！=<edward>The-youngest-in-history!!
 <mysteriousgirl>……クスッ……。=<mysteriousgirl>Huh huh...
 <alphonse>——あ。=<alphonse>Oh?
