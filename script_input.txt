@@ -1613,7 +1613,7 @@
 !FILE:1211_003.txt
 オープニング=Opening
 映像特典その１|北出菜奈「悲しみのキズ」|スぺシャルＰＶ=Bonus video 1|Nana Kitade:|“Wounds of Sadness"|Special promo video
-映像特典その２|コミカル３０秒ＣＭ『裏鋼』=Bonus video 2|30 seconds mock commercial:|“Reverse Fullmetal"
+映像特典その２|コミカル３０秒ＣＭ『裏鋼』=Bonus video 2|30 second mock commercial:|“Reverse Fullmetal"
 ヴァルドラ陥落=The Fall of Valdolla
 聖印の少女=Girl with the Holy Seal
 煉獄の男=The Man from Purgatory
@@ -4133,7 +4133,7 @@
 <edward>大丈夫って、顏が真っ斉だぞ。|この前の時と同じじゃないか。|本当に大丈夫なのか？=<edward>You say that, but your face looks really pale. It's just like that moment before.|Are you sure you're fine?
 <sophie>うん……。ちょっと力を|使いすぎただけだから……。|本当に……心配しないで……。=<sophie>Yes... I simply used a bit too much power... |Really... There's no need to worry.
 <edward>そっか……。|まぁ、大丈夫なら|いいんだけどよ……。=<edward>I see... |Well, as long as you're fine...
-<cat>ニャ～ン、ニャ～ン、ニャ～ン<cat>Meeow, meeow, meeow!
+<cat>ニャ～ン、ニャ～ン、ニャ～ン=<cat>Meeow, meeow, meeow!
 <sophie>……ねぇ、アル。|この子、私が|引き取ってもいいかな……？=<sophie>Hey, Al... Could I keep this little one?
 <alphonse>え？ ソフィが？=<alphonse>Huh? You, Sophie?
 <sophie>私……この子と、|ずっと一緒にいたいの。|だから……だめ？=<sophie>I'd like... to be with this kitten forever. |So... is it alright with you?
