@@ -763,11 +763,11 @@
 <yellow>神殿<white>　ヴェルザの脳蓋=<yellow>Temple<white>　Velza's Skullcap
 ゲームクリア=CLEAR Game
 <yellow>古城<white>　中庭=<yellow>Old Castle<white>　Courtyard
-<yellow>司令部Ｂ<white>　４Ｆ・Ａブロック=<yellow>Headquarters B<white>　4th Floor: Block A
+<yellow>司令部Ｂ<white>　４Ｆ・Ａブロック=<yellow>HQ: B<white>　4th Floor: Block A
 <yellow>市街・西<white>　物資置き場ゲート=<yellow>City West<white>　Supply Storage Gate
 <yellow>市街・西<white>　物資置き場Ｂ=<yellow>City West<white>　Supply Storage B
 <yellow>市街・西<white>　７番地=<yellow>City West<white>　7th Area
-<yellow>司令部Ｂ<white>　最上階=<yellow>Headquarters B<white>　Top Floor
+<yellow>司令部Ｂ<white>　最上階=<yellow>HQ: B<white>　Top Floor
 
 !FILE:0009_001.txt
 装備を外す=Remove equipment
@@ -900,24 +900,24 @@
 下水道・入口=Sewer: Entrance
 下水道・中央部=Sewer: Central Section
 下水道・出口=Sewer: Exit
-司令部・裏口前=Headquarters: Rear Entrance
-司令部１Ｆ・Ａブロック=Headquarters 1F: Block A
-司令部１Ｆ・通路=Headquarters 1F: Passage
+司令部・裏口前=HQ: Rear Entrance
+司令部１Ｆ・Ａブロック=HQ 1F: Block A
+司令部１Ｆ・通路=HQ 1F: Passage
 中央縦孔エリア=Central Shaft
-司令部１Ｆ・作戦室=Headquarters 1F: Operations Room
-司令部１Ｆ・Ｂブロック=Headquarters 1F: Block B
-司令部２Ｆ=Headquarters 2F
+司令部１Ｆ・作戦室=HQ 1F: Operations Room
+司令部１Ｆ・Ｂブロック=HQ 1F: Block B
+司令部２Ｆ=HQ 2F
 （※欠番※）=(Missing number)
-司令部３Ｆ・兵員室Ａ=Headquarters 3F: Military Quarters A
-司令部３Ｆ・倉庫=Headquarters 3F: Storehouse
-司令部３Ｆ・兵員室Ｂ=Headquarters 3F: Military Quarters B
-司令部４Ｆ=Headquarters 4F
+司令部３Ｆ・兵員室Ａ=HQ 3F: Military Quarters A
+司令部３Ｆ・倉庫=HQ 3F: Storehouse
+司令部３Ｆ・兵員室Ｂ=HQ 3F: Military Quarters B
+司令部４Ｆ=HQ 4F
 （※欠番※）=(Missing number)
 （※欠番※）=(Missing number)
-司令部最上階=Headquarters: Top Floor
-司令部・屋上=Headquarters: Rooftop
+司令部最上階=HQ Top Floor
+司令部・屋上=HQ Rooftop
 中央エレベーター=Central Elevator
-司令部・閲兵場=Headquarters: Parade Ground
+司令部・閲兵場=HQ Parade Ground
 （※欠番？※）=(Missing number)
 
 !FILE:0014_095.txt
@@ -949,19 +949,19 @@
 古城・中庭=Old Castle: Courtyard
 
 !FILE:0014_096.txt
-司令部・牢獄=Headquarters: Prison
-司令部・倉庫Ａ=Headquarters: Storehouse A
-司令部・倉庫Ｂ=Headquarters: Storehouse B
+司令部・牢獄=HQ: Prison
+司令部・倉庫Ａ=HQ: Storehouse A
+司令部・倉庫Ｂ=HQ: Storehouse B
 トリガー研究室=Trigger's Laboratory
-司令部２Ｆ=Headquarters 2F
-司令部３Ｆ=Headquarters 3F
-司令部４Ｆ・Ａブロック=Headquarters 4F: Block A
-司令部４Ｆ・通路=Headquarters 4F: Passage
-司令部４Ｆ・Ｂブロック=Headquarters 4F: Block B
-司令部最上階=Headquarters: Top Floor
-司令部・屋上=Headquarters: Rooftop
+司令部２Ｆ=HQ 2F
+司令部３Ｆ=HQ 3F
+司令部４Ｆ・Ａブロック=HQ 4F: Block A
+司令部４Ｆ・通路=HQ 4F: Passage
+司令部４Ｆ・Ｂブロック=HQ 4F: Block B
+司令部最上階=HQ: Top Floor
+司令部・屋上=HQ: Rooftop
 中央縦孔エリア=Central Shaft
-司令部・閲兵場=Headquarters: Parade Ground
+司令部・閲兵場=HQ: Parade Ground
 
 !FILE:0014_097.txt
 市街・西　１番地=City West: 1st Area
@@ -1063,7 +1063,7 @@
 ヴェルザの脳蓋=Velza's Skullcap
 
 !FILE:0014_100.txt
-司令部・閲兵場=Headquarters: Parade Ground
+司令部・閲兵場=HQ: Parade Ground
 
 !FILE:0014_101.txt
 教会=Church
@@ -4133,7 +4133,7 @@
 <edward>大丈夫って、顏が真っ斉だぞ。|この前の時と同じじゃないか。|本当に大丈夫なのか？=<edward>You say that, but your face looks really pale. It's just like that moment before.|Are you sure you're fine?
 <sophie>うん……。ちょっと力を|使いすぎただけだから……。|本当に……心配しないで……。=<sophie>Yes... I simply used a bit too much power... |Really... There's no need to worry.
 <edward>そっか……。|まぁ、大丈夫なら|いいんだけどよ……。=<edward>I see... |Well, as long as you're fine...
-<cat>ニャ～ン、ニャ～ン、ニャ～ン=<cat>Meeow, meeow, meeow!
+<cat>ニャ～ン、ニャ～ン、ニャ～ン……。=<cat>Meeow, meeow, meeow!
 <sophie>……ねぇ、アル。|この子、私が|引き取ってもいいかな……？=<sophie>Hey, Al... Could I keep this little one?
 <alphonse>え？ ソフィが？=<alphonse>Huh? You, Sophie?
 <sophie>私……この子と、|ずっと一緒にいたいの。|だから……だめ？=<sophie>I'd like... to be with this kitten forever. |So... is it alright with you?
@@ -4170,7 +4170,7 @@
 <armstrong>そして「聖印」が生まれた。=<sophie>Thus, the “Holy Seal" was born.
 <armstrong>だけど、それからまもなくして——|父と私の幸せな時間は、|突如として終わりを告げた。=<sophie>However, soon after this... our happy days together came to an abrupt end.
 <armstrong>ある日ついに私たちは見つかってしまった。|そして、私の目の前で、|父は無惨に殺されてしまった……。=<sophie>We were finally discovered one day. And before my very eyes, my father was brutally murdered.
-<sophie>——そして私は、|父の遺志を継ぐため、|このヴァルドラへとやってきたの。=<sophie>Thus I came to Valdolla to fulfil my father's last wish.
+<sophie>——そして私は、|父の遺志を継ぐため、|このヴァルドラへとやってきたの。=<sophie>Thus I came to Valdolla to fulfill my father's last wish.
 <sophie>聖印は、父が遺した最後の希望——。=<sophie>The Holy Seal is the last hope that my father left behind.
 <alphonse>聖印に、そんな秘密があったなんて……。=<alphonse>To think that the Holy Seal hid such a secret...
 <sophie>父は、私の犠牲になった。|私を逃がそうとして、|敵に見つかり、殺されてしまったの。=<sophie>My father sacrificed himself for me. He was trying to let me escape, but the enemy found him and killed him.
@@ -4201,7 +4201,7 @@
 <edward>オレたちのこと？=<edward>About us?
 <sophie>うん。２人の旅の目的……|２人がどうして、賢者の石を探す|旅を続けているのか……。=<sophie>Yes. About the purpose of your journey... |And the reason you keep searching for the Philosopher's Stone.
 <winry>…………。=<winry>....................................
-<sophie>エドとアルを最初に見た時、|何か力強いものを感じたの。|そのわけが、分かったような気がするわ。=When I first met you, I sensed something powerful about you. I think I understand why now.
+<sophie>エドとアルを最初に見た時、|何か力強いものを感じたの。|そのわけが、分かったような気がするわ。=<sophie>When I first met you, I sensed something powerful about you. I think I understand why now.
 <edward>そうか……。=<edward>I see...
 <sophie>エドもアルも、|きっと、元の身体に戻れると思う。|賢者の石、早く見つかるといいね……。=<sophie>I'm sure you'll be able to get back your original bodies. And I hope you find the Philosopher's Stone soon.
 <alphonse>ソフィ……。ありがとう。=<alphonse>Sophie... Thank you.
