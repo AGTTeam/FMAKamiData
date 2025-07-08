@@ -398,8 +398,8 @@
 <yellow>すべてのパラメータを２ポイント上昇させる<white>|真理を知ることができる、超栄養ドリンク=<yellow>Increases all parameters by 2 points.<white>|Special drink that shows you the truth.
 <yellow>すべてのパラメータを３ポイント上昇させる<white>|真理を知ることができる、超栄養ドリンク=<yellow>Increases all parameters by 3 points.<white>|Special drink that shows you the truth.
 <yellow>すべてのパラメータを１００ポイント上昇させる<white>|とんでもない秘密が隠されている……？=<yellow>Increases all parameters by 100 points.<white>|Does it hide a terrible secret...?
-<yellow>ボーナスポイントを１ポイント上昇させる<white>|身長が伸びるとは限らない=<yellow>Increases Bonus points by 1.<white>|It doesn't mean you'll grow taller. 
-<yellow>大砲やマシンガンなど、乗り物の弾の補充に使う<white>|<yellow>１度の使用につき１個消費する=<yellow>Replenishes ammunition for cannons and machine guns.<white>|<yellow>Consumes 1 unit per use. 
+<yellow>ボーナスポイントを１ポイント上昇させる<white>|身長が伸びるとは限らない=<yellow>Increases Bonus points by 1.<white>|It doesn't mean you'll grow taller.
+<yellow>大砲やマシンガンなど、乗り物の弾の補充に使う<white>|<yellow>１度の使用につき１個消費する=<yellow>Replenishes ammunition for cannons and machine guns.<white>|<yellow>Consumes 1 unit per use.
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
@@ -2151,7 +2151,7 @@
 <alphonse>うぅ……。|やっぱり変なヨロイなんだ……。=<alphonse>Ngh... |So you still think I'm just a weird armor...
 <girl>これ、助けてくれたお礼。=<girl>Here, this is for saving me.
 <edward>外は危険だ。|どこかに隠れておいた方がいい。=<edward>It's dangerous outside. |You should hide somewhere.
-<mother>はい。|本当にありがとうございました。=<mother>Right. Thank you for everything! 
+<mother>はい。|本当にありがとうございました。=<mother>Right. Thank you for everything!
 <mother>お願いです！|娘を助けてください！！|このままだと娘は……ああ……！！=<mother>Please! Please save my daughter!! |If this goes on, my daughter will... Aaaah!!
 <girl>うわーん！ 怖いよー！|助けて！ お母さ——ん！！=<girl>Waaah! I'm scared! |Save me! Mommyyyy!!
 <edward>あの子を見捨てて、|先に進むわけにもいかないな。=<edward>We can't just abandon that girl and move on.
@@ -2832,7 +2832,7 @@
 <edward>大佐、ここは任せてくれ。|アイツの相手はオレたちがやる。=<edward>Leave this to us, Colonel. We'll deal with that guy.
 <roy>フム……お前に借りを作るのは|愉快ではないが、どうしてもと言うのなら、|ここはお前に預けてもいいぞ……。=<roy>Hmm... I don't enjoy owing you anything, but since you insist, I'll let you handle it.
 <edward>——へっ、んなボロボロ姿で|何カッコつけてんだ。|素直に、ありがとうって言っとけよ。=<edward>Heh! Stop trying to look cool in that battered state. Just be honest and say thank you.
-<roy>——気をつけろ、鋼の。|お前にも何か秘密があるようだが……|あの男の力、普通じゃない……。=<roy>Be careful, Fullmetal. You seem to hold some secret... but that man's power isn't ordinary. 
+<roy>——気をつけろ、鋼の。|お前にも何か秘密があるようだが……|あの男の力、普通じゃない……。=<roy>Be careful, Fullmetal. You seem to hold some secret... but that man's power isn't ordinary.
 <edward>——ああ。|タダ者じゃないってことは、分かってる。|この借りは、高くつきそうだぜ、大佐。=<edward>Yeah. I know he's not a common guy. |This debt is gonna be expensive, Colonel.
 <edward>………………。=<edward>.................
 <zelgius>お前が「聖印」を受けた小僧か。|フン、なるほど。|なかなかいい面構えだな。=<zelgius>So you're the kids who received the Holy Seal. Hmmm, I see... Your countenances are quite something.
@@ -2938,7 +2938,7 @@
 <zelgius>フッ……どちらが正しかったのか、|見届けるがよい。|ギルベルトよ……。=<zelgius>Hmph... We'll see in the end who was right, Gilbert...
 
 !FILE:0122_002/004.txt
-<edward>——なんだ、これは？|光が道を塞いでやがる……。=<edward>What's this? That light is blocking our way. 
+<edward>——なんだ、これは？|光が道を塞いでやがる……。=<edward>What's this? That light is blocking our way.
 <alphonse>目的地は、|この先みたいだけど……|どうやって進めばいいんだろう？=<alphonse>It seems our destination is up ahead... But how do we get there?
 <sophie>どこかに、光の発生源が|あるんじゃないかしら。|探しに行きましょう。=<sophie>The source of the light must be somewhere. Let's go find it.
 <alphonse>光が消えて、|先に進めるようになったね！|もうすぐ目的地だよ。=<alphonse>The light has disappeared and we can go ahead! We're almost there.
@@ -2957,7 +2957,7 @@
 <leonid>——それにしても、|３人とも見逃すなんて、ゴドーのバカ、|どこを見てたのかしら？=<leonid>However, I wonder where that idiot Godo was looking, to let you three pass by.
 <sophie>……あの大きな人なら、死んだわ。|力を使いすぎて、印に|命を削り取られたのよ。=<sophie>If you mean that giant, he's dead.|He used too much power, and the seal took his life away.
 <leonid>なんですって……！？ ゴドーが！？=<leonid>What are you talking about!? Godo!?
-<leonid>……そう。あの子、先に|逝ってしまったのね……。=<leonid>I see... So that kid has kicked the bucket... 
+<leonid>……そう。あの子、先に|逝ってしまったのね……。=<leonid>I see... So that kid has kicked the bucket...
 <sophie>お願い、もうやめて。|印の力を使いすぎると、|あなたも、あの人のように——。=<sophie>Please, you must stop now! If you use the power of the seal too much, you'll end up just like him.
 <leonid>まぁ。この氷塵のレオニードが、|こんな小娘に心配されるだなんて、|とんだ侮辱だわ。=<leonid>Oh, it's offensive that such a young girl worries about Leonid of Diamond Dust.
 <sophie>私、そんなつもりじゃ……！=<sophie>I didn't mean to...!
@@ -3049,7 +3049,7 @@
 <zelgius>もう少しだ……。|もう少しで我らが神、|ヴェルザは蘇る……。=<zelgius>Just a little longer... Just a little longer until our goddess Velza is resurrected...
 <edward>あれは……！=<edward>That's...!
 <alphonse>あの赤い石……。|もしかして、あれが……？=<alphonse>That red stone... Could it be...?
-<sophie>ええ。私も見るのは初めてだけど、|あの石の中に、|ヴェルザの魂が眠っているはず。=<sophie>Yes. It's the first time I've seen it, but Velza's soul should be sleeping inside that stone. 
+<sophie>ええ。私も見るのは初めてだけど、|あの石の中に、|ヴェルザの魂が眠っているはず。=<sophie>Yes. It's the first time I've seen it, but Velza's soul should be sleeping inside that stone.
 <sophie>よかった……！|まだ、ヴェルザは復活してない。=<sophie>Thank goodness! It seems that Velza hasn't revived yet.
 <sophie>今のうちに、もう一度、|封印しなおしてしまえば、間にあうわ。=<sophie>If we seal it again now, we might still have time.
 <alphonse>うんっ！=<alphonse>Yes!
@@ -4705,28 +4705,28 @@
 <sophie>ついに秘密を手に入れた|ヴェルザの力があれば|この国を、いや、世界すら夢ではない=<sophie>I finally got the secret. With Velza's power, ruling this country... no! the world, is no longer a dream.
 <sophie>ヴァルドラは踏み台に過ぎん|市民には尊い犠牲になってもらおう|ヴェルザを必ず、我が物に………=<sophie>Valdolla is just a stepping stone. I will ask for noble sacrifices from the population, and Velza will surely be mine...
 <sophie>私は孤高の天才科学者イジー・トリガー|これはただの日記ではない|私とヴィーナス様の、愛と斉春のメモリアルだ=<sophie>I am the solitary genius scientist, Izzy Trigger. This isn't just a simple diary, but a memorial to the love and passion between Lady Venus and myself.
-<sophie>◯月 x日=<sophie>XX month, XX day.
+<sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>将来、私の妻となる女性をどう呼べばいいのか？|やはりヴィーナス、だろうか|いや、それはありきたりというものだ=<sophie>How should I call the woman who will become my wife?|Venus, I guess.|But no, that's way too common.
 <sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>For me, she's like the Virgin Mary, so I'll go with her second name: Maria. |Yes, I choose to do so now.
 <sophie>マリア、嗚呼、我が愛しのマリア！|この想い、どうしたら気づいてくれるのか|そうだ、彼女に詩を贈ろう=<sophie>Oh, Maria, my beloved Maria! How could I convey my feelings to you? |I know! I'll write her a poem.
-<sophie>◯月 x日=<sophie>XX month, XX day.
+<sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>ついに詩ができた|マリアは心を打たれ|私を愛してやまずにいられない=<sophie>The poem is finished at last. Maria's heart will be touched; she can't help but love me.
 <sophie><yellow>ラヴ ラヴ ラヴ ラヴ マリア様|ボクの心をワシ掴み|いつもあなたはボンキュッボン！=<sophie><yellow>Love you-love you-love you Lady Maria! |You have my heart in a tight hold. The ever sensual you!
 <sophie><yellow>ズバンとハートにロックオン|トリガーのラヴが火を吹くぜ|ファイアー ラヴリー ボンキュッボン！=<sophie><yellow>You locked on my heart with a bang. You blow fire into my love. |Fiery, lovely, voluptous goddess!
-<sophie>◯月 x日=<sophie>XX month, XX day.
+<sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>愛に障害は付き物だ|私の詩はゴミ箱へと捨てられた=<sophie>Love always comes with its obstacles. |She threw my poem into the trash bin.
 <sophie>めげないよ、マリア|愛してるんだ、マリア=<sophie>I won't give up, Maria. I love you, Maria.
 <sophie>もし、マリアに危機が迫った時は|私が彼女の盾になろう|君のためなら死ぬ事だって怖くない=<sophie>If danger ever comes to you, Maria, I'll become your shield. |I'm not afraid to die for your sake.
 <sophie>君の白い肌、傷一つ付けるもんか=<sophie>Not a single scratch will mar your white skin.
-<sophie>x月 x日=<sophie>XX month, XX day.
+<sophie>❌月 ❌日=<sophie>XX month, XX day.
 <sophie>オラはボリス・ハンマー|トリガーにすすめられて|日記を書いてみるだ=<sophie>I'm Boris Hammer. Trigger recommended that I tried writing a diary.
 <sophie>どうせ三日坊主だけど|たまにはこういうのも悪くねぇ=<sophie>I'll probably give up in no time, but it can't hurt doing it for now.
 <sophie>で、いきなり、だ|なんとヴァルドラが襲われちまっただ|施設の広場にでっけえ塔まで出てきただ=<sophie>Then, all of a sudden, Valdolla was attacked, and a huge tower appeared right in the facility's square.
 <sophie>オラが思うに|あれは塔じゃなくてタケノコだ|煮て食ったらウメェだど、間違いねぇ=<sophie>Though I don't think that's a tower, but bamboo shoots, which are delicious if you eat them boiled. I'm sure of it.
-<sophie>x月 x日=<sophie>XX month, XX day.
+<sophie>❌月 ❌日=<sophie>XX month, XX day.
 <sophie>空を飛ぶ娘ッ子と戦っただ|ヴィーナス様はカンカンで|ちょっと大人げない気がしただ=<sophie>We fought against a flying girl. |Lady Venus was really angry; it was a bit childish of her.
 <sophie>ババァにババァって言っちゃいけねぇ|オラのじいさんの遺言だ=<sophie>You should never call an old woman “old". Those were my grandad's last words.
-<sophie>x月 x日=<sophie>XX month, XX day.
+<sophie>❌月 ❌日=<sophie>XX month, XX day.
 <sophie>オラが軍に入ったのは|誰かを傷つけるためじゃねぇ|この街を守りたかったからなんだ=<sophie>I didn't join the army to hurt anyone, but because I wanted to protect this city.
 <sophie>その気持ちは変わってねぇし|きっとこれからも変わらねぇ=<sophie>That feeling hasn't changed, and I'm sure it won't be any different in the future.
 <sophie>平和な世の中で|同じ人間同士|みんなで仲良く暮らしてえもんだなァ=<sophie>I just want everyone to live in harmony with their fellow human beings, in a peaceful world.
