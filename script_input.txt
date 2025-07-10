@@ -408,7 +408,7 @@
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
 <yellow>ＨＰを２９回復する（エド専用）<white>|１００ｇ１０円の安肉=<yellow>Restores 29 HP (only Ed).<white>|Cheap meat for 10 cens per 100 grams.
-<yellow>ＨＰを２９０回復する（エド専用）<white>|１００ｇ１０万円の最高級牛肉=<yellow>Restores 290 HP (only Ed).<white>|Premium beef for 100.000 cens per 100 grams.
+<yellow>ＨＰを２９０回復する（エド専用）<white>|１００ｇ１０万円の最高級牛肉=<yellow>Restores 290 HP (only Ed).<white>|Premium beef for 100,000 cens per 100 grams.
 <yellow>２９のダメージを受ける！（エド専用）<white>|危険な香りがする……！=<yellow>Causes 29 points of damage! (only Ed).<white>|It smells of danger!
 <yellow>体力を１ポイント上昇させＨＰを５回復する（エド専用）<white>|エド最大の敵、新鮮な牛乳！=<yellow>Increases Vitality by 1 point and restores 5 HP (only Ed).<white>|Ed's greatest enemy: fresh milk!
 <yellow>ＨＰを３０回復する（エド専用）<white>|一流の料理人ですら涙するタマネギ=<yellow>Restores 30 HP (only Ed).<white>|Onions make even the best chefs cry.
@@ -816,7 +816,7 @@
 ゲームに戻る=Return to game
 
 !FILE:0014_088.txt
-<8038>|錬成できるようになった！=<8038>|Transmutation unlocked!
+<8038>|錬成できるようになった！=Transmutation unlocked!|<8038>
 エドスキル：<yellow>壁Ｌｖ２<white>が=Ed skill: <yellow>Wall Lv.2<white>
 エドスキル：<yellow>壁Ｌｖ３<white>が=Ed skill: <yellow>Wall Lv.3<white>
 エドスキル：<yellow>突起Ｌｖ２<white>が=Ed skill: <yellow>Spikes Lv.2<white>
@@ -1145,8 +1145,8 @@
 エドが装備していますがいいですか？=Ed is equipped with it. Continue?
 アルが装備していますがいいですか？=Al is equipped with it. Continue?
 プレゼントをやめますか？=Stop giving presents?
-<8024>ボーナスポイントを<8040>ポイントゲット！=<8024>Got <8040> Bonus points!
-<8024><8038>の<8039>が<8040>ポイントアップ！=<8024><8038>'s <8039> goes <8040> points up!
+<8024>ボーナスポイントを<8040>ポイントゲット！=<8024>Got <8040> Bonus points(s)!
+<8024><8038>の<8039>が<8040>ポイントアップ！=<8024><8038>'s <8039> went up by <8040>!
 <8024><8038>をゲット！=<8024>Got a <8038>!
 <8024>無し=<8024>No effect
 <8024>攻撃力=<8024>Attack
@@ -2138,7 +2138,7 @@
 <smalltext><R1a><R1b>押し続け＝協力ジャンプ[エド操作時]=<smalltext>Hold <R1a><R1b>: Cooperative jump (while controlling Ed)
 <blackbold>アイテム<normal>【キャンディ】|<blackbold>を手に入れた！！=<blackbold>Got item|<normal>“Candy"
 <blackbold>にゃんこ<normal>【たま】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Tama"
-<girl>うぅ……ぐすっ……。|お母さーん！ 熱いよぉ……！=<girl>Uuh... (sob)...|Mommy! It's hot!
+<girl>うぅ……ぐすっ……。|お母さーん！ 熱いよぉ……！=<girl>*Sob...*|Mommy! It's hot!
 <edward>おい！ あんな所に女の子が！=<edward>Hey! There's a little girl over there!
 <alphonse>兄さん、ここはボクに任せて！！=<alphonse>Leave this to me, brother!
 <alphonse>もう大丈夫。|今すぐ助けてあげるからね。=<alphonse>It's okay now. |I'll save you right away.
@@ -2356,7 +2356,7 @@
 <edward>ああ。どうやら、このあたりに|ヤバいヤツがいるみてーだな。|——気をつけろよ、アル。=<edward>Yeah. It seems there's some dangerous guy around here. |Be careful, Al.
 <guard>すさまじい冷気で……、|あっという間に部隊が……！=<guard>That terrible cold wave... In the blink of an eye, the troops were...
 <guard>うう……気をつけろ……。|この先に……、|変なオカマがいる……。=<guard>Uuuh... Be careful.|Up ahead... there's that weird effeminate guy...
-<guard>…………………。|（返事がない、気を失っているようだ）=<guard>....................................|(No response, he seems to be unconscious)
+<guard>…………………。|（返事がない、気を失っているようだ）=<guard>.........................|(There's no response, it seems he's unconscious.)
 <guard>くっ……なんて奴だ……、|銃が効かないなんて……。|……中尉……危険です……。=<guard>Uggh... That guy... Guns seem to be useless against him...|The lieutenant... She's in danger...
 <guard>中尉が危ない……、|この先に１人で……。|君たち、中尉を頼む……！=<guard>The lieutenant's in danger... She's all alone there... |You guys gotta help her!
 
@@ -3412,16 +3412,16 @@
 
 !FILE:0147_003/004.txt
 <blackbold>アイテム<normal>【オルゴール】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Music Box"
-<girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that weird armor guy... Big bro! |It's a secret, but I'm hiding here.
-<younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<younggirl>My mom told me so. I was to play hide-and-seek until the loud noise was gone.
-<younggirl>ほんとは、ちょっと怖いけど……。|——大丈夫、|私、もう泣かないもん！=<younggirl>But I'm a bit scared really... |It's okay, I'm not gonna cry anymore!
-<younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<younggirl>I wonder if mom is already here... She said she'd come later...
+<girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that weird armor guy's big bro! |It's a secret, but I'm hiding here.
+<younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<younggirl>My mom told me to play hide-and-seek until the loud noises are gone.
+<younggirl>ほんとは、ちょっと怖いけど……。|——大丈夫、|私、もう泣かないもん！=<younggirl>To be honest, I'm a bit scared... |But it's okay, I'm not gonna cry anymore!
+<younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<younggirl>I wonder if my mom is here yet... She said she'd come later...
 
 !FILE:0148_003/004.txt
 <blackbold>アクセサリ<normal>【鋼のバングル】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Fullmetal Bangle"
 <soldier>——待て、君たちと戦うつもりはない。|俺には、君たちが奴らの仲間とは、|どうしても思えないんだ。=<soldier>Wait, I'm not going to fight you. There's no way you can be their comrades.
 <soldier>軍人の中には、クレイギン将軍に|不満を持つ者も多い。|俺も、その中の１人でな……。=<soldier>There are many soldiers dissatisfied with General Craigin, and I'm one of them.
-<soldier>こんな時だからこそ、|自分の判断は、|大切にしないとな……。=<soldier>It's at times like this that your own judgement is important.
+<soldier>こんな時だからこそ、|自分の判断は、|大切にしないとな……。=<soldier>It's at times like this that it's important to use your own judgement.
 
 !FILE:0149_003/004.txt
 <blackbold>アイテム<normal>【秘密の史書（７）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Secret Book (7)"
@@ -4096,7 +4096,7 @@
 <sophie>今作限りの登場だけど、|機会があれば、またみんなと会いたいな！|——遊んでくれて、ありがとう！=<sophie>I only appear in this game, but if I have the chance, I'd like to meet you all again! |Thank you for playing!
 <normal>【迷いパンダ】|<blackbold>を手に入れた！！=<blackbold>Found <normal>“Lost Panda"
 <blackbold>アイテム<normal>【黄金の牛像】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Golden Cow"
-<sophie><8006><8023><bluebold>♪悲しみのキズ 北出菜奈|=<sophie><8006><8023><bluebold>♪ “Wounds of Sadness", by Nana Kitade|
+<sophie><8006><8023><bluebold>♪悲しみのキズ 北出菜奈|=<sophie><8006><8023><bluebold>♪ “Wounds of Sadness" by Nana Kitade|
 <sophie><8023><circle>を押すと再生を終了します。|=<sophie><8023>Press <circle> to stop playback.
 セーブする=Save game
 タイトル画面へ戻る=Return to title screen
@@ -4288,7 +4288,7 @@
 <edward>おう、そいつは名案だな。|そうしろよ、ソフィ。=<edward>Yeah, that's a great idea. Let's do that, Sophie.
 <alphonse>ボクたちの故郷リゼンブール、|田舎だけど、いい所だよ。|おいでよ！ ボクが案内するからさ。=<alphonse>Our hometown Resembool is in the countryside, but it's a nice place. |Come with us! And I can show you around.
 <sophie>えっ、でも、いいの……？=<sophie>Eh, but... is it okay?
-<winry>いいに決まってるじゃない！|ソフィが来てくれたら、|ピナコばっちゃんも喜ぶと思うわ。=<winry>Of course! If you come, I'm sure Auntie Pinako will be glad too.
+<winry>いいに決まってるじゃない！|ソフィが来てくれたら、|ピナコばっちゃんも喜ぶと思うわ。=<winry>Of course! If you come, I'm sure Granny Pinako will be glad too.
 <sophie>う、うん……。=<sophie>Ye-Yeah...
 <edward>よし。|そろそろ行くか、ソフィ。=<edward>Alright. Ready to go, Sophie?
 <sophie>——ねぇ、エド……。=<sophie>Hey, Ed...
@@ -4483,7 +4483,7 @@
 <sophie>………………………。=<sophie>....................
 <sophie>救急箱に入れておくね。|いざという時のタメに|備えておけば、安心だもんね。=<sophie>I'll put it in the first-aid kit. It's reassuring to have it at hand in case of an emergency.
 <sophie>救急箱に入れておくわ。|どんなに小さな傷だって、|手当ては、念入りにしなくちゃね。=<sophie>I'll put it in the first-aid kit. Even if it's a small wound, it must be treated carefully.
-<sophie>救急箱に入れておくね……って、|ずいぶんと大きなお薬ね……。|いわゆる『お徳用』ってヤツかしら……？=<sophie>I'll put it in the first-aid kit, but... This is a surprisingly big medicine. I wonder if it's what they call “family size"?
+<sophie>救急箱に入れておくね……って、|ずいぶんと大きなお薬ね……。|いわゆる『お徳用』ってヤツかしら……？=<sophie>I'll put it in the first-aid kit, but... This is a surprisingly big bottle. I wonder if it's what they call “family size"?
 <sophie>どんな病気やケガも|たちどころに治してしまう、|伝説の回復薬——！？=<sophie>A potion that will cure at once any illness or injury!?
 <sophie>これさえあれば、|たとえ火の中！ 水の中！！|ミサイルだってへっちゃらね！=<sophie>As long as you have this, you don't need to worry about fire! About water!! Not even about missiles!
 <edward><bigtext>なワケないだろ……。=<edward><bigtext>There's no way it's like that...
@@ -4745,23 +4745,23 @@
 <sophie>……あら、何か書いてあるわ。|「悲しみのキズ」……？？=<sophie>Hey, there's something written on it. |“Wounds of Sadness"?
 <edward>——なッ、なんだ！？|どこからともなく音楽が……！？|これは、歌か……？=<edward>What's going on? There's music coming out of somewhere... |Is this a song?
 <roy>——ふむ、懐かしくも|勇ましい歌声だな、鋼の。=<roy>Yeah, it's a nostalgic yet stirring voice, isn't it, Fullmetal?
-<edward>……おいおい、突然の登場だな。|大佐は、この歌のこと|知ってんのか……？=<edward>Whoa! Such a sudden appearance...! |Do you know this song, Colonel?
+<edward>……おいおい、突然の登場だな。|大佐は、この歌のこと|知ってんのか……？=<edward>Whoa, talk about a sudden entrance! |Do you know this song, Colonel?
 <roy>馬鹿者、私を誰だと思っている！？|この歌は「悲しみのキズ」、|北出菜奈の新曲だ！=<roy>Idiot, what do you take me for!? |This song is “Wounds of Sadness", the new hit by Nana Kitade!
 <edward><bigtext>北出菜奈……！？=<edward><bigtext>Nana Kitade!?
-<roy>本名、北出菜奈！|１９８７年５月２日生まれ！|ピッチピチの１８歳！（２００５年現在）=<roy>Her real name is Nana Kitade! Born on May 2, 1987! A young 18-year-old lady! (as of 2005).
-<roy>荒川先生と同郷の|北海道出身、Ｏ型だ！！|（ドド———ン！！）=<roy>She's from Hokkaido, just like Arakawa-sensei, and her blood type is O!! |(Ta-daaaaa!)
+<roy>本名、北出菜奈！|１９８７年５月２日生まれ！|ピッチピチの１８歳！（２００５年現在）=<roy>Full name: Nana Kitade! Born on May 2, 1987! A young 18-year-old lady (as of 2005)!
+<roy>荒川先生と同郷の|北海道出身、Ｏ型だ！！|（ドド———ン！！）=<roy>She's from Hokkaido, just like Arakawa-sensei, and her blood type is O!! |Ta-daaaaa!
 <edward><bigtext>北海道となッ！？=<edward><bigtext>Hokkaido!?
 <roy>好きな言葉は|「幸せか不幸かは自分次第」=<roy>Her favorite sayings are “Both happiness and unhappiness are up to you".
 <roy>「人生の最終目標は、| 良い女になり死んでいくことです。」=<roy>“My end goal is to die as a good woman".
 <sophie><bigtext>カッコイ——ッ！！=<sophie><bigtext>Sooo cool!!
 <roy>とある詩人が|詩は「言葉の錬金術」と言った。=<roy>A certain poet once said that poetry is “the alchemy of words".
-<roy>だとすれば、菜奈ちゃんの歌は|「激情の錬金術」|といったところか……！！=<roy>If that's the case, then Nana-chan's songs should be “the alchemy of passion"!
+<roy>だとすれば、菜奈ちゃんの歌は|「激情の錬金術」|といったところか……！！=<roy>If that's the case, then Nana-chan's songs are “the alchemy of passion"!
 <edward><bigtext>「ちゃん」<8006>付け……。=<edward><8006>Why do you add <bigtext>“chan"...?
 <roy>——フッ、忘れたとは言わせんぞ。=<roy>Hmph! Don't tell me you've forgotten.
 <roy>鋼１では、ファーストシングル|「消せない罪」をバックに、|私と死闘を繰り広げたろう？=<roy>During Fullmetal 1, we fought to the death while her first single “Inerasable Sin" played in the background, right?
-<edward><bigtext>身もフタもねえ——！！=<edward><bigtext>I don't understand a single| word of thiiiis!!
-<roy>このＣＤはこの教会に置いておこう、|良い子のみんな！|くれぐれも本物を買うように！！=<roy>Let's leave this CD in the church, like good kids! |Please make sure to buy the real one!!
-<edward><bigtext>ＣＤ<8006>とか言うな——ッ！=<edward><8006>Why do you call it a <bigtext>CD!?
+<edward><bigtext>身もフタもねえ——！！=<edward><bigtext>That’s breaking the fourth wall!#Roy is being too blunt/honest
+<roy>このＣＤはこの教会に置いておこう、|良い子のみんな！|くれぐれも本物を買うように！！=<roy>Let's leave this CD in the church. |And good kids,  make sure to buy the real one, okay?
+<edward><bigtext>ＣＤ<8006>とか言うな——ッ！=<edward><8006>Don't call it a <bigtext>CD!
 <sophie>以上、北出菜奈ちゃんの|「悲しみのキズ」でした♪=<sophie>And that's all about Nana Kitade-chan's “Wounds of Sadness" ♪
 <sophie>鉛の指輪……？|変わってるわね、指輪なのに|重いし、ゴツゴツしてるし……。=<sophie>A lead ring? |How weird, even though it's a ring, it's heavy and rough...
 <sophie>まるで武器ね。|オシャレより、護身用に|いいかもしれないね。=<sophie>It's almost like a weapon. Might be better for self-defense, rather than fashion.
@@ -4784,9 +4784,9 @@
 <sophie>……簡単な気持ちで|渡したわけじゃないよ……。|大切にしてほしいな……。=<sophie>I'm not giving this to you lightly. |I hope you'll take good care of it.
 <sophie>鉛の首飾り？|うっ……、|ズシリと重いわね……！=<sophie>A lead necklace? |Uuuuh... It's way too heavy!
 <sophie>嬉しいけど、|肩がこりそう……。=<sophie>I'm happy but... this is making my shoulders stiff.
-<sophie>あでやかな首飾りね。|——って、純金なの！？|そう…納得がいったわ。=<sophie>A lovely necklace. Wait... is this pure gold!? |Okay, that explains it.
+<sophie>あでやかな首飾りね。|——って、純金なの！？|そう…納得がいったわ。=<sophie>This necklace is just stunning. Wait... is this pure gold!? |I see, that explains why.
 <sophie>首飾りをつけるのなら、|胸元が開いた服がいいよね……。|似合う服、見つけなきゃ♪=<sophie>If I'm gonna wear a necklace, I should wear clothes with a low neckline... |I must find an outfit that suits. ♪
-<sophie>磨きあげられた鋼の首飾り……。|この輝き…すごいね、吸いこまれそう。|鈍くて、でも美しくて——。=<sophie>A necklace of polished steel... |This shine is amazing, as if it absorbed you. It's dim but beautiful.
+<sophie>磨きあげられた鋼の首飾り……。|この輝き…すごいね、吸いこまれそう。|鈍くて、でも美しくて——。=<sophie>A necklace of polished steel... |This shine is amazing, it's like I'm being drawn into it. It's subtle but beautiful.
 <sophie>鋼……。|エドの機械鎧と同じ素材……。|——大事にするよ、必ず。=<sophie>Steel... just like Ed's automail... |I'll treasure it for sure.
 <sophie>首がチクチクすると思えば……。|この首飾り、|刃がついてるじゃない。=<sophie>If you think your neck is prickling, it's because this necklace has a blade attached to it.
 <sophie>一歩間違えれば、|死を招く首飾り……。|オシャレって、命がけなのね……。=<sophie>One wrong move, and this necklace will bring you death. Being fashionable can be a life-threatening thing...
@@ -5256,7 +5256,7 @@
 <sophie>——うっ、これは……！？|まがまがしい邪悪な波動……、|呪われたアイテム、ってやつね……！=<sophie>Huh, what's this...!? A sinister, evil vibration... |This is a cursed item!
 <sophie>ぜェ～～～～～ったい！！|身に付けない方がいいよ、|すごく、イヤな感じがするもの……。=<sophie>Noooo!! |Don't use this, it's a really unpleasant feeling.
 <sophie>——まぁ、可愛いお人形！|クネクネしてて面白いわね。|お腹を押したら鳴くかしら……？=<sophie>Ooh, what a cute doll! It's funny how it squirms. |I wonder if it will squeak when I press its belly...
-<sophie>——あっ、この子、|「モキュ！」って、鳴いたわ！|超プリティ～～～ッ♪=<sophie>Aah, it cried “mmgh"! |It's super cute! ♪
+<sophie>——あっ、この子、|「モキュ！」って、鳴いたわ！|超プリティ～～～ッ♪=<sophie>Aah, it cried “eep"! |It's super cute! ♪
 <sophie>お腹を押す、力加減によって、|鳴き方が変わるみたいね……。|——えいっ！ えいえいえいっ！！=<sophie>The way it cries depends on how much you press its tummy. |Hey! Hey hey hey!!
 <alphonse>………？|ねぇ、兄さん。|あの人形、苦しんでるように見えない？=<alphonse>..................? |Hey, brother, doesn't that doll look as if it was in pain?
 <edward>ああ、言われてみれば、|そんな気が……。|まさか、生きてるなんてことは……。=<edward>Oh, now that you mention it, that seems to be the case... |However, there's no way it's alive...
@@ -5275,7 +5275,7 @@
 <sophie>今日から、この教会が|あなたの新しいお家よ！|たま、よろしくね！ 仲良くしましょ！=<sophie>From this day on, this church will be your new home! Nice to meet you, Tama. Let's be good friends!
 <sophie>カワイイ！ カワイイ！|チョ———|……カワイイ？=<sophie>Cute! Cute! Sooooo... |Cute?
 <alphonse>この子、少し変わってるんだ。|トゲトゲの腕輪してるし……、|オスなのにメイクしてるし……。=<alphonse>This one is a little weird. He's wearing a spiked bracelet and makeup, even if he's a male...
-<sophie>——ッ！ この子、今、私を見て、|鼻で笑ったわ……！|……何様のつもりかしら。（ボソッ）=<sophie>Huh!? He just looked at me and sniffed! |(whispering) Who does he think he is?
+<sophie>——ッ！ この子、今、私を見て、|鼻で笑ったわ……！|……何様のつもりかしら。（ボソッ）=<sophie>Huh!? He just looked at me and smirked! |*Muttering* Who does he think he is!?
 <alphonse>ソ、ソフィ………！？=<alphonse>So-Sophie!?
 <sophie>——やだ、冗談よ。|かわいいニャンコに、そんなこと|言うはずないじゃない♪=<sophie>No, just joking. I would never say such a thing about a cute kitty. ♪
 <alphonse>（目は本気だったヨ……！）=<alphonse>(But you looked so serious!)
