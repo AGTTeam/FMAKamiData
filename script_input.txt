@@ -450,7 +450,7 @@
 クレイギン将軍の手記<white>|若い頃の物のようだ=General Craigin's memo.<white>|Looks like something from his youth.
 トリガーの日記<white>|ヴィーナス・ローズマリア中佐への愛が綴られている=Trigger's diary.<white>|It tells about his love for Lt. Colonel Venus Rosemaria.
 ハンマーの日記<white>|近況報告、三日坊主をモットーに書かれている=Hammer's diary.<white>|An account of recent events, written a bit inconsistently.
-ヴェルザの一族が持っていた<white>|ボロボロの古い書物=Kept by Velza's clan.<white>|An old, worn-out book.
+ヴェルザの一族が持っていた<white>|ボロボロの古い書物=Kept by Velza Clan.<white>|An old, worn-out book.
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
@@ -1092,11 +1092,11 @@
 ＶＳ　焔＆豪腕=VS Flame & Strong Arm
 
 !FILE:0014_105.txt
-ＶＳ　ヴェルザの一族=VS Velza's Clan
+ＶＳ　ヴェルザの一族=VS Velza Clan
 さぁ、美しく散りなさい！=Well, scatter beautifully!
 ＶＳ　ヴェルザの獣=VS Velza's Beast
 ウガアアアアアァッ！！=Graaaaahhh!!
-ＶＳ　ヴェルザの一族２=VS Velza's Clan 2
+ＶＳ　ヴェルザの一族２=VS Velza Clan 2
 ヤッホ～☆どこ見てんのぉ？=Yoo-hoo! ☆Where are you looking?
 ＶＳ　ヴェルザの天使=VS Velza's Angels
 我が炎、味わうがいい！=Taste my flames!
@@ -1957,7 +1957,7 @@
 <edward>ふーん。なるほど。|ここが砂漠の街リオールか…。=<edward>Hmm, I see... Is this the desert city of Lior?
 <alphonse>街の人たちの雰囲気が|普通とは少し違ってるね。=<alphonse>The appearance of the town's people seems a bit different from usual...
 <edward>そりゃあ、住人のほとんどが|レト教って宗教の信者らしいからな。=<edward>Well, that's because most of the residents seem to be members of the Leto sect.
-<alphonse>ねぇ、兄さん|その、レト教の教主様が使うっていう|『奇跡の業』のことなんだけど……。=<alphonse>Hey, brother. About those “miracles" that are performed by the head priest of Leto...
+<alphonse>ねぇ、兄さん|その、レト教の教主様が使うっていう|『奇跡の業』のことなんだけど……。=<alphonse>Hey, Brother. About those “miracles" that are performed by the head priest of Leto...
 <edward>ああ。噂を聞く限りじゃ|ただの錬金術だとは思うんだが…。=<edward>Aah. From the rumors I've heard, I think it's just alchemy.
 <edward>そうだとしても|『死者を復活させる』だなんて|ただごとじゃないからな。=<edward>Besides, there's no such thing as “resurrecting the dead".
 <alphonse>やっぱり、『賢者の石』と|何か関係があるのかなぁ？=<alphonse>Anyway, I wonder if it has something to do with the “Philosopher's Stone".
@@ -1966,7 +1966,7 @@
 <edward>ふーん。なるほど。|ここが砂漠の街・リオールか…。=<edward>Hmm, I see... Is this the desert city of Lior?
 <alphonse>街の人たちの雰囲気が|普通の街の人とは少し違ってるね。=<alphonse>The appearance of the town's people seems a bit different from usual...
 <edward>そりゃあ、住人のほとんどが|レト教って宗教の信者らしいからな=<edward>Well, that's because most of the residents seem to be members of the Leto sect.
-<alphonse>ねぇ兄さん|その、レト教の教主様が使うっていう|『奇跡の業』のことなんだけど……。=<alphonse>Hey, brother. About those “miracles" that are performed by the head priest of Leto...
+<alphonse>ねぇ兄さん|その、レト教の教主様が使うっていう|『奇跡の業』のことなんだけど……。=<alphonse>Hey, Brother. About those “miracles" that are performed by the head priest of Leto...
 <edward>ああ。噂を聞く限りじゃ|ただの錬金術だとは思うんだが…。=<edward>Aah. From the rumors I've heard, I think it's just alchemy.
 <edward>そうだとしても、|『死者を復活させる』だなんて|ただごとじゃないからな。=<edward>Besides, there's no such thing as “resurrecting the dead".
 <alphonse>やっぱり、『賢者の石』と、|何か関係があるのかなぁ？=<alphonse>Anyway, I wonder if it has something to do with the “Philosopher's Stone".
@@ -2009,7 +2009,7 @@
 <edward>ふーん。なるほど。|ここが砂漠の街・リオールか…。=<edward>Hmm, I see... Is this the desert city of Lior?
 <alphonse>街の人たちの雰囲気が|普通の街の人とは少し違ってるね。=<alphonse>The appearance of the town's people seems a bit different from usual...
 <edward>そりゃあ、住人のほとんどが|レト教って宗教の信者らしいからな=<edward>Well, that's because most of the residents seem to be members of the Leto sect.
-<alphonse>ねぇ兄さん|その、レト教の教主様が使うっていう|『奇跡の業』のことなんだけど……。=<alphonse>Hey, brother. About those “miracles" that are performed by the head priest of Leto...
+<alphonse>ねぇ兄さん|その、レト教の教主様が使うっていう|『奇跡の業』のことなんだけど……。=<alphonse>Hey, Brother. About those “miracles" that are performed by the head priest of Leto...
 <edward>ああ。噂を聞く限りじゃ|ただの錬金術だとは思うんだが…。=<edward>Aah. From the rumors I've heard, I think it's just alchemy.
 <edward>そうだとしても、|『死者を復活させる』だなんて|ただごとじゃないからな。=<edward>Besides, there's no such thing as “resurrecting the dead".
 <alphonse>やっぱり、『賢者の石』と、|何か関係があるのかなぁ？=<alphonse>Anyway, I wonder if it has something to do with the “Philosopher's Stone".
@@ -2105,7 +2105,7 @@
 <smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies
 <alphonse>あっ！ 兵隊さんたちが！！=<alphonse>Ah! Those soldiers...!
 <edward>何モンだ、コイツら……。=<edward>What's going on with these guys?
-<alphonse>気をつけて兄さん！|——来るよ！！=<alphonse>Careful, brother! |They're coming at us!!
+<alphonse>気をつけて兄さん！|——来るよ！！=<alphonse>Careful, Brother! |They're coming at us!!
 
 !FILE:0034_003/004.txt
 <bigtext><blackbold> オブジェ錬成=<bigtext><blackbold> Object Transmutation
@@ -2140,7 +2140,7 @@
 <blackbold>にゃんこ<normal>【たま】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Tama"
 <girl>うぅ……ぐすっ……。|お母さーん！ 熱いよぉ……！=<girl>*Sob...*|Mommy! It's hot!
 <edward>おい！ あんな所に女の子が！=<edward>Hey! There's a little girl over there!
-<alphonse>兄さん、ここはボクに任せて！！=<alphonse>Leave this to me, brother!
+<alphonse>兄さん、ここはボクに任せて！！=<alphonse>Leave this to me, Brother!
 <alphonse>もう大丈夫。|今すぐ助けてあげるからね。=<alphonse>It's okay now. |I'll save you right away.
 <girl>ひっ…！？ へ、変なヨロイッ！？=<girl>Huh...!? A... a weird suit of armor!?
 <alphonse>え……！？|あ、ち、違うよボクは……。=<alphonse>Eh...!? |Ah, it's... it's not like that, I'm...
@@ -2224,7 +2224,7 @@
 錬成した「石球」を<square>で攻撃すると、|転がっていって敵を弾き飛ばします。=Attack the “Stone Ball" with <square> and it will|roll over enemies and knock them down.
 ただし、跳ね返ってきた石球に当たると|エドやアルもダメージを受けてしまうので|注意してください。=However, keep in mind that if Ed or Al are hit by the bouncing ball, they'll also receive damage.
 <smalltext><white><L2a><L2b>押しながら<circle>＝「石球」を錬成[アル操作時]=<smalltext><white>Press <circle> while holding <L2a><L2b>: |Transmute a “Stone Ball" (while controlling Al)
-<alphonse>ちょっと待って、兄さん。|ここはボクにやらせて。=<alphonse>Wait a second, brother.|Let me handle this.
+<alphonse>ちょっと待って、兄さん。|ここはボクにやらせて。=<alphonse>Wait a second, Brother.|Let me handle this.
 
 !FILE:0042_003/004.txt
 <blackbold>アイテム<normal>【秘密の史書（１）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Secret Book (1)"
@@ -2256,7 +2256,7 @@
 <alphonse>ま、まぁまぁ、２人とも……。|ウィンリィも無事だったんだし、|もういいじゃない……。=<alphonse>N...Now now, you two... Winry is safe, so that's all that matters, right?
 <winry>——ねぇ、あの変な奴らは何なのよ。|この街で、いったい|何が起きてるっていうの？=<winry>...Geez, what was with those weird guys? What on earth's going on in this town?
 <edward>さぁな……。|正体不明のヤツらが、この街を襲ってきた。|今は、それ以上のことは分かんねぇ……。=<edward>Those unidentified men attacked this town. That's all we know for now...
-<alphonse>——ねぇ、兄さん。|向こうの方、|何だか騒がしくない？=<alphonse>Hey, brother... Did you hear a noise coming from over there?
+<alphonse>——ねぇ、兄さん。|向こうの方、|何だか騒がしくない？=<alphonse>Hey, Brother... Did you hear a noise coming from over there?
 <edward>またヤツらか…？|アル、ちょっと様子を見に行くぞ。=<edward>Those guys again? |Al, let's go check it out.
 <winry>——え？|あ、ちょ、ちょっと！|私だけ置いていかないでよ——ッ！！=<winry>Huh? Ah, wa...wait! |Don't leave me here alooone!!
 
@@ -2318,9 +2318,9 @@
 <alphonse>今度はスイッチが見当たらないね。|この扉、どうすれば開くのかな？=<alphonse>I can't find any switch this time. How can we open this door?
 <edward>——おい、アル、見てみろよ。=<edward>Hey, Al, take a look at this.
 <edward>ここから扉の先に行けそうだぞ。=<edward>It seems we can get past the door through here.
-<alphonse>うーん……。|でも、狭すぎてボクじゃ通れないよ。|兄さんなら、大丈夫そうだけど。=<alphonse>Hmmm... But it's too narrow for me. However, you should fit through, brother.
+<alphonse>うーん……。|でも、狭すぎてボクじゃ通れないよ。|兄さんなら、大丈夫そうだけど。=<alphonse>Hmmm... But it's too narrow for me. However, you should fit through, Brother.
 <edward>ああ。|身体が小さくて良かった——って、|誰がミニマムサイズかあぁっ！！=<edward>Yeah. It's a good thing my body's so sma... Hey! |Who're you calling a minimal size!!?
-<alphonse>誰も何も言ってないよ、兄さん。=<alphonse>Nobody's said anything, brother.
+<alphonse>誰も何も言ってないよ、兄さん。=<alphonse>Nobody's said anything, Brother.
 <edward>オレだけ、先に|進むわけにはいかないな。|アルを連れてこないと……。=<edward>I can't go further ahead. I must take Al with me.
 
 !FILE:0051_003/004.txt
@@ -2328,7 +2328,7 @@
 いいえ=No
 マンホールに入りますか？=Enter the manhole?
 <edward>ん？ あれは……。=<edward>Huh? This is...
-<alphonse>あのマンホールから|先へ進めるかもしれないね。|入ってみようよ、兄さん。=<alphonse>It seems we can move ahead through this manhole. Let's enter it, brother.
+<alphonse>あのマンホールから|先へ進めるかもしれないね。|入ってみようよ、兄さん。=<alphonse>It seems we can move ahead through this manhole. Let's enter it, Brother.
 
 !FILE:0052_003/004.txt
 <blackbold>にゃんこ<normal>【えるうっど】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Elwood"
@@ -2404,7 +2404,7 @@
 <edward>——ああ。|それで、この街に来たら、|騒動に巻き込まれちまって……。=<edward>Yeah. |So when we came to this town, we got caught in the commotion by accident.
 <alphonse>中尉こそ、どうしてヴァルドラに？=<alphonse>What about you, Lieutenant? Why are you in Valdolla?
 <riza>——数年前から、|軍は、不思譲な力を持つ、|謎の武装集団と戦っているの。=<riza>Since several years ago, the military has been fighting against a mysterious armed group, which holds some unknown power.
-<alphonse>不思譲な力を持つ集団？|——ヴェルザの一族のことか……。=<alphonse>A group holding an unknown power? |Could it be Velza's clan?
+<alphonse>不思譲な力を持つ集団？|——ヴェルザの一族のことか……。=<alphonse>A group holding an unknown power? |Could it be Velza Clan?
 <riza>私たちは、その援軍として、|セントラルから派遣されてきたのよ。=<riza>We were dispatched from Central as reinforcements.
 <edward>そうか……ん？|『私たち』？ そういや、|中尉がここにいるってことは……。=<edward>I see... |Wait, did you say “we"?| Then if you're here, Lieutenant, does it mean...?
 <riza>——ええ。|大佐と、アームストロング少佐も|ヴァルドラに来ているわ。=<riza>Yes. The Colonel and Major Armstrong are also coming to Valdolla.
@@ -2449,7 +2449,7 @@
 <edward>……お前がそうやってる時って、|たいがい、ネコか何かを|見つけた時なんだよな……。=<edward>When you act like this, it's usually because you've found a cat or something like that...
 <cat>ニャ～ン……。=<cat>Meooow!
 <edward>はぁ……。ダメだぞ、アル。|分かってるだろ。|今はそれどころじゃないんだからな。=<edward>Aah... Stop it, Al. You already know. |We don't have time for that.
-<alphonse>でも兄さん……。|この子、ケガしてるよ……。=<alphonse>But brother... This little one is injured...
+<alphonse>でも兄さん……。|この子、ケガしてるよ……。=<alphonse>But Brother... This little one is injured...
 <edward>えっ……ケガ？=<edward>Huh... Injured?
 <alphonse>かわいそうに……。|１人じゃ歩けないんだね……。|このままじゃ、きっと死んじゃうね……。=<alphonse>Poor guy... It can't walk alone... |At this rate, it will surely die.
 <edward>う……。=<edward>Uh...
@@ -2498,16 +2498,16 @@
 いいえ=No
 列車に乗りますか？=Get on the train?
 <blackbold>にゃんこ<normal>【とらきち】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Tiger"
-<alphonse>街がヴェルザの一族に襲われてるのに、|地下鉄が運行してるなんて……。=<alphonse>It seems the train's running, despite the attacks of the Velza's clan upon the city...
+<alphonse>街がヴェルザの一族に襲われてるのに、|地下鉄が運行してるなんて……。=<alphonse>It seems the train's running, despite the attacks of Velza Clan upon the city...
 <edward>助かったぜ。|これで、線路の上を|歩いていかずにすみそーだ。=<edward>Perfect. That way we won't have to walk on the railroad tracks.
-<alphonse>ちょ、ちょっと待ってよ、兄さん！|こんな時に列車が動いてるなんて、|少し変だと思わない？=<alphonse>Wa...Wait a moment, brother!|Don't you think it's a bit strange that trains are working at a time like this?
+<alphonse>ちょ、ちょっと待ってよ、兄さん！|こんな時に列車が動いてるなんて、|少し変だと思わない？=<alphonse>Wa...Wait a moment, Brother!|Don't you think it's a bit strange that trains are working at a time like this?
 <edward>たまたま、|仕事熱心な運転手さんでも|いたんじゃねーの？=<edward>Maybe there was a driver very enthusiastic about his job?
 <alphonse>何言ってるんだよ、もぅ……。|——やめといた方が|いいと思うけどなぁ……。=<alphonse>What are you talking about? Really...|I think it'd be better if you stopped...
 
 !FILE:0072_003/004.txt
 <edward>イベント０４１（０４０）=<edward>Event 041 (040)
 <edward>よっし、無事到着！=<edward>Alright, we arrived in one piece!
-<alphonse>無事到着じゃないでしょ……。|兄さんのせいで、よけい危ない目に|遭ったじゃないか……。=<alphonse>We didn't arrive safely!|We went through unnecessary danger because of you, brother!
+<alphonse>無事到着じゃないでしょ……。|兄さんのせいで、よけい危ない目に|遭ったじゃないか……。=<alphonse>We didn't arrive safely!|We went through unnecessary danger because of you, Brother!
 <edward>いいじゃんか、その分、早く着いたし。|細かいこと、気にすんなよ。|——さ、行こうぜ。=<edward>It's fine, this way we arrived faster. Don't worry about the details. |Well, let's go!
 <alphonse>もう、いいかげんだなぁ……。=<alphonse>So irresponsible...
 
@@ -2555,7 +2555,7 @@
 <armstrong>——うむ。|ならば、さっそく|取りかかるが良かろう。=<armstrong>Humm... In that case, you should set about it at once.
 <alphonse>ふぅ。２つ目の封印完了、っと。=<alphonse>Pheew! That takes care of the second seal.
 <alphonse>これで、残りはあと１つ。|最後のオベリスクは、|どこにあるんだろう……。=<alphonse>With this, there's only one left. |I wonder where the last Obelisk could be?
-<alphonse>——って、兄さん、|いつまで寝てるんだよ！=<alphonse>Hey, brother! How long are you gonna sleep!?
+<alphonse>——って、兄さん、|いつまで寝てるんだよ！=<alphonse>Hey, Brother! How long are you gonna sleep!?
 <armstrong>これと同じ巨大な塔なら、|街の東にある、軍司令部にあるぞ。=<armstrong>If you're looking for a giant tower like this, there's one at the East of the city, in the military headquarters.
 <edward>え！？ 本当に！？=<edward>Huh? Really!?
 <alphonse>——あ。|生き返った。=<alphonse>Ah... You're alive again.
@@ -2571,7 +2571,7 @@
 
 !FILE:0080_003/004.txt
 <edward>——ここが、|ウィンリィの言ってた|地下鉄の駅だな……。=<edward>This must be the subway station Winry was talking about...
-<alphonse>——兄さん！|こんな所まで、ヴェルザの一族が！=<alphonse>Brother! |The Velza's clan is here too!
+<alphonse>——兄さん！|こんな所まで、ヴェルザの一族が！=<alphonse>Brother! |Velza Clan is here too!
 <edward>ちっ……。|楽に行かせちゃくれねーらしいな！！=<edward>Tssk... |It seems they won't let us do this the easy way!!
 
 
@@ -2591,7 +2591,7 @@
 !FILE:0084_003/004.txt
 テスト=Test
 <edward>ここが、少佐の言ってた下水道だな。|この先が司令部へ|つながってるのか……。=<edward>These are the sewers the Major was talking about. So we'll find the headquarters up ahead.
-<alphonse>——兄さん！|ここにも、ヴェルザの一族が……！=<alphonse>Brother! The Velza's clan is here too!
+<alphonse>——兄さん！|ここにも、ヴェルザの一族が……！=<alphonse>Brother! Velza Clan is here too!
 <edward>——なんだと！？|くそっ……！=<edward>What!? |Dammit...
 <edward>——てことは、司令部の中にも、|すでに敵が侵入してるんじゃ……。|急ぐぞ、アル！=<edward>That means the enemy has already invaded headquarters. |Let's hurry, Al!
 
@@ -2601,7 +2601,7 @@
 マンホールに入りますか？=Enter the manhole?
 テスト=Test
 <alphonse>ここは……司令部の中だね。|無事に、たどりつけたみたい。=<alphonse>So we're... inside the headquarters. |It seems we managed to get here safely.
-<edward>ああ。だけど、思った通りだ。|すでに、ヴェルザの一族が|侵入してるな……。=<edward>Yeah. But it's just as I feared. |The Velza's clan has already invaded this place.
+<edward>ああ。だけど、思った通りだ。|すでに、ヴェルザの一族が|侵入してるな……。=<edward>Yeah. But it's just as I feared. |Velza Clan has already invaded this place.
 <alphonse>司令部は、この街でいちばん、|守りが堅い場所の|はずなのに……。=<alphonse>Even when headquarters are supposed to be the most secure place in this town...
 <edward>ヤツらには「印の力」があるからな。|ただの軍人じゃ、|太刀打ちできないだろう。=<edward>That's because they have the power of the seal. |Normal soldiers don't stand a chance against that.
 <edward>オベリスクは、この先みたいだな。|行こう、アル。=<edward>It seems the Obelisk is this way. |Let's go, Al.
@@ -2624,7 +2624,7 @@
 <soldier>コントロールルームが|敵にやられてしまって、|ロックを解除できんのだ。=<soldier>The control room is taken by the enemy, so you can't release the lock.
 <soldier>予備のスイッチなら、|最上階の司令室の隣に|あるはずだが……。=<soldier>But there should be a spare switch next to the command room at the top floor.
 <edward>最上階？ 一番上まで|行かなきゃなんねーのかよ……。|——しかたない。行こうぜ、アル。=<edward>The top floor? We have to go all the way up there? |Guess it can't be helped... Let's go, Al.
-<alphonse>兄さん、ドアが開いてる。|クレイギン将軍、忘れずにロックを|解除してくれたみたいだね。=<alphonse>The door is open, brother. |It seems that General Craigin didn't forget to release the lock.
+<alphonse>兄さん、ドアが開いてる。|クレイギン将軍、忘れずにロックを|解除してくれたみたいだね。=<alphonse>The door is open, Brother. |It seems that General Craigin didn't forget to release the lock.
 <edward>よし、これでやっと|オベリスクの所へ行けるな。=<edward>Great, now we can finally get to the Obelisk.
 <alphonse>——え？ なに、今の音？=<alphonse>Huh? What was that noise right now?
 <edward>爆発音？ 外からだな。|——急ぐぞ、アル！=<edward>An explosion? |It came from outside. Hurry up, Al!
@@ -2632,7 +2632,7 @@
 <soldier>ロック解除のスイッチは、|司令室の隣の部屋にあるはずだ。|いいか、くれぐれも無茶はするなよ……。=<soldier>The switch to open the door should be next to the command room. |But please, don't do anything reckless...
 <soldier>お前たち、うまくやったな。|だが、この先に行きたいのなら、|今は止めた方がいい……。=<soldier>You did fine. |But if you plan to go further, you'd better stop now.
 <soldier>あの２人…人間じゃない……。|とばっちりを受けて、|焼け死ぬのが関の山だ……。=<soldier>Those two people... they aren't human... |At best, you'll get caught in the middle and burn to death.
-<alphonse>戻ってる暇なんかないよ！|——急ごう、兄さん！=<alphonse>There's no time to go back! Hurry up, brother!
+<alphonse>戻ってる暇なんかないよ！|——急ごう、兄さん！=<alphonse>There's no time to go back! Hurry up, Brother!
 
 !FILE:0091_003/004.txt
 <smalltext><blackbold>アイテム<normal>【秘密の史書（４）】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Secret Book (4)"
@@ -2739,7 +2739,7 @@
 <edward>けど……今はもう、信じてる。|——アイツの言ったことだからな。=<edward>But now I do... It's just as she told us.
 <roy>お前に「聖印」の力を与えたという、|少女のことか……。=<roy>You mean the girl who gave you the power of the Holy Seal?
 <edward>ああ。=<edward>Yeah.
-<alphonse>でも、クレイギン将軍は、|兄さんの話、まったく|信じてくれなかったね。=<alphonse>However, General Craigin didn't believe your story at all, brother.
+<alphonse>でも、クレイギン将軍は、|兄さんの話、まったく|信じてくれなかったね。=<alphonse>However, General Craigin didn't believe your story at all, Brother.
 <edward>——まぁ、いいさ。|どっちにしろ、軍が援護してくれるなら、|城まで行くのは、楽になるしな。=<edward>Well, never mind.|In any case, if the army supports us, it'll be easier to get into the castle.
 <roy>——鋼の。|クレイギン将軍は、あまり信用するな。=<roy>Fullmetal... Don't trust General Craigin too much.
 <edward>ん？ どういうことだよ？=<edward>Huh? What are you talking about?
@@ -2770,7 +2770,7 @@
 <janice>エ————ッ！？|バケモノって、ジャニスのコトぉ！？|ガビーン！ 大ショックぅ～～！=<janice>Eeeeeh!? Janice, a monster!? |Geez, no! What a shock!
 <janice>てゆーか！ このキュートでセクスィな|ジャニスちゃんをバケモノ呼ばわりなんて、|失礼しちゃうわ！ ぷんぷん！！=<janice>I mean, it's so rude to call the cute and sexy Janice a monster! Pffft!
 <alphonse>うわぁ～～……。|テンション、高ぁ……。=<alphonse>Wow... The tension's high...
-<edward>……お前も、ヴェルザの一族か。=<edward>Are you also a member of Velza's clan?
+<edward>……お前も、ヴェルザの一族か。=<edward>Are you also a member of Velza Clan?
 <janice>ピンポーン、正解ッ♪|アタシが、一族でいっちばんカワイイ、|疾風のジャニスちゃんデ～ス☆=<janice>Ding, ding, ding, correct! ♪ I'm the most adorable member of the Clan: Janice of the Hurricane! ☆
 <janice>アンタたちってぇ、|変態レオニードと、バカぷーゴドーを|やっつけたんでしょお？ すっご～い♪=<janice>You defeated that pervert Leonid and the idiot Godo, right? |Amaaaazing! ♪
 <janice>で～も、ジャニスは、そーはいかないよぉ！|まずはぁ、そっちのオチビちゃんから、|八つ裂きにしちゃおっかな♪=<janice>But it won't be the same with Janice! |First, I'll start dismembering that little bean over theeere... ♪
@@ -2858,7 +2858,7 @@
 <edward>くそッ……。|ちくしょうッ！=<edward>Damn! That son of a bitch!
 <alphonse>兄さん……。=<alphonse>Brother...
 <edward>結局、間に合わなかったって|言うのかよ……！|ソフィに、なんて言やいいんだ……。=<edward>You're telling me that we were too late after all!? |What am I gonna say to Sophie now...?
-<alphonse>……そうだ、兄さん。|オベリスクは、どうしよう……？=<alphonse>It's okay, brother. |What should we do about the Obelisk?
+<alphonse>……そうだ、兄さん。|オベリスクは、どうしよう……？=<alphonse>It's okay, Brother. |What should we do about the Obelisk?
 <edward>あ、ああ——。|そうだな、いまさらかもしれないけど、|とにかく封印しておこう。=<edward>Ah, yeah... I know it may be too late already, but let's seal it anyway.
 <roy>鋼の……。=<roy>Fullmetal...
 <alphonse>大佐、大丈夫ですか？=<alphonse>Are you alright, Colonel?
@@ -2873,9 +2873,9 @@
 <smalltext>ソフィを守りながら進もう！=<smalltext>Move forward while protecting Sophie!
 <alphonse>無事に、城に入りこめたね。|ここまでは、|敵と戦わずに済んだし。=<alphonse>Me managed to get into the castle safely. So far, we didn't have to fight any enemies.
 <edward>軍が、総攻撃をかけているからな。|ヤツらも、オレたちどころじゃ|なかったんだろう。=<edward>The army is launching a general offensive. So they probably had no time to deal with us.
-<sophie>でも、ヴェルザの一族は、|城の中にも大勢いるわ。=<sophie>But there are many members of the Velza's clan inside the castle.
+<sophie>でも、ヴェルザの一族は、|城の中にも大勢いるわ。=<sophie>But there are many members of Velza Clan inside the castle.
 <edward>よし、行くぞ。|ソフィ。オレたちから|離れるんじゃないぞ。=<edward>Well, let's go. |Sophie, don't get separated from us.
-<alphonse>兄さん、ここはボクが行くよ。=<alphonse>I'll go here, brother.
+<alphonse>兄さん、ここはボクが行くよ。=<alphonse>I'll go here, Brother.
 
 !FILE:0116_002/004.txt
 <godot>グォワアアァァ———ッ！！=<godot>GRUAAAAAH!!
@@ -3131,7 +3131,7 @@
 <edward>き、消えちまった……。|いったい、どうなってんだ……。=<edward>He... He vanished! |What the hell's going on?
 <sophie>——印に、命を|燃やしつくされてしまったのよ……。|これが、彼らの背負う、印の呪い……。=<sophie>His life was burned away by the seal. This is the curse of those that carry it.
 <alphonse>呪い……？=<alphonse>A curse?
-<sophie>ええ。ヴェルザの一族の印は、|代々受け継がれる、生まれつきのもの。|そして、それは、決して消えない……。=<sophie>Yes. The seal of the Velza's clan is carried from birth, passed down through generations. Therefore, there's no way to remove it.
+<sophie>ええ。ヴェルザの一族の印は、|代々受け継がれる、生まれつきのもの。|そして、それは、決して消えない……。=<sophie>Yes. The seal of Velza Clan is carried from birth, passed down through generations. Therefore, there's no way to remove it.
 <sophie>確かに彼らは、印によって|超人的な力を得ている。でも、それは、|自らの命を代償にして得る力……。=<sophie>They may have gained superhuman powers thanks to the seal. But it's a power that comes at the cost of their own lives.
 <sophie>印の力を使えば使うほど、|確実に命は削られてしまう。=<sophie>The more you use the seal, the more it drains your life force.
 <sophie>さっきの人は、力を使いすぎた。|だから、命を失った。|あれが、呪いの結末よ……。=<sophie>This person used too much power, and thus his life was taken away. That's the conclusion of the curse.
@@ -3161,7 +3161,7 @@
 <edward>——だとしても……|どうして最初に|説明してくれなかったんだ。=<edward>Even if that's the case, why didn't you tell us in the first place?
 <sophie>言えば、素直に聖印を受け取ってくれた？|あなたたちに、|余計な心配をかけるだけじゃない。=<sophie>Would you have accepted the Holy Seal if I had told you? I didn't want to cause you unnecessary worries.
 <alphonse>もういいよ、ソフィ！|早く、聖印を消して！|こんなもの、いらないよ！！=<alphonse>That's enough, Sophie! Remove this seal right now! We don't need it!
-<sophie>そんなこと言わないで、アル……。|それがないと、|ヴェルザの一族とは戦えないのよ。=<sophie>Don't say that, Al. You can't fight against the Velza's clan without it.
+<sophie>そんなこと言わないで、アル……。|それがないと、|ヴェルザの一族とは戦えないのよ。=<sophie>Don't say that, Al. You can't fight against Velza Clan without it.
 <alphonse>こんなもの無くても、戦ってやるさ！|ソフィの命を削るくらいなら、自分の命を|危険にさらす方が、よっぽどマシだよ！=<alphonse>I'll fight even without this! I'd much rather risk my own life than yours!
 <sophie>アル……。=<sophie>Al...
 <sophie>……分かった。|そこまで言うなら、聖印は消すわ。=<sophie>I understand... Since you insist, I'll remove the Holy Seal.
@@ -3177,13 +3177,13 @@
 <sophie>……ごめんね……エド……アル……。=<sophie>I'm sorry... Ed, Al...
 <edward>……………………。=<edward>.........................................
 <edward>……聖印は、消さなくていい。|行くぞ、２人とも。=<edward>You don't need to erase the seal. |Let's go, both of you.
-<alphonse>——え！？ ちょっと、兄さん……！=<alphonse>Eeeh!? But brother...!
+<alphonse>——え！？ ちょっと、兄さん……！=<alphonse>Eeeh!? But Brother...!
 <sophie>エド……！=<sophie>Ed!
 <edward>ソフィは、もともと、命をかける|覚悟なんだ。オレたちが、とやかく|言うことじゃない。=<edward>Sophie was ready to sacrifice her life from the beginning. There's nothing we can say to change that.
 <alphonse>そ、それは分かるけど……でも……。=<alphonse>I... I understand that, but...
 <edward>なら、ここでソフィを見捨てるのか？|ソフィは前に進もうとしているのに、|オレたちが足踏みしてどうする。=<edward>Then would you abandon her in this place? She's trying to move forward, so what's the point of stalling her?
 <alphonse>う、うん……そう、だよね……。=<alphonse>Ye-Yeah... I see...
-<alphonse>——分かったよ、兄さん。|ボクも、ソフィと一緒に行くよ。=<alphonse>Understood, brother. I'll go with Sophie too.
+<alphonse>——分かったよ、兄さん。|ボクも、ソフィと一緒に行くよ。=<alphonse>Understood, Brother. I'll go with Sophie too.
 <sophie>エド……！ アル……！=<sophie>Ed! Al!
 <edward>ソフィ。オレたちは、|お前を、絶対に死なせたりはしない。=<edward>Sophie, we won't let you die, that's for sure.
 <edward>この聖印が、お前の命を|削るというのなら……|その前に、すべてを終わらせてやる……！=<edward>If the Holy Seal is about to take your life, I'll end everything before that happens!
@@ -3290,7 +3290,7 @@
 <alphonse>身体が動かないんだ。|この装置が、強力な磁力を|発生させているみたい。=<alphonse>I can't move my body. This device seems to be generating a strong magnetic field.
 <edward>分かった、ちょっと待ってろ。|その装置を|どうにかすりゃいいんだな。=<edward>I see, hold on a second. I just need to do something about that device.
 <edward>大丈夫か、アル？=<edward>Are you okay, Al?
-<alphonse>うん。ありがとう、兄さん！=<alphonse>Yes. Thank you, brother!
+<alphonse>うん。ありがとう、兄さん！=<alphonse>Yes. Thank you, Brother!
 <alphonse>でも、危なかったよ。|もう少しでボク、最強の|マッスィ～ンにされるとこだったんだ。=<alphonse>But that was a close call. A little more, and I would have turned into the strongest machine.
 <edward>——へ？ 何の話だ？=<edward>Huh? What are you talking about?
 <alphonse>あ、ううん、何でもない。|——それより兄さん、その格好は？=<alphonse>Ah, uh... Nothing. |By the way, Brother, what about your appearance?
@@ -3374,7 +3374,7 @@
 <hammer>ボーズー、助けてくれ——！=<hammer>Boy, please help us!
 <trigger>開けてくれー！|ヨロイちゃ——ん！=<trigger>Open up! Armor booooy!
 <venus>バカ！|敵に助けを求めてんじゃないよ！！=<venus>Fools! Don't ask the enemy for help!!
-<alphonse>……どうする、兄さん？=<alphonse>What do we do, brother?
+<alphonse>……どうする、兄さん？=<alphonse>What do we do, Brother?
 <edward>帰ろう。=<edward>Let's go back.
 <alphonse>うん、そうだね。=<alphonse>Yeah, that's right.
 <venus>ちょ、ちょいとお待ち！！|お待ちってば！！|コラ————————ッ！！=<venus>Wa-Wait a minute! Wait!! |HEEEEEY!!
@@ -3397,7 +3397,7 @@
 <alphonse>ありがとうございます、大佐。=<alphonse>Thank you very much, Colonel.
 <roy>……鋼の——。|お前も男なら、あの少女を|守ってみせたまえ。=<roy>Fullmetal... If you're also a man, you must protect that girl.
 <edward>……へっ、言われなくても|そのつもりだ。|ソフィはオレが守る。=<edward>Heh! I was gonna do that even if you didn't tell me. |I will protect Sophie.
-<alphonse>オレたちが、でしょ、兄さん。|安心してください、ソフィを|二度と危険な目には遭わせません。=<alphonse>We'll both do so, brother. Don't worry, we won't put Sophie in danger again.
+<alphonse>オレたちが、でしょ、兄さん。|安心してください、ソフィを|二度と危険な目には遭わせません。=<alphonse>We'll both do so, Brother. Don't worry, we won't put Sophie in danger again.
 <roy>フッ……。|その言葉、信じたぞ。=<roy>Hmmm... I believe those words.
 <riza>２人とも、気をつけて。|常に状況判断を|怠らないようにね。=<riza>You two, be careful. Always remember to judge according to the situation.
 <alphonse>はい。|ホークアイ中尉も、|どうかご無事で。=<alphonse>Yes. Stay safe too, Lt. Hawkeye.
@@ -3538,11 +3538,11 @@
 <zelgius>だが……|我らの力の秘密を狙って、|多くの者が捕らわれ、殺されてきた。=<zelgius>But... many of us have been captured and killed by those who desired the secret of our powers.
 <zelgius>時に、かりそめの平和が訪れても、|また必ず、別の者が我らに目をつけ、|新たな争いが起こる……。=<zelgius>Even when a temporary truce was reached, someone else would always set their sights on us, and start a new conflict.
 <zelgius>神の力ですべてを滅ぼし、|その後に、我らの新しい世を作るのだ。|我らの生きる道は、もはや他にない。=<zelgius>So we'll destroy everything with the power of our goddess. And afterwards we'll create a new world. There's no other way for us to live.
-<sophie>そんなことない！ 道はあるわ！|私の父は、|印の呪いを消す方法を——！=<sophie>It doesn't have to be like that! There are other ways! |My father found a way to remove the seal's curse...!
+<sophie>そんなことない！ 道はあるわ！|私の父は、|印の呪いを消す方法を——！=<sophie>It doesn't have to be like that! There are other ways! My father found a way to remove the seal's curse...!
 <zelgius>神を蘇らせようと決めたのは、|ギルベルト。|——お前が、父と呼んでいる男だ。=<zelgius>It was Gilbert who decided to revive the goddess. The man you call your father.
 <sophie>えっ……？=<sophie>Eh...?
-<zelgius>ヴィクトール・ベルクマンこと、|霊光のギルベルト。かつては、|我ら四神官の上に立つ、一族の長だった。=<zelgius>Victor Bergmann, also known as Gilbert of the Spiritual Light. He was once our leader, standing above us the Four Priests.
-<zelgius>奴は、軍から攻撃を受けて|危機におちいった一族を救うため、|神の復活を決意したのだ。=<zelgius>He made the choice of resurrecting the goddess to save the Clan, which was in danger under the army's attacks.
+<zelgius>ヴィクトール・ベルクマンこと、|霊光のギルベルト。かつては、|我ら四神官の上に立つ、一族の長だった。=<zelgius>Victor Bergmann, also known as Gilbert of the Spiritual Light. He was once our leader, standing above we Four Priests.
+<zelgius>奴は、軍から攻撃を受けて|危機におちいった一族を救うため、|神の復活を決意したのだ。=<zelgius>He made the choice of resurrecting the goddess to save the Clan, which was in danger from the army's attacks.
 <sophie>そ、そんな……ウソよ！|父は、ヴェルザ復活に反対したから、|あなたに殺されたんじゃない！=<sophie>That... That's a lie! |You killed my father because he was against Velza's resurrection!
 <sophie>それに、私の聖印は、|一族と対抗するために、|父がくれたものなのよ！=<sophie>And he gave me this Holy Seal to fight against the Clan!
 <zelgius>フッ……。|お前は不思譲に思ったことはないか？=<zelgius>Hmm... Haven't you wondered about that mystery?
@@ -3550,7 +3550,7 @@
 <sophie>そ、それは……。=<sophie>Th-That's...
 <zelgius>教えてやろう。|聖印、それは「ヴェルザの印」。|そして、お前が「神の器」である証だ。=<zelgius>I'll tell you. |This Holy Seal is “Velza's Seal". And it's proof you're the vessel of the goddess.
 <sophie>ヴェルザの印……。|神の器……。=<sophie>Velza's Seal... A vessel of the goddess...
-<zelgius>お前が生まれた頃の話だ。|ギルベルトと俺は、神を復活させるべく|研究を続けていた。=<zelgius>It's story from about the time you were born. Gilbert and I were researching methods to resurrect the goddess.
+<zelgius>お前が生まれた頃の話だ。|ギルベルトと俺は、神を復活させるべく|研究を続けていた。=<zelgius>It's a story from about the time you were born. Gilbert and I were researching methods to resurrect the goddess.
 <zelgius>そして、復活には、|神の魂を宿す肉体、|「器」が必要であることを知った。=<zelgius>And we learned that, to do so, we needed a body to house the goddess' soul, a “vessel".
 <zelgius>——だが、「器」を造るには、|幼い赤子の身体が必要だった。=<zelgius>But to make this vessel, the body of a young baby was required.
 <sophie>…………！|ま、まさか——！？=<sophie>....................! |It... It can't be!
@@ -3604,7 +3604,7 @@
 <venus>それでも、|ここを通すわけには|いかないね！=<venus>Still, I can't let you proceed.
 <alphonse>ローズマリア中佐……。=<alphonse>Lt. Colonel Rosemaria...
 <edward>なんでだよ！|なんでそこまで、|クレイギンの野郎を信じるんだ！！=<edward>Why!? Why do you trust that Craigin guy so much!?
-<venus>……ボウヤには分からない、|オトナの事情ってヤツさ。=<venus>You boy can't understand. It's a grown-up thing.
+<venus>……ボウヤには分からない、|オトナの事情ってヤツさ。=<venus>You boys can't understand. It's a grown-up thing.
 <edward>なんだと……。=<edward>Why...
 <venus>さぁ、おしゃべりはここまでだ！|遠慮なく行くよ、ボウヤ！！=<venus>Well, enough chatter! Let's lash out, boy!!
 <edward>くそっ！ この分からず屋が……！|やるぞ、アル！！=<edward>Damn! These blockheads... Let's do it, Al!!
@@ -3625,10 +3625,10 @@
 <venus>おだまり！|これ以上、みっともないマネ|さらすんじゃないよっ！=<venus>Enough! Don't make more of a fool of yourself!
 <trigger>ヴィ、ヴィーナス様……。=<trigger>La-Lady Venus...
 <venus>命令どおり戦って、|負けちまったもんは、しかたないだろ。|将軍への義理は果たしたさ。=<venus>We fought as ordered and lost, so that's the end of it. I've fulfilled my duty to the General.
-<venus>さぁ、ボウヤ。グズグズしてると|他のヤツが来ちまうよ。|早く行きな。=<venus>Come on, boy. If you linger here the others will come. |Go away quickly.
-<edward>……ああ。|行くぞ、アル、ソフィ！|急げ！=<edward>Yeah... Let's go Al, Sophie! We must hurry!
+<venus>さぁ、ボウヤ。グズグズしてると|他のヤツが来ちまうよ。|早く行きな。=<venus>Come on, boy. If you linger here the others will come. |Go away, quickly.
+<edward>……ああ。|行くぞ、アル、ソフィ！|急げ！=<edward>Yeah... Let's go. Al, Sophie! We must hurry!
 <hammer>気をつけて行くだぞォ、ボーズ！=<hammer>Be careful on your way, boy!
-<venus>——フフ、本当に残念だよ。|本当に、あと１０年早く|生まれてればねぇ……。=<venus>Heh heh! It's truly a pity. If only he was ten years older...
+<venus>——フフ、本当に残念だよ。|本当に、あと１０年早く|生まれてればねぇ……。=<venus>Heh heh! It's truly a pity. If only he were ten years older...
 <trigger>ヴィ、ヴィーナス様……その目は……！？|まさか……まさか……|あのクソガキを……！？=<trigger>La-Lady Venus... Those eyes...!? ...No way, no way...! |That damn brat!
 <trigger>……ボクのメカを壊し、|愛しのヴィーナス様の心まで……。=<trigger>He destroyed my mecha, and now he steals the heart of my beloved Lady Venus...
 <trigger>許さない……！|ゼーッタイに、許さないゾォォォ！！！=<trigger>I won't forgive him! |I'll never forgive hiiiiim!!
@@ -3688,7 +3688,7 @@
 <edward>——くっ！|待てッ！ ゼルギウスッ！！=<edward>Damn! |Wait, Zelgius!!
 <alphonse>ソフィ！ ソフィーッ！！=<alphonse>Sophie! Sophiiiiee!!
 <zelgius>ハッハッハ……！|ハーッハッハッハッハッハ……！！=<zelgius>Ha ha ha! |Ha ha ha ha ha ha!!
-<alphonse>ああっ……。|ソ、ソフィが|連れていかれちゃった……。=<alphonse>Aah... |He took away Sophie...
+<alphonse>ああっ……。|ソ、ソフィが|連れていかれちゃった……。=<alphonse>Aah... |He took Sophie away...
 <edward>——クソッ……チクショウッ……。|ソフィ————ッ！！=<edward>Damn... Damn it all... |Sophiiiiieee!!
 
 !FILE:0179_003/004.txt
@@ -3722,7 +3722,7 @@
 
 !FILE:0180_003/004.txt
 <edward>ここが、塔の内部か……。=<edward>So this is the inside of the tower...
-<alphonse>——ねぇ、兄さん。|大佐たち、大丈夫かな……。=<alphonse>Hey, brother. |I wonder if the Colonel and the others are alright...
+<alphonse>——ねぇ、兄さん。|大佐たち、大丈夫かな……。=<alphonse>Hey, Brother. |I wonder if the Colonel and the others are alright...
 <edward>今は、信じて先に進むしかねぇ。|大佐たちのことだ、|きっと、大丈夫さ。=<edward>Right now we can only trust them and move forward. I'm sure the Colonel and his men are fine.
 <alphonse>……うん、そうだね。=<alphonse>Yeah, that's right.
 <edward>——待ってろよ、ソフィ……。=<edward>Hold on, Sophie...
@@ -3953,7 +3953,7 @@
 <bradley>うむ。北方の武装集団が、無事|鎮圧されたと報告を受けてな。|視察に来たのだよ。=<bradley>Hmm. I received a report about the northern armed group being successfully suppressed. I came to inspect it.
 <bradley>そうそう。君たちのことも聞いたよ。|今回も活躍だったようだな。|いや、結構結構。はっはっは。=<bradley>Well, well... I also heard about you. It seems you did well this time too. |No, good work, good work. Ha ha ha!
 <edward>……………………。=<edward>.................................
-<bradley>……ところで君は、ヴェルザの一族と|称する奴らの不思譲な力のこと、|何か知っていないかね？=<bradley>By the way, do you know something about the mysterious power of those that call themselves the Velza Clan?
+<bradley>……ところで君は、ヴェルザの一族と|称する奴らの不思譲な力のこと、|何か知っていないかね？=<bradley>By the way, do you know something about the mysterious power of those that call themselves Velza Clan?
 <edward>……別に、何も。=<edward>Nothing really.
 <bradley>——そうか。それは残念だ。=<bradley>I see. That's a shame.
 <bradley>奴らの力の秘密が分かれば、|国家錬金術師に次ぐ、|新たな軍の力になるかもしれん。=<bradley>If we could discover the secret of their powers, we could become a new military force second only to the State Alchemists.
@@ -4028,18 +4028,18 @@
 <alphonse>……兄さん。|ボクたちで探すんだ。|——ソフィを元に戻す方法を。=<alphonse>Brother, we'll find it together, a way to return Sophie back to normal.
 <alphonse>ここで下を向いていても、|何も変わらない。=<alphonse>Getting depressed here won't change anything.
 <edward>アル……。=<edward>Al...
-<alphonse>——行こう、兄さん。|どんなことがあっても……|ボクたちは前に進むんだ。=<alphonse>Let's go, brother. No matter what, we must keep moving forward.
+<alphonse>——行こう、兄さん。|どんなことがあっても……|ボクたちは前に進むんだ。=<alphonse>Let's go, Brother. No matter what, we must keep moving forward.
 <edward>……………………。=<edward>.................................
 <edward>……ああ、そうだな。アル……。=<edward>Yeah, that's right, Al.
 <edward>……行こう。|アル、ウィンリィ……。=<edward>Let's go. Al, Winry...
 <roy>——ケガの具合はどうだ、中尉。=<roy>How are your injuries, Lieutenant?
 <riza>たいしたことありません。|大佐の方こそ、|ご無理をなさっては——。=<riza>They're nothing important. I'd rather ask you, Colonel, if you're pushing yourself too much.
 <roy>残念だが、のんびりしてもいられん。|戦死したクレイギン将軍に代わり、|私が、この街の臨時司令官に任命された。=<roy>Unfortunately, I can't take it easy. I've been appointed as temporary commandant of this city, replacing General Craigin, who was killed in action.
-<riza>そうですか……。|——ヴェルザの一族は、|みな、姿を消したとか？=<riza>Is that so? |I heard that the Velza Clan has completely disappeared.
+<riza>そうですか……。|——ヴェルザの一族は、|みな、姿を消したとか？=<riza>Is that so? |I heard that Velza Clan has completely disappeared.
 <roy>ああ。北の山岳地帯、|彼らが住んでいた地へ|撤退したようだ。=<roy>They seem to have retreated to the northern mountains, where they used to live.
 <roy>ヴェルザ復活の望みがなくなった今、|こちらから手を出さん限りは、|襲ってくることもあるまい。=<roy>Now that they can't hope to revive Velza, they won't attack unless we make a move.
 <riza>——しかし、大総統が、|彼らの力の秘密を手に入れるよう|命じたと聞きましたが？=<riza>However, I heard that the Fuehrer had issued orders to obtain the secret of their powers.
-<roy>ヴェルザの一族は全滅、|鍵を握る少女の記憶も失われ、|今となっては、秘密を知る術はない……。=<roy>The Velza Clan has been wiped out, and the memories of the girl who held the key have been lost, so there's no way to find out the secret now.
+<roy>ヴェルザの一族は全滅、|鍵を握る少女の記憶も失われ、|今となっては、秘密を知る術はない……。=<roy>Velza Clan has been wiped out, and the memories of the girl who held the key have been lost, so there's no way to find out the secret now.
 <riza>——そのように報告を？=<riza>Did you make a report about it?
 <roy>ああ。「印の力」とは、|ある種の呪いとでも言うべき、|やっかいなものらしい。=<roy>Yes. The power of the seal seems to be a dangerous thing, one could say a kind of curse.
 <roy>無益な争いを繰りかえさぬためにも……|このまま歴史の闇に|埋もれさせていくべきだろう。=<roy>To prevent pointless conflicts to ever happen again, we should bury it all in the shadows of history.
@@ -4154,11 +4154,11 @@
 <winry>だけど、ビックリよねぇ。|一瞬でケガを治しちゃうなんて。|それもその、聖印の力なんでしょ？=<winry>But it's surprising that you can heal injuries in an instant. That must be the power of the Holy Seal, right?
 <edward>——なぁ、ソフィ。|聖印のこと、|もう少し、詳しく教えてくれないか。=<edward>Hey, Sophie. Could you tell us more details about this Holy Seal?
 <sophie>え、ええ……いいわ。=<sophie>Eh, yeah... That's fine.
-<sophie>この聖印は、|父が私に与えてくれた物なの。|ヴェルザの一族と戦うために。=<sophie>It was my father who gave me this seal. To fight against the Velza Clan.
+<sophie>この聖印は、|父が私に与えてくれた物なの。|ヴェルザの一族と戦うために。=<sophie>It was my father who gave me this seal. To fight against Velza Clan.
 <alphonse>ソフィのお父さんが？=<alphonse>Your father?
 <sophie>……うん。|実はね、私の父も、|ヴェルザの一族の人間だったの……。=<sophie>Yes. To be honest, my father was also a member of the Clan.
-<armstrong>父の名は、ヴィクトール・ベルクマン。|かつては、ヴェルザの一族の一員だった。=<sophie>My father's name was Victor Bergmann. He was once a member of the Velza Clan.
-<armstrong>ヴェルザの一族とは、何百年も前から、|ブリックズ山に連なる北の山中に身を隠し、|独自の錬金術体系を守ってきた集団。=<sophie>The Velza Clan is a group that has been hiding in the northern mountains around Briggs for hundreds of years, protecting their own system of alchemy.
+<armstrong>父の名は、ヴィクトール・ベルクマン。|かつては、ヴェルザの一族の一員だった。=<sophie>My father's name was Victor Bergmann. He was once a member of Velza Clan.
+<armstrong>ヴェルザの一族とは、何百年も前から、|ブリックズ山に連なる北の山中に身を隠し、|独自の錬金術体系を守ってきた集団。=<sophie>Velza Clan is a group that has been hiding in the northern mountains around Briggs for hundreds of years, protecting their own system of alchemy.
 <armstrong>だが、いつの頃からか、|彼らは大いなる力——ヴェルザの復活を|望むようになっていた。=<sophie>However, at some point, they began to desire a great power: the resurrection of Velza.
 <armstrong>父は、ヴェルザの復活に反対した。|けれど、彼らは誰も、|父の言うことを聞こうとはしなかった。=<sophie>My father was opposed to Velza's rebirth. But none of them wanted to listen to him.
 <armstrong>ヴェルザが、今の汚れた世界を浄化し、|新しい自分たちの世界が来る……|それが彼らの信仰だった。=<sophie>Velza would purify the corrupted world of the present, and usher in a new world for them... That was what they believed.
@@ -4166,7 +4166,7 @@
 <armstrong>その日から、|父と私は一族の裏切り者として、|命を狙われることになった。=<sophie>From that day onwards, my father and I became traitors to the Clan, and our lives were in danger.
 <armstrong>一族の目を逃れ、ひっそりと隠れ住む日々。|だけど、それは父と私の間に訪れた、|初めての穏やかな時間でもあった。=<sophie>We spent the days hiding out, escaping from the eyes of the Clan. But this was also the first time that my father and I could have some peaceful life together.
 <armstrong>そんな生活の中、父は、|彼らに対抗するための研究を続けていた。=<sophie>While living like this, my father continued his research to stop them.
-<armstrong>ヴェルザの一族の者は、身体に刻んだ|「印」による恐ろしい力を持っている。|彼らと戦うには、新しい力が必要だった。=<sophie>The members of the Velza Clan have fearsome powers due to the “seals" engraved on their bodies. To fight them, we needed a new power.
+<armstrong>ヴェルザの一族の者は、身体に刻んだ|「印」による恐ろしい力を持っている。|彼らと戦うには、新しい力が必要だった。=<sophie>The members of Velza Clan have fearsome powers due to the “seals" engraved on their bodies. To fight them, we needed a new power.
 <armstrong>そして「聖印」が生まれた。=<sophie>Thus, the “Holy Seal" was born.
 <armstrong>だけど、それからまもなくして——|父と私の幸せな時間は、|突如として終わりを告げた。=<sophie>However, soon after this... our happy days together came to an abrupt end.
 <armstrong>ある日ついに私たちは見つかってしまった。|そして、私の目の前で、|父は無惨に殺されてしまった……。=<sophie>We were finally discovered one day. And before my very eyes, my father was brutally murdered.
@@ -4194,7 +4194,7 @@
 <alphonse>うん、バッチリだよ。|ウィンリィの教えてくれた地下鉄で|ちゃんと行けたしね。=<alphonse>Yeah, it worked just fine. We got there quickly using the subway you told us about, Winry.
 <edward>だけど、ヒドイ目にあったぜー。|列車の中は敵だらけだし、|暑苦しい筋肉に捕まるし……。=<edward>But we got into trouble. |The train was full of enemies, and I was trapped between sweaty muscles.
 <sophie>…………………………。=<sophie>........................................
-<alphonse>列車の件は、|兄さんが悪いんじゃないか。|——って、どうしたの、ソフィ？=<alphonse>Well, the issue with the train was your fault, brother. |..........Huh, what's the matter, Sophie?
+<alphonse>列車の件は、|兄さんが悪いんじゃないか。|——って、どうしたの、ソフィ？=<alphonse>Well, the issue with the train was your fault, Brother. |..........Huh, what's the matter, Sophie?
 <sophie>え……。=<sophie>Eh....
 <edward>さっきから黙って、オレたちを|ジロジロ見てるけど、|……何かあったのか？=<edward>You've been silent and staring at us for a while now... |Is something wrong?
 <sophie>あ、ううん、ごめん。なんでもないわ。|——ただ、さっきウィンリィから|２人のことを聞いたから……。=<sophie>Ah, well, sorry. It's nothing. Just that, a while ago, Winry told me about you two...
@@ -4255,14 +4255,14 @@
 <roy>はっはっは。|鋼の。これで、|この前の借りは返したぞ。=<roy>Ha ha ha! With this, I've paid my debt from last time, Fullmetal.
 <edward>く～～～～っ！=<edward>Umph!
 <roy>「神の力」を手に入れる……。|クレイギン将軍の狙いが、|そんなところにあったとは……。=<roy>Achieving the power of a god... I never thought that General Craigin would be after something like that...
-<edward>ああ。将軍も、|ヴェルザの一族のヤツらと、|同じものを求めているわけだ。=<edward>Yeah. The General and the Velza Clan just want the same thing.
+<edward>ああ。将軍も、|ヴェルザの一族のヤツらと、|同じものを求めているわけだ。=<edward>Yeah. The General and Velza Clan just want the same thing.
 <edward>——大佐はどうすんだ？|……大佐も、「神の力」を手に入れれば、|出世できるかもしれないぜ。=<edward>What about you, Colonel? With the power of a god, you could get a promotion.
 <alphonse>兄さん……！=<alphonse>Brother!
 <roy>ふむ。たしかにそうだな。|私も、その力に興味はある。=<roy>Hmm... Actually, that's right. I'm also interested in that kind of power.
 <alphonse>えっ、大佐！？=<alphonse>Huh? Colonel!?
 <roy>だが、私の好みではないな。=<roy>However, it's just not my cup of tea.
 <roy>今回の件で、|多くの者が傷つき、|命を落としている。=<roy>Too many people have been injured or killed during this incident.
-<roy>我ら軍人も、|敵であるヴェルザの一族も、|そしてヴァルドラの市民たちも……。=<roy>Our own troops, the enemies from the Velza Clan, and also the citizens of Valdolla...
+<roy>我ら軍人も、|敵であるヴェルザの一族も、|そしてヴァルドラの市民たちも……。=<roy>Our own troops, the enemies from Velza Clan, and also the citizens of Valdolla...
 <roy>その力とやらが、そこまでして|得る価値があるものだとは、|私には思えん。=<roy>That's too high a price to pay, in order to obtain that power.
 <edward>そうか……。=<edward>I see...
 <sophie>ヴェルザの力は、ただすべてを殺し、|破壊するだけ……。|人が操れるようなものじゃないわ。=<sophie>The power of Velza will just kill and destroy everything... It's not something that people can control.
@@ -4308,7 +4308,7 @@
 <winry>——エド！ アル！|良かった……！|無事だったのね……！=<winry>Ed! Al! |Thank goodness... You're safe!
 <edward>……ウィンリィ。=<edward>Winry...
 <winry>もう、本当に心配したんだから！|空が光ったと思ったら、|突然、あんな大きな塔が現れるし——。=<winry>I was so worried! The sky lit up, and then suddenly, that big tower appeared.
-<winry>アンタたちも、|なかなか帰ってこないし……。|もう、どうなることかと——。=<winry>You guys didn't return for a while either... I was wondering what happened to you.
+<winry>アンタたちも、|なかなか帰ってこないし……。|もう、どうなることかと——。=<winry>You guys didn't return for a while either...|I was wondering what happened to you.
 <winry>——あれ？|そういえば、ソフィは？|ねぇ、ソフィは一緒じゃないの？=<winry>Huh? By the way, where's Sophie? Isn't she with you?
 <alphonse>……………………。=<alphonse>......................................
 <edward>……ソフィは……|敵に連れていかれちまった……。=<edward>Sophie... was taken by the enemy.
@@ -4361,7 +4361,7 @@
 <alphonse>ソフィ……。=<alphonse>Sophie...
 <sophie>それに、私にはまだ、|やり残したことがある——。=<sophie>Besides, I still have some unfinished business.
 <winry>やり残したこと——？=<winry>Unfinished business?
-<sophie>生き残ったヴェルザの一族は|今も、印の呪いに苦しんでいる……。=<sophie>The surviving members of the Velza Clan are still suffering because of the seal's curse.
+<sophie>生き残ったヴェルザの一族は|今も、印の呪いに苦しんでいる……。=<sophie>The surviving members of Velza Clan are still suffering because of the seal's curse.
 <sophie>——私、彼らを助けたい……！|聖印の力を持った私なら、|印の呪いを消すことができる——！=<sophie>I want to help them! I could erase their curse with the power of my Holy Seal.
 <sophie>これは、父さんの遺志……。|そして、私の|意思でもあるの……。=<sophie>This was my father's last wish... |And it's my wish as well.
 <edward>ソフィ……！=<edward>Sophie...
@@ -4455,7 +4455,7 @@
 <edward>——ん、何してんだ？=<edward>Huh? What are you doing?
 <sophie>この古いカメラ、|せっかくだから|修理して使えないかと思って——。=<sophie>We thought we could fix this old camera and use it.
 <sophie>カメラが直ったら、|想い出に|みんなで写真を撮りたいな。=<sophie>Once it's fixed, I want to take a photo of everyone as a keepsake.
-<alphonse>いいね、記念写真だ。|自分たちの写真を撮るのなんて|ひさしぶりだね、兄さん。=<alphonse>That'd be nice: a commemorative photo. |It's been a long time since we took a photo of ourselves, brother.
+<alphonse>いいね、記念写真だ。|自分たちの写真を撮るのなんて|ひさしぶりだね、兄さん。=<alphonse>That'd be nice: a commemorative photo. |It's been a long time since we took a photo of ourselves, Brother.
 <winry>——ふぅ、直ったよ、ソフィ。|自動でシャッターが下りるから、|これなら、４人でも写せるよ。=<winry>Phew! It's fixed, Sophie. The shutter will go down automatically, so we can take a photo of all four of us.
 <alphonse>ボク、大きいから後ろにいくね。|——兄さんは、いちばん前だよ。=<alphonse>I'll stay in the back, since I'm so big. Brother, you stay at the front.
 <edward>ん？|——何かひっかかる|言い方だな……。=<edward>Eh? There's something about the way you say that...
@@ -4699,7 +4699,7 @@
 <sophie>ヴァルドラを取り囲む|東西南北すべての門を開放し|軍司令部の警備を強化=<sophie>Surround Valdolla. Open all gates: east, west, south and north. Strengthen security at headquarters.
 <sophie>各駐留所にある武器を軍司令部へすべて集めよ|特殊部隊、準特殊部隊は|軍司令部にて待機=<sophie>Gather all weapons from each garrison at headquarters. Special forces and semi-special forces are to stay on standby at HQ.
 <sophie>——１０年前の日付である=<sophie>The date is from 10 years ago.
-<sophie>ヴェルザの一族への攻撃を開始した|奴らの持つ「力」とはどれ程のものか|知っておく必要がある=<sophie>The attack on the Velza Clan has begun. We need to know just how much power they possess.
+<sophie>ヴェルザの一族への攻撃を開始した|奴らの持つ「力」とはどれ程のものか|知っておく必要がある=<sophie>The attack on Velza Clan has begun. We need to know just how much power they possess.
 <sophie>素晴らしい、『印』の能力は|人間の持つそれではない|呪術にも似た効果さえ持つ=<sophie>The powers of that wonderful “seal" aren't those of humans, and even have effects similar to those of magic.
 <sophie>ヴェルザは実在したのだ|奴らが崇めるヴェルザ|破壊の神の力、どうすれば——=<sophie>Velza really existed, as in the Velza that they worship. What could we do with the powers of the goddess of destruction?
 <sophie>ついに秘密を手に入れた|ヴェルザの力があれば|この国を、いや、世界すら夢ではない=<sophie>I finally got the secret. With Velza's power, ruling this country... no! the world, is no longer a dream.
@@ -5050,11 +5050,11 @@
 <sophie>確か、何かの本で|読んだことがあるわ……。=<sophie>I'm sure I read it in a book somewhere...
 <sophie>遥か東方の島国には、|カタナという特殊な剣を振るう、|最強の戦士、サムライがいる、って。=<sophie>In an island nation far to the east, there are the strongest warriors, the samurai, who wield special swords called katanas.
 <sophie>彼らは、強い力を持っていても、|ハラキリという名の呪縛によって、|やがて必ず、自害してしまう……。=<sophie>But even if they have great strength, in the end they must commit suicide, due to a vow called harakiri.
-<sophie>……悲しい話よね……。|サムライも、ヴェルザの一族と同じように|運命から逃れられないのよ……。=<sophie>It's a sad story... Just like the Velza Clan, samurais can't escape their fate.
+<sophie>……悲しい話よね……。|サムライも、ヴェルザの一族と同じように|運命から逃れられないのよ……。=<sophie>It's a sad story... Just like Velza Clan, samurai can't escape their fate.
 <sophie>これは、私が簡単に|受けとっていい物じゃないわ……。|大切に使ってあげてね。=<sophie>This isn't something that I should accept so easily... |Please use it with care.
 <sophie>私のお母さんは、私を産んですぐに、|病気で死んでしまったの。|だから、私にはお母さんの記憶がない。=<sophie>My mother died of an illness soon after giving birth to me. So I have no memories of her.
 <sophie>優しくて強い人だったって、|お父さん言ってた……。=<sophie>My dad said she was a kind and strong person.
-<sophie>なんでも、ヴェルザの一族の中では、|最強の女剣士で、|「剣豪」って、呼ばれてたらしいの……。=<sophie>Apparently, she was the strongest swordswoman of the Velza Clan, and was called the “Sword Master".
+<sophie>なんでも、ヴェルザの一族の中では、|最強の女剣士で、|「剣豪」って、呼ばれてたらしいの……。=<sophie>Apparently, she was the strongest swordswoman of Velza Clan, and was called the “Sword Master".
 <sophie>お父さん、お母さんのその強さに、|一目惚れしちゃったんだって。|ちょっと、ロマンチックよね……。=<sophie>My dad fell in love with her at first sight because of her strength. |It's quite romantic, don't you think?
 <sophie>……今頃、|きっと天国で、２人仲良く、|幸せに暮らしてるよね……。=<sophie>I'm sure they're living happily together in heaven right now.
 <sophie>——最強を極めし者の称号、|伝説のチャンピオンベルト……！？=<sophie>The prize of those that have reached the pinnacle of strength: the legendary Champion Belt!?
@@ -5144,7 +5144,7 @@
 <armstrong>エドワード・エルリックゥゥゥ！！|我輩、この瞬間を|首を長ーくして待っておった！！=<armstrong>Edward Elriiiiic!! |I've been waiting for this moment for so long!!
 <armstrong>——遠慮は無用だ！|タッグバトルモードで、|我輩を好きに呼びだすが良い！！=<armstrong>No need to hesitate! You can call me whenever you like in Tag Battle Mode!!
 <sophie><yellow>タッグバトルモードで|<yellow>アレックス・ルイ・アームストロング少佐が|<yellow>使用可能になりました=<sophie><yellow>Major Alex Louis Armstrong is now available in Tag Battle Mode.
-<sophie>軍人さんにも、ヴェルザの一族にも、|女性として、戦士として|戦っている人がいるのね……。=<sophie>There are women who fight as warriors among soldiers and the Velza Clan.
+<sophie>軍人さんにも、ヴェルザの一族にも、|女性として、戦士として|戦っている人がいるのね……。=<sophie>There are women who fight as warriors among soldiers and Velza Clan.
 <sophie>揺るぎない決意は、性別を問わず|その人自身をつき動かすもの……。|私も、頑張らなくっちゃ……。=<sophie>A person is driven by unwavering determination, regardless of gender. |I must do my best too.
 <riza>——エドワード君……。|私で役に立てるのなら、|いくらでも力を貸すわ……。=<riza>Edward... If I can be of any use to you, I'll lend you my power as much as I can.
 <riza>好きな時に呼び出してね……。|タッグバトルモードで、|待ってるわ……。=<riza>Call me whenever you feel like it. I'll be waiting in Tag Battle Mode.
@@ -5258,7 +5258,7 @@
 <sophie>——まぁ、可愛いお人形！|クネクネしてて面白いわね。|お腹を押したら鳴くかしら……？=<sophie>Ooh, what a cute doll! It's funny how it squirms. |I wonder if it will squeak when I press its belly...
 <sophie>——あっ、この子、|「モキュ！」って、鳴いたわ！|超プリティ～～～ッ♪=<sophie>Aah, it cried “eep"! |It's super cute! ♪
 <sophie>お腹を押す、力加減によって、|鳴き方が変わるみたいね……。|——えいっ！ えいえいえいっ！！=<sophie>The way it cries depends on how much you press its tummy. |Hey! Hey hey hey!!
-<alphonse>………？|ねぇ、兄さん。|あの人形、苦しんでるように見えない？=<alphonse>..................? |Hey, brother, doesn't that doll look as if it was in pain?
+<alphonse>………？|ねぇ、兄さん。|あの人形、苦しんでるように見えない？=<alphonse>..................? |Hey, Brother, doesn't that doll look as if it was in pain?
 <edward>ああ、言われてみれば、|そんな気が……。|まさか、生きてるなんてことは……。=<edward>Oh, now that you mention it, that seems to be the case... |However, there's no way it's alive...
 <sophie><bigtext>——破アアアッ！！=<sophie><bigtext>Smaaaaash!!
 <alphonse>——ね、ねぇ、ソフィ。|ちょっと、連打しすぎだよ……！=<alphonse>Hey, hey, Sophie! You're hitting it too much!
@@ -5371,7 +5371,7 @@
 <winry>あいつらなら大丈夫よ。|目的を遂げるまで、何があっても|あいつらは負けないわ。=<winry>They'll be fine. No matter what, they won't let themselves be defeated until they achieve their goal.
 <sophie>——目的？=<sophie>Their goal?
 <winry>……うん。|あいつらも、ソフィに負けないくらい、|重いものを背負っているからね……。=<winry>Yes. They're carrying a heavy burden, no less than you, Sophie.
-<alphonse>どうしたの、兄さん。|なにかあったの？=<alphonse>What's wrong, brother? |Did something happen?
+<alphonse>どうしたの、兄さん。|なにかあったの？=<alphonse>What's wrong, Brother? |Did something happen?
 <edward>いや。|待たせて悪かったな。=<edward>No. Sorry for keeping you waiting.
 <edward>ウィンリィ、留守を頼む。|パッと終わらせて、帰ってくるからよ。|もう少し待っててくれ。=<edward>Winry, keep watch of the place. We'll finish quickly and come back. |Just wait a little longer.
 <winry>うん、それはいいけど……。|エド、アンタ、|本当に無茶するんじゃないわよ。=<winry>Yeah, that's fine, but... Ed, you really shouldn't do anything reckless.
@@ -5396,7 +5396,7 @@
 <sophie>街の北にある、|病院前の広場にあるわ。|だけど——。=<sophie>It's in the north of the city, in front of the hospital square. However...
 <edward>北の病院だな。|よし行くぞ、アル。=<edward>The hospital in the north. |Okay, let's go, Al.
 <sophie>——待って！|今、街の北に行くのは危険よ。=<sophie>Wait! It's dangerous to go to that area now.
-<sophie>ヴェルザの一族と軍の大軍が|激しく戦っているみたいだから、|とても近づけないわ。=<sophie>It seems the Velza Clan and the army are in the middle of a violent battle there, so you can't get close.
+<sophie>ヴェルザの一族と軍の大軍が|激しく戦っているみたいだから、|とても近づけないわ。=<sophie>It seems Velza Clan and the army are in the middle of a violent battle there, so you can't get close.
 <edward>そうは言っても、|ノンビリしてもいられないだろ？=<edward>Even if that's the case, we can't be lazying around, right?
 <sophie>え、ええ……。=<sophie>Well, yeah...
 <winry>……あ、ちょっと待って。|北の病院だったら、|すぐ近くまで地下鉄が通っているはずよ。=<winry>Hey, wait a moment. |If you're going to the hospital in the north, you could take the subway right there.
@@ -5453,7 +5453,7 @@
 
 !FILE:0223_002/004.txt
 <alphonse>——あ！ 気がついた！？=<alphonse>Oh! She's coming to her senses!
-<mysteriousgirl>ん……ここは……？|ヴェルザの一族は……。=<mysteriousgirl>Uh... Where am I? |Where's the Velza Clan...?
+<mysteriousgirl>ん……ここは……？|ヴェルザの一族は……。=<mysteriousgirl>Uh... Where am I? |Where's Velza Clan...?
 <winry>ここは教会よ。|今は使われてないみたいだけど。=<winry>You're in a church. But it seems to be abandoned right now.
 <edward>心配しなくていい。|このあたりにヤツらの気配はない。|ここにいれば、とりあえずは安全だろう。=<edward>Don't worry, there's no sign of them around. If you stay here, you'll be safe for now.
 <edward>オレはエドワード。|エドワード・エルリックだ。=<edward>I'm Edward. Edward Elric.
@@ -5483,7 +5483,7 @@
 <mysteriousgirl>うふふふっ……。|もう、こんな状況なのに楽しい人たちね。|アハハハハハッ……！=<mysteriousgirl>Heh heh heh... Even in this situation, you're still funny guys. |Ha ha ha ha ha!!
 <mysteriousgirl>——分かったわ。|助けてもらったお礼もあるし、|事情を説明するわ。=<mysteriousgirl>Alright. |As thanks for rescuing me, I'll explain what's going on...
 <sophie>私の名前はソフィ。|ソフィ・ベルクマン。=<sophie>My name is Sophie. Sophie Bergmann.
-<sophie>この街を襲っているのは、|「ヴェルザの一族」と呼ばれる者たち。=<sophie>The ones who're attacking this city are the Velza Clan.
+<sophie>この街を襲っているのは、|「ヴェルザの一族」と呼ばれる者たち。=<sophie>The ones who're attacking this city are Velza Clan.
 <sophie>私は彼らの計画を——|ヴェルザの復活を防ぐため、|ヴァルドラへ来たの。=<sophie>I came to Valdolla to stop their plans, to stop the resurrection of Velza.
 <armstrong>かつて、白き衣をまといし魔女がいた=<sophie>A long time ago, there was a witch who dressed in white.
 <armstrong>魔女は怪しい術を使い、人々を惑わした=<sophie>This witch used her strange skills to deceive those in her midst.
@@ -5505,10 +5505,10 @@
 <sophie>これが、ヴァルドラに伝わる|「魔女」の伝承。=<sophie>This is the legend of the witch, as passed down in Valdolla.
 <sophie>でも、単なる言い伝えじゃなくて、|事実を基にしているの。=<sophie>But it's not a simple legend; it's based on facts.
 <sophie>ヴェルザは実在している……。=<sophie>Velza really exists...
-<sophie>そして、ヴェルザの一族は、|ヴェルザを目覚めさせて、|世界を滅ぼそうとしているの。=<sophie>And the Velza Clan plans to awaken her and bring ruin to the world.
+<sophie>そして、ヴェルザの一族は、|ヴェルザを目覚めさせて、|世界を滅ぼそうとしているの。=<sophie>And Velza Clan plans to awaken her and bring ruin to the world.
 <sophie>封印を解き、ヴェルザを蘇らせるには、|たくさんのイケニエ——、|人の命のエネルギーが必要になる。=<sophie>To break the seal and resurrect Velza, they need many sacrifices... The energy of human lives.
 <sophie>だから彼らは、|「オベリスク」という大きな塔を造り、|それを集めようとしているわ。=<sophie>So they're building those big towers, those Obelisks, to collect this energy.
-<alphonse>……どう思う、兄さん？=<alphonse>What do you think, brother?
+<alphonse>……どう思う、兄さん？=<alphonse>What do you think, Brother?
 <edward>——どうもこうも、|いきなりこんな話聞かされて、|信じろって方が無茶だろ。=<edward>No matter how you look at it, hearing such a story wouldn't be enough to convince anyone.
 <sophie>……そうね。|信じられないのも無理ないわ。=<sophie>That's true. I'm not surprised that you don't believe it.
 <sophie>でも、これで事情は話したからね。|——私、もう行くわ。=<sophie>But I've already explained the situation. |So I'm going now.
@@ -5552,7 +5552,7 @@
 <sophie>ヴェルザの復活を防ぐには、|エネルギーを集めている、|オベリスクの動きを止めなきゃならない。=<sophie>To prevent Velza's resurrection, you need to deactivate the Obelisks that are gathering energy.
 <sophie>その聖印さえあれば、|あなたたちにも、|オベリスクを封印することができるわ。=<sophie>With this Holy Seal, you too will be able to seal the Obelisks.
 <edward>……これが、|さっきのアンタの力の——？=<edward>Is this the power you showed earlier?
-<sophie>ええ。聖印は、私の力の源。|それがあれば、ヴェルザの一族が持つ|力にも対抗できるわ。=<sophie>Yes. The Holy Seal is the source of my powers. With it, I can fight against the Velza Clan.
+<sophie>ええ。聖印は、私の力の源。|それがあれば、ヴェルザの一族が持つ|力にも対抗できるわ。=<sophie>Yes. The Holy Seal is the source of my powers. With it, I can fight against Velza Clan.
 <alphonse>こんな印に、そんな力が……。=<alphonse>Such power... in this seal...
 
 !FILE:0224_000/004.txt
@@ -5570,7 +5570,7 @@
 <edward>ワールドマップメッセージ００=<edward>World Map Message 00
 <alphonse>ワールドマップメッセージ０１=<alphonse>World Map Message 01
 <edward>そりゃあ、住人のほとんどが|レト教って宗教の信者らしいからな。=<edward>Well, that's because most of the residents seem to be members of the Leto sect.
-<alphonse>ねぇ兄さん|その、レト教の教主様が使うっていう|『奇跡の業』のことなんだけど……。=<alphonse>Hey, brother. About those “miracles" that are performed by the head priest of Leto...
+<alphonse>ねぇ兄さん|その、レト教の教主様が使うっていう|『奇跡の業』のことなんだけど……。=<alphonse>Hey, Brother. About those “miracles" that are performed by the head priest of Leto...
 <edward>ああ。噂を聞く限りじゃ|ただの錬金術だとは思うんだが…。=<edward>Aah. From the rumors I've heard, I think it's just alchemy.
 <edward>そうだとしても、|『死者を復活させる』だなんて|ただごとじゃないからな。=<edward>Besides, there's no such thing as “resurrecting the dead".
 <alphonse>やっぱり、『賢者の石』と、|何か関係があるのかなぁ？=<alphonse>Anyway, I wonder if it has something to do with the “Philosopher's Stone".
