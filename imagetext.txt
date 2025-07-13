@@ -176,6 +176,27 @@ Dupe 2ad-2b9
 
 東 -unused?
 
+0014_001\001_01.png#battle text
+
+800ish CONGRATULATION!
+
+W 85f, 86d, 87b until 8f9
+A 856, 864 872 until 8f0
+G 858, 866, 874 until 8f2
+A 861, 86f, 87d until 8fb
+H 859, 867, 875 until 8f3
+A 862, 870, 87e until 8fc
+I 85a, 868, 876 until 8f4
+
+K 85b, 869, 877 until 8f5
+A 863, 871, 87f until 8fd
+N 85c, 86a, 878 until 8f6
+D 857, 865, 873 until 8f1
+O 85d, 86b, 879 until 8f7
+U 85e, 86c, 87a until 8f8
+! 860, 86e, 87c until 8fa
+
+
 0014_001\001_15.png#command speech bubbles 1 - done
 アル281！282 =Al!
 止ま283れ284！285 =Stop!
