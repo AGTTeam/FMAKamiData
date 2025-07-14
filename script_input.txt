@@ -181,7 +181,7 @@
 赤い石のカケラ=Crimson Shard
 赤い石=Crimson Stone
 炎の紋章=Fire Crest
-氷の紋章=Water Crest
+氷の紋章=Ice Crest
 風の紋章=Wind Crest
 地の紋章=Earth Crest
 神の紋章=God Crest
@@ -367,7 +367,7 @@
 あさんどら=Assandra
 まろん=Chestnut
 すさのお=Susanoo
-くろーでぃあす=I'm Blackkkk
+くろーでぃあす=Clawdius
 迷い犬=Lost Dog
 迷いパンダ=Lost Panda
 ※アクセサリ予備用９５=Accessory Slot 95
@@ -568,7 +568,7 @@
 <yellow>すべての能力値が１下がる、あるものと装備すると…？<white>|やる気のないももひき、伝説の修行具という噂も……=<yellow>All stats increase by 1 when equipped together with...!?<white>|Rumor has it that these are a legendary training tool...#"Rumor has it that these unmotivating pants are a legendary training tool..."
 <yellow>通常取得経験値が５％増加する<white>|鉄ゲタ、精神鍛錬にもなる…かもしれない=<yellow>Normally earned experience points increase by 25%.<white>|Iron sandals; they may be a tool for mental discipline...
 <yellow>通常取得経験値が１０％増加する<white>|ウィンリィの作った、重量が２倍に強化された鉄ゲタ=<yellow>Normally earned experience points increase by 10%.<white>|Twice as heavy iron sandals, reinforced by Winry.
-<yellow>コンボボーナス経験値が２倍に増加する（エドアル共に）<white>|ソフィが作った、腕の筋肉を鍛えるおもり=<yellow>Combo bonus experience points are doubled (with Ed and Al).<white>|A weight made by Sophie, to train arm muscles.
+<yellow>コンボボーナス経験値が２倍に増加する（エドアル共に）<white>|ソフィが作った、腕の筋肉を鍛えるおもり=<yellow>Combo bonus experience points are doubled (both Ed and Al).<white>|A weight made by Sophie, to train arm muscles.
 <yellow>カウンター成功時の取得経験値が５倍に増加する<white>|ソフィが作った、足の筋肉を鍛えるおもり=<yellow>Experience points for a successful counter are multiplied by 5.<white>|A weight made by Sophie, to train leg muscles.
 <yellow>ＨＰの最大値が５％上昇する<white>|ハート形のぺンダント、女の子は喜ぶかも……=<yellow>Max HP increases by 25%.<white>|A heart-shaped pendant that girls may like.
 <yellow>ＨＰの最大値が１０％上昇する<white>|星形のぺンダント、淡い光で輝き続ける=<yellow>Max HP increases by 10%.<white>|A star-shaped pendant that glows in faint light.
@@ -606,7 +606,7 @@
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、攻撃力が５上がる<white>|エドの全長を伸ばす必須アイテム=<yellow>The SP gauge fills twice as fast. Attack increases by 5.<white>|Essential for Ed to seem taller.
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、防御力が５上がる<white>|ソフィの手作り、エドとウィンリィにえらく不評=<yellow>The SP gauge fills twice as fast. Defense increases by 5.<white>|Sophie's handiwork, disliked by Ed and Winry.
 <yellow>自分が攻撃すると、パートナーのＳＰゲージも増加する<white>|兄弟の誓い、必ず２人で元の身体に戻る=<yellow>When you attack, the partner's SP gauge also fills.<white>|The vow of two brothers to return to their original bodies.
-<yellow>コンボボーナス経験値が５倍に増加する（エドアル共に）<white>|ニャンコのパワーが、勇気と力を与えてくれる！=<yellow>Combo bonus experience points are multiplied by 5 (with Ed and Al). <white>Cat power gives you courage and strength!
+<yellow>コンボボーナス経験値が５倍に増加する（エドアル共に）<white>|ニャンコのパワーが、勇気と力を与えてくれる！=<yellow>Combo bonus experience points are multiplied by 5 (both Ed and Al). <white>Cat power gives you courage and strength!
 <yellow>攻撃力が１０上がり、敵を気絶状態にしやすい<white>|ウィンリィの怒りのスパナ、狙った獲物は逃さない=<yellow>Attack increases by 10. Enemies are knocked out more easily.<white>|Winry's furious spanner never misses a target.
 <yellow>炎・爆発属性の攻撃力が３０％上昇する<white>|ロイ必須のアイテム、無ければ無能=<yellow>The power of fire and explosive attacks increases by 30%.<white>|Essential items to Roy; he's useless without them.
 <yellow>ソフィに渡すと……？<white>|ロイの手帳、デートの予定がぎっしりと書かれている=<yellow>What if you give it to Sophie...?<white>|Roy's notebook is crammed with planned dates.
@@ -698,7 +698,7 @@
 はい= Yes
 /=  /
 いいえ=   No
-クリアデータをセーブしますか？=Save CLEAR game data?
+クリアデータをセーブしますか？=Save game CLEAR data?
 
 !FILE:0007_001.txt
 スロット１のメモリーカード（ＰＳ２）を|チェック中です。=Checking slot 1 of Memory Card (PS2).
@@ -1124,8 +1124,8 @@
 <smalltext><yellow>タッグバトルモード<white>について||・<orange>レベル１<white>からスタートします|・持っている<orange>アイテム<white>と<orange>アクセサリ<white>は使えません|（タッグバトル中に入手した物は使えます）|・<orange>スぺシャルアタック<white>は使えません|・レーダーとエリアマップは表示されません|・<orange>メインキャラ[１Ｐ]<white>が死ぬと<orange>ゲームオーバー<white>|（サブキャラクターは復活できます）||・各コースをクリアすると、成績に応じて| <orange>レアなアイテムやアクセサリ<white>がもらえます|（コースクリア後にデータセーブしてください）=<smalltext><white>About <yellow>Tag Battle mode:||<white>・You start from <orange>Level 1|<white>・Can't use <orange>items <white>or <orange>accessories <white>from inventory|   (but can use items found during Tag Battle)|・Can't use <orange>Special Attacks|<white>・Radar and area maps aren't displayed|<white>・If the <orange>main character (1P) <white>dies, it's <orange>Game Over|<white>   (secondary character can be revived)||・Upon clearing each course, you'll receive|    <orange>rare items and accessories |<white>   (Please save the game after clearing a course)
 
 !FILE:0015_011.txt
-エドワード||<smalltext>　<square>　＝　<yellow>攻撃<white>|　<triangle>　＝　<yellow>強攻撃/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=Edward||<smalltext>　<square>: <yellow>Attack<white>|　<triangle>: <yellow>Heavy attack/|    　  Equip weapon<white>|　<circle>: <yellow>Object transmutation<white>|    　  <yellow>Stonespikes transmutation<white>||・Skill transmutations learned|in the main story can be used.|・Special Attacks can't be|used
-アルフォンス||<smalltext>　<square>　＝　<yellow>攻撃<white>|　<triangle>　＝　<yellow>強攻撃/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=Alphonse||<smalltext>　<square>: <yellow>Attack<white>|　<triangle>: <yellow>Heavy attack/|    　  Equip weapon<white>|　<circle>: <yellow>Object transmutation<white>|    　  <yellow>Stonespikes transmutation<white>||・Skill transmutations learned|in the main story can be used. |・Special Attacks can't be|used
+エドワード||<smalltext>　<square>　＝　<yellow>攻撃<white>|　<triangle>　＝　<yellow>強攻撃/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=Edward||<smalltext>　<square>: <yellow>Attack<white>|　<triangle>: <yellow>Heavy attack/|    　  Equip weapon<white>|　<circle>: <yellow>Object transmutation/<white>|    　  <yellow>Stonespikes transmutation<white>||・Skill transmutations learned|in the main story can be used.|・Special Attacks can't be|used
+アルフォンス||<smalltext>　<square>　＝　<yellow>攻撃<white>|　<triangle>　＝　<yellow>強攻撃/武器装備<white>|　<circle>　＝　<yellow>オブジェ錬成<white>|   　<yellow>突起錬成<white>||・本編で修得している| スキル錬成が使えます|・スぺシャルアタックは| 使用できません|=Alphonse||<smalltext>　<square>: <yellow>Attack<white>|　<triangle>: <yellow>Heavy attack/|    　  Equip weapon<white>|　<circle>: <yellow>Object transmutation/<white>|    　  <yellow>Stonespikes transmutation<white>||・Skill transmutations learned|in the main story can be used. |・Special Attacks can't be|used
 ロイ・マスタング||<smalltext>　<square>　＝　<yellow>炎飛ばし<white>|　<triangle>　＝　<yellow>ホーミング炎<white>|（左スティック前に入れて）|　<triangle>　＝　<yellow>ホーミング炎・大<white>|　<circle>　＝　<yellow>炎の壁<white>||・オブジェ錬成は使用不可|・サブキャラがアルの場合、| 協力ジャンプが可能=Roy Mustang||<smalltext>　<square>: <yellow>Flame blast<white>|　<triangle>: <yellow>Homing flame<white>|     (push left stick forward)|　<triangle>: <yellow>Homing flame (big)<white>|　<circle>: <yellow>Flame wall<white>||・Can't use Object|    transmutation|・If secondary character is Al,|    can do cooperative jumps
 リザ・ホークアイ||<smalltext>　<square>　＝　<yellow>前方射撃<white>|　<triangle>　＝　<yellow>下方射撃<white>|　<circle>　＝　<yellow>足払い<white>||・オブジェ錬成は使用不可|・ジャンプ攻撃できません|=Riza Hawkeye||<smalltext>　<square>: <yellow>Forward shot<white>|　<triangle>: <yellow>Low shot<white>|　<circle>: <yellow>Sweep<white>||・Can't use Object|    transmutation|・Can't do jump attacks|
 アームストロング||<smalltext>　<square>　＝　<yellow>打撃攻撃<white>|　<triangle>　＝　<yellow>ダッキング<white>|　<circle>　＝　<yellow>肉弾乱舞<white>||・オブジェ錬成は使用不可|・ジャンプ攻撃できません|=Armstrong||<smalltext>　<square>: <yellow>Punch attack<white>|　<triangle>: <yellow>Duck<white>|　<circle>: <yellow>Human bullet dance<white>||・Can't use Object|    transmutation|・Can't do jump attacks|
@@ -1145,7 +1145,7 @@
 エドが装備していますがいいですか？=Ed is equipped with it. Continue?
 アルが装備していますがいいですか？=Al is equipped with it. Continue?
 プレゼントをやめますか？=Stop giving presents?
-<8024>ボーナスポイントを<8040>ポイントゲット！=<8024>Got <8040> Bonus points(s)!
+<8024>ボーナスポイントを<8040>ポイントゲット！=<8024>Got <8040> bonus point!
 <8024><8038>の<8039>が<8040>ポイントアップ！=<8024><8038>'s <8039> went up by <8040>!
 <8024><8038>をゲット！=<8024>Received <8038>!
 <8024>無し=<8024>No effect
@@ -1757,7 +1757,7 @@
 <orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　１号倉庫=<orange>Material area| <yellow>Warehouse District<white>　Warehouse No. 1
 <orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　改札口=<orange>Material area| <yellow>Subway Station<white>　Ticket Gate
 <orange>[マテリアル配置エリア]| <yellow>司令部<white>　１Ｆ・作戦室=<orange>Material area| <yellow>Headquarters<white>　1F: Operations Room
-<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　屋上=<orange>Material area| <yellow>Headquarters B<white>  Rooftop　
+<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　屋上=<orange>Material area| <yellow>Headquarters B<white>　Rooftop　
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　入口=<orange>Material area| <yellow>Old Castle<white>　Entrance
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　ヴェルザ神殿・入口=<orange>Material area| <yellow>Temple<white>　Velza's Temple: Entrance
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　第１層・通路Ｃ=<orange>Material area| <yellow>Temple<white>　1st Level: Passage C
@@ -1772,7 +1772,7 @@
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　第一封の間=<orange>Material area| <yellow>Old Castle<white>　First Seal's Room
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　腸の間=<orange>Material area| <yellow>Temple<white>　Intestine Chamber
 <orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　西口　制御室=<orange>Material area| <yellow>Subway Station<white>　West Entrance: Control Room
-<orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア北=<orange>Material area| <yellow>Old Castle<white>  Outer Area North　
+<orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア北=<orange>Material area| <yellow>Old Castle<white>　Outer Area North　
 <orange>[マテリアル配置エリア]| <yellow>市街・西<white>　８番地=<orange>Material area| <yellow>City West<white>　8th Area
 <orange>[マテリアル配置エリア]| <yellow>市街・西<white>　６番地=<orange>Material area| <yellow>City West<white>　6th Area
 <orange>[マテリアル配置エリア]| <yellow>市街・西<white>　４番地=<orange>Material area| <yellow>City West<white>　4th Area
@@ -1791,7 +1791,7 @@
 <orange>[マテリアル配置エリア]| <yellow>市街・西<white>　ヴァルドラ環状通り=<orange>Material area| <yellow>City West<white>　Valdolla Ring
 <orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　地下水路・入口=<orange>Material area| <yellow>Warehouse District<white>　Sewer: Entrance
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　心臓の間=<orange>Material area| <yellow>Temple<white>　Heart Chamber
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　ヴェルザの脳蓋=<orange>Material area| <yellow>Temple<white>  Velza's Skullcap　
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　ヴェルザの脳蓋=<orange>Material area| <yellow>Temple<white>　Velza's Skullcap　
 <orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄・第３車両=<orange>Material area| <yellow>Subway station<white>　Subway: 3rd Car
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　城内・バルコニー=<orange>Material area| <yellow>Old Castle B<white>　Inner Castle: Balcony
 <orange>[マテリアル配置エリア]| <yellow>司令部<white>　４Ｆ=<orange>Material area| <yellow>Headquarters<white>　4F
@@ -1803,7 +1803,7 @@
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　肺臓の間=<orange>Material area| <yellow>Temple<white>　Lung Chamber
 <orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　到着駅・改札口=<orange>Material area| <yellow>Subway Station<white>　Arrival Station: Ticket Gate
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア南=<orange>Material area| <yellow>Old Castle<white>　Outer Area South
-<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　牢獄=<orange>Material area| <yellow>Headquarters B<white>  Prison　
+<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　牢獄=<orange>Material area| <yellow>Headquarters B<white>　Prison　
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ｂ=<orange>Material area| <yellow>Old Castle B<white>　Trap Room B
 <orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　倉庫Ａ=<orange>Material area| <yellow>Headquarters B<white>　Storehouse A
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　外郭エリア北=<orange>Material area| <yellow>Old Castle B<white>　Outer Area North
@@ -1844,7 +1844,7 @@
 <yellow>壁を３枚錬成可能<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute three rockblockers<white>|・While holding <L2a><L2b>, press <circle>
 <yellow>連続攻撃に優れる槍を錬成<white>|・<L2a><L2b>押しながら<square>=<yellow>Transmute a lance ideal for combo attacks<white>|・While holding <L2a><L2b>, press <square>
 <yellow>一撃の威力の大きい大剣を錬成<white>|・<L2a><L2b>押しながら<triangle>=<yellow>Transmute a large sword with great power in each strike<white>|・While holding <L2a><L2b>, press <triangle>
-<yellow>ガードを貫通、物も壊せるハンマーを錬成<white>|・<L2a><L2b>押しながら<cross>=<yellow>Transmute a hammer that can break objects and  blocks<white>|・While holding <L2a><L2b>, press <cross>
+<yellow>ガードを貫通、物も壊せるハンマーを錬成<white>|・<L2a><L2b>押しながら<cross>=<yellow>Transmute a hammer that can break objects and blocks<white>|・While holding <L2a><L2b>, press <cross>
 <yellow>オブジェ錬成武器「爆弾」を|広範囲に複数投げられる「集束爆弾」に強化<white>=<yellow>Object transmutation “Bomb" becomes “Focused Bomb", which can be thrown multiple times in a wide area<white>
 <yellow>オブジェ錬成武器「牛さん」を|凶暴な「猛牛」に強化<white>=<yellow>Object transmutation “Miss Cow" becomes the ferocious “Raging Bull"<white>
 <yellow>オブジェ錬成武器「閃光弾」を|周囲の敵に大ダメージを与える「打ち上げ花火」に強化<white>=<yellow>Object transmutation “Flash Bullet" becomes “Fireworks", which causes great damage to surrounding enemies<white>
@@ -1925,9 +1925,9 @@
 <smalltext>|　<triangle>　＝　<yellow>二段蹴り<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>タックル<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>裏拳～水面蹴り<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|　<square>＋<cross>同時押し　＝　<yellow>踏みつけ<white>|（左スティックを後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>かちあげ<white>=<smalltext> <triangle> ＝ <yellow>Double kick<white>||(Moving left stick forward)| <triangle> ＝ <yellow>Tackle<white>|(Moving left stick backwards)| <triangle> ＝ <yellow>Backfist/surface kick<white>||Press <square>＋<cross> simultaneously| ＝ <yellow>Foot sweep<white>|(Moving left stick forward)|Press <square>＋<cross> simultaneously| ＝ <yellow>Trample<white>|(Moving left stick backwards)|Press <square>＋<cross> simultaneously| ＝ <yellow>Strike up<white>
 |<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<circle>|  ＝<yellow>「石球」を錬成<white>||錬成した石球を攻撃して転がし|敵に当てるとダメージを与える|ことができます。||ただし、跳ね返ってきた石球に|当たらないよう、気をつけて|ください！=|<smalltext>(While controlling Al)|Press <circle> while holding <L2a><L2b>| ＝ <yellow>Create stone ball<white>||You can attack the stone ball |to make it roll and damage the |enemies it hits.||However, be careful not to be |hit by the bouncing ball yourself!
 |<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<square>|  ＝<yellow>「吸引マシン」を錬成<white>||周囲の敵を吸い寄せてしまう|マシンを錬成するスキルです。||レベルが上がると、吸引時間が|長くなります。=|<smalltext>(While controlling Al)|Press <square> while holding <L2a><L2b>| ＝ <yellow>Create a vacuum<white>||This skill creates a suction machine |to draw in surrounding enemies.||As your level goes up, the suction |time will increase.
-|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<cross>|  ＝<yellow>「石柱ジャンプ」<white>||足元に石柱を錬成して、|通常より高いジャンプができる|スキルです。=|<smalltext>(While controlling Al)|Press <cross> while holding <L2a><L2b>| ＝<yellow> Stone pillar jump<white>||This skill creates a stone pillar |under your feet, that allows you |to jump higher than usual.
-|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<triangle>|  ＝<yellow>「アル地雷」<white>を錬成||錬成した地雷を攻撃するか、|敵が近づいてくると爆発します。||攻撃するだけでなく、木箱など|<orange>物を壊す<white>のにも使えます。=|<smalltext>(While controlling Al)|Press <triangle> while holding <L2a><L2b>| ＝ <yellow>Create an Al land mine||<white>This land mine will explode if you |attack it, or enemies approach it.||It's useful not just for attacking, |but also to <orange>destroy objects <white>like |wooden boxes.
-|<smalltext>（オブジェ錬成武器の近くで）|　<triangle>　＝　<yellow>武器を装備<white>|  ＝　<yellow>武器に乗る<white>||（武器を装備/乗っている時）|　<triangle>　＝　<yellow>装備解除/降りる<white>||装備して使うオブジェ錬成武器|には<orange>使用回数制限<white>があります。||弾を発射する武器にも<orange>弾数制限<white>|がありますが、再錬成すれば、|再び使用できます。|（<orange>リローダー<white>を消費します）=<smalltext>(Near a transmuted weapon)| <triangle> ＝ <yellow>Equip weapon<white>|      ＝ <yellow>Ride vehicle<white>||(While equipped/riding)| <triangle> ＝ <yellow>Unequip/Get off<white>||Transmuted weapons have a  <orange>limit |for the number of times they can |be used.<white>||Weapons that use bullets also have |an <orange>ammo limit, <white>but can be used |again if re-transmuted.|(Consumes one <orange>Reloader<white>)
+|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<cross>|  ＝<yellow>「石柱ジャンプ」<white>||足元に石柱を錬成して、|通常より高いジャンプができる|スキルです。=|<smalltext>(While controlling Al)|Press <cross> while holding <L2a><L2b>| ＝<yellow> Stone pillar jump<white>||This skill creates a stone pillar |under your feet that allows you |to jump higher than usual.
+|<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<triangle>|  ＝<yellow>「アル地雷」<white>を錬成||錬成した地雷を攻撃するか、|敵が近づいてくると爆発します。||攻撃するだけでなく、木箱など|<orange>物を壊す<white>のにも使えます。=|<smalltext>(While controlling Al)|Press <triangle> while holding <L2a><L2b>| ＝ <yellow>Create an Al land mine||<white>This land mine will explode if you |attack it, or if enemies approach it.||It's useful not just for attacking, |but also to <orange>destroy objects <white>like |wooden boxes.
+|<smalltext>（オブジェ錬成武器の近くで）|　<triangle>　＝　<yellow>武器を装備<white>|  ＝　<yellow>武器に乗る<white>||（武器を装備/乗っている時）|　<triangle>　＝　<yellow>装備解除/降りる<white>||装備して使うオブジェ錬成武器|には<orange>使用回数制限<white>があります。||弾を発射する武器にも<orange>弾数制限<white>|がありますが、再錬成すれば、|再び使用できます。|（<orange>リローダー<white>を消費します）=<smalltext>(Near a transmuted weapon)| <triangle> ＝ <yellow>Equip weapon<white>|      ＝ <yellow>Ride vehicle<white>||(While equipped/riding)| <triangle> ＝ <yellow>Unequip/Get off<white>||Weapons transmuted from objects |can only be used a <orange>limited number |of times.<white>||Weapons that use bullets also have |an <orange>ammo limit, <white>but can be used |again if re-transmuted.|(Consumes one <orange>Reloader<white>)
 |<smalltext>（その場に止まって）|　<R2a><R2b>＝　<yellow>ガード<white>||（移動しながら）|　<R2a><R2b>＝　<yellow>回避行動[エドのみ]<white>||（敵の攻撃にあわせて）|　<R2a><R2b>＝　<yellow>カウンター<white>||（吹き飛ばされた時）|　<cross>　＝　<yellow>受け身[エドのみ]<white>=||<smalltext>(While standing in place)| <R2a><R2b> ＝ <yellow>Block<white>||(While moving)| <R2a><R2b> ＝ <yellow>Dodge (only Ed)<white>||(While attacked by enemy)| <R2a><R2b> ＝ <yellow>Counter<white>||(When blown away)| <cross> ＝ <yellow>Breakfall (only Ed)<white>
 |<smalltext>（敵の方を向いて）|　<L1a><L1b>押し続け　＝　<yellow>ロックオン<white>||（ロックオン中）|　Ｒ３ボタン|  ＝　<yellow>ターゲット切り替え<white>||ロックオン中、その敵が正面に|来るようにカメラが移動します。||Ｒ３ボタン（右スティック押し|こみ）でターゲットを切り替え|ることもできます。=|<smalltext>(Facing the enemy)|Hold <L1a><L1b> ＝ <yellow>Lock-on<white>||(While locked on)|R3 button ＝ <yellow>Switch target<white>||While locked on, the camera moves |so the enemy is in front of you.||You can also switch targets |with the R3 button |(pressing the right stick).
 |<smalltext>（コンボ中に）|ひとつ前の攻撃を出しきった|瞬間、次の攻撃のボタンを押す|  ＝　<yellow>ジャストアタック<white>||ジャストアタックが成立すると|手が斉く光り、通常より大きな|ダメージを敵に与えます。=||<smalltext>(During a combo)|Precisely after finishing an attack, |press the button for the next |attack| ＝ <yellow>Accu-Strike<white>||If an accu-strike is successful,| your hand will glow and you will| deal greater damage than usual.
@@ -2406,7 +2406,7 @@
 <riza>——数年前から、|軍は、不思譲な力を持つ、|謎の武装集団と戦っているの。=<riza>Since several years ago, the military has been fighting against a mysterious armed group, which holds some unknown power.
 <alphonse>不思譲な力を持つ集団？|——ヴェルザの一族のことか……。=<alphonse>A group holding an unknown power? |Could it be Velza Clan?
 <riza>私たちは、その援軍として、|セントラルから派遣されてきたのよ。=<riza>We were dispatched from Central as reinforcements.
-<edward>そうか……ん？|『私たち』？ そういや、|中尉がここにいるってことは……。=<edward>I see... |Wait, did you say “we"?| Then if you're here, Lieutenant, does it mean...?
+<edward>そうか……ん？|『私たち』？ そういや、|中尉がここにいるってことは……。=<edward>I see... |Wait, did you say “we"? |Then if you're here, Lieutenant, does it mean...?
 <riza>——ええ。|大佐と、アームストロング少佐も|ヴァルドラに来ているわ。=<riza>Yes. The Colonel and Major Armstrong are also coming to Valdolla.
 <edward>うげぇ……。|やっぱりかよ……。=<edward>Uuugh... |Of course they would...
 <riza>敵の奇襲を受けて、|部隊は混乱に陥っているわ。|今はまず、正確な情報が必要なの。=<riza>The enemy's surprise attack wreaked havoc among our troops. |First of all, I need accurate information now.
@@ -3854,7 +3854,7 @@
 <godsoldier>——だが、止めなくてはならない。|私たちは間違っていた、|間違っていたのだ……！！=<godsoldier>And yet we must stop her. |We were mistaken, we were so mistaken!
 
 !FILE:0215_003/004.txt
-<blackbold>にゃんこ<normal>【くろーでぃあす】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“I'm Blackkkk"
+<blackbold>にゃんこ<normal>【くろーでぃあす】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Clawdius"
 
 !FILE:0216_003/004.txt
 <alphonse>最上階……。|きっと、ソフィは|この先だね……。=<alphonse>The top floor... |Sophie must be up ahead.
@@ -4089,7 +4089,7 @@
 <sophie>……無事で良かった……。|私、２人に何かあったら、|どうしようかと……。=<sophie>I'm so glad you're safe... I don't know what I'd do if something happened to you two.
 <sophie>まだ、間に合うわ！ 今なら、ヴェルザの|復活を止めることができる……。|——急ぎましょう！=<sophie>We still have time! If we do it now, we can stop Velza's resurrection. |Let's hurry!
 <sophie>２人は強いね……。|それに比べて私は……、|私にも、力があれば……。=<sophie>You two are so strong... In comparison, I'm... |If I had that power...
-<sophie>命に代えても、|神の復活を止めてみせる……。|見ててね、父さん……。=<sophie>I'll stop the resurrection of the goddess, even at the price of my life. |Watch me, dad...
+<sophie>命に代えても、|神の復活を止めてみせる……。|見ててね、父さん……。=<sophie>I'll stop the resurrection of the goddess, even at the price of my life. |Watch me, Dad...
 <sophie>あなたたちを信じるわ。|辛い戦いになると思うけど……。|——よろしくお願いします。=<sophie>I believe in you guys. Though I think it's going to be a tough battle. |Thank you very much.
 <sophie>——おめでとう！！|ニャンコに、ワンコに、パンダ……。|すべてのアイテムが揃ったよ！！=<sophie>Congratulations!! The kittens, the puppy, the panda... |You collected them all!!
 <sophie>この偉業を成し遂げるだなんて……。|あなたの２つ名は、|「ハガゲーの錬金術師」で決まりね！=<sophie>To think that you could achieve such a feat... I'm sure your nickname will be “Fullmetal Alchemist"!
@@ -4429,13 +4429,13 @@
 <edward>フッ、フザケンナ——ッ！！=<edward>Stop... STOP MESSING WITH MEEEE!!
 <sophie>……………………。=<sophie>..............................
 <victor>誕生日おめでとう、ソフィ。=<victor>Happy birthday, Sophie!
-<sophie>うわぁ、ケーキ……。|ありがとう、|お父さん……！=<sophie>Wow, a cake! |Thank you, dad!
+<sophie>うわぁ、ケーキ……。|ありがとう、|お父さん……！=<sophie>Wow, a cake! |Thank you, Dad!
 <victor>ソフィも、もう１４歳か……。|月日が経つのは、|本当に早い……。=<victor>You're already 14, Sophie. |Time flies so fast...
 <victor>——すまんな。|普通なら学校に行き、友達でも|作っている年頃だろうに……。=<victor>I'm sorry. |At this age you should be going to school and making friends.
 <sophie>ううん。|私は友達なんていらない。|お父さんがいれば、それでいいわ。=<sophie>No, I don't need friends. If you're with me, dad, then everything's alright.
 <sophie>私は、いつまでも、|お父さんと一緒よ！=<sophie>We'll always be together!
 <victor>……ソフィ……|来年の誕生日は……|もしかしたら、父さん……。=<victor>Sophie... |For your next birthday, maybe I could...
-<sophie>——えっ？ 何、お父さん？=<sophie>Huh? What is it, dad?
+<sophie>——えっ？ 何、お父さん？=<sophie>Huh? What is it, Dad?
 <victor>——いや、なんでもないよ。|ソフィ……。=<victor>No, it's nothing, Sophie.
 <sophie>お父さん……？=<sophie>Dad?
 <sophie>………………。|あれから１年、か……。=<sophie>......... |That was one year ago.
@@ -4523,34 +4523,34 @@
 <sophie>ねぇ、今、気づいたんだけど……。|……こういう薬って、|アルは、どうやって使ってるの？=<sophie>Hey, I just realized something... |How does Al take these medicines?
 <alphonse>——ッ！！ うわああああああぁぁ！！！|聞こえない！ 聞こえないよ！！|ボク、何も聞こえないからね！！=<alphonse>Huh!? Aaaaaaaahhhh!! |I can't hear you! I can't hear you!! I can't hear anything!!
 <sophie>——えっ、ちょっと待って！|どうしたの？|急に逃げないでよ——！！=<sophie>Hey, wait a minute! What's wrong? Don't run away all of a sudden!!
-<sophie>錬金術が使えると便利よね。|行き止まりだって、|スイスイ先に行けちゃうんでしょ？=<sophie>Using alchemy is so convenient. Even if you hit a dead end, you can just move ahead without problem, right?
+<sophie>錬金術が使えると便利よね。|行き止まりだって、|スイスイ先に行けちゃうんでしょ？=<sophie>Using alchemy is so convenient. Even if you hit a dead end, you can just move ahead without a problem, right?
 <edward>いや、そーでもないぜ。|ドアを開くため、隠されたスイッチを|わざわざ探したり……。=<edward>No, not really. You may have to go through the trouble of finding a hidden switch to open a door.
-<alphonse>通れないからって、|ずいぶんな距離を遠回りしたり……。=<alphonse>Or you may be forced to take a huge detour just because you can't move ahead.
-<edward>なにかと苦労は絶えねえよ。=<edward>Somehow, it's a continuous struggle.
-<sophie>———どうして？|そういう困った時のために、|錬金術があるんでしょ……？=<sophie>But why? These are the kind of difficulties that alchemy is for, right?
-<alphonse>それが…なんというか……。|そんな時に限って、|錬金術が使えないんだ……。=<alphonse>Well... How can I put it...?| It's precisely at these times when we can't use alchemy.
-<edward><bigtext>一身上の都合<8006>ってヤツでな……。=<edward>There are<bigtext> personal reasons.<8006>
+<alphonse>通れないからって、|ずいぶんな距離を遠回りしたり……。=<alphonse>Or you may be forced to take a huge detour because you can't get through a certain path.
+<edward>なにかと苦労は絶えねえよ。=<edward>It's a constant struggle.
+<sophie>———どうして？|そういう困った時のために、|錬金術があるんでしょ……？=<sophie>But why? Those are the kind of difficulties that alchemy is for, right?
+<alphonse>それが…なんというか……。|そんな時に限って、|錬金術が使えないんだ……。=<alphonse>Well... How can I put this...? |It's precisely at times like that when we can't use alchemy.
+<edward><bigtext>一身上の都合<8006>ってヤツでな……。=<edward>It's<bigtext> personal.<8006>#Ed is basically dodging the q
 <sophie>………？？？=<sophie>...............???
-<sophie>——ふぅーん。|鎧の身体も、そう悪いこと|ばかりじゃないのね……。=<sophie>Hmmm... Having a body made of armor isn't such a bad thing...
-<alphonse>そうだね、この身体だと|痛みも感じないし、炎の中へ入っても、|燃えるようなこともないし……。=<alphonse>That's right. With this body I can't feel pain, and I don't get burned even if I go through a fire.
-<sophie>……でも、鎧の部分は燃えなくても、|頭についてるフサフサや、|皮や布の部分は燃えちゃうんでしょ？=<sophie>However... Even if the armor doesn't burn, the plumes at the head, and the leather and cloth parts should get burned, right?
+<sophie>——ふぅーん。|鎧の身体も、そう悪いこと|ばかりじゃないのね……。=<sophie>Hmmm... I guess having a body made of armor isn't all bad...
+<alphonse>そうだね、この身体だと|痛みも感じないし、炎の中へ入っても、|燃えるようなこともないし……。=<alphonse>Yeah, with this body I can't feel pain, and I can even walk through fire without being burned.
+<sophie>……でも、鎧の部分は燃えなくても、|頭についてるフサフサや、|皮や布の部分は燃えちゃうんでしょ？=<sophie>But... even if the armor doesn't burn, the plumes at the head, and the leather and cloth parts burn, don't they?
 <alphonse>——ッ！|ソフィ、君って相当、|目ざといね……！！=<alphonse>Huh!? |Sophie, that's very observant of you!!
 <sophie><bigtext>めっ、目ざとい……？=<sophie><bigtext>O... Observant?
 <alphonse>心頭滅却すれば火もまた涼し！！|細かいことに、こだわるなかれだよ、|プンプン！！=<alphonse>If you clear your mind, even fire can become cool! Don't get so obsessed with the little details, humph!
-<sophie>プンプン、て……。|何を怒ってるのよ……？=<sophie>Humph... What are you so angry about?
-<sophie>——２人とも、|そんなに慌ててどうしたの……？=<sophie>You two, why are you in such a hurry?
+<sophie>プンプン、て……。|何を怒ってるのよ……？=<sophie>“Humph"...? What are you so angry about?
+<sophie>——２人とも、|そんなに慌ててどうしたの……？=<sophie>What's got you two so worked up...?
 <alphonse>ソフィ、見て！！|ボクたち、とんでもない薬を|手に入れたんだ！！=<alphonse>Look, Sophie!! We found an incredible potion!!
-<edward><bigtext>ボ———ン！！=<edward><bigtext>Cuuuur-!!
+<edward><bigtext>ボ———ン！！=<edward>Cuuuur-!!
 <alphonse>キュッ！=<alphonse>-vyyy!
-<edward><bigtext>ボオオオォォン！！=<edward><bigtext>Cuuuur-!!
-<alphonse>——に、なる薬だよ！！|さぁ、早く飲んで！|ウィンリィに気づかれる前に！！=<alphonse>This potion will make you so! |Come on, drink it quickly! Before Winry notices it!!
+<edward><bigtext>ボオオオォォン！！=<edward><bigtext>Cuuuurvvvy-!!
+<alphonse>——に、なる薬だよ！！|さぁ、早く飲んで！|ウィンリィに気づかれる前に！！=<alphonse>This potion will make you so! |Come on, drink it quickly, before Winry spots us!!
 <edward>何してんだ！ 急げよソフィ！！|幼児体型にオサラバできる|チャンスなんだぞ！？=<edward>What are you doing!? Hurry up, Sophie!! This is your chance to say goodbye to your childlike figure!
 <alphonse><bigtext>ボンキュッボン！！=<alphonse><bigtext>Curvy body!!
 <edward><bigtext>ボンキュッボ——ン！！=<edward><bigtext>Curvy bodyyyy!!
-<sophie>ウィンリィ、スパナ貸して。=<sophie>Winry, lend me your wrench.
-<sophie>「ビッグになれよ、成長の秘薬」|……………？=<sophie>“Growth Tonic: to grow big"?
+<sophie>ウィンリィ、スパナ貸して。=<sophie>Winry, pass me your wrench.
+<sophie>「ビッグになれよ、成長の秘薬」|……………？=<sophie>“Growth Tonic: To Grow Big"?
 <sophie>「成長」ってことは、|きっと、身長が伸びるのよね……？=<sophie>“Growth" surely means that you'll become taller.
-<sophie>……本当に、私がもらっちゃっていいの？|これが必要なのは、私じゃなくて……。|——あっ、ううん……、なんでもない。=<sophie>Are you sure I should take this? It's not me who needs it. |Ah, well... forget I said anything.
+<sophie>……本当に、私がもらっちゃっていいの？|これが必要なのは、私じゃなくて……。|——あっ、ううん……、なんでもない。=<sophie>Are you sure I should take this? It's not me who needs it. |Ah, no... forget I said anything.
 <sophie>よく分からない|鉄クズや木クズ……。|これは……いったい……？=<sophie>I don't understand what you're doing with this scrap iron and scrap wood... |What on earth is this?
 <edward>大砲の弾や、矢に錬成して使うんだ。|このままだと、ソフィの言うとおり、|何の役にも立たないゴミだけどな。=<edward>I can use it to transmute cannon balls and arrows. If it stays like this, as you said, it's just useless junk.
 <sophie>（何の役にも立たないゴミ……。| 錬金術の使えない私にとって、| ゴミはゴミでしかないのだけど……。）=<sophie>(Useless junk... Since I can't use alchemy, trash is just trash for me.)
@@ -4737,8 +4737,8 @@
 <sophie>ヴェルザは滅びの神|決して目覚めさせることなかれ=<sophie>Velza is a goddess of destruction and should never be awakened.
 <sophie><bigtext>パンパカパーン！！=<sophie><bigtext>Ta-daaaaa!!
 <sophie>おめでとう、エド。|これであなたも、立派な|ハガレンマスターね！=<sophie>Congratulations, Ed! You're now an indisputable Fullmetal Alchemist master!
-<sophie><bigtext>ジャジャーン！！=<sophie><bigtext>Voila!!
-<sophie>ムービー・コンプリート！！|トゥルーエンディングは見れたかな？|劇場版もよろしくね！=<sophie>All movies complete!! |Did you see the true ending? Look forward to the movie version!
+<sophie><bigtext>ジャジャーン！！=<sophie><bigtext>Et voila!!
+<sophie>ムービー・コンプリート！！|トゥルーエンディングは見れたかな？|劇場版もよろしくね！=<sophie>All movies obtained!! Did you see the true ending? Please look forward to “Fullmetal Alchemist the Movie: Conqueror of Shamballa" too!
 <sophie>——読んで欲しいな……。|エドとアルの事を想って|書いたんだよ……。=<sophie>I hope you'll read this... I wrote it thinking about you, Ed and Al.
 <sophie>私の気持ち……、受け取ってね。=<sophie>Please accept my feelings...
 <sophie>——銀色に輝く円盤……？|これは、いったい……？=<sophie>A silver shiny disk? |What on earth is this?
@@ -4760,7 +4760,7 @@
 <roy>——フッ、忘れたとは言わせんぞ。=<roy>Hmph! Don't tell me you've forgotten.
 <roy>鋼１では、ファーストシングル|「消せない罪」をバックに、|私と死闘を繰り広げたろう？=<roy>During Fullmetal 1, we fought to the death while her first single “Inerasable Sin" played in the background, right?
 <edward><bigtext>身もフタもねえ——！！=<edward><bigtext>That’s breaking the fourth wall!#Roy is being too blunt/honest
-<roy>このＣＤはこの教会に置いておこう、|良い子のみんな！|くれぐれも本物を買うように！！=<roy>Let's leave this CD in the church. |And good kids,  make sure to buy the real one, okay?
+<roy>このＣＤはこの教会に置いておこう、|良い子のみんな！|くれぐれも本物を買うように！！=<roy>Let's leave this CD in the church. |And good kids, make sure to buy the real one, okay?
 <edward><bigtext>ＣＤ<8006>とか言うな——ッ！=<edward><8006>Don't call it a <bigtext>CD!
 <sophie>以上、北出菜奈ちゃんの|「悲しみのキズ」でした♪=<sophie>And that's the end of this bit about Nana Kitade-chan's “Wounds of Sadness" ♪
 <sophie>鉛の指輪……？|変わってるわね、指輪なのに|重いし、ゴツゴツしてるし……。=<sophie>A lead ring? |How weird, even though it's a ring, it's heavy and rough...
@@ -4832,12 +4832,12 @@
 <sophie>……これは、|私のお父さんを殺した、|あの男のもの——！！=<sophie>This belonged to the man who killed my father!!
 <sophie>……憎しみがないわけじゃない。|——けれど、いつまでも|憎み続けることは出来ない……。=<sophie>It's not that I've forgiven him, but...|You can't keep hating forever.
 <sophie>それが「人の強さ」だって……。|最後に別れる時、|お父さん、そう教えてくれたの……。=<sophie>That's the strength of humans... |It's what my father teached me when we parted ways for the last time.
-<sophie>いつか憎しみの火は消える……。|だから、私も前を向いて……。|………頑張るよ、お父さん——。=<sophie>The flames of hatred will die out someday. That's why I must look towards the future. I'll do my best, dad.
+<sophie>いつか憎しみの火は消える……。|だから、私も前を向いて……。|………頑張るよ、お父さん——。=<sophie>The flames of hatred will die out someday. That's why I must look towards the future. I'll do my best, Dad.
 <sophie>氷の紋章……。|お父さんから聞いたことがあるわ、|一族に伝わる、４つの紋章の話……。=<sophie>The crest of ice... My father told me the story about the four crests inherited by the Clan.
 <sophie>……レオニードさん、だっけ……。|あの人も、あの人なりに|背負い、信じてた道があった……。=<sophie>Leonid, right? |In his own way, he also had a path to follow and believe in.
 <sophie>……悲しいね……。|戦いの中でしか、|お互いを理解できないなんて……。=<sophie>It's so sad that we could only understand each other in the middle of battle...
 <sophie>風の紋章……。|お父さんから聞いたことがあるわ、|一族に伝わる、４つの紋章の話……。=<sophie>The crest of wind... My father told me the story about the four crests inherited by the Clan.
-<sophie>風の神官は、代々、|女の人が務めてるって聞いたわ。|２人は会ったことあるのかしら……？=<sophie>I heard that the priestess of wind had been a woman for generations. |I wonder if you two ever met...
+<sophie>風の神官は、代々、|女の人が務めてるって聞いたわ。|２人は会ったことあるのかしら……？=<sophie>I heard that the role of the priestess of wind has held by been a woman for generations. I wonder if they ever met...
 <sophie>地の紋章……。|お父さんから聞いたことがあるわ、|一族に伝わる、４つの紋章の話……。=<sophie>The crest of earth... My father told me the story about the four crests inherited by the Clan.
 <sophie>毛皮を羽織った、あの大きな人……。|私が印の暴走を止めてさえいれば、|死ぬこともなかった……。=<sophie>That giant man wearing furs... |If only I had stopped the seal from going out of control, he wouldn't have died.
 <sophie>……………ありがとう、|私なら大丈夫。=<sophie>Thank you, I'll be fine.
@@ -4926,7 +4926,7 @@
 <sophie>——あら。|どうしたの、その下着……？|ずいぶんと男らしいわね。=<sophie>Oh, what's with that underwear? |It's really manly.
 <winry><bigtext>え……？=<winry><bigtext>Huhhhhh!?
 <sophie>私こういう下着は嫌いじゃないの。|たくましくて、|すごく素敵だと思うよ。=<sophie>I don't dislike this type of underwear. |It seems bold and very lovely.
-<winry>ソフィ、あんた…大物ね……。=<winry>Sophie, you're... a big one.
+<winry>ソフィ、あんた…大物ね……。=<winry>Sophie, you're... formidable.
 <sophie>大きな布だね……。|いったい、これは何なの……？=<sophie>That's a big piece of cloth... What on earth is this?
 <sophie>えっ、ふんどし——！？|……こんなに大きなふんどしが、|本当に存在するの……！？=<sophie>Huh, a loincloth!? |Do loincloths this big really exist!?
 <sophie>やっぱり、ただの下着じゃないのね……。|ふんどしって、奥が深いわ……。=<sophie>Well, after all it's not simple underwear. Loincloths are complex...
@@ -5016,7 +5016,7 @@
 <sophie>———ッ！！|やっぱり、これはエドが持ってて！！|ううん、私からのプレゼント！！=<sophie>............!! |Actually, you should keep this, Ed!! |Yeah, it's a present from me!!
 <edward>——は？|何言ってんだよ。|それは今、オレがソフィに——。=<edward>Huh? What are you talking about? |I'm giving this to you now.
 <sophie>いいから、お願い！！|受け取って——！！=<sophie>No, please!! Just accept it!!
-<edward>わっ、わかった……。|……急にどうしたんだよ、|変なの……。=<edward>U-Understood... |What's got into her?| She's acting so strange...
+<edward>わっ、わかった……。|……急にどうしたんだよ、|変なの……。=<edward>U-Understood... |What's got into her? |She's acting so strange...
 <sophie>……………。=<sophie>..................
 <winry>——あれ？|ニヤニヤして|どーしたの、ソフィ……？=<winry>Oh? Why are you smirking, Sophie?
 <sophie>——ねぇ、ウィンリィ。|四つ葉のクローバーの|花言葉って知ってる……？=<sophie>Winry, do you know about the symbolism of four-leaf clovers?
@@ -5146,7 +5146,7 @@
 <sophie><yellow>タッグバトルモードで|<yellow>アレックス・ルイ・アームストロング少佐が|<yellow>使用可能になりました=<sophie><yellow>Major Alex Louis Armstrong is now available in Tag Battle Mode.
 <sophie>軍人さんにも、ヴェルザの一族にも、|女性として、戦士として|戦っている人がいるのね……。=<sophie>There are women who fight as warriors among soldiers and Velza Clan.
 <sophie>揺るぎない決意は、性別を問わず|その人自身をつき動かすもの……。|私も、頑張らなくっちゃ……。=<sophie>A person is driven by unwavering determination, regardless of gender. |I must do my best too.
-<riza>——エドワード君……。|私で役に立てるのなら、|いくらでも力を貸すわ……。=<riza>Edward... If I can be of any use to you,| I'll lend you my power as much as I can.
+<riza>——エドワード君……。|私で役に立てるのなら、|いくらでも力を貸すわ……。=<riza>Edward... If I can be of any use to you, |I'll lend you my power as much as I can.
 <riza>好きな時に呼び出してね……。|タッグバトルモードで、|待ってるわ……。=<riza>Call me whenever you feel like it. I'll be waiting in Tag Battle Mode.
 <sophie><yellow>タッグバトルモードで|<yellow>リザ・ホークアイ中尉が|<yellow>使用可能になりました=<sophie><yellow>Lieutenant Riza Hawkeye is now available in Tag Battle Mode.
 <sophie>——これは！|……この仮面は……！！=<sophie>What's this!? |This mask...
@@ -5207,7 +5207,7 @@
 <sophie>野次馬が野次馬を呼び、|結局、それが、私とお父さんの|見つかる原因となってしまった……。=<sophie>But the curious onlookers drew more people, and that was the reason my dad and me were discovered.
 <sophie>コスプレは、お父さんの|唯一の楽しみだった……。|だけど、あの時、私が止めていれば——！=<sophie>Cosplaying was my dad's only hobby, but... If I had stopped him back then...
 <edward>——コスプレ……。=<edward>Cosplaying...
-<sophie>……ごめんね……お父さん……。=<sophie>I'm sorry, dad...
+<sophie>……ごめんね……お父さん……。=<sophie>I'm sorry, Dad...
 <edward>……………。=<edward>.....................
 <winry>どーお？ すごいでしょ！|一度握ったら離れない！|このブツブツが決め手なの！=<winry>Well? Aren't they amazing!? Once you grab something with them, they won't let it go! |These bumps are the deciding factor!
 <winry>ムダのない機能美！！|これこそ、真の手袋よッ！！=<winry>Functional beauty without waste!! These are true gloves!!
@@ -5305,7 +5305,7 @@
 <sophie>真っ赤な帽子は、まさに|「女帝」ってカンジね……。|ふふ、みんなをイジメちゃダメよ♪=<sophie>That red hat makes her look just like an empress, doesn't it? |Heh heh! Don't bully the others! ♪
 <sophie>——あっ！|私、知ってるわ、このニャンちゃん！|この子、有名な役者猫「まろん」よ！=<sophie>Ah! I know this kitty! He's the famous cat actor, Chestnut!
 <alphonse>役者猫……？|ああ、映画や舞台に出る|訓練されたニャンコのことだね。=<alphonse>A cat actor? |Oh, you mean a trained cat that appears in movies and plays, right?
-<sophie>——ねぇ、アル！|色紙持ってない！？|私、実は、大ファンなの！=<sophie>Hey, Al! Don't you have a colored paper? |I'm actually a big fan of his!
+<sophie>——ねぇ、アル！|色紙持ってない！？|私、実は、大ファンなの！=<sophie>Hey, Al! Do you have some autograph paper? |I'm actually a big fan of his!
 <alphonse>（ニャンコにサインだよ……！）=<alphonse>(You want a cat's autograph!?)
 <sophie><bigtext>イケニャーンッ！！=<sophie><bigtext>Trend-kitty!!
 <alphonse>うわぁ……。|いきなりテンション高めだね。|イケニャンって何なの……？=<alphonse>Wow! You're so excited all of a sudden. |What's a trend-kitty?
@@ -5545,7 +5545,7 @@
 <edward>お、おう。=<edward>Oh, yeah.
 <alphonse>うん！ よろしく！=<alphonse>That's it! Nice to meet you!
 <winry>よろしくね！ ソフィ！=<winry>Nice to meet you, Sophie!
-<sophie>（これで……、|これで良かったのよね、お父さん……。）=<sophie>(Is this... Is this right, dad...?)
+<sophie>（これで……、|これで良かったのよね、お父さん……。）=<sophie>(Is this... Is this right, Dad...?)
 <edward>こ、これは……。=<edward>Wh-What's this?
 <sophie>あなたたちに「聖印」を渡したわ。=<sophie>I gave you the Holy Seal.
 <alphonse>聖印……？=<alphonse>The Holy Seal?
