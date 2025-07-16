@@ -1078,7 +1078,7 @@
 !FILE:0014_103.txt
 ＶＳ　ゴーレム=VS Golem
 ＶＳ　ファントム・レディ=VS Phantom Lady
-ＶＳ　砲台ゴーレム=VS Artillery Golem
+ＶＳ　砲台ゴーレム=VS Artillery Golems
 ＶＳ　恐竜ゴーレム=VS Dinosaur Golem
 ＶＳ　銀弾の錬金術師=VS Silver Bullet Alchemist
 
@@ -2070,8 +2070,8 @@
 セーブ画面を開いた時に、|<orange>エドとアルのＨＰが全回復<white>します。=When you open the Save screen,|<orange>Ed and Al's HP<white> will be fully recovered.
 <bigtext><blackbold> スキル錬成「壁」=<bigtext><blackbold> Skill Transmutation “Rockblocker"
 <8006><white><L2a><L2b>押しながら<circle>　＝　<yellow>「壁」を錬成=<8006><white>Press <circle> while holding <L2a><L2b>: <yellow>Create Rockblocker
-敵の攻撃を防ぐ「壁」を錬成します。=Creates a rockblocker which can shield you from enemy attacks.
-壁に向かって進み続けると、|<orange>自動で上に乗る<white>こともできます。=If you keep walking towards the rockblocker, |<orange>you will climb onto it <white>automatically.
+敵の攻撃を防ぐ「壁」を錬成します。=Creates a rockblocker which can|shield you from enemy attacks.
+壁に向かって進み続けると、|<orange>自動で上に乗る<white>こともできます。=If you keep walking towards the rockblocker, <orange>you will climb onto|it <white>automatically.
 ※修得したスキルは、キャンプ画面|『ステータス』で確認できます。=※You can check learned skills in the “Status" menu.
 <smalltext><L2a><L2b>押しながら<circle>　＝　<yellow>「壁」を錬成=<smalltext>Press <circle> while holding <L2a><L2b>: <yellow>Create Rockblocker
 <smalltext><square>/<circle>　＝　宝箱を開ける=<smalltext><square>/<circle>: Open treasure chest
@@ -2561,13 +2561,13 @@
 <alphonse>——あ。|生き返った。=<alphonse>Ah... You're alive again.
 <armstrong>うむ。敵の進攻と同時に、|ヴァルドラ軍司令部に、|突如として出現したのだ。=<armstrong>Hmm. It appeared suddenly at the Valdolla headquarters, at the same time as the enemy advanced.
 <edward>最後のオベリスクは、司令部か……。|よし、行こう、アル。=<edward>So the last Obelisk is at the headquarters...|Okay, let's go, Al.
-<armstrong>む。待つのだ、２人とも。|今、司令部は敵に包囲されておる。|とても、中に入ることはできんぞ。=<armstrong>Humm. Wait, you two.|Right now the headquarters are surrounded by enemies. You can't go inside at all.
+<armstrong>む。待つのだ、２人とも。|今、司令部は敵に包囲されておる。|とても、中に入ることはできんぞ。=<armstrong>Humm. Wait, you two. Right now, the headquarters are surrounded by enemies. You can't go inside at all.
 <armstrong>我輩は、援軍を連れてくるため、|敵の包囲を抜け、やっとのことで|司令部を脱出してきたのだ。=<armstrong>I had to slip by their siege to bring reinforcements, and then at last managed to escape from there.
 <edward>その援軍が到着するまで、|司令部に行くなってんじゃねーだろうな。|そんな、ノンビリしてらんねーんだ。=<edward>We can't wait for those reinforcements to arrive before going to headquarters. We're running short on time.
 <armstrong>むうぅ……。=<armstrong>Huummm...
 <armstrong>——ならば、我輩が脱出する時に使った|下水道から司令部に潜入するが良い。|そのルートなら、まだ安全だろう。=<armstrong>In that case, you should infiltrate through the sewers I used to escape.|That route should still be safe.
 <edward>下水道から、|司令部の中に入れるんだな？|わかった、サンキュー、少佐。=<edward>Enter headquarters through the sewers?|Understood. Thank you, Major.
-<armstrong>援軍を呼んだら、我輩もすぐに駆けつける。|それまで、くれぐれも無茶するでないぞ、|エドワード・エルリック。=<armstrong>As soon as I call reinforcements, I'll join you there at once.|Until then, please don't do anything dangerous, Edward Elric.
+<armstrong>援軍を呼んだら、我輩もすぐに駆けつける。|それまで、くれぐれも無茶するでないぞ、|エドワード・エルリック。=<armstrong>As soon as I call reinforcements, I'll join you there at once. Until then, please don't do anything dangerous, Edward Elric.
 
 !FILE:0080_003/004.txt
 <edward>——ここが、|ウィンリィの言ってた|地下鉄の駅だな……。=<edward>This must be the subway station Winry was talking about...
@@ -2603,7 +2603,7 @@
 <alphonse>ここは……司令部の中だね。|無事に、たどりつけたみたい。=<alphonse>So we're... inside the headquarters.|It seems we managed to get here safely.
 <edward>ああ。だけど、思った通りだ。|すでに、ヴェルザの一族が|侵入してるな……。=<edward>Yeah. But it's just as I feared.|Velza Clan has already invaded this place.
 <alphonse>司令部は、この街でいちばん、|守りが堅い場所の|はずなのに……。=<alphonse>Even when headquarters are supposed to be the most secure place in this town...
-<edward>ヤツらには「印の力」があるからな。|ただの軍人じゃ、|太刀打ちできないだろう。=<edward>That's because they have the power of the seal.|Normal soldiers don't stand a chance against that.
+<edward>ヤツらには「印の力」があるからな。|ただの軍人じゃ、|太刀打ちできないだろう。=<edward>That's because they have the power of the seal. Normal soldiers don't stand a chance against that.
 <edward>オベリスクは、この先みたいだな。|行こう、アル。=<edward>It seems the Obelisk is this way.|Let's go, Al.
 <soldier>——うう、気をつけろ……、|奴らの力……普通じゃない……！=<soldier>Uuhh... Be careful... The power of those guys... it's not normal!
 <soldier>…………………………。=<soldier>...........................
@@ -2614,12 +2614,12 @@
 はい=Yes
 いいえ=No
 エレベーターで上にのぼりますか？=Go up in the elevator?
-<smalltext>外へのドアは厳重にロックされている=<smalltext>The door to the outside is fast locked.
+<smalltext>外へのドアは厳重にロックされている=<smalltext>The door to the outside is solidly locked.
 <smalltext><blackbold>アクセサリ<normal>【鬼のパンツ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Demon Briefs"
 <edward>——おい！|大丈夫か！？=<edward>Hey! Are you alright?
 <soldier>あ、ああ……。|足を少し、やられただけだ。|それより君たちは……？=<soldier>Ah, yeah... I just hurt my leg a little.|By the way, who are you?
 <alphonse>ボクたち、オベリスク——、|外にある、大きな塔の所へ|行きたいんです。=<alphonse>We want to reach the Obelisk... that big tower outside.
-<soldier>司令部に突然出現した、あの塔か……。|そこから外に出ればすぐだが、|今はドアがロックされていて通れんぞ。=<soldier>That tower that suddenly appeared at headquarters?|You can go quickly outside from here, but the door is locked and there's no way through.
+<soldier>司令部に突然出現した、あの塔か……。|そこから外に出ればすぐだが、|今はドアがロックされていて通れんぞ。=<soldier>That tower that suddenly appeared at headquarters? You get out quickly from here, but the door is locked and there's no way through.
 <edward>うーん……。|オレたち、急いでるんだ。|なんとか、ならねーのかな？=<edward>Hmmm... We're in a hurry, isn't there anything we can do?
 <soldier>コントロールルームが|敵にやられてしまって、|ロックを解除できんのだ。=<soldier>The control room is taken by the enemy, so you can't release the lock.
 <soldier>予備のスイッチなら、|最上階の司令室の隣に|あるはずだが……。=<soldier>But there should be a spare switch next to the command room at the top floor.
@@ -3425,7 +3425,7 @@
 
 !FILE:0149_003/004.txt
 <blackbold>アイテム<normal>【秘密の史書（７）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Secret Book (7)"
-<oldman>奴らは、ヴェルザの恐ろしさを知らんのだ。|歴史に学べば、愚かな過ちを|繰り返すこともなかったろうに……。=<oldman>They know nothing about the horror of Velza. If they had studied history, they wouldn't be repeating the same foolish mistakes.
+<oldman>奴らは、ヴェルザの恐ろしさを知らんのだ。|歴史に学べば、愚かな過ちを|繰り返すこともなかったろうに……。=<oldman>They know nothing about Velza's horror. If they had studied history, they wouldn't be repeating the same foolish mistakes.
 
 !FILE:0150_003/004.txt
 <smalltext>ゲートを破壊して先に進もう！=<smalltext>Destroy the gate and move forward!
@@ -3500,17 +3500,17 @@
 <sophie>ウッ……アアァッ……！？=<sophie>Uuhhh... Aaaah!
 <man>ヴェルザ様！ ありがとうございます！|息子は命を取りとめました！=<man>Thank you so much, Lady Velza! You saved my son's life!
 <woman>ウチの母も、ヴェルザ様のおかげで！|本当に、なんとお礼を|言ったらいいか……！=<woman>My mother was saved too, thanks to you, Lady Velza! I don't know how to express my gratitude!
-<oldman>ヴェルザ様は、不思譲な力で|我らをお救いくださる……。|神の生まれ変わりに違いない！=<oldman>Lady Velza has helped us with her mysterious powers...|Sure enough, she must be the reincarnation of a god!
+<oldman>ヴェルザ様は、不思譲な力で|我らをお救いくださる……。|神の生まれ変わりに違いない！=<oldman>Lady Velza has helped us with her mysterious powers... Sure enough, she must be the reincarnation of a god!
 <maleworshipper>大変です！ 王の軍勢が！|ヴェルザ様を差しだせと……！=<maleworshipper>This is terrible! The king's army is here, and he wants Lady Velza to submit to him!
 <youngworshipper>なぜ、この場所が知れたのだ？|——まさか、誰かが、我々を……！？=<youngworshipper>How did they know about this place?|Could someone have betrayed us...!?
 <king>強情な女だ……隠さずに吐け！|お前の力の秘密は何だ！？=<king>You're an obstinate woman... Tell me the truth! What's the secret of your powers!?
 <king>お前を痛めつけてもムダのようだな……。|しかたがない。ならば代わりに……|お前の娘に犠牲になってもらおうか！=<king>It seems there's no point in torturing you... You leave me no choice.|I'll have to sacrifice your daughter instead!
-<king>お前に聞いてもムダのようだな……。|しかたがない。ならば代わりに……|お前の娘を——！=<king>It seems there's no point in asking you... You leave me no choice.|Instead of that, I'll take your daughter and...!
+<king>お前に聞いてもムダのようだな……。|しかたがない。ならば代わりに……|お前の娘を——！=<king>It seems there's no point in asking you... You leave me no choice. Instead of that, I'll take your daughter and...!
 <younggirl>お母さん！ 助けて……！|イヤアア———ッ！！=<younggirl>Mommy! Help me!|Aaaaaahhhh!!
 <maleworshipper>ヴェルザ様、助けにまいりました！|——ああっ！？|そ、そのお身体は……！？=<maleworshipper>Lady Velza, I've come to rescue you!|..... Aaah! Yo-Your body...
 <youngworshipper>……我々は裏切られたのです……|ヴェルザ様が救った、|民によって……。=<youngworshipper>We've been betrayed... By the same people whom Lady Velza saved.
-<man>ヴェルザ様！？ お、お許しください！|王に脅されて、しかたなかったのです！|あなた様の居場所を教えねば殺す、と！=<man>Lady Velza!? Pl-Please forgive me! The king threatened me, I had no choice! He was going to kill me if I didn't tell him about your place!
-<woman>もう、ここには来ないでください！|あなたがいると、王に知れたら……！|私たちを巻きこまないで！=<woman>Please, don't come here again! If the king knew you're here...|Don't get us involved!
+<man>ヴェルザ様！？ お、お許しください！|王に脅されて、しかたなかったのです！|あなた様の居場所を教えねば殺す、と！=<man>Lady Velza!? Pl-Please forgive me! The king threatened me, I had no choice! He'd kill me if I didn't tell him about your place!
+<woman>もう、ここには来ないでください！|あなたがいると、王に知れたら……！|私たちを巻きこまないで！=<woman>Please, don't come here again! If the king knew you were here...|Don't get us involved!
 <oldman>何をしにきた、この魔女め！|お前がいるから、我々が苦しめられる！|早く出ていくがいい！ 出ていけ！=<oldman>What are you doing here, witch!? Your presence brings nothing but pain! Go away right now! Go away!
 <man>あの魔女を殺せ！|じゃなきゃ、オレたちが殺されちまうぞ！|アイツが災いをもたらしたんだ！=<man>Kill that witch! Otherwise we'll be killed instead! She's the one who brought disaster!
 <sophie>——こ、この声は……！？=<sophie>This... This voice...
@@ -3729,7 +3729,7 @@
 
 !FILE:0191_002/004.txt
 <blackbold>アイテム<normal>【秘密の史書（完）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Secret Book (Final)"
-<godsoldier>皆、正気を失くしてしまった……。|話が違う……、|ヴェルザ様は、救世主のハズじゃ……！？=<godsoldier>Everyone has lost their minds...|The story they told wasn't like this...|Isn't Lady Velza supposed to be our savior!?
+<godsoldier>皆、正気を失くしてしまった……。|話が違う……、|ヴェルザ様は、救世主のハズじゃ……！？=<godsoldier>Everyone has lost their minds... The story they told wasn't like this... Isn't Lady Velza supposed to be our savior!?
 
 !FILE:0194_003/004.txt
 <smalltext><blackbold>アクセサリ<normal>【無限の砥石】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Whetstone of Ages"
@@ -3802,11 +3802,11 @@
 <edward>——ゼルギウスッ！！=<edward>Zelgius!!
 <zelgius>……やはり、ジャニスでは|力不足だったか……。=<zelgius>As expected, Janice wasn't good enough for you...
 <edward>テメェ……！|——ソフィはどこだ！！=<edward>You bastard! Where is Sophie!?
-<zelgius>フッ……ここまで来るとは、|いい度胸だ。|その褒美として教えてやろう。=<zelgius>Hmm... You got the nerve to come this far.|As a reward, I will tell you.
+<zelgius>フッ……ここまで来るとは、|いい度胸だ。|その褒美として教えてやろう。=<zelgius>Hmm... You got the nerve to come this far. As a reward, I will tell you.
 <zelgius>この塔の最上階だ。|そこに娘は、|ヴェルザと共にいる……。=<zelgius>She's in the top floor of this tower. That girl is there, together with Velza.
 <alphonse>ヴェルザと共に……？|それって、どういうこと？=<alphonse>With Velza...?|What does that mean?
 <zelgius>知りたくば、|己の目で確かめるがよい。=<zelgius>If you want to know, you can check it with your own eyes.
-<zelgius>ただし——。|この俺を、倒すことが|できればの話だがな——！！=<zelgius>However...|That is, if you can defeat me!!
+<zelgius>ただし——。|この俺を、倒すことが|できればの話だがな——！！=<zelgius>That is, however...|If you can defeat me!!
 <edward>言われなくても、|そのつもりだぜ！！=<edward>I was planning to, no need tell me!!
 <zelgius>来るがいい、|錬金術師の兄弟よ——！！=<zelgius>Come at me, alchemist brothers!
 <zelgius>クッ——！|お前たちに、これほどの力が……。=<zelgius>Ugh...!|How can you have so much power...?
@@ -3815,7 +3815,7 @@
 <edward>——何がおかしい？=<edward>What's so funny?
 <zelgius>……今、ヴェルザは|終末の祈りをささげている。|俺の勝敗など、大した問題ではない。=<zelgius>Right now, Velza is starting the Prayer of the End. It doesn't matter whether I win or lose.
 <alphonse>終末の祈り……？=<alphonse>The Prayer of the End?
-<zelgius>終末の祈りが終われば、|何千、何万の天使たちが生まれ、|この国すべての人間に牙を向ける……。=<zelgius>Once the Prayer of the End is finished, thousands... no, ten of thousands of angels will be born, and they'll turn their fangs towards the people of this country.
+<zelgius>終末の祈りが終われば、|何千、何万の天使たちが生まれ、|この国すべての人間に牙を向ける……。=<zelgius>Once the Prayer of the End is finished, thous... no, tens of thousands of angels spawn, and turn their fangs to the people of this country.
 <edward>天使……？|あの怪物たちのことか……！=<edward>Angels...?|You mean those monsters!?
 <zelgius>——見物だぞ、|世界が天使たちで|埋め尽くされる様は——。=<zelgius>It will be such a spectacle, seeing the world filled to the brim with angels...
 <zelgius>そして、この世界は|滅びの時を迎えるのだ……！=<zelgius>And then this world will reach its end!
@@ -3920,7 +3920,7 @@
 <alphonse>——ソフィ！！=<alphonse>Sophie!!
 <sophie>……エド……アル……！|無事だったのね……。|良かった……。=<sophie>Ed... Al...!|You're safe...|I'm glad.
 <edward>ソフィ！|お前、ソフィなんだな！！=<edward>Sophie!|You're Sophie!!
-<sophie>ありがとう……終末の祈りを……|世界の滅びを……止めることができた……。|２人の……おかげだよ……。=<sophie>Thank you...|You could stop the Prayer of the End... The destruction of the world...|It was thanks... to you both.
+<sophie>ありがとう……終末の祈りを……|世界の滅びを……止めることができた……。|２人の……おかげだよ……。=<sophie>Thank you... You could stop the Prayer of the End... The destruction of the world... It was thanks... to you both.
 <alphonse>ソフィ！|しっかりしてよ！ ソフィ！！=<alphonse>Sophie!|Hold on, Sophie!!
 <sophie>……私は……大丈夫……。|少し休めば……大丈夫だから……。=<sophie>I'm... alright.|If I just rest a bit... I'll be fine.
 <sophie>でも……気をつけて……！|ヴェルザは……|まだ……あきらめていない……。=<sophie>But... be careful!|Velza... hasn't given up yet...
@@ -3936,7 +3936,7 @@
 <edward>……分かったよ、ソフィ……。|——後はまかせろ……！=<edward>I understand, Sophie...|Leave the rest to us!
 <alphonse>ヴェルザ……！！=<alphonse>Velza!!
 <edward>これが……神の姿か——！！=<edward>Is this... the true form of the goddess!?
-<verda>……ウアァァァァァァァァ…………！=Uaaaaaaaaaahhh!
+<verda>……ウアァァァァァァァァ…………！=<verda>Uaaaaaaaaaahhh!
 <alphonse>——兄さん。=<alphonse>Brother...
 <edward>——ああ。=<edward>...Yeah.
 <edward>それでも、オレたちは、|負けられない……。|教会で、ウィンリィが待ってる。=<edward>Even then, we won't be defeated.|Winry is waiting for us at the church.
@@ -3977,7 +3977,7 @@
 <armstrong>そこにひざまずけぃ！！|大総統閣下に|おわび申しあげるのだっ！！！=<armstrong>Kneel right here!|And ask His Excellency for forgiveness!!
 <edward>う……ぐっ……！=<edward>Uh... guh...!
 <roy>——恐れながら、大総統閣下……！=<roy>With all due respect, Your Excellency...
-<roy>国家錬金術師といえど、まだ子供。|この者、慣れぬ戦場の雰囲気に、|我を失ってしまったようです……！=<roy>He's still a child despite being a State Alchemist. He must have lost his common sense in the unfamiliar atmosphere of the battlefield.
+<roy>国家錬金術師といえど、まだ子供。|この者、慣れぬ戦場の雰囲気に、|我を失ってしまったようです……！=<roy>He's still a child despite being a State Alchemist. He must have lost his common sense in the strange setting of the battlefield.
 <bradley>……………………。=<bradley>............................
 <roy>大総統に弓引くは国家の大罪なれど——|どうか、ご慈悲をもって、|お許しをたまわりたく……！=<roy>Rebelling against the Führer is a serious crime...|But please, have mercy and forgive him!
 <armstrong>差しでがましいようですが、|小官が、厳しく罰しておきますゆえ、|どうか命ばかりは——！=<armstrong>It may seem presumptuous of me, but I can punish him severely, so please spare his life!
@@ -4042,7 +4042,7 @@
 <roy>ヴェルザの一族は全滅、|鍵を握る少女の記憶も失われ、|今となっては、秘密を知る術はない……。=<roy>Velza Clan has been wiped out, and the memories of the girl who held the key have been lost, so there's no way to find out the secret now.
 <riza>——そのように報告を？=<riza>Did you make a report about it?
 <roy>ああ。「印の力」とは、|ある種の呪いとでも言うべき、|やっかいなものらしい。=<roy>Yes. The power of the seal seems to be a dangerous thing, one could say a kind of curse.
-<roy>無益な争いを繰りかえさぬためにも……|このまま歴史の闇に|埋もれさせていくべきだろう。=<roy>To prevent pointless conflicts to ever happen again, we should bury it all in the shadows of history.
+<roy>無益な争いを繰りかえさぬためにも……|このまま歴史の闇に|埋もれさせていくべきだろう。=<roy>To prevent pointless conflicts from ever happening again, we should bury it all in the shadows of history.
 <riza>——エドワード君たち、|ずいぶん落ちこんでいましたね……。=<riza>Edward and the others seemed really sad.
 <roy>……自分のために、|親しい者が犠牲になるのは|耐えがたい気持ちだろうな……。=<roy>It must be unbearable to have someone so close sacrificed for your sake...
 <riza>大佐……。=<riza>Colonel...
@@ -4318,7 +4318,7 @@
 <alphonse>ボクたち、決めたんだ。|ソフィを助けにいくよ。=<alphonse>We've already decided. We're going there to rescue her.
 <winry>エド……アル……。=<winry>Ed... Al...
 <edward>オレたちが、必ずソフィを助けだす。|だから、ウィンリィ。|もう少し、ここでノルンと待っててくれ。=<edward>I'm sure we're gonna save her. But you'll have to wait here with Norn a little longer, Winry.
-<alphonse>ボクたちにまかせて。|今度は絶対に、|ソフィも一緒に３人で帰ってくるから。=<alphonse>Leave it to us. I assure you that this time the three of us will come back, together with Sophie.
+<alphonse>ボクたちにまかせて。|今度は絶対に、|ソフィも一緒に３人で帰ってくるから。=<alphonse>Leave it to us. I assure you that the three of us will come back this time, including Sophie.
 <winry>う、うん……。=<winry>Ye-Yeah...
 <winry>……………………。=<winry>..............................
 <winry>大丈夫……大丈夫よ……。|みんな無事に……|帰ってくる……。=<winry>It's alright... It's alright...|Everyone will come back safely...
@@ -4346,7 +4346,7 @@
 <sophie>……ゴメンね。|ヒドイことしたと思ってる……。=<sophie>I'm sorry. I know I did a terrible thing.
 <alphonse>ううん、|あやまらなくていいよ、ソフィ……！=<alphonse>No, there's no need to apologize.
 <alphonse>——たしかに、|聖印の秘密を聞いたときは|ショックだったけど……。=<alphonse>To tell the truth, I was shocked when I first learned about the Holy Seal's secret.
-<alphonse>……けど、これがなかったら、|ボクたちは、みんな、やられていた。|……他に方法は、なかったんだ……。=<alphonse>But we couldn't have done it without it, none of us.|There was no other way.
+<alphonse>……けど、これがなかったら、|ボクたちは、みんな、やられていた。|……他に方法は、なかったんだ……。=<alphonse>But we couldn't have done it without that power, none of us could.|There was no other way.
 <sophie>アル……。=<sophie>Al...
 <edward>——身体の方は、|大丈夫なのか……？=<edward>Are you feeling alright?
 <sophie>うん。|……でも、さすがに|力を使いすぎたから——。=<sophie>Yeah. But I used too much power, after all.
@@ -4368,12 +4368,12 @@
 <sophie>お父さん……。|やっと……|やっと、終わったよ……。=<sophie>Dad...|At last... At last it's all over.
 <sophie>私、信じてるよ……。|お父さんのこと……！=<sophie>I believe in you... Dad!
 <sophie>いつも私を見ていてくれた……。|時には、本気で叱ってくれた……。|そして、命をかけて守ってくれた……！=<sophie>You were always watching over me.|Sometimes you'd scold me for real... But you sacrificed yourself to protect me!
-<sophie>あの想いは、あの優しさは、|偽りなんかじゃなかった——！=<sophie>That love, that tenderness were not lies!
+<sophie>あの想いは、あの優しさは、|偽りなんかじゃなかった——！=<sophie>That love, that tenderness, they were not lies!
 <sophie>私を心から愛してくれてた……！=<sophie>You loved me from the depth of your heart!
 <sophie>私、頑張る——！|お父さんがいなくても、|前へ前へと歩けるように……！=<sophie>So I'm gonna do my best!|I'll keep moving forward, even if you're no longer there, Dad!
 <sophie>だから……安心して……。|ゆっくりと休んでね……。=<sophie>But don't worry... I'm going to take it easy.
 <sophie>ありがとう……お父さん……。=<sophie>Thank you... Dad...
-<edward>——さて……と。|アル、そろそろ行くか。=<edward>Weeell... Al, are you coming?
+<edward>——さて……と。|アル、そろそろ行くか。=<edward>Wellll... Al, are you coming?
 <winry>——え？ 行くってどこに？=<winry>Huh? Where are you going?
 <alphonse>軍の司令部だよ。|大佐に呼ばれてるんだ。=<alphonse>To the Army headquarters. The Colonel called us.
 <edward>全部終わったら、|ちゃんと報告しに来い、ってさ。=<edward>He said we should go there for a full report, once everything was over.
@@ -4486,7 +4486,7 @@
 <sophie>救急箱に入れておくね……って、|ずいぶんと大きなお薬ね……。|いわゆる『お徳用』ってヤツかしら……？=<sophie>I'll put it in the first-aid kit, but... This is a surprisingly big bottle. I wonder if it's what they call “family size"?
 <sophie>どんな病気やケガも|たちどころに治してしまう、|伝説の回復薬——！？=<sophie>A potion that will cure any illness or injury at once!?
 <sophie>これさえあれば、|たとえ火の中！ 水の中！！|ミサイルだってへっちゃらね！=<sophie>As long as you have this, you don't need to worry about fire! About water!! Not even about missiles!
-<edward><bigtext>なワケないだろ……。=<edward><bigtext>There's no way it's like that...
+<edward><bigtext>なワケないだろ……。=<edward><bigtext>There's no way it's like|that...
 <sophie>「タフネスドリンク」……？=<sophie>“Toughness Drink"?
 <sophie>栄養剤ってヤツね。|私のこと、気遣ってくれてるんだ……。|ありがとう…嬉しいよ……。=<sophie>A nutritional supplement. Oh! You're worried about me...|Thanks, I'm touched!
 <sophie>「ビューティードリンク」……？=<sophie>“Beauty Drink"?
@@ -4584,7 +4584,7 @@
 <sophie>初めて見るわ、|こんな大きなタマゴ……。|いったい、何のタマゴなの……？=<sophie>I've never seen such a big egg before...|Really, what kind of egg is this?
 <sophie>——ええっ、分からない？|分からないけど、|タマゴってことは分かるのね……？=<sophie>Huh... You don't know? Yet you know it's an egg?
 <sophie>うーん、ちょっと不安だな……。|けど、細かいことは、|気にしないのが一番……よね、多分。=<sophie>Hmmm, I'm a bit worried.|But it's better not to think about the little details... Well, probably.
-<sophie>「ある」と「ない」とじゃ大違い！|タマゴで、料理の幅は一気に広がるの。|大切に保管しておくね♪=<sophie>Having eggs makes a great difference! With them, your cooking possibilities expand immediately.|I'll keep it safe. ♪
+<sophie>「ある」と「ない」とじゃ大違い！|タマゴで、料理の幅は一気に広がるの。|大切に保管しておくね♪=<sophie>Having eggs makes a great difference! With them, your cooking possibilities expand immediately. I'll keep them safe. ♪
 <sophie>小麦粉には、３つの種類があってね。|作る料理によって、それぞれを|使いわけるものなの。=<sophie>There are three types of flour. You use each one differently, according to the dish you're making.
 <sophie>この小麦粉は薄力粉だから……。|そうね、これを使えば、|クッキーやケーキが作れるよ！=<sophie>This is pastry flour...|Yeah, with this you can make cookies and cakes!
 <sophie>お菓子作りって楽しいよね。|「おいしい」って言ってもらえると、|すっごく、嬉しいもの……。=<sophie>Making sweets is so fun! It makes me really happy when people find them delicious!
@@ -4831,7 +4831,7 @@
 <sophie>炎の紋章……。|お父さんから聞いたことがあるわ、|一族に伝わる、４つの紋章の話……。=<sophie>The crest of fire... My father told me the story about the four crests inherited by the Clan.
 <sophie>……これは、|私のお父さんを殺した、|あの男のもの——！！=<sophie>This belonged to the man who killed my father!!
 <sophie>……憎しみがないわけじゃない。|——けれど、いつまでも|憎み続けることは出来ない……。=<sophie>It's not that I've forgiven him, but...|You can't keep hating forever.
-<sophie>それが「人の強さ」だって……。|最後に別れる時、|お父さん、そう教えてくれたの……。=<sophie>That's the strength of humans...|It's what my father teached me when we parted ways for the last time.
+<sophie>それが「人の強さ」だって……。|最後に別れる時、|お父さん、そう教えてくれたの……。=<sophie>That's the strength of humans...|It's what my father taught me when we parted ways for the last time.
 <sophie>いつか憎しみの火は消える……。|だから、私も前を向いて……。|………頑張るよ、お父さん——。=<sophie>The flames of hatred will die out someday. That's why I must look towards the future. I'll do my best, Dad.
 <sophie>氷の紋章……。|お父さんから聞いたことがあるわ、|一族に伝わる、４つの紋章の話……。=<sophie>The crest of ice... My father told me the story about the four crests inherited by the Clan.
 <sophie>……レオニードさん、だっけ……。|あの人も、あの人なりに|背負い、信じてた道があった……。=<sophie>Leonid, right?|In his own way, he also had a path to follow and believe in.
@@ -4975,7 +4975,7 @@
 <sophie>お父さんが、材料を買ってきてくれたの。|これなら、１人でも|楽しめるから、って……。=<sophie>My dad bought me the materials. He said this way I could have fun by myself...
 <sophie>けど、自分の作ったアクセサリー着けて、|鏡の前でポーズとっても、|１人は、やっぱり寂しかったよ……。=<sophie>However, even when I posed in front of the mirror wearing the accessories I made, I still felt lonely.
 <sophie>——そうそう、|私からも２人に、|プレゼントがあるの……。=<sophie>Okay, I too have a present for you two.
-<sophie>はい、アンクルウエイトよ♪|これを足に付けるだけで、筋肉が付くの。|きっと、２人の役に立つはずよ。=<sophie>Here, ankle weights! ♪|Just put these on your legs and you'll build muscle. I'm sure they'll be useful for you two.
+<sophie>はい、アンクルウエイトよ♪|これを足に付けるだけで、筋肉が付くの。|きっと、２人の役に立つはずよ。=<sophie>Here, ankle weights! ♪ Just put these on your legs and you'll build muscle. I'm sure they'll be useful for you two.
 <sophie>素敵なアンクレット……。|なんだか大人って感じね……、|私に似合うかなぁ……。=<sophie>A lovely anklet!|Somehow, it makes me feel like a grown-up. I wonder if it suits me...
 <sophie>どう……？ 変じゃない……？|私、今までオシャレなんて|したことなかったから……嬉しい。=<sophie>Well? Does it look weird?|I've never been fashionable before, so I'm happy.
 <sophie>……この戦いが終われば、|街へ出て、欲しい服を探したり、|お茶したりできるのよね……。=<sophie>Once this war is over, I'll be able to go to the city, find the clothes I like, and have tea.
@@ -5023,7 +5023,7 @@
 <winry>四つ葉のクローバーの|花言葉……？|ああ、確か「幸福」だっけ……？=<winry>The symbolism?|Aaah, I think it's “happiness", right?
 <sophie>実はね、もう一つ意味があるの。=<sophie>Actually, they have also another meaning.
 <winry>———？=<winry>......................?
-<sophie>剣の扱い方を教えてくれるの？|嬉しい！ 私、武芸を身につけるのなら、|絶対、剣の道に進もうと思ってたの！=<sophie>Are you going to teach me how to use a sword? I'm so happy! If I had to learn martial arts, I'd definitely want to follow the path of the sword.
+<sophie>剣の扱い方を教えてくれるの？|嬉しい！ 私、武芸を身につけるのなら、|絶対、剣の道に進もうと思ってたの！=<sophie>You'll teach me how to use a sword? I'm so happy! If I had to learn martial arts, I'd definitely want to follow that path.
 <sophie>エドワード先生！|よろしくお願いしまーす♪=<sophie>I look forward to working with you, Master Ed! ♪
 <edward><bigtext>うおおおっ！！？=<edward><bigtext>Uaaaaahhh!!
 <sophie>腰が甘いわ……。|そんなことで、|私を倒せると思って……？=<sophie>Your posture isn't very good... You think you can defeat me like that?
@@ -5071,11 +5071,11 @@
 <sophie>——そうだ！|これを使えば……。|——ちょっと待ってて！=<sophie>That's it! If I use this for...|Wait a minute!
 <sophie>——はい、これ。|せっかくだから、トラの爪で|腕輪を作ってみたの。=<sophie>Here it is. I took the opportunity to make an armlet out of the tiger claw.
 <sophie>——どう？ これで２人も、|狙った獲物は逃さない、|スキを突いた攻撃ができるはずよ！=<sophie>Well? With this, you two can attack an enemy's weak spots without missing a beat.
-<sophie>グリズリーは巨大な熊の一種なの。|けど、危害を加えなければ、|おとなしい性格だといわれているわ。=<sophie>Grizzly bears are a kind of giant bear. However, they're said to have a gentle personality, as long as you don't harm them.
+<sophie>グリズリーは巨大な熊の一種なの。|けど、危害を加えなければ、|おとなしい性格だといわれているわ。=<sophie>Grizzly bears are a kind of giant bear. However, they're said to have a gentle nature, as long as you don't harm them.
 <sophie>聴覚が敏感で警戒心も強いから、|音を立てて歩くだけで、|さっさと逃げだしちゃうんだって。=<sophie>They have sensitive hearing and are very cautious, so if you make noise while walking, they'll run away quickly.
 <sophie>——そうだ！|これを使えば……。|——ちょっと待ってて！=<sophie>That's it! If I use this for...|Wait a minute!
 <sophie>——はい、これ。|せっかくだから、グリズリーの爪で|腕輪を作ってみたの。=<sophie>Here it is. I took the opportunity to make an armlet out of the grizzly claw.
-<sophie>おとなしいといっても、猛獣は猛獣。|その腕輪にも、きっと野性のチカラが|秘められてるハズ…大切にしてね……！=<sophie>Even if they're gentle, they're still wild beasts. So I'm sure there's some wild power hidden inside this armlet.|Take good care of it!
+<sophie>おとなしいといっても、猛獣は猛獣。|その腕輪にも、きっと野性のチカラが|秘められてるハズ…大切にしてね……！=<sophie>Even if they're gentle, they're still wild beasts. So I'm sure there's some wild power hidden in this armlet. Take good care of it!
 <sophie>吸血コウモリって知ってる？|コウモリの中には、動物の血を|食料とするコウモリもいるの。=<sophie>Do you know what a vampire bat is? There are certain bats that feed on the blood of animals.
 <sophie>鋭い牙で傷をつけ、標的の血を|ぺロぺロなめちゃうんですって！|怖いよね……！=<sophie>They use their sharp fangs to injure their victims and lick off their blood! It's scary!
 <sophie>——そうだ！|これを使えば……。|——ちょっと待ってて！=<sophie>That's it! If I use this for...|Wait a minute!
@@ -5204,7 +5204,7 @@
 <edward><bigtext>——へ？=<edward><bigtext>Huh!?
 <sophie>完璧主義者のお父さんは、|変装にも妥協することはなかった。|完璧に、大総統になりきってた——。=<sophie>My perfectionist dad didn't leave his disguises to chance. He was perfect as the Führer.
 <sophie>でも、あまりに似すぎてて噂になったの。|「大総統のそっくりさんがいる」|って……。=<sophie>But the resemblance was so great, that rumors started about a Führer look-alike.
-<sophie>野次馬が野次馬を呼び、|結局、それが、私とお父さんの|見つかる原因となってしまった……。=<sophie>But the curious onlookers drew more people, and that was the reason my dad and me were discovered.
+<sophie>野次馬が野次馬を呼び、|結局、それが、私とお父さんの|見つかる原因となってしまった……。=<sophie>But the curious onlookers drew more people, and that was the reason my dad and I were discovered.
 <sophie>コスプレは、お父さんの|唯一の楽しみだった……。|だけど、あの時、私が止めていれば——！=<sophie>Cosplaying was my dad's only hobby, but... If I had stopped him back then...
 <edward>——コスプレ……。=<edward>Cosplaying...
 <sophie>……ごめんね……お父さん……。=<sophie>I'm sorry, Dad...
@@ -5601,20 +5601,20 @@
 !FILE:0228_003/004.txt
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
 <smalltext>次のフロアへ進めます！=<smalltext>Go to the next floor!
-<bigtext><yellow>プラクティスコース<white>クリア！！|||<8006><yellow>赤きエリクシルの悪魔<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Practice Course <white>cleared!|||<8006>You can now select the<yellow>Curse of the Crimson Elixir <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful not to <orange>overwrite your save with a high score!|
-<bigtext><yellow>プラクティスコース<white>クリア！！||||||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Practice Course <white>cleared!|||<8006>You can now select the<yellow> Curse of the Crimson Elixir <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful not to <orange>overwrite your save with a high score!|
+<bigtext><yellow>プラクティスコース<white>クリア！！|||<8006><yellow>赤きエリクシルの悪魔<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Practice Course <white>cleared!|||<8006>You can now select the<yellow> Curse of the Crimson|Elixir <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
+<bigtext><yellow>プラクティスコース<white>クリア！！||||||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Practice Course <white>cleared!|||<8006>You can now select the<yellow> Curse of the Crimson|Elixir <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
 
 !FILE:0233_002/004.txt
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
 <smalltext>次エリアフロアへ進めます！=<smalltext>Go to the next floor!
-<bigtext><yellow>赤きエリクシルの悪魔<white>クリア！！|||<8006>ゲーム本編をクリアしていれば|<8006><yellow>レギュラーメンバーズ<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Curse of the Crimson Elixir <white>cleared!|||<8006>If you have completed the main game, you can now select the<8006><yellow>Regular Members <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful not to <orange>overwrite your save with a high score!|
-<bigtext><yellow>赤きエリクシルの悪魔<white>クリア！！||||||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Curse of the Crimson Elixir <white>cleared!||||||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful not to <orange>overwrite your save with a high score!|
+<bigtext><yellow>赤きエリクシルの悪魔<white>クリア！！|||<8006>ゲーム本編をクリアしていれば|<8006><yellow>レギュラーメンバーズ<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Curse of the Crimson Elixir <white>cleared!|||<8006>If you have completed the main game, you can|now select the<8006><yellow>Regular Members <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
+<bigtext><yellow>赤きエリクシルの悪魔<white>クリア！！||||||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Curse of the Crimson Elixir <white>cleared!||||||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
 
 !FILE:0240_002/004.txt
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
 <smalltext>次エリアフロアへ進めます！=<smalltext>Go to the next floor!
-<bigtext><yellow>レギュラーメンバーズ<white>クリア！！|||<8006><yellow>神を継ぐ少女<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Regular Members <white>cleared!|||<8006>You can now select the<8006><yellow>Girl Who Succeeds God <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful not to <orange>overwrite your save with a high score!|
-<bigtext><yellow>レギュラーメンバーズ<white>クリア！！||||||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Regular Members <white>cleared!||||||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful not to <orange>overwrite your save with a high score!|
+<bigtext><yellow>レギュラーメンバーズ<white>クリア！！|||<8006><yellow>神を継ぐ少女<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Regular Members <white>cleared!|||<8006>You can now select the<8006><yellow>Girl Who Succeeds God <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
+<bigtext><yellow>レギュラーメンバーズ<white>クリア！！||||||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Regular Members <white>cleared!||||||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
 
 !FILE:0246_003/004.txt
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
@@ -5627,8 +5627,8 @@
 !FILE:0250_002/004.txt
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
 <smalltext>次エリアフロアへ進めます！=<smalltext>Go to the next area floor!
-<bigtext><yellow>神を継ぐ少女<white>クリア！！|||<8006><yellow>ハガレンタッグマッチ<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Girl Who Succeeds God <white>cleared!|||<8006>You can now select the<8006><yellow> Fullmetal Tag Match <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful not to <orange>overwrite your save with a high score!|
-<bigtext><yellow>神を継ぐ少女<white>クリア！！||||||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Girl Who Succeeds God <white>cleared!||||||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful not to <orange>overwrite your save with a high score!|
+<bigtext><yellow>神を継ぐ少女<white>クリア！！|||<8006><yellow>ハガレンタッグマッチ<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Girl Who Succeeds God <white>cleared!|||<8006>You can now select the<8006><yellow> Fullmetal Tag Match <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
+<bigtext><yellow>神を継ぐ少女<white>クリア！！||||||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Girl Who Succeeds God <white>cleared!||||||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
 
 !FILE:0251_002/004.txt
 <smalltext> フロアの敵を全滅させろ！|（このコースはフロアごとにＨＰが回復します）=<smalltext>Eliminate all enemies on the floor!|(In this course you recover HP in each floor)
@@ -5643,5 +5643,5 @@
 !FILE:0265_002/004.txt
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
 <smalltext>次エリアフロアへ進めます！=<smalltext>Go to the next area floor!
-<smalltext><bigtext><yellow>ハガレンタッグマッチ<white>クリア！！|||<8006><green> ＹＯＵ　ＡＲＥ　ＴＨＥ　ＣＨＡＭＰＩＯＮ！！<white>|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<smalltext><bigtext><yellow>Fullmetal Tag Match <white>cleared!!|||<8006><green>YOU ARE THE CHAMPION!!<white>|||<smalltext>※If you don't <orange>save <white>your data, you won't be able to record your high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful not to <orange>overwrite your save with a high score!|
+<smalltext><bigtext><yellow>ハガレンタッグマッチ<white>クリア！！|||<8006><green> ＹＯＵ　ＡＲＥ　ＴＨＥ　ＣＨＡＭＰＩＯＮ！！<white>|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<smalltext><bigtext><yellow>Fullmetal Tag Match <white>cleared!!|||<8006><green>YOU ARE THE CHAMPION!!<white>|||<smalltext>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
 
