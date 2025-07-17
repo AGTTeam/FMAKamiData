@@ -303,7 +303,7 @@
 女たらしの手帳=Womanizer's Notes#Womanizer's Notebook
 豪腕の手甲=Strong-Arm Gauntlet
 我輩の愛=My Love
-おそろいのヒゲ=Moustache of Camaraderie
+おそろいのヒゲ=Mustache of Camaraderie
 決意の弾丸=Bullet of Resolve
 シンプルなピアス=Simple Earrings
 ※アクセサリ予備用７０=Accessory Slot 70
@@ -567,7 +567,7 @@
 <yellow>すべての能力値が１上がる、あるものと装備すると…？<white>|たるみきった腹巻き、伝説の修行具という噂も……=<yellow>All stats increase by 1 when equipped together with...!?<white>|Rumor has it that this is a legendary training tool...#"Rumor has it that the loose bellyband is a legendary training tool..."
 <yellow>すべての能力値が１下がる、あるものと装備すると…？<white>|やる気のないももひき、伝説の修行具という噂も……=<yellow>All stats increase by 1 when equipped together with...!?<white>|Rumor has it that these are a legendary training tool...#"Rumor has it that these unmotivating pants are a legendary training tool..."
 <yellow>通常取得経験値が５％増加する<white>|鉄ゲタ、精神鍛錬にもなる…かもしれない=<yellow>Normally earned experience points increase by 25%.<white>|Iron sandals; they may be a tool for mental discipline...
-<yellow>通常取得経験値が１０％増加する<white>|ウィンリィの作った、重量が２倍に強化された鉄ゲタ=<yellow>Normally earned experience points increase by 10%.<white>|Twice as heavy iron sandals, reinforced by Winry.
+<yellow>通常取得経験値が１０％増加する<white>|ウィンリィの作った、重量が２倍に強化された鉄ゲタ=<yellow>Normally earned experience points increase by 10%.<white>|Iron sandals, but twice as heavy. Reinforced by Winry.
 <yellow>コンボボーナス経験値が２倍に増加する（エドアル共に）<white>|ソフィが作った、腕の筋肉を鍛えるおもり=<yellow>Combo bonus experience points are doubled (both Ed and Al).<white>|A weight made by Sophie, to train arm muscles.
 <yellow>カウンター成功時の取得経験値が５倍に増加する<white>|ソフィが作った、足の筋肉を鍛えるおもり=<yellow>Experience points for a successful counter are multiplied by 5.<white>|A weight made by Sophie, to train leg muscles.
 <yellow>ＨＰの最大値が５％上昇する<white>|ハート形のぺンダント、女の子は喜ぶかも……=<yellow>Max HP increases by 25%.<white>|A heart-shaped pendant that girls may like.
@@ -612,7 +612,7 @@
 <yellow>ソフィに渡すと……？<white>|ロイの手帳、デートの予定がぎっしりと書かれている=<yellow>What if you give it to Sophie...?<white>|Roy's notebook is crammed with planned dates.
 <yellow>体技属性、突起錬成の攻撃力が３０％上昇する<white>|アームストロングの手甲、ズッシリ重い=<yellow>The power of physical and Spike transmutation attacks increases by 30%. <white>Armstrong's gauntlet is really heavy.
 <yellow>敵を気絶状態にしやすい<white>|言わずと知れた愛の抱擁、最終兵器=<yellow>Enemies are easily stunned.<white>|The embrace of declared love: the ultimate weapon.
-<yellow>ソフィに渡すと……？<white>|アームストロングのヒゲ、取りはずし可能=<yellow>What if you give it to Sophie...?<white>|Armstrong's moustache is removable.
+<yellow>ソフィに渡すと……？<white>|アームストロングのヒゲ、取りはずし可能=<yellow>What if you give it to Sophie...?<white>|Armstrong's mustache is removable.
 <yellow>射撃属性の攻撃力が３０％上昇する<white>|ホークアイ中尉のお守り=<yellow>The power of shooting attacks increases by 30%.<white>|Lt. Hawkeye's charm.
 <yellow>ソフィに渡すと……？<white>|ホークアイのピアス、しんぷるいずべすと=<yellow>What if you give them to Sophie...?<white>|Hawkeye's earrings: simple is best.
 <yellow>攻撃力が３０上がり、錬成力が１０下がる<white>|ゼルギウスの仮面、一族の長は着用を義務づけられる=<yellow>Attack increases by 30. Alchemy decreases by 10.<white>|Zelgius' mask, which the leader of the Clan is required to wear.
@@ -2746,8 +2746,8 @@
 <roy>あの男は、目的のためには|手段を選ばない、油断のならない人物だ。|今回も、何か裏で動いてるふしがある。=<roy>He's a cunning man who won't spare any means to meet his goals. And it seems there's again something stirring behind the scenes.
 <edward>——そういえば、大佐。大佐こそ、|オレたちに、あんな手紙をよこして、|なにか裏があるんじゃねーのかよ。=<edward>Speaking of which, Colonel... That includes you too. You sent us that letter, so what was going on with that?
 <roy>——ん？=<roy>Huh?
-<edward>「ヴァルドラに賢者の石に関する噂がある」|オレたちに何かさせたくて、|こんな手紙で呼んだんだろ。=<edward>“There are rumors about the Philosopher's Stone in Valdolla". You attracted us with that letter because you wanted us to do something, right?
-<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>Well, it's true that there are legends in this town about a witch who consecrated herself to the “Red Demon", which is reminiscent of the Philosopher's Stone.
+<edward>「ヴァルドラに賢者の石に関する噂がある」|オレたちに何かさせたくて、|こんな手紙で呼んだんだろ。=<edward>“There are rumors of the Philosopher's Stone in Valdolla". You drew us in with that letter because you wanted us for something, right?
+<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>Well, there are legends in this town about a witch who consecrated herself to the “Red Demon", which is reminiscent of the Philosopher's Stone.
 <roy>——まぁ、お前たちが来たら、|せっかくだから少し手伝ってもらおうと|考えていたのも事実だがな……。=<roy>And it's true that, since you two had come here, I thought you might as well help us a little.
 <edward>あ——ったく！ いつもいつも、|そうやって、人をいいように|動かそうとしやがって……！=<edward>Aaargh, really! You're always trying to make people do whatever you want!
 <roy>ハハハ。まぁ、そう怒るな。|お前たちには、クレイギン将軍の動きに|注意してほしいのだ。=<roy>Ha ha ha! Don't get so angry.|I want you two to keep an eye on General Craigin's movements.
@@ -3029,7 +3029,7 @@
 !FILE:0129_003/004.txt
 <maskedman>戻ったか……レオニード。=<maskedman>You're back... Leonid.
 <leonid>ごめんなさい、ゼルギウス……。|アタシとしたことが……。|くっ……あの小娘……。=<leonid>Forgive me, Zelgius. What I've done...|Ugh! That girl...
-<mysteriouswoman>なーにノコノコ手ぶらで帰ってきてんのよ。|やっと見つけた『器』なのにさぁ。|バッカじゃないの？ ヤル気あんの？=<mysteriouswoman>Why do you come back empty-handed, just like that? Even if we've finally found the “vessel". Are you stupid? Can't you take this seriously?
+<mysteriouswoman>なーにノコノコ手ぶらで帰ってきてんのよ。|やっと見つけた『器』なのにさぁ。|バッカじゃないの？ ヤル気あんの？=<mysteriouswoman>Why do you come back empty-handed? Even if we've finally found the “vessel". Are you stupid? Can't you take this seriously?
 <leonid>——うるさいわね、|ちょっと油断しただけよ……。=<leonid>Shut up! I just let my guard down a little.
 <mysteriouswoman>あんなガキ１人捕まえられないなんて|ヤバすぎ、生きてる価値ないよね。|てか、１回死んじゃえばぁ？=<mysteriouswoman>It's awful that you can't even catch a little girl. You don't deserve to live, so why don't you just die once and for all?
 <leonid>くっ……！！=<leonid>Grrr...!!
@@ -3074,7 +3074,7 @@
 <craigin>私は、それを手に入れるため、|長い間、チャンスを|うかがってきたのだからな。=<craigin>I've been waiting for a long time for a chance to grab this.
 <craigin>ヴェルザの一族と称する|奴らのことも調べた。=<craigin>And I've also investigated the so-called Clan of Velza.
 <craigin>そして、奴らが復活させようとしている|「神」には、伝説の賢者の石にも|匹敵する力があると確信したのだよ。=<craigin>So I'm convinced this goddess they're trying to resurrect has powers comparable to those of the Philosopher's Stone.
-<craigin>世界を滅ぼすほどの力……それを|手に入れれば、軍の力は飛躍的に高まる。|大総統閣下もお喜びになるだろう。=<craigin>A power to destroy the world... With this in my hands, the strength of the army will raise dramatically. His Excellency the Führer will be pleased.
+<craigin>世界を滅ぼすほどの力……それを|手に入れれば、軍の力は飛躍的に高まる。|大総統閣下もお喜びになるだろう。=<craigin>Power to destroy the world... With this in hand, the army's strength will raise dramatically. His Excellency the Führer will be pleased.
 <sophie>バカなことを……！|ヴェルザは、人が自由に|操れるような存在じゃないわ！=<sophie>Nonsense! Velza isn't a being that people can control at will!
 <craigin>フン。力を操る方法など、|後でゆっくりと調べれば良いのだよ。=<craigin>Hmph! We can always find ways to control her powers later.
 <sophie>——させない……！=<sophie>I won't let you!
@@ -3145,7 +3145,7 @@
 <alphonse>そ、そっかぁ……よかった……。=<alphonse>So that's it... Thank goodness!
 <edward>いや……待て、アル。|オレたちの命が削られないんなら、|聖印の力は、どこから来てるんだ？=<edward>No... wait, Al. If it's not using up our lives, where does the Holy Seal draw its power from?
 <alphonse>えっ？=<alphonse>Huh?
-<edward>ヴェルザの一族の印が|命を代償にしているなら、聖印も、|何かの代償を必要としているはずだ。=<edward>If the Clan's seal costs a life, then the Holy Seal must also have some kind of cost.
+<edward>ヴェルザの一族の印が|命を代償にしているなら、聖印も、|何かの代償を必要としているはずだ。=<edward>If the Clan's seals cost one's life, then the Holy Seal must also have some kind of cost.
 <edward>——なぁ、ソフィ。|この聖印……お前の命を|代償にしてるんじゃないのか？=<edward>Tell us, Sophie. This Holy Seal... it's taking away your life, isn't it?
 <sophie>……………………。=<sophie>........................
 <alphonse>そ、そんな……！？=<alphonse>Wh-What!?
@@ -3344,12 +3344,12 @@
 
 !FILE:0143_002/004.txt
 <smalltext><blackbold>アクセサリ<normal>【破れパンツ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Torn Briefs"
-<smalltext><blackbold>口の中を攻撃しろ！！=<smalltext><blackbold>Attack the mouth's insides!
+<smalltext><blackbold>口の中を攻撃しろ！！=<smalltext><blackbold>Attack inside the mouth!
 <venus>ホホホホホホ！|鬼ごっこは終いだよ、ボウヤ。=<venus>Ho ho ho ho! Your tag game is over, boy.
 <edward>くっ！ ローズマリア中佐か！=<edward>Damn! Lt. Colonel Rosemaria!
 <hammer>ボーズ、ダメじゃねーか！|おとなしく、いい子でいるって|オラと約束したでねーか！=<hammer>Boy, why are you so bad!? You promised me you'd be a good, obedient kid!
 <edward>お、おっちゃん……。=<edward>O-Old man...
-<trigger>理解不能、意味不明だよ、キミィ！|なぜ、ボクの下を去ろうとするのかね？|最強マッスィ～ンになると約束したのに！=<trigger>I don't understand, this makes no sense! Why are you leaving me? Even if you promised me you'd become the strongest machine!?
+<trigger>理解不能、意味不明だよ、キミィ！|なぜ、ボクの下を去ろうとするのかね？|最強マッスィ～ンになると約束したのに！=<trigger>I don't understand, it makes no sense! Why are you leaving me? You even promised me you'd become the strongest machine!?
 <alphonse>してないよ！=<alphonse>I didn't promise so!
 <venus>さぁ、素直に降伏するんだね。|良い子は、お家へ帰る時間だ。=<venus>Now, surrender without fuss. It's time for good children to go home.
 <edward>聞いてくれ、中佐！|クレイギン将軍を止めないと、|大変なことになる！=<edward>Listen, Lt. Colonel! If we don't stop General Craigin, terrible things will happen!
@@ -3537,7 +3537,7 @@
 <zelgius>我ら一族は、何百年もの間、|争いを望まず、|北の地に隠れ、暮らしていた。=<zelgius>For hundreds of years, our Clan has lived hidden in the North, avoiding fights.
 <zelgius>だが……|我らの力の秘密を狙って、|多くの者が捕らわれ、殺されてきた。=<zelgius>But... many of us have been captured and killed by those who desired the secret of our powers.
 <zelgius>時に、かりそめの平和が訪れても、|また必ず、別の者が我らに目をつけ、|新たな争いが起こる……。=<zelgius>Even when a temporary truce was reached, someone else would always set their sights on us, and start a new conflict.
-<zelgius>神の力ですべてを滅ぼし、|その後に、我らの新しい世を作るのだ。|我らの生きる道は、もはや他にない。=<zelgius>So we'll destroy everything with the power of our goddess. And afterwards we'll create a new world. There's no other way for us to live.
+<zelgius>神の力ですべてを滅ぼし、|その後に、我らの新しい世を作るのだ。|我らの生きる道は、もはや他にない。=<zelgius>So we'll destroy everything with the power of our goddess, and create a new world in its ruin. There's no other way for us to live.
 <sophie>そんなことない！ 道はあるわ！|私の父は、|印の呪いを消す方法を——！=<sophie>It doesn't have to be like that! There are other ways! My father found a way to remove the seal's curse...!
 <zelgius>神を蘇らせようと決めたのは、|ギルベルト。|——お前が、父と呼んでいる男だ。=<zelgius>It was Gilbert who decided to revive the goddess. The man you call your father.
 <sophie>えっ……？=<sophie>Eh...?
@@ -3655,7 +3655,7 @@
 <sophie>——許せない……！|あなたが彼らに手を出さなければ、|こんな戦いは起こらなかった！=<sophie>I can't forgive you!|If you had not attacked them, this whole conflict could have been avoided!
 <sophie>——ヴェルザをめぐって、|私のお父さんが|殺されることもなかったのに……！=<sophie>And my father wouldn't have been killed for Velza!
 <alphonse>ソフィ……。=<alphonse>Sophie...
-<craigin>フッ、大事の前の小事にすぎん。|「神の力」を得た私は、これから、|世界の新たな王となるのだからな！=<craigin>Hmph! Those are just small details in the face of the big picture. I've acquired the power of a god, so I'll become the new king of this world!
+<craigin>フッ、大事の前の小事にすぎん。|「神の力」を得た私は、これから、|世界の新たな王となるのだからな！=<craigin>Hmph! Those are small details in the face of the big picture. I've taken the power of a god, so I'll become the new king of this world!
 <edward>テメェ、ふざけるな！！|そんなこと、させてたまるかッ！！=<edward>You must be joking!|I won't let you get away with this!!
 <craigin>愚か者め！|ならば、この「神の力」、|思い知るがいい！！=<craigin>You fool!|In that case, let me show you this divine power!!
 <craigin>ウオオォォ———ッ！？|——わ、私の手がぁっ！？=<craigin>Uaaaaaahhhh!!|My... my hand!?
@@ -4039,7 +4039,7 @@
 <roy>ああ。北の山岳地帯、|彼らが住んでいた地へ|撤退したようだ。=<roy>They seem to have retreated to the northern mountains, where they used to live.
 <roy>ヴェルザ復活の望みがなくなった今、|こちらから手を出さん限りは、|襲ってくることもあるまい。=<roy>Now that they can't hope to revive Velza, they won't attack unless we make a move.
 <riza>——しかし、大総統が、|彼らの力の秘密を手に入れるよう|命じたと聞きましたが？=<riza>However, I heard that the Führer had issued orders to obtain the secret of their powers.
-<roy>ヴェルザの一族は全滅、|鍵を握る少女の記憶も失われ、|今となっては、秘密を知る術はない……。=<roy>Velza Clan has been wiped out, and the memories of the girl who held the key have been lost, so there's no way to find out the secret now.
+<roy>ヴェルザの一族は全滅、|鍵を握る少女の記憶も失われ、|今となっては、秘密を知る術はない……。=<roy>The Velza Clan has been wiped out, and the memories of the girl who held the key have been lost. The secret is now out of reach.
 <riza>——そのように報告を？=<riza>Did you make a report about it?
 <roy>ああ。「印の力」とは、|ある種の呪いとでも言うべき、|やっかいなものらしい。=<roy>Yes. The power of the seal seems to be a dangerous thing, one could say a kind of curse.
 <roy>無益な争いを繰りかえさぬためにも……|このまま歴史の闇に|埋もれさせていくべきだろう。=<roy>To prevent pointless conflicts from ever happening again, we should bury it all in the shadows of history.
@@ -4137,7 +4137,7 @@
 <sophie>……ねぇ、アル。|この子、私が|引き取ってもいいかな……？=<sophie>Hey, Al... Could I keep this little one?
 <alphonse>え？ ソフィが？=<alphonse>Huh? You, Sophie?
 <sophie>私……この子と、|ずっと一緒にいたいの。|だから……だめ？=<sophie>I'd like... to be with this kitten forever.|So... is it alright with you?
-<edward>そりゃ、いい考えだな。|どうせオレたちじゃ飼えないんだし、|ソフィが面倒みてくれるなら安心だ。=<edward>That's a good idea. In any case, we can't take care of it, so it'd be a relief if you could look after it, Sophie.
+<edward>そりゃ、いい考えだな。|どうせオレたちじゃ飼えないんだし、|ソフィが面倒みてくれるなら安心だ。=<edward>That's a good idea. In any case, we can't take care of it, so it'd be a relief if you could, Sophie.
 <alphonse>うん……そうだね。|いいよ、ソフィ。|可愛がってあげてね！=<alphonse>Yeah, that's right... Okay, Sophie.|Please give it lots of love!
 <sophie>——ホントに！？|やったぁ！|ありがとう、アル！=<sophie>Really!?|Yay! Thank you, Al!
 <cat>ニャ～ン、ニャ～ン。=<cat>Meeoow, meeow!
@@ -4164,7 +4164,7 @@
 <armstrong>ヴェルザが、今の汚れた世界を浄化し、|新しい自分たちの世界が来る……|それが彼らの信仰だった。=<sophie>Velza would purify the corrupted world of the present, and usher in a new world for them... That was what they believed.
 <armstrong>ヴェルザが復活すれば世界は滅ぶ——|彼らを止めることを決意した父は、|幼い私の手を引いて、一族の下を去った。=<sophie>But Velza's resurrection would mean the destruction of the world. So my father, determined to stop them, took the hand of his little daughter and left the Clan.
 <armstrong>その日から、|父と私は一族の裏切り者として、|命を狙われることになった。=<sophie>From that day onwards, my father and I became traitors to the Clan, and our lives were in danger.
-<armstrong>一族の目を逃れ、ひっそりと隠れ住む日々。|だけど、それは父と私の間に訪れた、|初めての穏やかな時間でもあった。=<sophie>We spent the days hiding out, escaping from the eyes of the Clan. But this was also the first time that my father and I could have some peaceful life together.
+<armstrong>一族の目を逃れ、ひっそりと隠れ住む日々。|だけど、それは父と私の間に訪れた、|初めての穏やかな時間でもあった。=<sophie>We spent the days hiding out, keeping from the eyes of the Clan. But this was also the first time that my father and I were able to share some sense of a peaceful life.
 <armstrong>そんな生活の中、父は、|彼らに対抗するための研究を続けていた。=<sophie>While living like this, my father continued his research to stop them.
 <armstrong>ヴェルザの一族の者は、身体に刻んだ|「印」による恐ろしい力を持っている。|彼らと戦うには、新しい力が必要だった。=<sophie>The members of Velza Clan have fearsome powers due to the “seals" engraved on their bodies. To fight them, we needed a new power.
 <armstrong>そして「聖印」が生まれた。=<sophie>Thus, the “Holy Seal" was born.
@@ -4173,7 +4173,7 @@
 <sophie>——そして私は、|父の遺志を継ぐため、|このヴァルドラへとやってきたの。=<sophie>Thus I came to Valdolla to fulfill my father's last wish.
 <sophie>聖印は、父が遺した最後の希望——。=<sophie>The Holy Seal is the last hope that my father left behind.
 <alphonse>聖印に、そんな秘密があったなんて……。=<alphonse>To think that the Holy Seal hid such a secret...
-<sophie>父は、私の犠牲になった。|私を逃がそうとして、|敵に見つかり、殺されてしまったの。=<sophie>My father sacrificed himself for me. He was trying to let me escape, but the enemy found him and killed him.
+<sophie>父は、私の犠牲になった。|私を逃がそうとして、|敵に見つかり、殺されてしまったの。=<sophie>My father sacrificed himself for me. He was trying to let me escape, but the Clan found and killed him.#I know the source text doesn't say the clan, but "the enemy" is a bit impersonal here
 <sophie>だから私は、何があっても、|父の望みをかなえなきゃならない。|——この命に代えても……！=<sophie>Thus I must fulfill my father's wish, no matter what. Even at the cost of my own life!
 <edward>それが……アンタの過去。|アンタの決意と、覚悟か……。=<edward>So that is your past...|Your determination and resolve...
 <winry>……ねぇ。エド。|ちょっと、いい？=<winry>Hmm, Ed. Can I talk with you for a moment?
@@ -4578,7 +4578,7 @@
 <sophie>ホクホクのジャガイモと|トロけるバターのハーモニー……。|——あぁん、ヨダレでちゃうッ！！=<sophie>The harmony of soft potatoes and melting butter...|Aaaah, I'm drooling!
 <sophie>バターがないから、|ジャガバターは無理だけど、|他に何か作れないか、考えてみるね♪=<sophie>I don't have any butter, so potato butter is out of the question.|But I'll think of something else to cook. ♪
 <sophie>あら、このニンジン、|先っぽが２つに分かれてるじゃない、|突然変異ってヤツかしら……？=<sophie>Oh, this carrot has a forked end. I wonder if it's a mutation...
-<sophie>……２人は、マンドラゴラって知ってる？|人の形をした植物で、引っこ抜くと、|死を招く金切り声を上げるっていう……。=<sophie>You two know about mandragoras? They're human-shaped plants, and when uprooted, they let out a deadly and shrill cry.
+<sophie>……２人は、マンドラゴラって知ってる？|人の形をした植物で、引っこ抜くと、|死を招く金切り声を上げるっていう……。=<sophie>You two know about mandragoras? They're human-shaped plants, and when uprooted, they howl a shrill and deadly cry.
 <sophie>マンドラゴラも、このニンジンみたく、|足が２つに分かれてるんですって。|なんだか似てるわね、フフフ……。=<sophie>Like this carrot, mandragoras also have two legs. They look so similar, heh heh!
 <sophie>ニンジンを使った料理……、|何があったかなぁ……？=<sophie>A dish with carrots... I wonder what I could cook...?
 <sophie>初めて見るわ、|こんな大きなタマゴ……。|いったい、何のタマゴなの……？=<sophie>I've never seen such a big egg before...|Really, what kind of egg is this?
@@ -4837,7 +4837,7 @@
 <sophie>……レオニードさん、だっけ……。|あの人も、あの人なりに|背負い、信じてた道があった……。=<sophie>Leonid, right?|In his own way, he also had a path to follow and believe in.
 <sophie>……悲しいね……。|戦いの中でしか、|お互いを理解できないなんて……。=<sophie>It's so sad that we could only understand each other in the middle of battle...
 <sophie>風の紋章……。|お父さんから聞いたことがあるわ、|一族に伝わる、４つの紋章の話……。=<sophie>The crest of wind... My father told me the story about the four crests inherited by the Clan.
-<sophie>風の神官は、代々、|女の人が務めてるって聞いたわ。|２人は会ったことあるのかしら……？=<sophie>I heard that the role of the priestess of wind has held by been a woman for generations. I wonder if they ever met...
+<sophie>風の神官は、代々、|女の人が務めてるって聞いたわ。|２人は会ったことあるのかしら……？=<sophie>I heard that the office of the priesthood of wind has held by been a woman for generations. I wonder if they ever met...
 <sophie>地の紋章……。|お父さんから聞いたことがあるわ、|一族に伝わる、４つの紋章の話……。=<sophie>The crest of earth... My father told me the story about the four crests inherited by the Clan.
 <sophie>毛皮を羽織った、あの大きな人……。|私が印の暴走を止めてさえいれば、|死ぬこともなかった……。=<sophie>That giant man wearing furs...|If only I had stopped the seal from going out of control, he wouldn't have died.
 <sophie>……………ありがとう、|私なら大丈夫。=<sophie>Thank you, I'll be fine.
@@ -4867,7 +4867,7 @@
 <edward>……サイズが、デカすぎてよ。|動くのに、もたついちまうんだ。|このままだと、ちょっと不便でな……。=<edward>The size is too big and it's hard to move with it. It's a bit inconvenient just like that...
 <sophie>——あら、だったら、|エドの身体に合わせて、|丈を直せばいいじゃない。=<sophie>Oh! In that case, I can adjust the length so it fits you, Ed.
 <sophie>任せといて、|こういう裁縫仕事は得意なの。=<sophie>Leave it to me, I'm good at this kind of sewing.
-<edward>そっか、ワリィな……。|よろしく頼むぜ。=<edward>I see, sorry... I'll take care of it.
+<edward>そっか、ワリィな……。|よろしく頼むぜ。=<edward>I see, sorry... I trust you to take care of it.
 <sophie>——そうだ！|丈を合わせるために、|エドの身長を教えてもらわないと……。=<sophie>That's it!|I need to know your height to adjust the length.
 <edward><bigtext>しっ、身長——！？=<edward><bigtext>My... My height!?
 <edward><bigtext>イヤアアァァァ！！=<edward><bigtext>NOOOOO!!
@@ -4938,7 +4938,7 @@
 <sophie>これを着て外に出るのは|ちょっぴり恥ずかしいけど……。|いつか、私もニャンコと作りたいな……。=<sophie>But it's a bit embarrassing going out with this... Someday, I'd like to make one with Kitty too.
 <sophie>あのパンダちゃん、|名前をシャオメイっていうらしいの。|ニャンコとも仲良くやってるよ。=<sophie>It seems the name of that panda is Shao May. She's on good terms with Kitty.
 <sophie>シャオメイのエプロン……？|あら、あの子、人を襲ってるわ……、|それも、パーフェクトスマイルで……。=<sophie>An apron of Shao May?|Hey, that little one is attacking a guy... And with a perfect smile.
-<sophie>かじられてるチョビヒゲさん、|不幸そうな顏してるわね……。|誰なのかしら、いったい……？=<sophie>The guy with the small moustache who's being bitten looks unhappy.|I wonder who he is?
+<sophie>かじられてるチョビヒゲさん、|不幸そうな顏してるわね……。|誰なのかしら、いったい……？=<sophie>The guy with the small mustache who's being bitten looks unhappy.|I wonder who he is?
 <sophie>——たるんだ腹巻き！|伸びきったゴムは、使いこんだ証！|生活感の勲章ねッ……！！=<sophie>A loose bellyband! The stretched elastic is proof that it's been worn a lot! It gives a feeling of daily use...
 <sophie>……私もね、家にいた頃は、|毎晩のように腹巻きを着用していたの。|暖かくて、ぐっすりと安眠できるのよね。=<sophie>When I was at home, I used to wear a bellyband almost every night. It was warm and helped me to sleep soundly.
 <sophie>北方の冬をナメちゃダメよ！|油断してたら、|すぐに風邪をひいちゃうんだから……。=<sophie>You can't underestimate the winter in the north! If you're not careful, you'll catch a cold right away.
@@ -5370,7 +5370,7 @@
 <sophie>う、うん……でも……。=<sophie>Yeah, but...
 <winry>あいつらなら大丈夫よ。|目的を遂げるまで、何があっても|あいつらは負けないわ。=<winry>They'll be fine. No matter what, they won't let themselves be defeated until they achieve their goal.
 <sophie>——目的？=<sophie>Their goal?
-<winry>……うん。|あいつらも、ソフィに負けないくらい、|重いものを背負っているからね……。=<winry>Yes. They're carrying a heavy burden, no less than you, Sophie.
+<winry>……うん。|あいつらも、ソフィに負けないくらい、|重いものを背負っているからね……。=<winry>Yes. They're carrying a heavy burden, no less than yours, Sophie.
 <alphonse>どうしたの、兄さん。|なにかあったの？=<alphonse>What's wrong, Brother?|Did something happen?
 <edward>いや。|待たせて悪かったな。=<edward>No. Sorry for keeping you waiting.
 <edward>ウィンリィ、留守を頼む。|パッと終わらせて、帰ってくるからよ。|もう少し待っててくれ。=<edward>Winry, keep watch of the place. We'll finish quickly and come back.|Just wait a little longer.
@@ -5397,7 +5397,7 @@
 <edward>北の病院だな。|よし行くぞ、アル。=<edward>The hospital in the north.|Okay, let's go, Al.
 <sophie>——待って！|今、街の北に行くのは危険よ。=<sophie>Wait! It's dangerous to go to that area now.
 <sophie>ヴェルザの一族と軍の大軍が|激しく戦っているみたいだから、|とても近づけないわ。=<sophie>It seems Velza Clan and the army are in the middle of a violent battle there, so you can't get close.
-<edward>そうは言っても、|ノンビリしてもいられないだろ？=<edward>Even if that's the case, we can't be lazying around, right?
+<edward>そうは言っても、|ノンビリしてもいられないだろ？=<edward>Even if that's the case, we can't be lazing around, right?
 <sophie>え、ええ……。=<sophie>Well, yeah...
 <winry>……あ、ちょっと待って。|北の病院だったら、|すぐ近くまで地下鉄が通っているはずよ。=<winry>Hey, wait a moment.|If you're going to the hospital in the north, you could take the subway right there.
 <alphonse>地下鉄かぁ……なるほど。|地下を通っていけば、戦いに|巻き込まれずに行けるかもしれないね。=<alphonse>The subway... I see. If we go underground, we could slip by the battle.
@@ -5473,10 +5473,10 @@
 <winry>ねぇ、話だけでも、してみてくれないかな。|こいつ、見た目はこんな小さいけど、|意外と頼りになる奴なのよ。=<winry>Hey, can't you at least talk with us? This guy looks small, but he's surprisingly reliable.
 <edward>そうそう、小さいけど意外と頼りに——。=<edward>That's it. Small but surprisingly rel...
 <edward>——って、おいっ！|ちょっと待てウィンリィ！|「見た目は小さい」たぁ何だ！！=<edward>He-Hey! Wait a moment, Winry!|What's that about looking small!?
-<winry>何よ。せっかく誉めてあげてるんだから|いちいち絡んでこないでよ。まったく、|小さいことにこだわるんだから。=<winry>What? I'm giving you a compliment, so stop picking a fight with me all the time.|Really, you get so obsessed about such small things...
+<winry>何よ。せっかく誉めてあげてるんだから|いちいち絡んでこないでよ。まったく、|小さいことにこだわるんだから。=<winry>What? I'm complimenting you, so stop picking fights with me all the time. Really, you get so obsessed about such small things...
 <edward>だああああぁっ！！|また小さいって|言いやがったな——っ！！=<edward>Aaaaaaargh!! There it is, you said “small" again!!
 <winry>あーうるさい！ うるさい！！|実際に小さいんだから、小さいって言って|何が悪いのよ！=<winry>Oh, shut up, shut up!! You're actually small, so what's the problem with calling you “small"!?
-<winry>まったく、身体が小さいと|心まで小さくなるみたいね……。|さすが、史上最小国家錬金術師だわ。=<winry>It seems that if your body is small, your heart becomes small too... Just as one would expect from the smallest State Alchemist in history.
+<winry>まったく、身体が小さいと|心まで小さくなるみたいね……。|さすが、史上最小国家錬金術師だわ。=<winry>It seems that if your body is small, your heart gets small too... Just as you'd expect from history's smallest State Alchemist.
 <edward>史・上・最・年・少・だ！！=<edward>The-youngest-in-history!!
 <mysteriousgirl>……クスッ……。=<mysteriousgirl>Huh huh...
 <alphonse>——あ。=<alphonse>Oh?
@@ -5535,7 +5535,7 @@
 <alphonse>ねぇ、ソフィ。そんなに大変なことなら、|１人じゃなくて、仲間と協力した方が|うまくいくんじゃないかな？=<alphonse>Come on, Sophie. If it's such a terrible thing, it would be better if we cooperated as friends, instead of doing it alone, right?
 <sophie>な、仲間……？=<sophie>Fr...Friends?
 <edward>別に、アンタのためだけに動こうって|言ってるわけじゃない。ただ、オレは、|指をくわえて見ているのはイヤなんだ。=<edward>I'm not saying we should do this entirely for you. But I can't just sit back and watch either.
-<alphonse>ボクたちに何かできることがあるのなら、|自分の手で、どうにかしてやりたい。|自分の足で、少しでも前に進みたい。=<alphonse>If there's something we can do, we want to do it with our own hands. Keep moving forward on our own two feet, even if just a little.
+<alphonse>ボクたちに何かできることがあるのなら、|自分の手で、どうにかしてやりたい。|自分の足で、少しでも前に進みたい。=<alphonse>If there's something we can do, we want to do it with our own hands. Keep moving on our own two feet, even if just a little.
 <edward>それに——、|オレも少し興味が出てきたんだ。|そのヴェルザという存在に……。=<edward>Apart from this, it's starting to catch my interest... About this being called Velza...
 <edward>ずっとオレたちが探している|「賢者の石」と、|何か関係があるかもしれない。=<edward>It may have some relation to the Philosopher's Stone we're searching for.
 <sophie>……………。=<sophie>..............................
