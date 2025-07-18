@@ -597,7 +597,7 @@
 <yellow>敵のガードに関係なく、ダメージを与えることができる<white>|ソフィが作った、サイの角を素材とする腕輪=<yellow>Deal damage regardless of enemies' blocking.<white>|An armlet made by Sophie from a rhino's horn.
 <yellow>カウンター成功時のダメージが、大きく増加する<white>|ソフィが作った、トラの爪を素材とする腕輪=<yellow>Successful counters deal much more damage.<white>|An armlet made by Sophie from a tiger's claw.
 <yellow>槍属性の攻撃にふっとばし効果がつく（一部対象外あり）<white>|ソフィが作った、グリズリーの爪を素材とする腕輪=<yellow>Adds a blow-out effect to lance attacks (with some exclusions). <white>An armlet made by Sophie from a grizzly's claw.
-<yellow>打撃攻撃で与えたダメージの２０％分、ＨＰが回復する<white>|ソフィが作った、コウモリの牙を素材とする腕輪=<yellow>20% of punch damage dealt, is recovered as HP.<white>|An armlet made by Sophie from a bat's fang.
+<yellow>打撃攻撃で与えたダメージの２０％分、ＨＰが回復する<white>|ソフィが作った、コウモリの牙を素材とする腕輪=<yellow>20% of punch damage dealt is recovered as HP.<white>|An armlet made by Sophie from a bat's fang.
 <yellow>現在のＨＰが１００未満になると攻撃力が２倍に上昇する<white>|ソフィが作った、キメラの牙を素材とする腕輪=<yellow>When HP drops below 100, Attack doubles.<white>|An armlet made by Sophie from a chimera's fang.
 <yellow>手持ちの錬成武器が、無限に使える<white>|使っても減らない砥石、主婦の間で評判=<yellow>Transmuted hand weapons can be used indefinitely.<white>|A whetstone that doesn't wear out with use.#"popular among housewives." too long
 <yellow>弾数に制限のある武器が、無限に使える<white>|使ってもなくならない弾丸、銃マニアの間で評判=<yellow>Weapons with limited ammunition can be used indefinitely.<white>|Bullets that don't disappear with use.#"popular with gun fanatics." too long
@@ -4357,7 +4357,7 @@
 <sophie>えっ？ 私の聖印を——？=<sophie>Eh? My Holy Seal?
 <sophie>——ううん、|私は、このままがいい。=<sophie>No. It's okay the way it is.
 <sophie>この力は、ヴェルザが持つ本来の力——。|多くの人を癒すことができる、|慈愛の力だもの——。=<sophie>This power is the original one that Velza possessed. The power of love, able to heal many people.
-<sophie>聖印のおかげで、|ノルンのケガを治すことができた。|——エドたちとも出会えた……。=<sophie>Thanks to it I could cure Norn's injuries.|And I could also meet all of you.
+<sophie>聖印のおかげで、|ノルンのケガを治すことができた。|——エドたちとも出会えた……。=<sophie>Thanks to that power, I could cure Norn's injuries.|And I could also meet all of you.
 <alphonse>ソフィ……。=<alphonse>Sophie...
 <sophie>それに、私にはまだ、|やり残したことがある——。=<sophie>Besides, I still have some unfinished business.
 <winry>やり残したこと——？=<winry>Unfinished business?
@@ -4375,7 +4375,7 @@
 <sophie>ありがとう……お父さん……。=<sophie>Thank you... Dad...
 <edward>——さて……と。|アル、そろそろ行くか。=<edward>Wellll... Al, are you coming?
 <winry>——え？ 行くってどこに？=<winry>Huh? Where are you going?
-<alphonse>軍の司令部だよ。|大佐に呼ばれてるんだ。=<alphonse>To the Army headquarters. The Colonel called us.
+<alphonse>軍の司令部だよ。|大佐に呼ばれてるんだ。=<alphonse>To the army headquarters.|The Colonel called us.
 <edward>全部終わったら、|ちゃんと報告しに来い、ってさ。=<edward>He said we should go there for a full report, once everything was over.
 <winry>ねぇ！ じゃあ、私も連れてってよ！|もう私、留守番するの、|ウンザリしてるんだから！=<winry>Hey! Then take me with you!|I'm tired of staying here house-sitting!
 <sophie>私も行きたいな。|大佐さんには、お世話になったから……。|一言、お礼を言っておきたいの。=<sophie>I want to go too. The Colonel helped me... So I'd like to thank him at least.
@@ -4780,7 +4780,7 @@
 <sophie>金細工は聞いたことあるけど、|鋼細工ってあるのかしら……？|精巧な技術、これは匠の技ね……！！=<sophie>I've heard of goldsmithing, but is there such a thing as steelsmithing? The craftmanship is exquisite, this is the work of a master!
 <sophie>派手さはないけど、|どんな服装にも合いそうよ。|ありがとう、大事に使うね……！=<sophie>It's not flashy, but it will go with any outfit. Thank you, I'll take good care of it!
 <sophie>この腕輪、刃内蔵なのね……。|いい感じに、|肌を斬るのだけど……。=<sophie>This armband has a built-in blade. It has a pleasant feeling, but will cut your skin.
-<sophie>……危険物として、|大切に、預かっておくわ。=<sophie>I'll watch over it as a dangerous item.
+<sophie>……危険物として、|大切に、預かっておくわ。=<sophie>I'll watch over it. It's a dangerous item.
 <sophie>……簡単な気持ちで|渡したわけじゃないよ……。|大切にしてほしいな……。=<sophie>I'm not giving this to you lightly.|I hope you'll take good care of it.
 <sophie>鉛の首飾り？|うっ……、|ズシリと重いわね……！=<sophie>A lead necklace?|Uuuuh... It's way too heavy!
 <sophie>嬉しいけど、|肩がこりそう……。=<sophie>I'm happy but... this is making my shoulders stiff.
@@ -4974,7 +4974,7 @@
 <sophie>……私、小さい頃から、|ビーズを使って、いろいろな物を|作るのが好きでね……。=<sophie>I've always enjoyed making all kinds of things with beads, ever since I was little.
 <sophie>お父さんが、材料を買ってきてくれたの。|これなら、１人でも|楽しめるから、って……。=<sophie>My dad bought me the materials. He said this way I could have fun by myself...
 <sophie>けど、自分の作ったアクセサリー着けて、|鏡の前でポーズとっても、|１人は、やっぱり寂しかったよ……。=<sophie>However, even when I posed in front of the mirror wearing the accessories I made, I still felt lonely.
-<sophie>——そうそう、|私からも２人に、|プレゼントがあるの……。=<sophie>Okay, I too have a present for you two.
+<sophie>——そうそう、|私からも２人に、|プレゼントがあるの……。=<sophie>Okay, I also have a present for you two.
 <sophie>はい、アンクルウエイトよ♪|これを足に付けるだけで、筋肉が付くの。|きっと、２人の役に立つはずよ。=<sophie>Here, ankle weights! ♪ Just put these on your legs and you'll build muscle. I'm sure they'll be useful for you two.
 <sophie>素敵なアンクレット……。|なんだか大人って感じね……、|私に似合うかなぁ……。=<sophie>A lovely anklet!|Somehow, it makes me feel like a grown-up. I wonder if it suits me...
 <sophie>どう……？ 変じゃない……？|私、今までオシャレなんて|したことなかったから……嬉しい。=<sophie>Well? Does it look weird?|I've never been fashionable before, so I'm happy.
