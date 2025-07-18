@@ -2619,7 +2619,7 @@
 <edward>——おい！|大丈夫か！？=<edward>Hey! Are you alright?
 <soldier>あ、ああ……。|足を少し、やられただけだ。|それより君たちは……？=<soldier>Ah, yeah... I just hurt my leg a little.|By the way, who are you?
 <alphonse>ボクたち、オベリスク——、|外にある、大きな塔の所へ|行きたいんです。=<alphonse>We want to reach the Obelisk... that big tower outside.
-<soldier>司令部に突然出現した、あの塔か……。|そこから外に出ればすぐだが、|今はドアがロックされていて通れんぞ。=<soldier>That tower that suddenly appeared at headquarters? You get out quickly from here, but the door is locked and there's no way through.
+<soldier>司令部に突然出現した、あの塔か……。|そこから外に出ればすぐだが、|今はドアがロックされていて通れんぞ。=<soldier>That tower that suddenly appeared at headquarters? You can get out quickly from here, but the door is locked and there's no way through.
 <edward>うーん……。|オレたち、急いでるんだ。|なんとか、ならねーのかな？=<edward>Hmmm... We're in a hurry, isn't there anything we can do?
 <soldier>コントロールルームが|敵にやられてしまって、|ロックを解除できんのだ。=<soldier>The control room is taken by the enemy, so you can't release the lock.
 <soldier>予備のスイッチなら、|最上階の司令室の隣に|あるはずだが……。=<soldier>But there should be a spare switch next to the command room at the top floor.
