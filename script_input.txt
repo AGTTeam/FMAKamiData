@@ -568,7 +568,7 @@
 <yellow>すべての能力値が１下がる、あるものと装備すると…？<white>|やる気のないももひき、伝説の修行具という噂も……=<yellow>All stats increase by 1 when equipped together with...!?<white>|Rumor has it that these are a legendary training tool...#"Rumor has it that these unmotivating pants are a legendary training tool..."
 <yellow>通常取得経験値が５％増加する<white>|鉄ゲタ、精神鍛錬にもなる…かもしれない=<yellow>Normally earned experience points increase by 25%.<white>|Iron sandals; they may be a tool for mental discipline...
 <yellow>通常取得経験値が１０％増加する<white>|ウィンリィの作った、重量が２倍に強化された鉄ゲタ=<yellow>Normally earned experience points increase by 10%.<white>|Iron sandals, but twice as heavy. Reinforced by Winry.
-<yellow>コンボボーナス経験値が２倍に増加する（エドアル共に）<white>|ソフィが作った、腕の筋肉を鍛えるおもり=<yellow>Combo bonus experience points are doubled (both Ed and Al).<white>|A weight made by Sophie, to train arm muscles.
+<yellow>コンボボーナス経験値が２倍に増加する（エドアル共に）<white>|ソフィが作った、腕の筋肉を鍛えるおもり=<yellow>Combo bonus experience points are doubled (both Ed and Al).<white>|Weights made by Sophie, to train arm muscles.
 <yellow>カウンター成功時の取得経験値が５倍に増加する<white>|ソフィが作った、足の筋肉を鍛えるおもり=<yellow>Experience points for a successful counter are multiplied by 5.<white>|A weight made by Sophie, to train leg muscles.
 <yellow>ＨＰの最大値が５％上昇する<white>|ハート形のぺンダント、女の子は喜ぶかも……=<yellow>Max HP increases by 25%.<white>|A heart-shaped pendant that girls may like.
 <yellow>ＨＰの最大値が１０％上昇する<white>|星形のぺンダント、淡い光で輝き続ける=<yellow>Max HP increases by 10%.<white>|A star-shaped pendant that glows in faint light.
@@ -2340,7 +2340,7 @@
 いいえ=No
 マンホールに入りますか？=Enter the manhole?
 <blackbold>アイテム<normal>【秘密の史書（２）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Secret Book (2)"
-<man>ここで働いてるんです、僕。|で、ちょっとトイレ行ったスキに、|あの人たちが職場を占拠してて……。=<man>I work here, you know.|And when I come back from the toilet, I find those guys occupying my workplace...
+<man>ここで働いてるんです、僕。|で、ちょっとトイレ行ったスキに、|あの人たちが職場を占拠してて……。=<man>I work here, you know. And when I came back from the toilet, I found those guys occupying my workplace...
 <man>仲間はみんな逃げた後で、|残った職員は、僕１人……。|もう、笑うっきゃないっすよ……。=<man>After all my workmates ran away, I was the only employee left.|Now I laugh so as not to cry...
 <oldman>護るべき者たちが、|なぜ、破壊を導こうとする……？=<oldman>Of those that should be protecting us, why are they so intent on destruction?
 <oldman>……何があったというのだ、|ヴェルザの一族よ……。=<oldman>What did they call them... the Clan of Velza?
@@ -3501,7 +3501,7 @@
 <man>ヴェルザ様！ ありがとうございます！|息子は命を取りとめました！=<man>Thank you so much, Lady Velza! You saved my son's life!
 <woman>ウチの母も、ヴェルザ様のおかげで！|本当に、なんとお礼を|言ったらいいか……！=<woman>My mother was saved too, thanks to you, Lady Velza! I don't know how to express my gratitude!
 <oldman>ヴェルザ様は、不思譲な力で|我らをお救いくださる……。|神の生まれ変わりに違いない！=<oldman>Lady Velza has helped us with her mysterious powers... Sure enough, she must be the reincarnation of a god!
-<maleworshipper>大変です！ 王の軍勢が！|ヴェルザ様を差しだせと……！=<maleworshipper>This is terrible! The king's army is here, and he wants Lady Velza to submit to him!
+<maleworshipper>大変です！ 王の軍勢が！|ヴェルザ様を差しだせと……！=<maleworshipper>This is terrible! The king has brought his army here, and he wants Lady Velza to submit to him!
 <youngworshipper>なぜ、この場所が知れたのだ？|——まさか、誰かが、我々を……！？=<youngworshipper>How did they know about this place?|Could someone have betrayed us...!?
 <king>強情な女だ……隠さずに吐け！|お前の力の秘密は何だ！？=<king>You're an obstinate woman... Tell me the truth! What's the secret of your powers!?
 <king>お前を痛めつけてもムダのようだな……。|しかたがない。ならば代わりに……|お前の娘に犠牲になってもらおうか！=<king>It seems there's no point in torturing you... You leave me no choice.|I'll have to sacrifice your daughter instead!
@@ -4230,7 +4230,7 @@
 <sophie>……………。=<sophie>............................
 <winry>……………。|大丈夫よ、ソフィ……|あいつらなら、きっと大丈夫……。=<winry>..................|It's okay, Sophie. I'm sure those two are fine.
 <sophie>……うん。=<sophie>Yeah...
-<winry>大丈夫……今に、|ひょっこり帰ってくるから……。=<winry>Alright... They'll pop up any time now...
+<winry>大丈夫……今に、|ひょっこり帰ってくるから……。=<winry>Alright... They'll pop up at any time now...
 <sophie>……うん……。=<sophie>...Yeah...
 <sophie>——！！=<sophie>...........!!
 <alphonse>ソフィ！ ウィンリィ！=<alphonse>Sophie! Winry!
@@ -4631,7 +4631,7 @@
 <sophie>……そういえば、この服も|しばらく洗ってないわね……。=<sophie>Come to think of it, I haven't washed these clothes in a while...
 <sophie>「ミルクの香るボディソープ」ね。|……懐かしいな、家にいた頃、|これを使って、身体を洗ってたの。=<sophie>“Milk-scented body soap".|This brings back memories... I used to wash myself with this when I was at home.
 <sophie>……ボディソープもあるんだし、|久しぶりにシャワー、|浴びたくなっちゃうね……。=<sophie>Now that I have this, I want to take a shower at last.
-<sophie>フカフカのバスタオル……。|このフカフカ感で、|身体を拭く時のささやかな幸せ……。=<sophie>A fluffy bath towel...|Drying yourself with this soft feeling is a little pleasure.
+<sophie>フカフカのバスタオル……。|このフカフカ感で、|身体を拭く時のささやかな幸せ……。=<sophie>A fluffy bath towel...|The soft feeling of drying yourself with something like this is a little pleasure.
 <sophie>……………。|シャワー浴びたいなぁ……。=<sophie>........................|I want to take a shower.
 <sophie>オルゴール……。|開けてみてもいいかな……？=<sophie>A music box...|Maybe I should try to open it?
 <sophie>……………。|優しい音だね……。|お父さんのこと、思い出しちゃった……。=<sophie>..................|Such gentle music...|It reminds me of my dad.
@@ -4842,7 +4842,7 @@
 <sophie>毛皮を羽織った、あの大きな人……。|私が印の暴走を止めてさえいれば、|死ぬこともなかった……。=<sophie>That giant man wearing furs...|If only I had stopped the seal from going out of control, he wouldn't have died.
 <sophie>……………ありがとう、|私なら大丈夫。=<sophie>Thank you, I'll be fine.
 <sophie>この紋章は、あの人の形見よ。|２人が持ってて、お願い……。=<sophie>This crest is a memento from her. Please accept it, you two.
-<sophie>神の紋章……。|地水火風のどれでもない、|すべてを司る「光」の紋章……。=<sophie>The crest of god. Not earth, water, fire or wind, but the crest of light that governs them all.
+<sophie>神の紋章……。|地水火風のどれでもない、|すべてを司る「光」の紋章……。=<sophie>The crest of god. Not earth, ice, fire or wind, but the crest of light that governs them all.
 <sophie>……どれだけ優しくても、|どれだけ正しい心を持っていたとしても、|人には決して拭えない脆い部分がある。=<sophie>No matter how kind or righteous a person is, there's always a fragile part in them that can't be erased.
 <sophie>ヴェルザもまた、|無力な１人の女性に過ぎなかった……。=<sophie>Velza was also nothing more than a helpless woman.|I want to be a strong person...#Line shared with below
 <sophie>私、人として強くありたい……。|辛い時、苦しい時、そんな時こそ、|人に優しくなる心を忘れないでいたい。=<sophie>At bitter times, at difficult times, it's at times like those, that we must never forget to show kindness to others.#Line shared with above
@@ -4892,7 +4892,7 @@
 <sophie>レトロだけどゴージャスな兜ね……。|古い時代の物みたい、|かっこいいよ、勇者様って感じ♪=<sophie>A retro yet gorgeous helmet. It looks like something from an ancient era.|So cool! It makes you feel like a hero. ♪
 <sophie>これって、私が繕った下着よね……。|また穴でも開いたの……？|そういうワケでもないみたいだけど……。=<sophie>This is the underwear I mended, right?|Does it have another hole? It doesn't look like that...
 <sophie>——もしかして洗えってこと……！？|エド……こういうのって、|一種のセクハラだと思うんだ……。=<sophie>Maybe you want me to wash it?|Ed... I think this is some sort of sexual harassment...
-<sophie>下着を繕うのと洗うのとでは、話が別よ。|乙女心って程でもないけど、|ちょっとは、理解してほしいな……。=<sophie>Mending underwear and washing it are two different things. You may not think like a girl, but I wish you could understand me a little...
+<sophie>下着を繕うのと洗うのとでは、話が別よ。|乙女心って程でもないけど、|ちょっとは、理解してほしいな……。=<sophie>Mending underwear and washing it are two different things. You may not think like a girl, but I wish you'd understand me a little...
 <sophie>この下着がどうしたの……？|あら、穴が開いてるじゃない……。=<sophie>What's wrong with this underwear?|Oh, there's a hole in it.
 <sophie>——あっ！|ふふっ、ちょっと待っててね。=<sophie>Ah! Heh heh, wait a minute.
 <sophie>——はい、これで大丈夫。|破れたとこは直しておいたから、|安心して穿いていいよ。=<sophie>Yes, it's fine. I fixed the rip, so you can wear it without worry.
@@ -5011,7 +5011,7 @@
 <sophie>この子は、１４才の女の子なの。|手荒に扱っちゃダメよ？|きっと、２人をラッキーにしてくれるわ！=<sophie>This girl is just 14 years old. So don't treat her roughly, okay?|I'm sure she'll make you two lucky!
 <sophie>この方の名前は、イナバさん。|ちょっと年上だから、|敬語で話さなきゃダメなの。=<sophie>This gentleman's name is Mr. Inaba.|He's a bit older than us, so you gotta be respectful with him.
 <sophie>いい子にしてたら、きっと、|２人にミラクルを起こしてくれるわ。|失礼のないようにね♪=<sophie>If you're good, I'm sure he'll make a miracle for you. Just be polite. ♪
-<sophie>——まぁ、珍しいわね。|幸せを呼ぶ、|四つ葉のクローバーじゃない……！=<sophie>Oh, this is so unusual...|Isn't it one of those four-leaf clovers that bring happiness?
+<sophie>——まぁ、珍しいわね。|幸せを呼ぶ、|四つ葉のクローバーじゃない……！=<sophie>Oh, this is so unusual...|Isn't it one of those four-leaf clovers that's meant to bring happiness?
 <edward>一応断っとくけど、|錬金術は使ってないぜ、|正真正銘、本物だからな。=<edward>Just so you know, I didn't use alchemy to create it. It's the real, genuine thing.
 <sophie>———ッ！！|やっぱり、これはエドが持ってて！！|ううん、私からのプレゼント！！=<sophie>............!!|Actually, you should keep this, Ed!!|Yeah, it's a present from me!!
 <edward>——は？|何言ってんだよ。|それは今、オレがソフィに——。=<edward>Huh? What are you talking about?|I'm giving this to you now.
@@ -5021,7 +5021,7 @@
 <winry>——あれ？|ニヤニヤして|どーしたの、ソフィ……？=<winry>Oh? Why are you smirking, Sophie?
 <sophie>——ねぇ、ウィンリィ。|四つ葉のクローバーの|花言葉って知ってる……？=<sophie>Winry, do you know about the symbolism of four-leaf clovers?
 <winry>四つ葉のクローバーの|花言葉……？|ああ、確か「幸福」だっけ……？=<winry>The symbolism?|Aaah, I think it's “happiness", right?
-<sophie>実はね、もう一つ意味があるの。=<sophie>Actually, they have also another meaning.
+<sophie>実はね、もう一つ意味があるの。=<sophie>Actually, they also have another meaning.
 <winry>———？=<winry>......................?
 <sophie>剣の扱い方を教えてくれるの？|嬉しい！ 私、武芸を身につけるのなら、|絶対、剣の道に進もうと思ってたの！=<sophie>You'll teach me how to use a sword? I'm so happy! If I had to learn martial arts, I'd definitely want to follow that path.
 <sophie>エドワード先生！|よろしくお願いしまーす♪=<sophie>I look forward to working with you, Master Ed! ♪
@@ -5130,7 +5130,7 @@
 <sophie>原理はよく分からないけど、|こんな手袋が、|恐ろしい武器になるんだね……。=<sophie>I don't understand the principles very well.|But these gloves should be a dreadful weapon.
 <roy>——やぁ、鋼の。|どうやら、私の力を|貸す時が来たようだな……。=<roy>Well, Fullmetal. It seems the time has come for me to lend you my power.
 <roy>遠慮はいらん……。|タッグバトルモードで|思う存分、コキ使うがいい……！=<roy>Don't be shy... You can use me to your heart's content in Tag Battle Mode!
-<roy>——ただし！|いつか１００倍にして返してもらう……。|それを踏まえてコキ使え！！=<roy>However, some day I'll return 100 times the stronger.|So keep that in mind when using my power!
+<roy>——ただし！|いつか１００倍にして返してもらう……。|それを踏まえてコキ使え！！=<roy>However, some day I'll return, and be a hundred times stronger.|So keep that in mind when using my power!
 <sophie><yellow>タッグバトルモードで|<yellow>ロイ・マスタング大佐が|<yellow>使用可能になりました=<sophie><yellow>Colonel Roy Mustang is now available in Tag Battle Mode.
 <sophie>大きな手甲……。|この複雑な模様は——錬成陣？=<sophie>Large gauntlets...|What is this complex pattern? A transmutation circle?
 <sophie>そう……これが、|錬金術師の「武器」なのね。=<sophie>I see... This is a weapon for alchemists.
@@ -5400,7 +5400,7 @@
 <edward>そうは言っても、|ノンビリしてもいられないだろ？=<edward>Even if that's the case, we can't be lazing around, right?
 <sophie>え、ええ……。=<sophie>Well, yeah...
 <winry>……あ、ちょっと待って。|北の病院だったら、|すぐ近くまで地下鉄が通っているはずよ。=<winry>Hey, wait a moment.|If you're going to the hospital in the north, you could take the subway right there.
-<alphonse>地下鉄かぁ……なるほど。|地下を通っていけば、戦いに|巻き込まれずに行けるかもしれないね。=<alphonse>The subway... I see. If we go underground, we could slip by the battle.
+<alphonse>地下鉄かぁ……なるほど。|地下を通っていけば、戦いに|巻き込まれずに行けるかもしれないね。=<alphonse>The subway... I see. If we go underground, we could slip by and avoid the battle.
 <edward>試してみる価値はあるな。|よし、アル。行こう！=<edward>It's worth a try.|Okay, let's go, Al!
 <winry>——ねぇ、ソフィ。|さっきの話だけど……。=<winry>Hey, Sophie. About what you said earlier...
 <sophie>——え？=<sophie>Yes?
