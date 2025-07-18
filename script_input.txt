@@ -627,12 +627,12 @@
 <yellow>すべての能力値が５％低下する<white>|ハンマーのくつした、死の香りが漂う=<yellow>All stats decrease by 25%.<white>|Hammer's socks; they give off a deadly smell.
 <yellow>錬成力が２上がる<white>|トリガーのメガネ、改造され近未来風のデザイン=<yellow>Alchemy increases by 2.<white>|Trigger's glasses, modified with a futuristic design.
 <yellow>ガード中にカウンターが自動的に発動する<white>|ブラッドレイの眼帯、「キン・ブラ専用」と書かれている=<yellow>Automatic counter while blocking.<white>|It has the words “For King Bradley Only" written on it.
-<yellow>ダメージを受けても、手持ち武器を落とさなくなる<white>|ウィンリィが作った、ブツブツのついた手袋=<yellow>Don't lose your hand weapon, even if damaged.<white>|Bumpy gloves made by Winry.
+<yellow>ダメージを受けても、手持ち武器を落とさなくなる<white>|ウィンリィが作った、ブツブツのついた手袋=<yellow>Don't lose your hand weapon, even if you take damage.<white>|Bumpy gloves made by Winry.
 <yellow>突起錬成の溜め時間がなくなる<white>|聖印の力が込められたヴィーナスのムチ=<yellow>No waiting time for Spike transmutations.<white>|Venus' whip, imbued with the power of the Holy Seal.
 <yellow>すべての能力値、通常取得経験値が５％上昇する<white>|黒い靴下が白い靴下に！ ハッピーでラッキー！=<yellow>All stats and normally earned experience points increase by 25%. <white>Black socks become white socks! Happy and lucky!
-<yellow>必ずジャストアタックになる<white>|ウィンリィが作った、サイコメガネの強化版=<yellow>Accu-strikes are guaranteed.<white>|The Psycho Glasses, enhanced by Winry.
-<yellow>必ずジャストアタックになる|また、敵がアイテムを落とす確率が、ちょっぴり上がる=<yellow>Accu-strikes are guaranteed.|The chance of enemies dropping items increases slightly.
-<yellow>必ずジャストアタックになり、錬成力が２倍に上昇する<white>|地味にブランド物らしい……=<yellow>Accu-strikes are guaranteed. Alchemy is doubled.<white>|They just look like a brand-name item...
+<yellow>必ずジャストアタックになる<white>|ウィンリィが作った、サイコメガネの強化版=<yellow>Automates accu-strikes.<white>|The Psycho Glasses, enhanced by Winry.
+<yellow>必ずジャストアタックになる|また、敵がアイテムを落とす確率が、ちょっぴり上がる=<yellow>Automates accu-strikes.|The chance of enemies dropping items increases slightly.
+<yellow>必ずジャストアタックになり、錬成力が２倍に上昇する<white>|地味にブランド物らしい……=<yellow>Automates accu-strikes. Alchemy is doubled.<white>|They just look like a brand-name item...
 <yellow>凍結状態にならない<white>|ヴァルドラでは一般的に使われるカイロ とてもＨＯＴ！=<yellow>Protects against freezing.<white>|A warmer commonly used in Valdolla. Really hot!
 <yellow>錬成力が２倍になり、攻撃力と防御力が激減する<white>|神兵の錬金術師が被っている、ハイセンスな尖った帽子=<yellow>Alchemy doubles, but Attack and Defense decrease greatly.<white>|A stylish pointy hat, worn by a holy alchemist.
 <yellow>攻撃力が１０上がり、錬成力が１０下がる<white>|気絶した軍人から剥ぎとったドックタグ=<yellow>Attack increases by 10. Alchemy decreases by 10.<white>|A dog tag taken from an unconscious soldier.
@@ -2273,11 +2273,11 @@
 <smalltext>怪しい場所を調べよう！=<smalltext>Examine any suspicious places!
 <smalltext><blackbold>アイテム<normal>【回復薬（小）】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Elixir (S)"
 <bigtext><blackbold> ２周目以降のプレイ=<bigtext><blackbold> Second and subsequent plays
-<yellow>【引き継がないもの】<white>|・キャラクターの<orange>レベルとＥＸＰ<white>|（レベル１、ＥＸＰは０からスタート）=<yellow>“Things that are not transferred"<white>|・Characters' <orange>Level and EXP<white>|(Start from Level 1 with 0 EXP)
-|<yellow>【引き継ぐもの】<white>|・持っている<orange>アイテムとアクセサリ<white>|・ソフィへの<orange>プレゼントの状況<white>|・未使用の<orange>ボーナスポイント<white>|・修得している<orange>スキル錬成と| オブジェの再錬成能力<white>=|<yellow>“Things that are transferred"<white>|・Current <orange>items and accessories<white>|・Status of <orange>Sophie's presents<white>|・Unused <orange>Bonus points<white>|・Acquired <orange>Skill transmutations|Ability to re-transmute objects<white>
+<yellow>【引き継がないもの】<white>|・キャラクターの<orange>レベルとＥＸＰ<white>|（レベル１、ＥＸＰは０からスタート）=<yellow>Things that are not transferred<white>|・Characters' <orange>Level and EXP<white>|(Start from Level 1 with 0 EXP)
+|<yellow>【引き継ぐもの】<white>|・持っている<orange>アイテムとアクセサリ<white>|・ソフィへの<white>プレゼントの状況<white>|・未使用の<orange>ボーナスポイント<white>|・修得している<orange>スキル錬成と| オブジェの再錬成能力<white>=|<yellow>Things that are transferred<white>|・Current <orange>items and accessories<white>|・Status of <orange>Sophie's presents<white>|・Unused <orange>Bonus points<white>|・Acquired <orange>Skill transmutations|・Ability to re-transmute objects<white>
 <bigtext><blackbold> 画像マテリアル=<bigtext><blackbold> Image Materials
  ２周目以降のプレイでは、ステージ内に| <orange>画像マテリアル<white>が配置されています。=Upon second and subsequent plays, you'll find <orange>Image Materials <white>scattered around the map.
- これを集めると、<orange>ギャラリーモード<white>の| グラフィックが増えていきます。=After collecting these, new graphics will unlock in the <orange>Gallery Mode<white>.
+ これを集めると、<orange>ギャラリーモード<white>の| グラフィックが増えていきます。=|After collecting these, new graphics will unlock in the <orange>Gallery Mode<white>.
 （ギャラリーモードで画像マテリアルの| 配置エリアを知ることができます）=(You can check the locations for missing Image Materials in the Gallery Mode)
 <edward>ウィンリィ！ ウィンリィ——ッ！|……ったく、アイツめ、|どこ行きやがったんだよ……！！=<edward>Winry! Winryyyy!|Damn! That girl... Where did she go!?
 <alphonse>——この街の、機械鎧のお店を|回るって言ってたよね。|大丈夫かな……。=<alphonse>She said she wanted to visit the automail shops in this town. I wonder if she's okay...
@@ -5607,7 +5607,7 @@
 !FILE:0233_002/004.txt
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
 <smalltext>次エリアフロアへ進めます！=<smalltext>Go to the next floor!
-<bigtext><yellow>赤きエリクシルの悪魔<white>クリア！！|||<8006>ゲーム本編をクリアしていれば|<8006><yellow>レギュラーメンバーズ<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Curse of the Crimson Elixir <white>cleared!|||<8006>If you have completed the main game, you can|now select the<8006><yellow>Regular Members <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the|main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
+<bigtext><yellow>赤きエリクシルの悪魔<white>クリア！！|||<8006>ゲーム本編をクリアしていれば|<8006><yellow>レギュラーメンバーズ<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Curse of the Crimson Elixir ||<white>cleared!|||<8006>If you have completed the main game, you can|now select the <8006><yellow>Regular Members <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the|main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
 <bigtext><yellow>赤きエリクシルの悪魔<white>クリア！！||||||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Curse of the Crimson Elixir <white>cleared!||||||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the|main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
 
 !FILE:0240_002/004.txt
