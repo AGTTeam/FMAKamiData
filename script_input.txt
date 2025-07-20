@@ -2726,7 +2726,7 @@
 <craigin>イシュヴァールの英雄として名高い、|このマスタング大佐も、|危うく命を落とす所だったらしいな。=<craigin>It seems that even the hero of Ishval, the renowned Colonel Mustang, nearly lost his life.
 <roy>……………。=<roy>........................
 <craigin>君の話をすべて信じたわけではないが、|奴ら四神官と対等に戦えるのは、|君たちだけのようだ。=<craigin>I don't believe everything of your story. But it seems you're the only ones who can fight against the Four Priests on equal footing.
-<craigin>我が軍が敵を突破し、道を確保する。|その間に、君たちは城に乗りこみ、|四神官と戦ってほしい。=<craigin>Our troops will break through enemy lines and secure the way. Meanwhile, I want you to enter the castle and fight the Four Priests.
+<craigin>我が軍が敵を突破し、道を確保する。|その間に、君たちは城に乗りこみ、|四神官と戦ってほしい。=<craigin>Our troops will break through enemy lines and clear the way. Meanwhile, you're to go to the castle and fight the Four Priests.
 <roy>お待ちください、中将！|彼らに、そのような危険な任務を——。=<roy>A moment please, Lieutenant General!|Giving them such a dangerous mission...
 <craigin>倒せ、とは言わん。ただ、君たちが|四神官をひきつけてくれれば、|戦局は、我が方に有利になるのだが……。=<craigin>I'm not saying they have to defeat them. If they could lure the Four Priests away, the war would turn in our favor.
 <edward>——分かりました。やります。|どうせオレたちも、|その城に用があるし……。=<edward>Understood. We'll do it.|We have business in that castle, anyway.
@@ -2743,11 +2743,11 @@
 <edward>——まぁ、いいさ。|どっちにしろ、軍が援護してくれるなら、|城まで行くのは、楽になるしな。=<edward>Well, never mind.|In any case, if the army supports us, it'll be easier to get into the castle.
 <roy>——鋼の。|クレイギン将軍は、あまり信用するな。=<roy>Fullmetal... Don't trust General Craigin too much.
 <edward>ん？ どういうことだよ？=<edward>Huh? What are you talking about?
-<roy>あの男は、目的のためには|手段を選ばない、油断のならない人物だ。|今回も、何か裏で動いてるふしがある。=<roy>He's a cunning man who won't spare any means to meet his goals. And it seems there's again something stirring behind the scenes.
-<edward>——そういえば、大佐。大佐こそ、|オレたちに、あんな手紙をよこして、|なにか裏があるんじゃねーのかよ。=<edward>Speaking of which, Colonel... That includes you too. You sent us that letter, so what was going on with that?
+<roy>あの男は、目的のためには|手段を選ばない、油断のならない人物だ。|今回も、何か裏で動いてるふしがある。=<roy>He's a cunning man who'll stop at nothing to achieve his goals. And it seems he's up to something this time, too.
+<edward>——そういえば、大佐。大佐こそ、|オレたちに、あんな手紙をよこして、|なにか裏があるんじゃねーのかよ。=<edward>Speaking of which, Colonel... That includes you too. There must be more to that letter you sent us.
 <roy>——ん？=<roy>Huh?
 <edward>「ヴァルドラに賢者の石に関する噂がある」|オレたちに何かさせたくて、|こんな手紙で呼んだんだろ。=<edward>“There are rumors of the Philosopher's Stone in Valdolla". You drew us in with that letter to use us for something, right?
-<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>Well, there are legends in this town about a witch who consecrated herself to the “Red Demon", which is reminiscent of the Philosopher's Stone.
+<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>Well, there are legends in this town about a witch who gave herself to the “Red Demon" which sounds like the Philosopher's Stone.#don't add comma or it will overrun
 <roy>——まぁ、お前たちが来たら、|せっかくだから少し手伝ってもらおうと|考えていたのも事実だがな……。=<roy>And it's true that, since you two had come here, I thought you might as well help us a little.
 <edward>あ——ったく！ いつもいつも、|そうやって、人をいいように|動かそうとしやがって……！=<edward>Aaargh, really! You're always trying to make people do whatever you want!
 <roy>ハハハ。まぁ、そう怒るな。|お前たちには、クレイギン将軍の動きに|注意してほしいのだ。=<roy>Ha ha ha! Don't get so angry.|I want you two to keep an eye on General Craigin's movements.
