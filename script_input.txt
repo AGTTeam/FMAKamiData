@@ -2746,7 +2746,7 @@
 <roy>あの男は、目的のためには|手段を選ばない、油断のならない人物だ。|今回も、何か裏で動いてるふしがある。=<roy>He's a cunning man who won't spare any means to meet his goals. And it seems there's again something stirring behind the scenes.
 <edward>——そういえば、大佐。大佐こそ、|オレたちに、あんな手紙をよこして、|なにか裏があるんじゃねーのかよ。=<edward>Speaking of which, Colonel... That includes you too. You sent us that letter, so what was going on with that?
 <roy>——ん？=<roy>Huh?
-<edward>「ヴァルドラに賢者の石に関する噂がある」|オレたちに何かさせたくて、|こんな手紙で呼んだんだろ。=<edward>“There are rumors of the Philosopher's Stone in Valdolla". You drew us in with that letter because you wanted us for something, right?
+<edward>「ヴァルドラに賢者の石に関する噂がある」|オレたちに何かさせたくて、|こんな手紙で呼んだんだろ。=<edward>“There are rumors of the Philosopher's Stone in Valdolla". You drew us in with that letter to use us for something, right?
 <roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>Well, there are legends in this town about a witch who consecrated herself to the “Red Demon", which is reminiscent of the Philosopher's Stone.
 <roy>——まぁ、お前たちが来たら、|せっかくだから少し手伝ってもらおうと|考えていたのも事実だがな……。=<roy>And it's true that, since you two had come here, I thought you might as well help us a little.
 <edward>あ——ったく！ いつもいつも、|そうやって、人をいいように|動かそうとしやがって……！=<edward>Aaargh, really! You're always trying to make people do whatever you want!
@@ -3815,7 +3815,7 @@
 <edward>——何がおかしい？=<edward>What's so funny?
 <zelgius>……今、ヴェルザは|終末の祈りをささげている。|俺の勝敗など、大した問題ではない。=<zelgius>Right now, Velza is starting the Prayer of the End. It doesn't matter whether I win or lose.
 <alphonse>終末の祈り……？=<alphonse>The Prayer of the End?
-<zelgius>終末の祈りが終われば、|何千、何万の天使たちが生まれ、|この国すべての人間に牙を向ける……。=<zelgius>Once the Prayer of the End is finished, thous... no, tens of thousands of angels will spawn, and turn fangs to this country's people.
+<zelgius>終末の祈りが終われば、|何千、何万の天使たちが生まれ、|この国すべての人間に牙を向ける……。=<zelgius>Once the Prayer of the End is finished, thous... no, tens of thousands of angels will spawn, and turn fangs to the people.
 <edward>天使……？|あの怪物たちのことか……！=<edward>Angels...?|You mean those monsters!?
 <zelgius>——見物だぞ、|世界が天使たちで|埋め尽くされる様は——。=<zelgius>It will be such a spectacle, seeing the world filled to the brim with angels...
 <zelgius>そして、この世界は|滅びの時を迎えるのだ……！=<zelgius>And then this world will reach its end!
@@ -4738,7 +4738,7 @@
 <sophie><bigtext>パンパカパーン！！=<sophie><bigtext>Ta-daaaaa!!
 <sophie>おめでとう、エド。|これであなたも、立派な|ハガレンマスターね！=<sophie>Congratulations, Ed! You're now an indisputable Fullmetal Alchemist master!
 <sophie><bigtext>ジャジャーン！！=<sophie><bigtext>Et voila!!
-<sophie>ムービー・コンプリート！！|トゥルーエンディングは見れたかな？|劇場版もよろしくね！=<sophie>All movies obtained!! Did you see the true ending? Look forward to “Fullmetal Alchemist the Movie: Conqueror of Shamballa"!
+<sophie>ムービー・コンプリート！！|トゥルーエンディングは見れたかな？|劇場版もよろしくね！=<sophie>All movies obtained!! Did you see the true ending? Now watch “Fullmetal Alchemist the Movie: Conqueror of Shamballa"!
 <sophie>——読んで欲しいな……。|エドとアルの事を想って|書いたんだよ……。=<sophie>I hope you'll read this... I wrote it thinking about you, Ed and Al.
 <sophie>私の気持ち……、受け取ってね。=<sophie>Please accept my feelings...
 <sophie>——銀色に輝く円盤……？|これは、いったい……？=<sophie>A silver shiny disk?|What on earth is this?
