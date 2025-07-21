@@ -2419,7 +2419,7 @@
 <man>この場所は、俺が最初に見つけた、|俺だけの避難所だ。|テメーらヨソ者に貸す道理はねぇ！=<man>I was the first to find this place, and it's my hiding spot. I have no reason to share it with strangers like you!
 <man>バケモノが来たらどうするつもりだ！|シッ、シッ！|さっさと出ていきやがれ！！=<man>What am I supposed to do if monsters come!?|Shoo, shoo! Get away right now!!
 <man>たっ、助けてくれぇ～～ッ！！|バケモノどもを倒してくれたら、|お礼にイイ物やるからよぉぉぉッ！！=<man>Sa...Save meeee!!|I'll give you something nice if you defeat those monsteeeers!!
-<man>………悪かったな。|ここ、好きに使ってもいいぞ……。=<man>That was awful...|Here, you can use this however you want.
+<man>………悪かったな。|ここ、好きに使ってもいいぞ……。=<man>That was awful...|Here, you can use these however you want.#Iron sandals
 
 !FILE:0058_003/004.txt
 <edward>オレだけ、先に|進むわけにはいかないな。|アルを連れてこないと……。=<edward>I can't go further ahead. I must take Al with me.
