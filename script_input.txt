@@ -823,7 +823,7 @@
 エドスキル：<yellow>突起Ｌｖ３<white>が=Ed skill: <yellow>Stonespikes Lv.3<white>
 <yellow>爆弾<white>を<yellow>集束爆弾<white>に=<yellow>Bomb<white> becomes<yellow> Focused Bomb<white>
 <yellow>牛さん<white>を<yellow>猛牛<white>に=<yellow>Miss Cow<white> becomes<yellow> Raging Bull<white>
-<yellow>閃光弾<white>を<yellow>打ち上げ花火<white>に=<yellow>Flash Bullet<white> becomes<yellow> Fireworks<white>
+<yellow>閃光弾<white>を<yellow>打ち上げ花火<white>に=<yellow>Flash Bullet<white> becomes<yellow> Skyrocket Fireworks<white>
 アルスキル：石球ＬＶ２が ※削除！=Al skill: Stone Ball Lv.2 - Deleted!
 アルスキル：石球ＬＶ３が ※削除！=Al skill: Stone Ball Lv.3 - Deleted!
 アルスキル：<yellow>吸引Ｌｖ２<white>が=Al skill: <yellow>Vacuum Lv.2<white>
@@ -1847,7 +1847,7 @@
 <yellow>ガードを貫通、物も壊せるハンマーを錬成<white>|・<L2a><L2b>押しながら<cross>=<yellow>Transmute a hammer that can break objects and blocks<white>|・While holding <L2a><L2b>, press <cross>
 <yellow>オブジェ錬成武器「爆弾」を|広範囲に複数投げられる「集束爆弾」に強化<white>=<yellow>Object transmutation “Bomb" becomes “Focused Bomb", which can be thrown multiple times in a wide area<white>
 <yellow>オブジェ錬成武器「牛さん」を|凶暴な「猛牛」に強化<white>=<yellow>Object transmutation “Miss Cow" becomes the ferocious “Raging Bull"<white>
-<yellow>オブジェ錬成武器「閃光弾」を|周囲の敵に大ダメージを与える「打ち上げ花火」に強化<white>=<yellow>Object transmutation “Flash Bullet" becomes “Fireworks", which causes great damage to surrounding enemies<white>
+<yellow>オブジェ錬成武器「閃光弾」を|周囲の敵に大ダメージを与える「打ち上げ花火」に強化<white>=<yellow>Object transmutation “Flash Bullet" becomes “Skyrocket Fireworks", which causes great damage to surrounding enemies<white>
 
 !FILE:0014_070/001.txt
 突起錬成=Stonespikes#Removed "Transmutation" as too long
@@ -2161,7 +2161,7 @@
 <8006><white>（錬成サークル内で）|<8006><white><R1a><R1b>　＝　<yellow>パートナーに錬成させる=<8006><white>(Inside a transmutation circle)|<8006><white><R1a><R1b>: <yellow>Make partner transmute something
 エドとアルで、違う武器を錬成できる|場合もあります。=Ed and Al can transmute different weapons.
 <smalltext>サークル内で<R1a><R1b>＝パートナーが錬成=<smalltext>Press <R1a><R1b> inside the circle: Partner makes a transmutation
-<smalltext>「ロケット花火」が錬成された！=<smalltext>Transmuted “Rocket Fireworks"!
+<smalltext>「ロケット花火」が錬成された！=<smalltext>Transmuted “Fireworks"!
 <alphonse>だからせっかく錬成できるものが|あるんだから使おうってば！=<alphonse>Since there's something we can transmute, let's use it.
 
 !FILE:0037_003/004.txt
@@ -2304,7 +2304,7 @@
 
 !FILE:0048_003/004.txt
 テスト=Test
-<smalltext>壁つたい歩き：エドは細い足場でも渡れます=<smalltext>Walk along a wall: Ed can walk even along narrow footholds
+<smalltext>壁つたい歩き：エドは細い足場でも渡れます=<smalltext>Walk along a wall: Ed can walk along narrow footholds
 <alphonse>兄さん、向こうに|リフトみたいな物があるよ。=<alphonse>Brother, there seems to be a lift over there.
 <edward>だけど、動いてないぞ。|どうにかして、向こうに行かなきゃ|ならないみたいだけど……ん？=<edward>But it doesn't move.|Still, it seems we have to get over there somehow... Huh?
 <edward>オレだけ、先に|進むわけにはいかないな。|アルを連れてこないと……。=<edward>I can't go further ahead. I must take Al with me.
@@ -2353,7 +2353,7 @@
 !FILE:0055_002/004.txt
 <blackbold>アクセサリ<normal>【ドッグタグ】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Dog Tag"
 <alphonse>兄さん、兵隊さんたちが……！=<alphonse>Brother, those are military men!
-<edward>ああ。どうやら、このあたりに|ヤバいヤツがいるみてーだな。|——気をつけろよ、アル。=<edward>Yeah. It seems there's some dangerous guy around here.|Be careful, Al.
+<edward>ああ。どうやら、このあたりに|ヤバいヤツがいるみてーだな。|——気をつけろよ、アル。=<edward>Yeah. There must be someone dangerous in the area.|Be careful, Al.
 <guard>すさまじい冷気で……、|あっという間に部隊が……！=<guard>That terrible cold wave... In the blink of an eye, the troops were...
 <guard>うう……気をつけろ……。|この先に……、|変なオカマがいる……。=<guard>Uuuh... Be careful.|Up ahead... there's that weird effeminate guy...
 <guard>…………………。|（返事がない、気を失っているようだ）=<guard>.........................|(There's no response, it seems he's unconscious.)
@@ -2376,13 +2376,13 @@
 <leonid>ウフフ……。|美しいバラには|トゲがあるっていうけど……。=<leonid>Heh heh...|They say that beautiful roses have thorns, but...
 <leonid>アナタのトゲじゃ、アタシに|かすり傷を付けることも|できないようね……。=<leonid>It seems your thorns can't even make a scratch on me.
 <riza>くっ……その力は……。|あなたたち、|いったい何者なの……？=<riza>Ugh... That power...|What on earth are you people...?
-<leonid>——さぁ、美しく散りなさい。=<leonid>Well... Do me a favor and scatter beautifully.
+<leonid>——さぁ、美しく散りなさい。=<leonid>Now... Do me a favor and scatter beautifully.
 <edward>ホークアイ中尉！！=<edward>Lieutenant Hawkeye!!
 <riza>エドワード君！？|どうしてここに……。=<riza>Edward!?|What are you doing here!?
 <edward>話は後だ。|中尉は下がっててくれ。|コイツの相手はオレたちがする。=<edward>I'll explain later.|Step back, Lieutenant. We'll handle this guy.
 <riza>気をつけて。|この男、普通じゃない……！=<riza>Be careful. This man isn't ordinary!
 <leonid>フフフ……どこかで見た顏だと思えば。|アナタたち、いったい|何をしに来たのかしら？=<leonid>Heh heh heh... I think I've seen those faces somewhere...|What the hell did you come here for?
-<alphonse>ボクたち、オベリスクを|封印しに来たんです。=<alphonse>We came to seal the Obelisk.
+<alphonse>ボクたち、オベリスクを|封印しに来たんです。=<alphonse>We came to seal the obelisk.
 <leonid>……あの娘から聞いたのね。=<leonid>So that girl told you...
 <edward>ヴェルザとやらを復活させて世界を滅ぼす|……アンタたちは、本気でそんなことを|考えているのか？=<edward>Reviving the likes of Velza and destroying the world... Do you really plan to do something like that?
 <leonid>——ええ、そうよ。|アナタたちは、その罪の報いを受け、|滅ぶべきなのよ……！=<leonid>Yeah, that's right.|But you should receive punishment for your sins and perish!
@@ -2426,7 +2426,7 @@
 
 !FILE:0060_002/004.txt
 テスト=Test
-<edward>これが…オベリスクか……。=<edward>So this is... the Obelisk?
+<edward>これが…オベリスクか……。=<edward>So this is... the obelisk?
 <alphonse>ヴェルザを復活させるために、|人の命のエネルギーを集める塔……、|ソフィはそう言ってたよね。=<alphonse>The tower that collects human life force to resurrect Velza... That's what Sophie said.
 <edward>ああ。こんなもん、|とっとと封印しちまおーぜ。|ええと、ソフィに聞いたやり方で——。=<edward>Yeah. Let's hurry up and seal up this thing. Let me see... Sophie said it was done like this...
 <edward>——これでよし、っと。=<edward>...That should do it.
@@ -2434,14 +2434,14 @@
 <edward>あ、ああ、ごめん。|中尉には全部、説明しておくよ。=<edward>Ah, uuh... sorry.|I'll explain everything, Lieutenant.
 <edward>オレたちが|ソフィと出会ったのが|始まりだったんだ……。=<edward>It all started when we met Sophie...
 <edward>——と、オレたちが知ってることは|これで全部だよ。|とても、信じられない話だろうけど。=<edward>And that's the full story.|I know it may be hard to believe.
-<alphonse>ボクたちも正直、今でも半信半疑なんです。|だけど、ソフィに渡された聖印の力や|オベリスクのことは本当でした。=<alphonse>To be honest, we still have doubts about it. However, the power of the Holy Seal that Sophie gave us, and the Obelisk, were true.
+<alphonse>ボクたちも正直、今でも半信半疑なんです。|だけど、ソフィに渡された聖印の力や|オベリスクのことは本当でした。=<alphonse>To be honest, we still have doubts about it. However, the power of the Holy Seal that Sophie gave us, and the obelisk, were true.
 <riza>「ヴェルザが復活すると世界が滅ぶ」|……確かに、とても信じられない話ね。=<riza>“Velza's resurrection will bring about the end of the world"... Certainly, it's quite the unbelievable story.
 <riza>だけど、さっきの変な男の力といい、|この塔の存在といい、あなたたちの話を|信じないと説明がつかないのも事実だわ。=<riza>But it's true I can't explain the power of that strange man before, or the existence of this tower, if I don't believe your story.
 <riza>ふぅ……。|大佐が聞いたら、なんて言うかしら……。=<riza>Ooff... I wonder what the Colonel's going to say when he hears about this...
 <alphonse>中尉はこれからどうするんですか？=<alphonse>What are you going to do now, Lieutenant?
 <riza>私はこの街の司令部に戻って、|事の次第を大佐に報告するつもりよ。|だから、エドワード君たちも一緒に——。=<riza>I'll return to this city's Headquarters, and give the Colonel a report of the situation. That's why you two are coming with me.
-<edward>いや、オレたちはオレたちで行動するよ。|今は一刻も早く、すべてのオベリスクを|封印しなきゃならないしな。=<edward>No way; we're acting on our own.|Right now we have to seal all the Obelisks as soon as possible.
-<alphonse>オベリスクのことは、ボクたちに|任せてください。というか、ボクたちにしか|どうにもできないみたいですから。=<alphonse>Please, leave the issue of the Obelisks to us. I mean, it seems we're the only ones who can do anything about them.
+<edward>いや、オレたちはオレたちで行動するよ。|今は一刻も早く、すべてのオベリスクを|封印しなきゃならないしな。=<edward>No way; we're acting on our own.|Right now we have to seal all the obelisks as soon as possible.
+<alphonse>オベリスクのことは、ボクたちに|任せてください。というか、ボクたちにしか|どうにもできないみたいですから。=<alphonse>Please, leave the issue of the obelisks to us. I mean, it seems we're the only ones who can do anything about them.
 <riza>……そう、分かったわ。|君たちなら大丈夫とは思うけど、|くれぐれも無茶はしないようにね。=<riza>...I see. Guess you'll be alright. But nonetheless, don't do anything reckless.
 <edward>さ、早く教会に戻ろうぜ。|ソフィとウィンリィも心配だしな。=<edward>Well, let's go back to the church at once. Sophie and Winry must be worried.
 <edward>——って、何やってんだ、アル？=<edward>Huh? What are you doing, Al?
@@ -2551,16 +2551,16 @@
 <edward>ギャアアアアアアアアァァッ！！|か、か、感謝してるなら、|放してくれえええぇぇッッ……！！=<edward>Gaaaah!!|If you're really thankful, then let me goooo!!
 <alphonse>しょ、少佐……。|さっきまで動けなかったハズじゃ……。=<alphonse>Ma...Major...|A moment ago you couldn't even move...
 <armstrong>むぅ……。|敵の襲来の裏に、|そのような事情があったとは……。=<armstrong>Hmmm... There must be several reasons behind this enemy invasion...
-<alphonse>はい。それでボクたち、|あのオベリスクを|封印しに来たんです。=<alphonse>Yes. That's why we came to seal that Obelisk.
+<alphonse>はい。それでボクたち、|あのオベリスクを|封印しに来たんです。=<alphonse>Yes. That's why we came to seal that obelisk.
 <armstrong>——うむ。|ならば、さっそく|取りかかるが良かろう。=<armstrong>Humm... In that case, you should set about it at once.
 <alphonse>ふぅ。２つ目の封印完了、っと。=<alphonse>Pheew! That takes care of the second seal.
-<alphonse>これで、残りはあと１つ。|最後のオベリスクは、|どこにあるんだろう……。=<alphonse>With this, there's only one left.|I wonder where the last Obelisk could be?
+<alphonse>これで、残りはあと１つ。|最後のオベリスクは、|どこにあるんだろう……。=<alphonse>With this, there's only one left.|I wonder where the last obelisk could be?
 <alphonse>——って、兄さん、|いつまで寝てるんだよ！=<alphonse>Hey, Brother! How long are you gonna sleep!?
 <armstrong>これと同じ巨大な塔なら、|街の東にある、軍司令部にあるぞ。=<armstrong>If you're looking for a giant tower like this, there's one at the East of the city, in the military headquarters.
 <edward>え！？ 本当に！？=<edward>Huh? Really!?
 <alphonse>——あ。|生き返った。=<alphonse>Ah... You're alive again.
 <armstrong>うむ。敵の進攻と同時に、|ヴァルドラ軍司令部に、|突如として出現したのだ。=<armstrong>Hmm. It appeared suddenly at the Valdolla headquarters, at the same time as the enemy advanced.
-<edward>最後のオベリスクは、司令部か……。|よし、行こう、アル。=<edward>So the last Obelisk is at the headquarters...|Okay, let's go, Al.
+<edward>最後のオベリスクは、司令部か……。|よし、行こう、アル。=<edward>So the last obelisk is at the headquarters...|Okay, let's go, Al.
 <armstrong>む。待つのだ、２人とも。|今、司令部は敵に包囲されておる。|とても、中に入ることはできんぞ。=<armstrong>Humm. Wait, you two. Right now, the headquarters are surrounded by enemies. You can't go inside at all.
 <armstrong>我輩は、援軍を連れてくるため、|敵の包囲を抜け、やっとのことで|司令部を脱出してきたのだ。=<armstrong>I had to slip by their siege to bring reinforcements, and then at last managed to escape from there.
 <edward>その援軍が到着するまで、|司令部に行くなってんじゃねーだろうな。|そんな、ノンビリしてらんねーんだ。=<edward>We can't wait for those reinforcements to arrive before going to headquarters. We're running short on time.
@@ -2586,7 +2586,7 @@
 <smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies
 <edward>——なっ！？|コイツら！|こんな所にまで……！=<edward>What!? Those guys are even here!
 <alphonse>ほら、やっぱり……。|こんなことだと思ったんだよ。=<alphonse>See? I knew it... It's just as I thought.
-<edward>あー、うるせぇなー……。|——こんなヤツら、オベリスクに|着くまでの、いいヒマつぶしだぜ！=<edward>Ahh, shut up! These guys will be a great way to kill time till we reach the Obelisk!
+<edward>あー、うるせぇなー……。|——こんなヤツら、オベリスクに|着くまでの、いいヒマつぶしだぜ！=<edward>Ahh, shut up! These guys will be a great way to kill time till we reach the obelisk!
 
 !FILE:0084_003/004.txt
 テスト=Test
@@ -2604,7 +2604,7 @@
 <edward>ああ。だけど、思った通りだ。|すでに、ヴェルザの一族が|侵入してるな……。=<edward>Yeah. But it's just as I feared.|Velza Clan has already invaded this place.
 <alphonse>司令部は、この街でいちばん、|守りが堅い場所の|はずなのに……。=<alphonse>Even when headquarters are supposed to be the most secure place in this town...
 <edward>ヤツらには「印の力」があるからな。|ただの軍人じゃ、|太刀打ちできないだろう。=<edward>That's because they have the power of the seal. Normal soldiers don't stand a chance against that.
-<edward>オベリスクは、この先みたいだな。|行こう、アル。=<edward>It seems the Obelisk is this way.|Let's go, Al.
+<edward>オベリスクは、この先みたいだな。|行こう、アル。=<edward>It seems the obelisk is this way.|Let's go, Al.
 <soldier>——うう、気をつけろ……、|奴らの力……普通じゃない……！=<soldier>Uuhh... Be careful... The power of those guys... it's not normal!
 <soldier>…………………………。=<soldier>...........................
 <soldier>……話しかけんなよ、|死んだフリがバレちまうだろ……。=<soldier>Don't talk to me... They'll find out I'm playing dead...
@@ -2618,14 +2618,14 @@
 <smalltext><blackbold>アクセサリ<normal>【鬼のパンツ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Demon Briefs"
 <edward>——おい！|大丈夫か！？=<edward>Hey! Are you alright?
 <soldier>あ、ああ……。|足を少し、やられただけだ。|それより君たちは……？=<soldier>Ah, yeah... I just hurt my leg a little.|By the way, who are you?
-<alphonse>ボクたち、オベリスク——、|外にある、大きな塔の所へ|行きたいんです。=<alphonse>We want to reach the Obelisk... that big tower outside.
+<alphonse>ボクたち、オベリスク——、|外にある、大きな塔の所へ|行きたいんです。=<alphonse>We want to reach the obelisk... that big tower outside.
 <soldier>司令部に突然出現した、あの塔か……。|そこから外に出ればすぐだが、|今はドアがロックされていて通れんぞ。=<soldier>That tower that suddenly appeared? You can get out quickly from here, but the door is locked and there's no way through.
 <edward>うーん……。|オレたち、急いでるんだ。|なんとか、ならねーのかな？=<edward>Hmmm... We're in a hurry, isn't there anything we can do?
 <soldier>コントロールルームが|敵にやられてしまって、|ロックを解除できんのだ。=<soldier>The control room is taken by the enemy, so you can't release the lock.
 <soldier>予備のスイッチなら、|最上階の司令室の隣に|あるはずだが……。=<soldier>But there should be a spare switch next to the command room at the top floor.
 <edward>最上階？ 一番上まで|行かなきゃなんねーのかよ……。|——しかたない。行こうぜ、アル。=<edward>The top floor? We have to go all the way up there?|Guess it can't be helped... Let's go, Al.
 <alphonse>兄さん、ドアが開いてる。|クレイギン将軍、忘れずにロックを|解除してくれたみたいだね。=<alphonse>The door is open, Brother.|It seems that General Craigin didn't forget to release the lock.
-<edward>よし、これでやっと|オベリスクの所へ行けるな。=<edward>Great, now we can finally get to the Obelisk.
+<edward>よし、これでやっと|オベリスクの所へ行けるな。=<edward>Great, now we can finally get to the obelisk.
 <alphonse>——え？ なに、今の音？=<alphonse>Huh? What was that noise right now?
 <edward>爆発音？ 外からだな。|——急ぐぞ、アル！=<edward>An explosion?|It came from outside. Hurry up, Al!
 <soldier>最上階にあるスイッチを操作すれば、|ドアのロックを|解除することができる……。=<soldier>You can unlock the door using the switch at the top floor.
@@ -2844,10 +2844,10 @@
 <zelgius>俺は、四神官の長、煉獄のゼルギウス。|すべてを焼きつくす我が炎、|その身をもって味わうがいい！！=<zelgius>I am Zelgius of Purgatory, the leader of the Four Priests. You can taste the flames that reduce everything to ash!
 <zelgius>クックック……なるほど。|なかなかやるな。|それが聖印の力というわけか。=<zelgius>Ho ho ho... I see now.|That wasn't half bad. So that's the power of the Holy Seal...
 <edward>くそッ……。|コイツ、まだ余裕を|持ってやがる……。=<edward>Damn! This guy still has the nerve to be so calm...
-<zelgius>フッ……お前たち、|オベリスクを封印するために|ここまで来たのだろう？=<zelgius>Hmph! You came all the way here to seal the Obelisk, right?
+<zelgius>フッ……お前たち、|オベリスクを封印するために|ここまで来たのだろう？=<zelgius>Hmph! You came all the way here to seal the obelisk, right?
 <zelgius>だが……。|クックック……、|一歩遅かったな。=<zelgius>However...|Ho ho ho! You were a step too late.
 <edward>——なんだと！？=<edward>What!?
-<zelgius>必要な魂は、すでに集まった。|いまさら、オベリスクを封印したとて、|もう手遅れだ……。=<zelgius>All the necessary souls have already been collected. Even if you sealed the Obelisk, it would be much too late.
+<zelgius>必要な魂は、すでに集まった。|いまさら、オベリスクを封印したとて、|もう手遅れだ……。=<zelgius>All the necessary souls have already been collected. Even if you sealed the obelisk, it would be much too late.
 <zelgius>我らが神、|ヴェルザ復活の時が来たのだ……！=<zelgius>The time has come for the resurrection of our goddess, Velza!
 <alphonse>そ、そんな……！？=<alphonse>That... That can't be!
 <zelgius>クックック……。|なかなか楽しかったぞ。|だが、そろそろ行かねばならん。=<zelgius>Ho ho ho! It's been pretty fun. But I must make my exit now.
@@ -2858,7 +2858,7 @@
 <edward>くそッ……。|ちくしょうッ！=<edward>Damn! That son of a bitch!
 <alphonse>兄さん……。=<alphonse>Brother...
 <edward>結局、間に合わなかったって|言うのかよ……！|ソフィに、なんて言やいいんだ……。=<edward>You're telling me that we were too late after all!?|What am I gonna say to Sophie now...?
-<alphonse>……そうだ、兄さん。|オベリスクは、どうしよう……？=<alphonse>It's okay, Brother.|What should we do about the Obelisk?
+<alphonse>……そうだ、兄さん。|オベリスクは、どうしよう……？=<alphonse>It's okay, Brother.|What should we do about the obelisk?
 <edward>あ、ああ——。|そうだな、いまさらかもしれないけど、|とにかく封印しておこう。=<edward>Ah, yeah... I know it may be too late already, but let's seal it anyway.
 <roy>鋼の……。=<roy>Fullmetal...
 <alphonse>大佐、大丈夫ですか？=<alphonse>Are you alright, Colonel?
@@ -3037,10 +3037,10 @@
 <janice>はぁーい♪=<janice>Yup! ♪
 <zelgius>聖印の力……。|やはり侮れんな……。=<zelgius>So that's the power of the Holy Seal. Certainly, it shouldn't be underestimated.
 <leonid>もう一度、アタシにチャンスを|ちょうだい、ゼルギウス。|次は、必ずッ……。=<leonid>Give me another chance, Zelgius. I won't fail next time!
-<zelgius>——焦るな。|『器』は後でもいい。|今は『オベリスク』だ……。=<zelgius>Don't be impatient. The “vessel" can wait. For now, we'll deal with the Obelisks.
-<zelgius>我ら四神官は、時が満ちるまで、|邪魔が入らぬよう、|オベリスクを護らなければならん。=<zelgius>We, the Four Priests, must protect the Obelisks against any hindrance, until the time is right.
-<zelgius>レオニード、|お前は西のオベリスクへ向かえ。|ゴドーは北だ。=<zelgius>Leonid, you'll go to the west Obelisk. Godo, you go north.
-<leonid>分かったわ……。|聞こえたわね、ゴドー。|アンタは北のオベリスクを護るのよ。=<leonid>Understood.|You heard it, Godo; you'll protect the north Obelisk.
+<zelgius>——焦るな。|『器』は後でもいい。|今は『オベリスク』だ……。=<zelgius>Don't be impatient. The “vessel" can wait. For now, we'll deal with the obelisks.
+<zelgius>我ら四神官は、時が満ちるまで、|邪魔が入らぬよう、|オベリスクを護らなければならん。=<zelgius>We, the Four Priests, must protect the obelisks against any hindrance, until the time is right.
+<zelgius>レオニード、|お前は西のオベリスクへ向かえ。|ゴドーは北だ。=<zelgius>Leonid, you'll go to the west obelisk. Godo, you go north.
+<leonid>分かったわ……。|聞こえたわね、ゴドー。|アンタは北のオベリスクを護るのよ。=<leonid>Understood.|You heard it, Godo; you'll protect the north obelisk.
 <godot>ガアアアアアアァァッ！！=<godot>Gaaaaaaahhhh!!
 <leonid>……ホントに分かってんでしょうね。=<leonid>I wonder if he really understands...
 <janice>ゼルギウス～。|ジャニスは？ ジャニスは？|ジャニスはどうすればいいのぉ？=<janice>Zeeelgius!|What about Janice? What about Janice? What should we do about Jaaanice?
@@ -3904,7 +3904,7 @@
 <sophie>……祈りのオベリスク……。|あれが、天使を生みだす……！|壊して……全部、壊して……！=<sophie>The Prayer Obelisks...|Those things create the angels!|Destroy them... destroy them all!
 <edward>祈りの、オベリスク——！？=<edward>The Prayer Obelisks!?
 <alphonse>兄さん！|きっと、あれのことだよ！=<alphonse>Brother! They must be those things!
-<sophie>……祈りのオベリスクを壊せば……|終末の祈りを……|止めることができる……！=<sophie>If you destroy the Obelisks... you can stop the Prayer of the End...
+<sophie>……祈りのオベリスクを壊せば……|終末の祈りを……|止めることができる……！=<sophie>If you destroy the obelisks... you can stop the Prayer of the End...
 <sophie>……お願い……エド……アル……。|私たちの……世界を……守って……。|……うぅっ……くっ……！=<sophie>Please... Ed... Al...|Protect... our world...|Uuh... Ugh!
 <verda>——グアアァァァ——ッッ！！=<verda>Graaaaaahhh!!
 <alphonse>ソフィ——！=<alphonse>Sophie!
@@ -4110,7 +4110,7 @@
 <winry>——エド！ アル！！=<winry>Ed! Al!!
 <edward>おう、戻ってきたぜ。=<edward>Yeah, we're back.
 <sophie>良かった……。|遅かったから心配したわ。|２人が無事で、本当に良かった。=<sophie>I'm so glad. Since you were late, I was starting to worry. It's nice to see you both safe.
-<edward>オレたちなら大丈夫さ。|オベリスクも、|ちゃんと封印してきた。=<edward>Don't worry about us. We also sealed the Obelisk properly.
+<edward>オレたちなら大丈夫さ。|オベリスクも、|ちゃんと封印してきた。=<edward>Don't worry about us. We also sealed the obelisk properly.
 <sophie>うん、ありがとう。|でも……、もしあなたたちに何かあったら、|どうしようかと……。=<sophie>Yes, thank you.|But... if something happened to you, I don't know what I'd do...
 <winry>だから言ったじゃない。|心配しなくても|あいつらなら平気だって。=<winry>I told you already; there's no need to worry. These guys will be fine.
 <sophie>そんなこと言って、|私よりウィンリィの方が、|よっぽど心配してたじゃない。=<sophie>You say that now, but you were much more worried than me, Winry.
@@ -4190,7 +4190,7 @@
 <edward>何とか、って言ったって……。=<edward>Something, you say...
 <winry>ソフィが喜びそうなプレゼントとか。|ネコの時、あんなに|嬉しそうだったじゃない。=<winry>What about some present she'd like? She seemed so happy with that cat...
 <edward>プレゼントか……。|ソフィにあげられそうな物なんて、|何かあったかなぁ……。=<edward>A present?|I wonder if there's something we could give her...
-<winry>おかえり、エド、アル。|その顏だと、オベリスクの封印は|うまくいったみたいね。=<winry>Welcome back, Ed, Al.|From the looks of it, it seems you successfully sealed the Obelisk.
+<winry>おかえり、エド、アル。|その顏だと、オベリスクの封印は|うまくいったみたいね。=<winry>Welcome back, Ed, Al.|From the looks of it, it seems you successfully sealed the obelisk.
 <alphonse>うん、バッチリだよ。|ウィンリィの教えてくれた地下鉄で|ちゃんと行けたしね。=<alphonse>Yeah, it worked just fine. We got there quickly using the subway you told us about, Winry.
 <edward>だけど、ヒドイ目にあったぜー。|列車の中は敵だらけだし、|暑苦しい筋肉に捕まるし……。=<edward>But we got into trouble.|The train was full of enemies, and I was trapped between sweaty muscles.
 <sophie>…………………………。=<sophie>...............................
@@ -4207,7 +4207,7 @@
 <alphonse>ソフィ……。ありがとう。=<alphonse>Sophie... Thank you.
 <sophie>——エド！ アル！=<sophie>Ed! Al!
 <winry>２人とも遅かったじゃない！|——って、どうしたの、その顏……。|封印、うまくいかなかったの？=<winry>You two are late!|...Huh? What's with those faces? Didn't the seal work?
-<edward>いや、オベリスクは封印した。|だけど、ヴェルザの復活を止めることは|できないらしい……=<edward>No, we managed to seal the Obelisk.|However, it seems we can't stop Velza's resurrection...
+<edward>いや、オベリスクは封印した。|だけど、ヴェルザの復活を止めることは|できないらしい……=<edward>No, we managed to seal the obelisk.|However, it seems we can't stop Velza's resurrection...
 <alphonse>敵のリーダーみたいな人が言ってたんだ。|もう、必要な魂は集まった、|ヴェルザの復活は止まらない、って……。=<alphonse>The guy who acts as their leader told us. They've already gathered the necessary souls, so we can't stop the resurrection.
 <sophie>——ッ、そ、そんな……！！=<sophie>Im...Impossible!
 <edward>すまない、ソフィ……。|オレたちの力が、|足りなかったみたいだ……。=<edward>I'm sorry, Sophie...|It seems we weren't strong enough...
@@ -5356,11 +5356,11 @@
 <alphonse>……あ、やっぱり。=<alphonse>Ah, just as I thought...
 
 !FILE:0222_002/004.txt
-<edward>それじゃ、|オベリスクとやらを封印しに行くか。=<edward>Well then, let's go and seal that Obelisk.
-<sophie>ここからいちばん近いオベリスクは、|街の西にある、|倉庫街のあたりよ。=<sophie>The closest Obelisk from here is in the west of the city, at the warehouse district.
+<edward>それじゃ、|オベリスクとやらを封印しに行くか。=<edward>Well then, let's go and seal that obelisk.
+<sophie>ここからいちばん近いオベリスクは、|街の西にある、|倉庫街のあたりよ。=<sophie>The closest obelisk from here is in the west of the city, at the warehouse district.
 <edward>倉庫街か……。|分かった。=<edward>The warehouse district...|Understood.
 <sophie>——２人とも、くれぐれも気をつけて。=<sophie>You two, please be careful.
-<sophie>オベリスクは|ヴェルザ復活に重要な存在だから、|きっと敵も警戒していると思う……。=<sophie>The Obelisks are essential for Velza's resurrection, so I'm sure the enemy will be on guard.
+<sophie>オベリスクは|ヴェルザ復活に重要な存在だから、|きっと敵も警戒していると思う……。=<sophie>The obelisks are essential for Velza's resurrection, so I'm sure the enemy will be on guard.
 <edward>ああ。任せとけって。|よし、行くぞ、アル！=<edward>Yeah, leave it to us.|Well, let's go, Al!
 <alphonse>うん！=<alphonse>Alright!
 <sophie>……ごめんね、ウィンリィ。=<sophie>I'm sorry, Winry.
@@ -5392,7 +5392,7 @@
 <sophie>——うん！=<sophie>Yeah!
 <winry>……本当に……気をつけて……。=<winry>Really... Be careful.
 <norn>ニャ～ン……。=<norn>Meow...
-<edward>なぁ、ソフィ。|次のオベリスクは、|どこにあるんだ？=<edward>Well, Sophie, where's the next Obelisk?
+<edward>なぁ、ソフィ。|次のオベリスクは、|どこにあるんだ？=<edward>Well, Sophie, where's the next obelisk?
 <sophie>街の北にある、|病院前の広場にあるわ。|だけど——。=<sophie>It's in the north of the city, in front of the hospital square. However...
 <edward>北の病院だな。|よし行くぞ、アル。=<edward>The hospital in the north.|Okay, let's go, Al.
 <sophie>——待って！|今、街の北に行くのは危険よ。=<sophie>Wait! It's dangerous to go to that area now.
@@ -5410,7 +5410,7 @@
 <sophie>え……？=<sophie>Huh?
 <winry>成功して、自分たちも生き残る。|そうじゃないと意味がないって、|あいつらは、そう考えるはずだから……。=<winry>They'll succeed while surviving themselves. They'd think there's no point otherwise.
 <sophie>……………。=<sophie>.........................
-<edward>よっし、いよいよだな。|最後のオベリスクを封印してくるぜ。=<edward>Alright, it's finally time. Let's go and seal that last Obelisk.
+<edward>よっし、いよいよだな。|最後のオベリスクを封印してくるぜ。=<edward>Alright, it's finally time. Let's go and seal that last obelisk.
 <alphonse>少佐が言ってたよね。|オベリスクは、街の東にある、|軍司令部にある、って。=<alphonse>The Major said it was east of the city, at the military headquarters.
 <edward>ああ。|教えてもらった下水道から、|司令部に潜入するぞ。=<edward>Yeah. We'll sneak into there through the sewers he told us about.
 <sophie>……………………。=<sophie>.............................
@@ -5507,7 +5507,7 @@
 <sophie>ヴェルザは実在している……。=<sophie>Velza really exists...
 <sophie>そして、ヴェルザの一族は、|ヴェルザを目覚めさせて、|世界を滅ぼそうとしているの。=<sophie>And Velza Clan plans to awaken her and bring ruin to the world.
 <sophie>封印を解き、ヴェルザを蘇らせるには、|たくさんのイケニエ——、|人の命のエネルギーが必要になる。=<sophie>To break the seal and resurrect Velza, they need many sacrifices... The energy of human lives.
-<sophie>だから彼らは、|「オベリスク」という大きな塔を造り、|それを集めようとしているわ。=<sophie>So they're building those big towers, those Obelisks, to collect this energy.
+<sophie>だから彼らは、|「オベリスク」という大きな塔を造り、|それを集めようとしているわ。=<sophie>So they're building those big towers, those obelisks, to collect this energy.
 <alphonse>……どう思う、兄さん？=<alphonse>What do you think, Brother?
 <edward>——どうもこうも、|いきなりこんな話聞かされて、|信じろって方が無茶だろ。=<edward>No matter how you look at it, hearing such a story wouldn't be enough to convince anyone.
 <sophie>……そうね。|信じられないのも無理ないわ。=<sophie>That's true. I'm not surprised that you don't believe it.
@@ -5549,8 +5549,8 @@
 <edward>こ、これは……。=<edward>Wh-What's this?
 <sophie>あなたたちに「聖印」を渡したわ。=<sophie>I gave you the Holy Seal.
 <alphonse>聖印……？=<alphonse>The Holy Seal?
-<sophie>ヴェルザの復活を防ぐには、|エネルギーを集めている、|オベリスクの動きを止めなきゃならない。=<sophie>To prevent Velza's resurrection, you need to deactivate the Obelisks that are gathering energy.
-<sophie>その聖印さえあれば、|あなたたちにも、|オベリスクを封印することができるわ。=<sophie>With this Holy Seal, you too will be able to seal the Obelisks.
+<sophie>ヴェルザの復活を防ぐには、|エネルギーを集めている、|オベリスクの動きを止めなきゃならない。=<sophie>To prevent Velza's resurrection, you need to deactivate the obelisks that are gathering energy.
+<sophie>その聖印さえあれば、|あなたたちにも、|オベリスクを封印することができるわ。=<sophie>With this Holy Seal, you too will be able to seal the obelisks.
 <edward>……これが、|さっきのアンタの力の——？=<edward>Is this the power you showed earlier?
 <sophie>ええ。聖印は、私の力の源。|それがあれば、ヴェルザの一族が持つ|力にも対抗できるわ。=<sophie>Yes. The Holy Seal is the source of my powers. With it, I can fight against the Velza Clan.
 <alphonse>こんな印に、そんな力が……。=<alphonse>Such power... in this seal...
