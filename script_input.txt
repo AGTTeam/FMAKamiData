@@ -884,7 +884,7 @@
 到着プラットホーム=Arrival Platform
 地下鉄・第５車両=Subway: 5th Car
 地下鉄・第４車両=Subway: 4th Car
-地下鉄・第３車両=Subway: 3th Car
+地下鉄・第３車両=Subway: 3rd Car
 （※欠番※）=(Missing number)
 到着駅・改札口=Arrival Station: Ticket Gate
 到着駅・通路=Arrival Station: Passage
