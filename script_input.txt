@@ -2293,7 +2293,7 @@
 
 !FILE:0045_003/004.txt
 <normal>【迷い犬】|<blackbold>を手に入れた！！=<blackbold>Found <normal>“Lost Dog"
-<alphonse>西の倉庫街って|このあたりだよね……。=<alphonse>The West Warehouse District is around here...
+<alphonse>西の倉庫街って|このあたりだよね……。=<alphonse>The west warehouse district is around here...
 <edward>ソフィの話だと、この先にオベリスク|という塔があるハズなんだが……。|——ん？ どうした、アル。=<edward>According to Sophie's story, there's supposed to be a tower called an “obelisk" up ahead. ...Huh? What's up, Al?
 <alphonse>ソフィがくれた、この「聖印」……。|本当に、そんな|すごい力があるのかなぁ？=<alphonse>This Holy Seal that Sophie gave me...|Does it really hold such amazing power?
 <edward>うーん……。|確かに、特に何かが変わったって|感じはしないんだよな。=<edward>Hmmm... I certainly don't feel that anything's changed at all.
@@ -2449,7 +2449,7 @@
 <edward>……お前がそうやってる時って、|たいがい、ネコか何かを|見つけた時なんだよな……。=<edward>When you act like this, it's usually because you've found a cat or something...
 <cat>ニャ～ン……。=<cat>Meooow!
 <edward>はぁ……。ダメだぞ、アル。|分かってるだろ。|今はそれどころじゃないんだからな。=<edward>Aah... Stop it, Al. You already know that we don't have time for that.
-<alphonse>でも兄さん……。|この子、ケガしてるよ……。=<alphonse>But Brother... This little one is injured...
+<alphonse>でも兄さん……。|この子、ケガしてるよ……。=<alphonse>But Brother...|This little one is injured...
 <edward>えっ……ケガ？=<edward>Huh... Injured?
 <alphonse>かわいそうに……。|１人じゃ歩けないんだね……。|このままじゃ、きっと死んじゃうね……。=<alphonse>Poor guy... It can't walk alone...|At this rate, it will surely die.
 <edward>う……。=<edward>Uh...
@@ -2477,19 +2477,19 @@
 <woman>……あのおじいさんも、|きっと、イッパイイッパイなんだわ。=<woman>I'm sure that old man is also reaching his limit.
 <woman>——だって、さっきから|意味の分からないことばかり|喋ってるんですもの……。=<woman>Because just now he was saying some nonsensical things...
 <oldman>……ワシら普通の人間が、|あやつら、印を持つ者たちに、|勝てるハズがないんじゃ……。=<oldman>There's no way for us normal humans to defeat those manipulated by the seal.
-<oldman>……それこそ、|神の力でも使わない限りはな……。=<oldman>...That is, unless we use the power of a god.
+<oldman>……それこそ、|神の力でも使わない限りはな……。=<oldman>...That is, unless we use the power of|a god.
 
 !FILE:0070_003/004.txt
 <blackbold>アイテム<normal>【キャンディ】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Candy"
 <man>……ここにいる者たちの中で、|まともに戦うことができるのは、|きっと、私だけでしょう。=<man>Of all the people here, I'm surely the only one who can fight properly.
 <man>もしもの時は、|この命に代えても、|彼らを守らなければ……。=<man>If something were to happen, I must protect them, even at the cost of my own life.
-<boy>戦争するのは大人の勝手さ。|けど、奴らが攻めて来たのは、|俺たちの街なんだ。=<boy>Going to war is for adults. But it's our town what they're attacking.
+<boy>戦争するのは大人の勝手さ。|けど、奴らが攻めて来たのは、|俺たちの街なんだ。=<boy>Going to war is for adults. But it's our town that they're attacking.
 <boy>……この街を守るためなら、|俺だって戦うよ。=<boy>If it's to protect this city, then I'll fight too!
 <girl>——あっ！|変なヨロイの人だ！！=<girl>Ah! It's the weird armor guy!
 <mother>まぁ、あなた方は……。|いつぞやは、娘を助けてもらい、|ありがとうございます。=<mother>Oh, it's you two...|Thank you very much for saving my daughter before.
 <girl>私たち、ここに隠れてるの。|お兄ちゃんたちも、|かくれんぼしに来たんでしょ？=<girl>We're hiding here. Did you come to play hide-and-seek too?
-<girl>ねぇ、お母さん。|私かくれんぼ飽きちゃった、|早くお外に出たいよー。=<girl>Hey, mom. I'm tired of playing hide-and-seek, I want to go outside soon!
-<mother>もうちょっと、ガマンしましょうね……。|鬼さんに見つからないように……、|ここならきっと、大丈夫だからね……。=<mother>Let's have a little more patience... That way the monsters won't find us; I'm sure we'll be alright here.
+<girl>ねぇ、お母さん。|私かくれんぼ飽きちゃった、|早くお外に出たいよー。=<girl>Hey, mom.|I'm tired of playing hide-and-seek,|I want to go outside soon!
+<mother>もうちょっと、ガマンしましょうね……。|鬼さんに見つからないように……、|ここならきっと、大丈夫だからね……。=<mother>Let's have a little more patience...|That way the monsters won't find us;|I'm sure we'll be alright here.
 
 !FILE:0071_003/004.txt
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
@@ -2499,7 +2499,7 @@
 列車に乗りますか？=Get on the train?
 <blackbold>にゃんこ<normal>【とらきち】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Tiger"
 <alphonse>街がヴェルザの一族に襲われてるのに、|地下鉄が運行してるなんて……。=<alphonse>It seems the train's running, despite the attacks of Velza Clan upon the city...
-<edward>助かったぜ。|これで、線路の上を|歩いていかずにすみそーだ。=<edward>Perfect. That way we won't have to walk on the railroad tracks.
+<edward>助かったぜ。|これで、線路の上を|歩いていかずにすみそーだ。=<edward>Perfect. That way we won't have to|walk on the railroad tracks.
 <alphonse>ちょ、ちょっと待ってよ、兄さん！|こんな時に列車が動いてるなんて、|少し変だと思わない？=<alphonse>Wa...Wait a moment, Brother!|Don't you think it's a bit strange that trains are working at a time like this?
 <edward>たまたま、|仕事熱心な運転手さんでも|いたんじゃねーの？=<edward>Maybe there was a driver very enthusiastic about his job?
 <alphonse>何言ってるんだよ、もぅ……。|——やめといた方が|いいと思うけどなぁ……。=<alphonse>What are you talking about? Really...|I think it'd be better if you stopped...
@@ -2508,7 +2508,7 @@
 <edward>イベント０４１（０４０）=<edward>Event 041 (040)
 <edward>よっし、無事到着！=<edward>Alright, we arrived in one piece!
 <alphonse>無事到着じゃないでしょ……。|兄さんのせいで、よけい危ない目に|遭ったじゃないか……。=<alphonse>We didn't arrive safely!|We went through unnecessary danger because of you, Brother!
-<edward>いいじゃんか、その分、早く着いたし。|細かいこと、気にすんなよ。|——さ、行こうぜ。=<edward>It's fine, this way we arrived faster. Don't worry about the details.|Well, let's go!
+<edward>いいじゃんか、その分、早く着いたし。|細かいこと、気にすんなよ。|——さ、行こうぜ。=<edward>It's fine, this way we arrived faster.|Don't worry about the details.|Well, let's go!
 <alphonse>もう、いいかげんだなぁ……。=<alphonse>So irresponsible...
 
 !FILE:0073_002/004.txt
@@ -2518,21 +2518,21 @@
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
 <blackbold>アイテム<normal>【壊れたカメラ】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Broken Camera"
 <man>——ああ、助かったよ。|君たちが後部車両の奴らを|倒してくれたんだね……。=<man>Oh, you saved me! You two defeated those guys in the rear carriages...
-<man>私は、この街の新聞記者でね。|命を助けてもらったお礼だ、|このカメラを受けとってくれ。=<man>I'm a news reporter in this town.|Since you saved my life, you can take this camera as a gift.
-<man>壊れているが、私が、|生まれて初めて買ったカメラでね。|私にとっては一番の宝物なのさ……。=<man>It's broken, but it's the first camera I ever bought in my life.|It's my most treasured possession...
-<man>この戦争を写真に残し、|皆に伝えるのが私の使命だ。|……お互い、頑張ろう。=<man>My mission is to photograph this war and tell everyone about it.|Let's each do our best!
+<man>私は、この街の新聞記者でね。|命を助けてもらったお礼だ、|このカメラを受けとってくれ。=<man>I'm a news reporter in this town.|Since you saved my life, you can take|this camera as a gift.
+<man>壊れているが、私が、|生まれて初めて買ったカメラでね。|私にとっては一番の宝物なのさ……。=<man>It's broken, but it's the first camera I|ever bought in my life.|It's my most treasured possession...
+<man>この戦争を写真に残し、|皆に伝えるのが私の使命だ。|……お互い、頑張ろう。=<man>My mission is to photograph this war|and tell everyone about it.|Let's each do our best!
 
 !FILE:0078_003/004.txt
-<alphonse>ここを上がれば、|地上に出られるみたいだね。=<alphonse>It seems we'll reach the surface if we go up there.
+<alphonse>ここを上がれば、|地上に出られるみたいだね。=<alphonse>It seems we'll reach the surface if we|go up there.
 <edward>オベリスクは、この先か……。|行くぞ、アル。=<edward>The obelisk is up ahead...|Let's go, Al.
 
 !FILE:0079_002/004.txt
 <smalltext><blackbold>アクセサリ<normal>【豪腕の手甲】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Strong-Arm Gauntlet"
 <blackbold>アクセサリ<normal>【我輩の愛】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“My Love"
 <smalltext>錬成壁で跳ね返せ！=<smalltext>Counterattack with a transmuted rockblocker!
-<armstrong>その身一つで、|我が軍の部隊を一蹴するとは……！|まさに、恐るべき力よ……。=<armstrong>To think that he defeated our troops with just his body...!|That's surely a dreadful power...
+<armstrong>その身一つで、|我が軍の部隊を一蹴するとは……！|まさに、恐るべき力よ……。=<armstrong>To think that he defeated our troops|with just his body...!|That's surely a dreadful power...
 <godot>ウウウウゥゥ……。=<godot>Uuuuuh....
-<armstrong>だが！ 我輩にも使命がある。|ここで倒れるわけにはいかん。|——ゆくぞっ！=<armstrong>However, I have also my duty! I can't be defeated here.|Let's gooo!
+<armstrong>だが！ 我輩にも使命がある。|ここで倒れるわけにはいかん。|——ゆくぞっ！=<armstrong>However, I have also my duty!|I can't be defeated here.|Let's gooo!
 <godot><bigtext>ウガアァァッ！！=<godot><bigtext>Ugaaaaahh!!
 <armstrong><bigtext>ぬおおお——っ！！=<armstrong><bigtext>Nnnnnghhh!!
 <godot><bigtext>グワアアア——ッ！！=<godot><bigtext>GWAAAAH!!
@@ -2543,7 +2543,7 @@
 <edward>——おい！|今度は、オレたちが相手だ！！=<edward>Hey you! This time you're fighting us!
 <godot>グウウウウウゥゥ……！=<godot>GUUUUH!
 <armstrong>い、いかん、来てはならぬッ……！|早く逃げるのだ、|エドワード・エルリック……！=<armstrong>Y...You can't, don't get closer!|Get away quickly, Edward Elric!
-<edward>少佐は下がっててくれ！|——さぁ、かかってきやがれ！|このデカブツ野郎ッ！！=<edward>Step back, Major!|Come on, bring it on! You monstrous freak!
+<edward>少佐は下がっててくれ！|——さぁ、かかってきやがれ！|このデカブツ野郎ッ！！=<edward>Step back, Major!|Come on, bring it on!|You monstrous freak!
 <godot><bigtext>ゴアアアアァァッ！！=<godot><bigtext>GOAAAAAAH!!
 <armstrong>ぬおおおおおおおおおおお！！|エドワード・エルリックゥゥッッ！！=<armstrong>Hnnnngwooooo!!|Edward Elriiiic!!
 <edward>ギャアアアアアアアアァァッ！！=<edward>Gaaaahh!!
@@ -2555,15 +2555,15 @@
 <armstrong>——うむ。|ならば、さっそく|取りかかるが良かろう。=<armstrong>Humm... In that case, you should set about it at once.
 <alphonse>ふぅ。２つ目の封印完了、っと。=<alphonse>Pheew! That takes care of the second seal.
 <alphonse>これで、残りはあと１つ。|最後のオベリスクは、|どこにあるんだろう……。=<alphonse>With this, there's only one left.|I wonder where the last obelisk could be?
-<alphonse>——って、兄さん、|いつまで寝てるんだよ！=<alphonse>Hey, Brother! How long are you gonna sleep!?
-<armstrong>これと同じ巨大な塔なら、|街の東にある、軍司令部にあるぞ。=<armstrong>If you're looking for a giant tower like this, there's one at the East of the city, in the military headquarters.
+<alphonse>——って、兄さん、|いつまで寝てるんだよ！=<alphonse>Hey, Brother!|How long are you gonna sleep!?
+<armstrong>これと同じ巨大な塔なら、|街の東にある、軍司令部にあるぞ。=<armstrong>If you're looking for a giant tower like this, there's one at the east of the city, in the military headquarters.
 <edward>え！？ 本当に！？=<edward>Huh? Really!?
 <alphonse>——あ。|生き返った。=<alphonse>Ah... You're alive again.
 <armstrong>うむ。敵の進攻と同時に、|ヴァルドラ軍司令部に、|突如として出現したのだ。=<armstrong>Hmm. It appeared suddenly at the Valdolla headquarters, at the same time as the enemy advanced.
-<edward>最後のオベリスクは、司令部か……。|よし、行こう、アル。=<edward>So the last obelisk is at the headquarters...|Okay, let's go, Al.
+<edward>最後のオベリスクは、司令部か……。|よし、行こう、アル。=<edward>So the last obelisk is at the military headquarters...|Okay, let's go, Al.#"military" to fit the awkward gap that headquarters leaves by not fitting in the first line
 <armstrong>む。待つのだ、２人とも。|今、司令部は敵に包囲されておる。|とても、中に入ることはできんぞ。=<armstrong>Humm. Wait, you two. Right now, the headquarters are surrounded by enemies. You can't go inside at all.
 <armstrong>我輩は、援軍を連れてくるため、|敵の包囲を抜け、やっとのことで|司令部を脱出してきたのだ。=<armstrong>I had to slip by their siege to bring reinforcements, and then at last managed to escape from there.
-<edward>その援軍が到着するまで、|司令部に行くなってんじゃねーだろうな。|そんな、ノンビリしてらんねーんだ。=<edward>We can't wait for those reinforcements to arrive before going to headquarters. We're running short on time.
+<edward>その援軍が到着するまで、|司令部に行くなってんじゃねーだろうな。|そんな、ノンビリしてらんねーんだ。=<edward>We can't wait for those reinforcements to arrive before going to headquarters.|We're running short on time.
 <armstrong>むうぅ……。=<armstrong>Huummm...
 <armstrong>——ならば、我輩が脱出する時に使った|下水道から司令部に潜入するが良い。|そのルートなら、まだ安全だろう。=<armstrong>In that case, you should infiltrate through the sewers I used to escape.|That route should still be safe.
 <edward>下水道から、|司令部の中に入れるんだな？|わかった、サンキュー、少佐。=<edward>Enter headquarters through the sewers?|Understood. Thank you, Major.
@@ -2572,20 +2572,20 @@
 !FILE:0080_003/004.txt
 <edward>——ここが、|ウィンリィの言ってた|地下鉄の駅だな……。=<edward>This must be the subway station Winry was talking about...
 <alphonse>——兄さん！|こんな所まで、ヴェルザの一族が！=<alphonse>Brother!|Velza Clan is here too!
-<edward>ちっ……。|楽に行かせちゃくれねーらしいな！！=<edward>Tssk...|It seems they won't let us do this the easy way!!
+<edward>ちっ……。|楽に行かせちゃくれねーらしいな！！=<edward>Tssk...|It seems they won't let us do this the|easy way!!
 
 
 !FILE:0081_003/004.txt
 <bigtext><blackbold> スキル錬成「吸引マシン」=<bigtext><blackbold> Skill transmutation “Vacuum"
 <8006><white>（アル操作時に）|<8006><L2a><L2b>押しながら<square>　＝<yellow>「吸引マシン」錬成=<8006><white>(While controlling Al)|<8006>Press <square> while holding <L2a><L2b>: <yellow>Transmute a Vacuum
 アルは、周囲にいる敵を吸い寄せる|<orange>吸引マシン<white>を錬成できます。=Al can transmute a <orange>suction machine <white>that attracts the surrounding enemies.
-<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>:「Transmute a Vacuum (while controlling Al)
+<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>: Transmute a Vacuum (while controlling Al)
 
 !FILE:0083_002/004.txt
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
 <smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies
 <edward>——なっ！？|コイツら！|こんな所にまで……！=<edward>What!? Those guys are even here!
-<alphonse>ほら、やっぱり……。|こんなことだと思ったんだよ。=<alphonse>See? I knew it... It's just as I thought.
+<alphonse>ほら、やっぱり……。|こんなことだと思ったんだよ。=<alphonse>See? I knew it...|It's just as I thought.
 <edward>あー、うるせぇなー……。|——こんなヤツら、オベリスクに|着くまでの、いいヒマつぶしだぜ！=<edward>Ahh, shut up! These guys will be a great way to kill time till we reach the obelisk!
 
 !FILE:0084_003/004.txt
@@ -2605,10 +2605,10 @@
 <alphonse>司令部は、この街でいちばん、|守りが堅い場所の|はずなのに……。=<alphonse>Even when headquarters are supposed to be the most secure place in this town...
 <edward>ヤツらには「印の力」があるからな。|ただの軍人じゃ、|太刀打ちできないだろう。=<edward>That's because they have the power of the seal. Normal soldiers don't stand a chance against that.
 <edward>オベリスクは、この先みたいだな。|行こう、アル。=<edward>It seems the obelisk is this way.|Let's go, Al.
-<soldier>——うう、気をつけろ……、|奴らの力……普通じゃない……！=<soldier>Uuhh... Be careful... The power of those guys... it's not normal!
+<soldier>——うう、気をつけろ……、|奴らの力……普通じゃない……！=<soldier>Uuhh... Be careful...|The power of those guys...|It's not normal!
 <soldier>…………………………。=<soldier>...........................
-<soldier>……話しかけんなよ、|死んだフリがバレちまうだろ……。=<soldier>Don't talk to me... They'll find out I'm playing dead...
-<soldier>……俺だって、コワイんだよ……！！=<soldier>Even I am scared!!
+<soldier>……話しかけんなよ、|死んだフリがバレちまうだろ……。=<soldier>Don't talk to me...|They'll find out I'm playing dead...
+<soldier>……俺だって、コワイんだよ……！！=<soldier>This even has me scared!!
 
 !FILE:0090_003/004.txt
 はい=Yes
@@ -2618,16 +2618,16 @@
 <smalltext><blackbold>アクセサリ<normal>【鬼のパンツ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Demon Briefs"
 <edward>——おい！|大丈夫か！？=<edward>Hey! Are you alright?
 <soldier>あ、ああ……。|足を少し、やられただけだ。|それより君たちは……？=<soldier>Ah, yeah... I just hurt my leg a little.|By the way, who are you?
-<alphonse>ボクたち、オベリスク——、|外にある、大きな塔の所へ|行きたいんです。=<alphonse>We want to reach the obelisk... that big tower outside.
+<alphonse>ボクたち、オベリスク——、|外にある、大きな塔の所へ|行きたいんです。=<alphonse>We want to reach the obelisk...|That big tower outside.
 <soldier>司令部に突然出現した、あの塔か……。|そこから外に出ればすぐだが、|今はドアがロックされていて通れんぞ。=<soldier>That tower that suddenly appeared? You can get out quickly from here, but the door is locked and there's no way through.
 <edward>うーん……。|オレたち、急いでるんだ。|なんとか、ならねーのかな？=<edward>Hmmm... We're in a hurry, isn't there anything we can do?
 <soldier>コントロールルームが|敵にやられてしまって、|ロックを解除できんのだ。=<soldier>The control room is taken by the enemy, so you can't release the lock.
 <soldier>予備のスイッチなら、|最上階の司令室の隣に|あるはずだが……。=<soldier>But there should be a spare switch next to the command room at the top floor.
-<edward>最上階？ 一番上まで|行かなきゃなんねーのかよ……。|——しかたない。行こうぜ、アル。=<edward>The top floor? We have to go all the way up there?|Guess it can't be helped... Let's go, Al.
+<edward>最上階？ 一番上まで|行かなきゃなんねーのかよ……。|——しかたない。行こうぜ、アル。=<edward>The top floor? We have to go all the way up there? Guess it can't be helped...|Let's go, Al.
 <alphonse>兄さん、ドアが開いてる。|クレイギン将軍、忘れずにロックを|解除してくれたみたいだね。=<alphonse>The door is open, Brother.|It seems that General Craigin didn't forget to release the lock.
 <edward>よし、これでやっと|オベリスクの所へ行けるな。=<edward>Great, now we can finally get to the obelisk.
 <alphonse>——え？ なに、今の音？=<alphonse>Huh? What was that noise right now?
-<edward>爆発音？ 外からだな。|——急ぐぞ、アル！=<edward>An explosion?|It came from outside. Hurry up, Al!
+<edward>爆発音？ 外からだな。|——急ぐぞ、アル！=<edward>An explosion? It came from outside.|Hurry up, Al!
 <soldier>最上階にあるスイッチを操作すれば、|ドアのロックを|解除することができる……。=<soldier>You can unlock the door using the switch at the top floor.
 <soldier>ロック解除のスイッチは、|司令室の隣の部屋にあるはずだ。|いいか、くれぐれも無茶はするなよ……。=<soldier>The switch to open the door should be next to the command room.|But please, don't do anything reckless...
 <soldier>お前たち、うまくやったな。|だが、この先に行きたいのなら、|今は止めた方がいい……。=<soldier>You did fine.|But if you plan to go further, you'd better stop now.
@@ -2651,9 +2651,9 @@
 <soldier>……お前ら、よく無事だったな。|あの銃弾の雨の中を|どうやって抜けてきたんだ……？=<soldier>It's good you two are safe.|How did you escape from that rain of bullets?
 <soldier>あの装置は本来、侵入者にだけ|作動する仕組みで、軍人には|無反応のハズなんだが……。=<soldier>That device was only supposed to activate against intruders, and not react towards soldiers...
 <soldier>——チキショウ！|しっかり誤作動してるじゃねーかッ！！=<soldier>Damn! It's clearly malfunctioning!
-<soldier>……ここまで来たんだ、|君たちがタダ者じゃないってのは分かる。=<soldier>It's obvious you're no ordinary persons, if you've come this far.
-<soldier>——だが、油断するなよ。|奴らは殺す気でやってくる。|万全の注意を払うんだぞ……。=<soldier>But don't let your guard down.|Those guys are here to kill you. So take all kinds of precautions.
-<soldier>司令室ならこの先だ、将軍を頼む……！！=<soldier>The command room is up ahead. I entrust the General to you!
+<soldier>……ここまで来たんだ、|君たちがタダ者じゃないってのは分かる。=<soldier>It's obvious you're no ordinary people,|if you've come this far.
+<soldier>——だが、油断するなよ。|奴らは殺す気でやってくる。|万全の注意を払うんだぞ……。=<soldier>But don't let your guard down.|Those guys are here to kill you.|So take all kinds of precautions.
+<soldier>司令室ならこの先だ、将軍を頼む……！！=<soldier>The command room is up ahead.|I entrust the General to you!
 
 !FILE:0098_003/004.txt
 <blackbold>アイテム<normal>【野戦レーション】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Field Ration"
@@ -2669,31 +2669,31 @@
 <mysteriousman>——動くな！=<mysteriousman>Don't move!
 <edward>なっ……！？=<edward>What!?
 <mysteriousman>お前たちも、奴らの仲間か。|私の命を狙って、|こんな所まで侵入してくるとはな……。=<mysteriousman>You must be with those bastards too.|You've overrun this place to kill me, right?
-<edward>ちょ、ちょっと待ってくれ！|オレたちは敵じゃない！|——そうだ、これを見てくれよ！=<edward>Wa...Wait a minute, please! We're not the enemy!|Here, take a look at this!
+<edward>ちょ、ちょっと待ってくれ！|オレたちは敵じゃない！|——そうだ、これを見てくれよ！=<edward>Wa...Wait a minute, please!|We're not the enemy!|Here, take a look at this!
 <mysteriousman>その銀時計は、国家錬金術師の……？=<mysteriousman>Is that the silver watch of a State Alchemist?
-<mysteriousman>——そうか。史上最年少で|国家資格を取ったという|「鋼の錬金術師」とは、君のことか……。=<mysteriousman>I see. You must be that “Fullmetal Alchemist", the youngest person in history to get State Certification.
+<mysteriousman>——そうか。史上最年少で|国家資格を取ったという|「鋼の錬金術師」とは、君のことか……。=<mysteriousman>I see. You must be that “Fullmetal Alchemist", the youngest person in history to get state certification.
 <edward>——え？|オレのこと、知ってるんですか？=<edward>Huh?|You've heard about me?
 <craigin>うむ。いきなり銃を向けて悪かったな。|——私は、このヴァルドラ軍司令部を預かる|ロメオ・クレイギンだ。=<craigin>Yes. Sorry for holding you at gunpoint so suddenly. I'm Romeo Craigin, in charge of the Valdolla military headquarters.
 <edward>あ、えっと、|オレは、エドワード・エルリック。|こっちは弟のアルフォンスです。=<edward>Ah, well, I'm Edward Elric.|This is my younger brother, Alphonse.
 <craigin>うむ。|——しかし、君たちは、|どうして、こんな所にいるのかね？=<craigin>I see.|Anyway, what are you doing in this place?
 <craigin>知ってのとおり、今この司令部は、|敵の襲撃を受け、大変なことに|なっておるのだが……。=<craigin>As you know, these headquarters are under enemy attack right now, and things are getting pretty ugly.
 <alphonse>あの、ボクたち、ちょっとわけがあって、|外のオベリスク——いや、大きな塔の所に|行かなきゃならないんです。=<alphonse>Well, we have a reason. That obelisk outside... I mean, that big tower.|We must get there.
-<alphonse>だけど、外に出るドアはロックされてて……|それを解除するために、|ここまで来たんですけど……。=<alphonse>However, the outside door is locked. So we came here to open it.
+<alphonse>だけど、外に出るドアはロックされてて……|それを解除するために、|ここまで来たんですけど……。=<alphonse>However, the outside door is locked.|So we came here to open it.
 <craigin>ふむ。あの塔の所へ……。|——君たち、奴らについて、|何か秘密を知っているのかね？=<craigin>I see. So you're going to that tower...|You know some secret about the enemy, right?
 <edward>え？ いや、まぁ……。=<edward>Huh? No, well...
 <edward>——な、なんだっ！？=<edward>Wh...What was that!?
 <craigin>くっ……また奴か……！|よし、こうなったら——。=<craigin>Damn... That guy again!?|Fine, since we've come to this...
 <craigin>エドワード君、君に頼みがある。|ぜひ、私に力を貸してくれ。=<craigin>Edward, I have a favor to ask of you.|I need you to lend me your strength.
 <craigin>今、この司令部の屋上に、|私の命を狙っている敵がいる。=<craigin>There's an enemy on the headquarters roof right now, who's trying to kill me.
-<craigin>私の部下たちを、|一瞬にして倒してしまった、|恐ろしいバケモノだ。=<craigin>A terrible monster who defeated my men in the blink of an eye.
+<craigin>私の部下たちを、|一瞬にして倒してしまった、|恐ろしいバケモノだ。=<craigin>A terrible monster who defeated my men|in the blink of an eye.
 <alphonse>恐ろしい、バケモノ……。=<alphonse>A terrible monster...
 <craigin>うむ。そいつを倒すため、|秘密兵器の出撃準備を進めているのだが、|まだ、もう少し時間がかかる。=<craigin>Yes. We're making preparations for a secret weapon to defeat it, but we need a little more time.
 <craigin>準備が整うまで、|敵を食い止めて、|時間を稼いでくれないだろうか。=<craigin>Could you hold it back, to buy us some time until we're ready?
 <edward>バケモノ、か……。|きっと、また印の力を持ったヤツ|なんだろうな……。=<edward>A monster?|It must be another one with the power of the seal...
 <edward>わかりました。|そいつのことは、|オレたちに、まかせてください。=<edward>Understood.|Just leave it to us.
 <craigin>おお、では頼んだぞ！|ドアのロックは、私が解除して、|外に出られるようにしておこう。=<craigin>Oh, I'm counting on you!|I'll unlock the door so you can get outside.
-<roy>君たちは、もう面識があるようだが——|こちらがクレイギン中将、|となりがローズマリア中佐だ。=<roy>It seems that you already know each other. This is Lieutenant General Craigin, and next to him is Lieutenant Colonel Rosemaria.
-<craigin>君たちのおかげで、|敵を撃退することができた。|礼を言う。=<craigin>Thanks to you, we were able to defeat the enemy.|You have my gratitude.
+<roy>君たちは、もう面識があるようだが——|こちらがクレイギン中将、|となりがローズマリア中佐だ。=<roy>It seems you're already acquainted. This is Lieutenant General Craigin, and next to him is Lieutenant Colonel Rosemaria.
+<craigin>君たちのおかげで、|敵を撃退することができた。|礼を言う。=<craigin>Thanks to you, we were able to defeat|the enemy.|You have my gratitude.
 <venus>また会ったわね、ボウヤ。|——へーぇ、近くで見るとなかなか……。|惜しいわねぇ……。=<venus>We meet again, boy...|Huh!? Looking at you up close, you're rather... disappointing.
 <edward>え？ えっ？=<edward>Eh? Eeeh?
 <venus>あと１０年、早く生まれてくれば、|アタシのぺットとして、|一生可愛がってあげたんだけどねぇ……。=<venus>If you were ten years older, I'd take you as my pet and love you my entire life.
@@ -2728,12 +2728,12 @@
 <craigin>君の話をすべて信じたわけではないが、|奴ら四神官と対等に戦えるのは、|君たちだけのようだ。=<craigin>I don't believe everything of your story. But it seems you're the only ones who can fight against the Four Priests on equal footing.
 <craigin>我が軍が敵を突破し、道を確保する。|その間に、君たちは城に乗りこみ、|四神官と戦ってほしい。=<craigin>Our troops will break through enemy lines and clear the way. Meanwhile, you're to go to the castle and fight the Four Priests.
 <roy>お待ちください、中将！|彼らに、そのような危険な任務を——。=<roy>A moment please, Lieutenant General!|Giving them such a dangerous mission...
-<craigin>倒せ、とは言わん。ただ、君たちが|四神官をひきつけてくれれば、|戦局は、我が方に有利になるのだが……。=<craigin>I'm not saying they have to defeat them. If they could lure the Four Priests away, the war would turn in our favor.
+<craigin>倒せ、とは言わん。ただ、君たちが|四神官をひきつけてくれれば、|戦局は、我が方に有利になるのだが……。=<craigin>I'm not saying they have to defeat them.|If they could lure the Four Priests away, the war would turn in our favor.
 <edward>——分かりました。やります。|どうせオレたちも、|その城に用があるし……。=<edward>Understood. We'll do it.|We have business in that castle, anyway.
 <roy>——鋼の！？=<roy>Fullmetal!?
-<craigin>うむ。よろしく頼む。|君たちの活躍、期待しておるぞ。=<craigin>Alright. Thanks for your cooperation. I'm looking forward to it.
+<craigin>うむ。よろしく頼む。|君たちの活躍、期待しておるぞ。=<craigin>Alright. Thanks for your cooperation.|I'm looking forward to it.
 <roy>——鋼の。|さっきの話だが、|お前自身は、信じているのかね？=<roy>Fullmetal... About the story you told us... Do you really believe it yourself?
-<alphonse>大佐も……、|やっぱり、信じられませんよね……。=<alphonse>So you too, Colonel... Sure enough, it's hard to believe.
+<alphonse>大佐も……、|やっぱり、信じられませんよね……。=<alphonse>So you too, Colonel...|Sure enough, it's hard to believe.
 <roy>正直、私も半信半疑だ。|だが……この目でお前たちの力を見た以上、|全面的に否定もできん。=<roy>To be honest, I'm also skeptical. But, after seeing your powers with my own eyes, I can't completely deny it anymore.
 <edward>……オレだって、|最初は信じてなかったよ。=<edward>I couldn't believe it at first, either.
 <edward>けど……今はもう、信じてる。|——アイツの言ったことだからな。=<edward>But now I do... It's just as she told us.
@@ -2763,8 +2763,8 @@
 いいえ=No
 エレベーターで下におりますか？=Go down in the elevator?
 <smalltext><blackbold>アクセサリ<normal>【ハートぺンダント】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Heart Pendant"
-<edward>——ん？|敵はどうしたんだ？|それらしいヤツは、どこにも——。=<edward>Huh? What happened with that enemy? I can't see anybody like it anywhere...
-<janice>ヤッホ～～～☆|どーこ、見てんのぉ？|こっち、こっち♪=<janice>Yooohooo...!☆ |Where are you looking? This way, this way! ♪
+<edward>——ん？|敵はどうしたんだ？|それらしいヤツは、どこにも——。=<edward>Huh? What happened with that enemy?|I can't see anybody like it anywhere...
+<janice>ヤッホ～～～☆|どーこ、見てんのぉ？|こっち、こっち♪=<janice>Yooohooo...! ☆|Where are you looking?|This way, this way! ♪
 <edward>な……！|そ、空に……！？=<edward>Wha...!? She's in... the sky!?
 <alphonse>まさか、君が……、|恐ろしいバケモノ……？=<alphonse>No way! You're the terrible monster?
 <janice>エ————ッ！？|バケモノって、ジャニスのコトぉ！？|ガビーン！ 大ショックぅ～～！=<janice>Eeeeeh!? Janice, a monster!?|Geez, no! What a shock!
@@ -2778,8 +2778,8 @@
 <janice>アンタのコトに決まってんじゃん。|バッカじゃないの？|チビは、脳ミソもちっこいのかな～？=<janice>You, of course. Are you stupid or what?|Does the little bean also have a microscopic brain?
 <edward>テ、テメェ……！|それ以上、チビとか言いやがったら、|女だって容赦しねぇぞ……！=<edward>Y...YOU...!|If you keep calling me a bean, I won't have mercy upon you, even if you're a woman!
 <janice>あれ？ チビが怒ってる。|アハッ！ おもしろーい！|もーっと言っちゃお♪ せーのっ——。=<janice>What? The bean's angry. Haha! How funny!|I'll say it again. ♪ Here we goooo:
-<janice>チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビ……！=<janice>Bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean!
-<edward>だああああああぁぁッ！！|くぉの野郎！！ もう許さねぇ！！|ぶっとばしてやるっっ！！=<edward>AAAAAAARRGGHH!!|You bastard, I won't forgive this! I'm gonna kick your ass!!
+<janice>チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビ……！=<janice>Bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean-bean-bean-bean!
+<edward>だああああああぁぁッ！！|くぉの野郎！！ もう許さねぇ！！|ぶっとばしてやるっっ！！=<edward>AAAAAAARRGGHH!!|You bastard, I won't forgive this!|I'm gonna kick your ass!!
 <janice>ほーら、いくわよぉ。|お・チ・ビ・ちゃん♪|キャハハハハハハハハハ！！=<janice>Look, here we go.|B-E-A-N ♪ |Heeeheeeheeee!!
 <edward>へっ、人をさんざん|バカにしやがって。|思い知ったか！=<edward>Heh! You've made fun of people so much... Now you know how it feels!
 <janice>……ンの野郎……。=<janice>Those bastards...
@@ -2798,7 +2798,7 @@
 <janice>あぁ……？|なんだぁ、テメーらは……？|ウゼェんだよ……！=<janice>Aah? Who are these idiots?|Get outta my way!
 <venus>ハン、なかなか元気のいい、|ガキじゃないか！=<venus>Ha, aren't you quite the lively brat?
 <venus>この「ヴァルドラの赤い薔薇」、|ヴィーナス・ローズマリアの前で、|そんなクチをきけるとはね……！=<venus>Such foul language isn't allowed in front of Venus Rosemaria, the “Red Rose of Valdolla"!
-<janice>ゴチャゴチャうるせえなッ！！|テメェになんざ用はねぇッ！！|すっこんでろ、ババア！！=<janice>Blah, blah, shut your trap! I don't need anything from the likes of you, so beat it, hag!!
+<janice>ゴチャゴチャうるせえなッ！！|テメェになんざ用はねぇッ！！|すっこんでろ、ババア！！=<janice>Blah, blah, shut your trap!|I don't need anything from the likes of you, so beat it, hag!!
 <venus><bigtext>バッ……！？=<venus><bigtext>Hag!?
 <venus>フフ……フフフフ……。|ちょいと、元気が|過ぎるみたいだね……。=<venus>Haha... Hahahaha!|Maybe you're a bit too lively...
 <venus>いきがるんじゃないよ、クソガキがッ！|怒らせる相手を、まちがえたね！|生きて帰れると思うんじゃないよッ！=<venus>Don't act so smart, stupid brat! You've chosen the wrong person to anger!|So don't think you'll get out of here alive!
@@ -2808,7 +2808,7 @@
 <trigger>カニメカじゃないっ！|超スーパーウルトラスぺシャルキャンサー|１号だと、何度言ったら分かるんだっ！！=<trigger>It's not a crab mecha! It's the Hyper Super Ultra Special Cancer No. 1! How many times do I have to tell you!?
 <hammer>んな長い名前、|覚えられるわけねーよ。|略して、カニメカでいいだろーが。=<hammer>There's no way I can remember such a long name. Just shorten it to “crab mecha".
 <trigger>ダメだダメだダメだーっ！！|ちゃんと、超スーパーウルトラミラクル最強|グレートゴージャススぺ——アウッ！？=<trigger>No no no noooo!!|It's like this: Hyper Super Ultra Miracle Strongest Great Gorgeous Spe.... Ouch!
-<hammer>——あん？|舌を噛んだんか？|だから、言わんこっちゃない。=<hammer>Hah? Did you bite your tongue? See, I told you so.
+<hammer>——あん？|舌を噛んだんか？|だから、言わんこっちゃない。=<hammer>Hah? Did you bite your tongue?|See, I told you so.
 <venus>いつまでバカやってんだい！|名前なんて、どうでもいいんだよ！|さっさといくよっ！！=<venus>How long are you going to act like idiots?|The name doesn't matter! Let's get this over with!
 <janice>ケッ！ フザケやがって！|そんなトロそうなオモチャで、|何ができるってんだよ！！=<janice>Tsk! You must be joking. What can you do with that tuna-fish toy!?
 <venus>フフフ……。|さぁ……オシオキの時間だよ。=<venus>Heh heh... Well, time for punishment.
@@ -2817,8 +2817,8 @@
 <edward>す……すげぇ……。=<edward>A...Amazing...
 <venus>そこの２人！|なにボサっと突っ立ってんだよ！=<venus>You two! What are you doing, staring there into space!?
 <edward>——え？ オ、オレたちかよ？=<edward>Eh? You mean us?
-<venus>クレイギン将軍から聞いてるよ。|ここは我々にまかせて、おまえたちは、|そのエレベーターで下に行きな！=<venus>General Craigin told me about you. Leave this to us, and take that elevator downstairs.
-<venus>今なら、１階のロックは解除されてる！|外に出られるはずだ！=<venus>The lock in the first floor is gone now! You should be able to go outside!
+<venus>クレイギン将軍から聞いてるよ。|ここは我々にまかせて、おまえたちは、|そのエレベーターで下に行きな！=<venus>General Craigin told me about you.|Leave this to us, and take that|elevator downstairs.
+<venus>今なら、１階のロックは解除されてる！|外に出られるはずだ！=<venus>The lock in the first floor is gone now!|You should be able to go outside!
 <alphonse>——兄さん！=<alphonse>Brother!
 <edward>わかった！|ここはアンタらにまかせた！|——行くぞ、アル！=<edward>Alright! I'll leave this to you!|Let's go, Al!
 
@@ -2829,7 +2829,7 @@
 <smalltext>  【「大剣」コンボの例】|  ・<square>→<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>=|<smalltext>Combo examples with Large Sword|  ・<square>→<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>
 <smalltext><blackbold>アクセサリ<normal>【焔の手袋】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory<normal> “Flame Gloves"
 <roy>鋼の……お前……。=<roy>Fullmetal... You...
-<edward>大佐、ここは任せてくれ。|アイツの相手はオレたちがやる。=<edward>Leave this to us, Colonel. We'll deal with that guy.
+<edward>大佐、ここは任せてくれ。|アイツの相手はオレたちがやる。=<edward>Leave this to us, Colonel.|We'll deal with that guy.
 <roy>フム……お前に借りを作るのは|愉快ではないが、どうしてもと言うのなら、|ここはお前に預けてもいいぞ……。=<roy>Hmm... I don't enjoy owing you anything, but since you insist, I'll let you handle it.
 <edward>——へっ、んなボロボロ姿で|何カッコつけてんだ。|素直に、ありがとうって言っとけよ。=<edward>Heh! Stop trying to look cool in that battered state. Just be honest and say thank you.
 <roy>——気をつけろ、鋼の。|お前にも何か秘密があるようだが……|あの男の力、普通じゃない……。=<roy>Be careful, Fullmetal. You seem to hold some secret... but that man's power isn't ordinary.
@@ -2842,7 +2842,7 @@
 <edward>アル、気をつけろよ……。|コイツ、今までの相手とは、|レベルが違う……。=<edward>Watch out, Al... He's in a different league than those we've fought so far.
 <alphonse>うん、分かってる……。=<alphonse>Yeah, I know...
 <zelgius>俺は、四神官の長、煉獄のゼルギウス。|すべてを焼きつくす我が炎、|その身をもって味わうがいい！！=<zelgius>I am Zelgius of Purgatory, the leader of the Four Priests. You can taste the flames that reduce everything to ash!
-<zelgius>クックック……なるほど。|なかなかやるな。|それが聖印の力というわけか。=<zelgius>Ho ho ho... I see now.|That wasn't half bad. So that's the power of the Holy Seal...
+<zelgius>クックック……なるほど。|なかなかやるな。|それが聖印の力というわけか。=<zelgius>Ho ho ho... I see now. That wasn't half bad.|So that's the power of the Holy Seal...
 <edward>くそッ……。|コイツ、まだ余裕を|持ってやがる……。=<edward>Damn! This guy still has the nerve to be so calm...
 <zelgius>フッ……お前たち、|オベリスクを封印するために|ここまで来たのだろう？=<zelgius>Hmph! You came all the way here to seal the obelisk, right?
 <zelgius>だが……。|クックック……、|一歩遅かったな。=<zelgius>However...|Ho ho ho! You were a step too late.
@@ -2859,7 +2859,7 @@
 <alphonse>兄さん……。=<alphonse>Brother...
 <edward>結局、間に合わなかったって|言うのかよ……！|ソフィに、なんて言やいいんだ……。=<edward>You're telling me that we were too late after all!?|What am I gonna say to Sophie now...?
 <alphonse>……そうだ、兄さん。|オベリスクは、どうしよう……？=<alphonse>It's okay, Brother.|What should we do about the obelisk?
-<edward>あ、ああ——。|そうだな、いまさらかもしれないけど、|とにかく封印しておこう。=<edward>Ah, yeah... I know it may be too late already, but let's seal it anyway.
+<edward>あ、ああ——。|そうだな、いまさらかもしれないけど、|とにかく封印しておこう。=<edward>Ah, yeah... I know it may be too late now,|but let's seal it anyway.
 <roy>鋼の……。=<roy>Fullmetal...
 <alphonse>大佐、大丈夫ですか？=<alphonse>Are you alright, Colonel?
 <roy>私のことなら心配ない。|それより、何が起こっているのか、|説明してもらいたい。=<roy>No need to worry about me. Rather, I'd like you to explain what's going on.
@@ -2871,7 +2871,7 @@
 アルは、自分の足元から石柱を錬成し、|高くジャンプすることができます。=Al can transmute a Stone Pillar under his feet, allowing him to jump higher.
 <smalltext><white><L2a><L2b>押しながら<cross>＝石柱ジャンプ[アル操作時]=<smalltext><white>Press <cross> while holding <L2a><L2b>:|Stone Pillar Jump (while controlling Al)
 <smalltext>ソフィを守りながら進もう！=<smalltext>Move forward while protecting Sophie!
-<alphonse>無事に、城に入りこめたね。|ここまでは、|敵と戦わずに済んだし。=<alphonse>Me managed to get into the castle safely. So far, we didn't have to fight any enemies.
+<alphonse>無事に、城に入りこめたね。|ここまでは、|敵と戦わずに済んだし。=<alphonse>We managed to get into the castle safely. So far, we didn't have to fight any enemies.
 <edward>軍が、総攻撃をかけているからな。|ヤツらも、オレたちどころじゃ|なかったんだろう。=<edward>The army is launching a general offensive. So they probably had no time to deal with us.
 <sophie>でも、ヴェルザの一族は、|城の中にも大勢いるわ。=<sophie>But there are many members of Velza Clan inside the castle.
 <edward>よし、行くぞ。|ソフィ。オレたちから|離れるんじゃないぞ。=<edward>Well, let's go.|Sophie, don't get separated from us.
@@ -2888,7 +2888,7 @@
 <godot>ゴアアアアアァァ———————ッ！！=<godot>GROAAAAAAHH!!
 
 !FILE:0117_002/004.txt
-<edward>１人で、先へ進む|ワケにはいかねーな……。|アルとソフィを連れてこないと……。=<edward>I can't go ahead alone... I must bring Al and Sophie with me.
+<edward>１人で、先へ進む|ワケにはいかねーな……。|アルとソフィを連れてこないと……。=<edward>I can't go ahead alone...|I must bring Al and Sophie with me.
 
 !FILE:0118_002/004.txt
 <alphonse>兄さんたちを|おいてはいけないよ！=<alphonse>I can't leave my brother behind!
@@ -2901,7 +2901,7 @@
 <smalltext><blackbold>アイテム<normal>【謎の古文書】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Mystery Document"
 <edward>この部屋は……？=<edward>What is this room?
 <alphonse>なんか意味ありげな場所だけど……。|見たことのない錬成陣が|描いてあるし……。=<alphonse>This place seems to have some kind of significance... There's a transmutation circle I've never seen drawn on it.
-<sophie>ヴェルザに関係があると|思うんだけど、私にも分からないわ。=<sophie>It may be related to Velza. But I'm not sure.
+<sophie>ヴェルザに関係があると|思うんだけど、私にも分からないわ。=<sophie>It may be related to Velza.|But I'm not sure.
 <sophie>父が生きていたら、|なにか分かったはずなのに……。=<sophie>If my father were alive, he may have known something...
 <sophie>——ッ！？=<sophie>Huh!?
 <???>——許さない……許さない……！=<???>I won't forgive... I won't forgive!
@@ -2914,10 +2914,10 @@
 <gilbert>……………………。=<gilbert>....................
 <gilbert>……あれがもたらすのは、ただ、|すべての破壊と殺戮のみだ。|我々の手に負える存在ではない……。=<gilbert>The only thing that resurrection would bring is complete destruction and a massacre. It's beyond our control.
 <zelgius>すべての破壊。結構ではないか。|今の世界を滅ぼさん限り、|我らに安住の地はないのだ。=<zelgius>Complete destruction... And isn't that great? Unless we destroy the current world, we'll have no place to live in peace.
-<zelgius>このままでは、一族は滅ぶ。|神の復活に|賭けるより他に道はない。=<zelgius>Otherwise our Clan will perish. We have no choice but to bet on the resurrection of the goddess.
-<gilbert>道はある……。|あの子が、我らの希望だ……。|あの子の力があれば——。=<gilbert>There's another way. That child is our hope...|If only we had her powers...
+<zelgius>このままでは、一族は滅ぶ。|神の復活に|賭けるより他に道はない。=<zelgius>Otherwise our Clan will perish.|We have no choice but to bet on the resurrection of the goddess.
+<gilbert>道はある……。|あの子が、我らの希望だ……。|あの子の力があれば——。=<gilbert>There's another way.|That child is our hope...|If only we had her powers...
 <zelgius>フン、世迷い言を……。|これで、最後だ。=<zelgius>Hmph, nonsense!|This is the end of it.
-<zelgius>今のお前は無力だ。|『器』さえ渡せば、このまま立ち去ろう。|『器』はどこだ？=<zelgius>You're powerless now. But if you hand over this “vessel", at least I'll let you go away.|Where is the “vessel"?
+<zelgius>今のお前は無力だ。|『器』さえ渡せば、このまま立ち去ろう。|『器』はどこだ？=<zelgius>You're powerless now. But if you hand over this “vessel", I'll at least let you leave.|Where is the “vessel"?
 <gilbert>——あの子は、渡さない……。=<gilbert>I won't hand over that child.
 <zelgius>……そうか。残念だな……。=<zelgius>I see... That's a pity.
 <zelgius>…………………。=<zelgius>.........................
@@ -2932,14 +2932,14 @@
 <zelgius>ああ、そうだな……。=<zelgius>Yeah, so it seems...
 <janice>ジャニスはね、アイツらみたいな|犬死にはしないよ。ちゃんと、|ゼルギウスの役に立って死ぬから。=<janice>But Janice won't die in vain like those guys. I'll die being useful to you, Zelgius.
 <zelgius>………………。=<zelgius>...............................
-<janice>だから、ね……ゼルギウス……。|ジャニスが死んでも……忘れないでね。=<janice>So you see, Zelgius... Even if Janice dies... don't forget her.
+<janice>だから、ね……ゼルギウス……。|ジャニスが死んでも……忘れないでね。=<janice>So you see, Zelgius...|Even if Janice dies... don't forget her.
 <zelgius>心配するな、ジャニス。|神の復活は目の前だ。|そうすれば、我らは救われる。=<zelgius>Don't worry, Janice. The resurrection of the goddess is imminent. And then we'll be safe.
 <janice>ゼルギウス……。=<janice>Zelgius...
 <zelgius>フッ……どちらが正しかったのか、|見届けるがよい。|ギルベルトよ……。=<zelgius>Hmph... We'll see in the end who was right, Gilbert...
 
 !FILE:0122_002/004.txt
 <edward>——なんだ、これは？|光が道を塞いでやがる……。=<edward>What's this? That light is blocking our way.
-<alphonse>目的地は、|この先みたいだけど……|どうやって進めばいいんだろう？=<alphonse>It seems our destination is up ahead... But how do we get there?
+<alphonse>目的地は、|この先みたいだけど……|どうやって進めばいいんだろう？=<alphonse>It seems our destination is up ahead...|But how do we get there?
 <sophie>どこかに、光の発生源が|あるんじゃないかしら。|探しに行きましょう。=<sophie>The source of the light must be somewhere. Let's go find it.
 <alphonse>光が消えて、|先に進めるようになったね！|もうすぐ目的地だよ。=<alphonse>The light has disappeared and we can go ahead! We're almost there.
 <edward>ああ。だけど気をつけろ。|ヤツらが、そう簡単にオレたちを|行かせてくれるとは思えねぇ。=<edward>Yeah, but be careful. I don't think they'll let us go so easily.
@@ -2955,7 +2955,7 @@
 <edward>お前は！=<edward>You!
 <leonid>よく、ここまで来たわね。歓迎するわ。|おかげで、アナタたちを、|この手で殺すことができる……。=<leonid>It's great that you came this far. Welcome. Thanks to that, I can kill you with my own hands.
 <leonid>——それにしても、|３人とも見逃すなんて、ゴドーのバカ、|どこを見てたのかしら？=<leonid>However, I wonder where that idiot Godo was looking, to let you three pass by.
-<sophie>……あの大きな人なら、死んだわ。|力を使いすぎて、印に|命を削り取られたのよ。=<sophie>If you mean that giant, he's dead.|He used too much power, and the seal took his life away.
+<sophie>……あの大きな人なら、死んだわ。|力を使いすぎて、印に|命を削り取られたのよ。=<sophie>If you mean that giant, he's dead.|He used too much power, and the seal|took his life away.
 <leonid>なんですって……！？ ゴドーが！？=<leonid>What are you talking about!? Godo!?
 <leonid>……そう。あの子、先に|逝ってしまったのね……。=<leonid>I see... So that kid has kicked the bucket...
 <sophie>お願い、もうやめて。|印の力を使いすぎると、|あなたも、あの人のように——。=<sophie>Please, you must stop now! If you use the power of the seal too much, you'll end up just like him.
@@ -2974,7 +2974,7 @@
 <sophie>ダメ！|それ以上、印の力を|使っちゃいけない！=<sophie>Stop! Don't use the power of the seal any further!
 <leonid>うるさいッ……！|このアタシのプライドを傷つけた罪、|死んでつぐなってもらうわッ……！！=<leonid>Shut up! You'll atone with your death for the sin of wounding my pride!
 <sophie>ダ、ダメよ！|早く！ 早く力を止めて！！=<sophie>St...Stop now! Quickly! You must stop the power at once!
-<leonid>フン、いまさら命乞い……？|もう遅い……ウッ……クッ……！|ウアァッ……！？=<leonid>Hmph! Begging for my life now? It's far too late...|Uuh... Uugh! Aaaaaah!!
+<leonid>フン、いまさら命乞い……？|もう遅い……ウッ……クッ……！|ウアァッ……！？=<leonid>Hmph! Begging for my life now?|It's far too late...|Uuh... Uugh! Aaaaaah!!
 <leonid>クッ……アタシの……力が……！|これが……限界だと言うの……！？|ウッ……ウアアアァァッ！！=<leonid>Damn... My... power... Is this its limit!?|Uuh.... UAAAAAAHHH!!
 <sophie>くっ！ こうなったら——！=<sophie>No! If this goes on...
 <alphonse>あっ！？ ソフィ、何を！？=<alphonse>Ah!? What are you doing, Sophie!?
@@ -2984,7 +2984,7 @@
 <sophie>あなたの印を、消したわ。=<sophie>I removed your seal.
 <leonid>なんですって……！？=<leonid>You did what!?
 <leonid>ま、まさか……！？|こんなことが……！=<leonid>No... no way! But such a thing...!
-<sophie>あなたの印は、暴走を始めていた。|止めるには、こうするしか|方法がなかったの。=<sophie>Your seal was starting to go out of control. There was no other way to stop it.
+<sophie>あなたの印は、暴走を始めていた。|止めるには、こうするしか|方法がなかったの。=<sophie>Your seal was starting to go out of control. There was no other way to|stop it.
 <sophie>実際にやってみたのは|初めてだから……|うまくいって良かった……。=<sophie>Actually, it's the first time that I tried such a thing... So I'm glad it worked.
 <leonid>……印は、力の代償に命を削る……。|これがある限り、アタシたちは|長くは生きられない。=<leonid>The seal takes away life force in exchange for its power. As long as it's there, we can't live for long.
 <leonid>過去、何百年にもわたって、多くの者が|印を消す方法を見つけようとした。|だけど、それは見つからなかった。=<leonid>For hundreds of years, many have tried to find a way to remove it. But nobody could.
@@ -3001,7 +3001,7 @@
 <leonid>アタシを殺したければ、殺せばいい。|今のアタシなら、|簡単にやれるはずよ。=<leonid>If you want to kill me, then kill me. It should be easy, in the state I'm in right now.
 <edward>……行こう、ソフィ。|グズグズしてると|間に合わなくなる。=<edward>Let's go, Sophie. If we linger, we won't make it in time.
 <sophie>う、うん……。=<sophie>Ye...Yeah...
-<leonid>——ゼルギウスとギルベルト……。|いったい、どちらが|正しいのかしらね……。=<leonid>Zelgius and Gilbert... I wonder which of them is right...
+<leonid>——ゼルギウスとギルベルト……。|いったい、どちらが|正しいのかしらね……。=<leonid>Zelgius and Gilbert...|I wonder which of them is right...
 <leonid>ヴェルザを復活させなくても、|アタシたちの生きる道が、|もし本当にあるとしたら……。=<leonid>If there's really a life for us without resurrecting Velza...
 <???>いまさら、|そんなことを言われては困るな。=<???>Too late now to bother about things like that.
 <leonid>ア、アンタは！？=<leonid>Wh...Who are you!?
@@ -3048,7 +3048,7 @@
 <janice>りょうかぁ～ぃ♪=<janice>Ooookay! ♪
 <zelgius>もう少しだ……。|もう少しで我らが神、|ヴェルザは蘇る……。=<zelgius>Just a little longer...|Just a little longer until our goddess Velza is resurrected...
 <edward>あれは……！=<edward>That's...!
-<alphonse>あの赤い石……。|もしかして、あれが……？=<alphonse>That red stone... Could it be...?
+<alphonse>あの赤い石……。|もしかして、あれが……？=<alphonse>That red stone...|Could it be...?
 <sophie>ええ。私も見るのは初めてだけど、|あの石の中に、|ヴェルザの魂が眠っているはず。=<sophie>Yes. It's the first time I've seen it, but Velza's soul should be sleeping inside that stone.
 <sophie>よかった……！|まだ、ヴェルザは復活してない。=<sophie>Thank goodness! It seems that Velza hasn't revived yet.
 <sophie>今のうちに、もう一度、|封印しなおしてしまえば、間にあうわ。=<sophie>If we seal it again now, we might still have time.
@@ -3063,12 +3063,12 @@
 <sophie>エド！！=<sophie>Ed!!
 <venus>そこの２人も動くな！|——このボウヤが、|どうなっても知らないよ。=<venus>You two, don't move!|Or I don't know what'll happen to this boy.
 <alphonse>くっ……くそっ……！=<alphonse>Da... Damn!
-<???>ご苦労、ローズマリア中佐。|——そして、君たちも、|よくやってくれたな。=<???>Good work, Lt. Colonel Rosemaria. And you guys, well done too.
+<???>ご苦労、ローズマリア中佐。|——そして、君たちも、|よくやってくれたな。=<???>Good work, Lt. Colonel Rosemaria.|And you guys, well done too.
 <edward>ク、クレイギン将軍！|こいつは、なんのマネだっ！！=<edward>Ge...General Craigin!|What the hell are you doing!?
 <craigin>フフ……。君たちが奴らのリーダーを|倒してくれたおかげで、無事にここまで|来ることができた。礼を言うぞ。=<craigin>Ho ho... Since you defeated the leaders of those guys, I could come here unhindered. Thank you.
 <craigin>なにしろ奴らは、普通の人間では|とても太刀打ちできん|バケモノだからな。=<craigin>As you know, they're monsters that normal humans can't fight against.
 <craigin>フフフ……！ やっとだ。|これでやっと「神の力」を|手に入れることができる……！=<craigin>Ho ho ho! At last. Now I can finally lay my hands on the power of a god!
-<edward>テメェ、何をする気なんだ！？|神なんか、信じていないんじゃ|なかったのかよ！！=<edward>Bastard, what are you planning to do!? I thought you didn't believe in gods!
+<edward>テメェ、何をする気なんだ！？|神なんか、信じていないんじゃ|なかったのかよ！！=<edward>Bastard, what are you planning to do!?|I thought you didn't believe in gods!
 <craigin>フフ。私は、奴らが「神」と呼ぶ|存在のことなら、たぶん君より詳しく|知っているよ。=<craigin>Ho ho! I probably know more details than you about that being they call “goddess".
 <edward>なにっ！？=<edward>What!?
 <craigin>私は、それを手に入れるため、|長い間、チャンスを|うかがってきたのだからな。=<craigin>I've been waiting for a long time for a chance to grab this.
@@ -3088,11 +3088,11 @@
 <sophie>アル！？=<sophie>Al!?
 <alphonse>ソフィは逃げて！|ここはボクが食い止める！=<alphonse>Run away, Sophie! I'll hold them back here!
 <sophie>で、でも……！ そんな……！=<sophie>Bu...But... That's...
-<edward>行け、ソフィ！ お前が捕まったら、|何もかもおしまいなんだ！|今は、逃げることだけ考えろ！=<edward>Go, Sophie! If you get captured, we're finished!|Just think about escaping now!
+<edward>行け、ソフィ！ お前が捕まったら、|何もかもおしまいなんだ！|今は、逃げることだけ考えろ！=<edward>Go, Sophie!|If you get captured, we're finished!|Just think about escaping now!
 <sophie>エド……！=<sophie>Ed...!
 <edward>いいから走れ！|行けぇ————————ッ！！=<edward>Just run!|Go awaaaay!!
 <sophie>——２人とも！ 無事でいてねっ！！=<sophie>You two! Stay out of trouble!
-<craigin>待て！ あの小娘を逃がすな！|早く捕まえろっ！！=<craigin>Wait! Don't let that girl get away! Grab her, quickly!!
+<craigin>待て！ あの小娘を逃がすな！|早く捕まえろっ！！=<craigin>Wait! Don't let that girl get away!|Grab her, quickly!!
 <craigin>——クッ、まだか……！？=<craigin>Damn! Still nothing!?
 <craigin>まだ「神」は|目覚めぬというのか……！？=<craigin>Hasn't the “goddess" awakened yet!?
 <officer>ク、クレイギン将軍！|部隊より報告が——！=<officer>Ge...General Craigin! A report from the troops!
@@ -3114,7 +3114,7 @@
 <godot>グウウゥゥ……。|ウウウゥゥ……。=<godot>Guuuuhhh.... Uuuuhhhhh.....
 <edward>決着はついた。|オレたちの勝ちだ。|これ以上は、もうやめとけ。=<edward>It's over; we win. So don't keep fighting.
 <godot>ウウウウウゥゥ…………！=<godot>Uuuuuhhh!
-<edward>おい、何をする気だ？|それ以上、無理をしたら、|お前も——。=<edward>Hey, what are you trying to do!?|If you keep pushing yourself, you're going to...
+<edward>おい、何をする気だ？|それ以上、無理をしたら、|お前も——。=<edward>Hey, what are you trying to do!?|If you keep pushing yourself, you're|going to...
 <godot>ウガアアアァァ———————ッ！！！=<godot>UGAAAAAHHH!!
 <edward>な、なにっ！？|まだ、そんな力が——！？=<edward>Wh-What!? He still has such power!?
 <sophie>待って！！ ダメよっ！！=<sophie>Wait!! You gotta stop!!
@@ -3129,7 +3129,7 @@
 <godot>ウアアアアァァァァ—————ッ！！！=<godot>UAAAAAAHHH!!!
 <sophie>ああ……そんな……！=<sophie>Aaah! That's...!
 <edward>き、消えちまった……。|いったい、どうなってんだ……。=<edward>He... He vanished!|What the hell's going on?
-<sophie>——印に、命を|燃やしつくされてしまったのよ……。|これが、彼らの背負う、印の呪い……。=<sophie>His life was burned away by the seal. This is the curse of those that carry it.
+<sophie>——印に、命を|燃やしつくされてしまったのよ……。|これが、彼らの背負う、印の呪い……。=<sophie>His life was burned away by the seal.|This is the curse of those that carry it.
 <alphonse>呪い……？=<alphonse>A curse?
 <sophie>ええ。ヴェルザの一族の印は、|代々受け継がれる、生まれつきのもの。|そして、それは、決して消えない……。=<sophie>Yes. The seal of Velza Clan is carried from birth, passed down through generations. Therefore, there's no way to remove it.
 <sophie>確かに彼らは、印によって|超人的な力を得ている。でも、それは、|自らの命を代償にして得る力……。=<sophie>They may have gained superhuman powers thanks to the seal. But it's a power that comes at the cost of their own lives.
@@ -3146,32 +3146,32 @@
 <edward>いや……待て、アル。|オレたちの命が削られないんなら、|聖印の力は、どこから来てるんだ？=<edward>No... wait, Al. If it's not using up our lives, where does the Holy Seal draw its power from?
 <alphonse>えっ？=<alphonse>Huh?
 <edward>ヴェルザの一族の印が|命を代償にしているなら、聖印も、|何かの代償を必要としているはずだ。=<edward>If the Clan's seals cost one's life, then the Holy Seal must also have some kind of cost.
-<edward>——なぁ、ソフィ。|この聖印……お前の命を|代償にしてるんじゃないのか？=<edward>Tell us, Sophie. This Holy Seal... it's taking away your life, isn't it?
+<edward>——なぁ、ソフィ。|この聖印……お前の命を|代償にしてるんじゃないのか？=<edward>Tell us, Sophie. This Holy Seal...|It's taking away your life, isn't it?
 <sophie>……………………。=<sophie>........................
 <alphonse>そ、そんな……！？=<alphonse>Wh-What!?
 <edward>思い出してみろよ、アル。|ソフィと最初に出会った時のこと、|ノルンのケガを治した時のこと……。=<edward>Remember, Al. When we first met Sophie and she cured Norn's injuries...
 <edward>聖印の力を使った直後に、|ソフィは異常に体力を|消耗していたよな。=<edward>Right after using the power of the Holy Seal, she lost an abnormal amount of energy.
 <edward>けど、オレたちが聖印の力を使っても、|身体に負担はない。つまり、それは、|ソフィの命を使っているからじゃ——。=<edward>However, when we use its power it doesn't drain our bodies. That's because it's using Sophie's life instead.
-<alphonse>ソフィ！ どうなんだよ！？|本当に、兄さんの|言ってるとおりなの！？=<alphonse>What's going on, Sophie!? Is it really as my brother says!?
-<sophie>……ええ、そうよ。|２人に渡した聖印の力は、|私の命を代償にしているわ……。=<sophie>Yes, that's right. The power of the Holy Seal I gave you, is at the cost of my own life.
+<alphonse>ソフィ！ どうなんだよ！？|本当に、兄さんの|言ってるとおりなの！？=<alphonse>What's going on, Sophie!?|Is it really as my brother says!?
+<sophie>……ええ、そうよ。|２人に渡した聖印の力は、|私の命を代償にしているわ……。=<sophie>Yes, that's right.|The power of the Holy Seal I gave you, is at the cost of my own life.
 <alphonse>じゃ、じゃあ、|ボクたちが力を使いすぎたら、|ソフィも、さっきの人みたいに……！=<alphonse>Bu... But then, if we use this power too much, you'll suffer the same fate as this guy, Sophie!
-<sophie>大丈夫よ。|よっぽど凄く力を使わない限りは、|そんなことには、ならないわ。=<sophie>It's alright. Unless you use an enormous amount of power, that won't happen to me.
+<sophie>大丈夫よ。|よっぽど凄く力を使わない限りは、|そんなことには、ならないわ。=<sophie>It's alright.|Unless you use an enormous amount of power, that won't happen to me.
 <alphonse>大丈夫、じゃないよ！|命の危険があるのに、どうして|ボクたちに聖印を渡したりしたんだ！=<alphonse>It's NOT alright! Why did you give us this seal if there was such a danger to your life!?
 <sophie>あなたたちなら、やってくれるって——|命を預ける価値があるって、|そう思ったからよ……。=<sophie>Because I thought you could do it, and that it was worth entrusting you with my life...
-<edward>——だとしても……|どうして最初に|説明してくれなかったんだ。=<edward>Even if that's the case, why didn't you tell us in the first place?
+<edward>——だとしても……|どうして最初に|説明してくれなかったんだ。=<edward>Even if that's true, why didn't you tell us in the first place?
 <sophie>言えば、素直に聖印を受け取ってくれた？|あなたたちに、|余計な心配をかけるだけじゃない。=<sophie>Would you have accepted the Holy Seal if I had told you? I didn't want to cause you unnecessary worries.
 <alphonse>もういいよ、ソフィ！|早く、聖印を消して！|こんなもの、いらないよ！！=<alphonse>That's enough, Sophie! Remove this seal right now! We don't need it!
 <sophie>そんなこと言わないで、アル……。|それがないと、|ヴェルザの一族とは戦えないのよ。=<sophie>Don't say that, Al. You can't fight against Velza Clan without it.
 <alphonse>こんなもの無くても、戦ってやるさ！|ソフィの命を削るくらいなら、自分の命を|危険にさらす方が、よっぽどマシだよ！=<alphonse>I'll fight even without this! I'd much rather risk my own life than yours!
 <sophie>アル……。=<sophie>Al...
-<sophie>……分かった。|そこまで言うなら、聖印は消すわ。=<sophie>I understand... Since you insist, I'll remove the Holy Seal.
+<sophie>……分かった。|そこまで言うなら、聖印は消すわ。=<sophie>I understand...|Since you insist, I'll remove the Holy Seal.
 <sophie>今まで、本当にありがとう。|聖印を消したら、|すぐにここから逃げてね。=<sophie>Thank you so much for everything thus far. Now, as soon as I remove it, you must escape from here, quickly.
 <alphonse>え……？=<alphonse>Eh...?
-<sophie>聖印がない普通の人を、|この先の戦いには巻き込めない。|ここからは、私１人で行くわ。=<sophie>I can't involve normal persons without a seal in the upcoming battle. From this point onward, I'll proceed alone.
+<sophie>聖印がない普通の人を、|この先の戦いには巻き込めない。|ここからは、私１人で行くわ。=<sophie>I can't involve normal people without a seal in the upcoming battle.|From this point onward, I'll proceed alone.
 <alphonse>ちょっと待ってよ！|なんで、そんなふうになるんだよ！=<alphonse>Wait a moment! Why does it have to be like that!?
 <edward>オレたちに……選ばせる気か、ソフィ。=<edward>Are you going to make us... choose, Sophie?
 <sophie>そんなつもりはないわ。|私は２人のことを信じた。|だから、聖印を渡してもいいと思ったの。=<sophie>That's not my intention. I believed in both of you. So I thought it would be a good idea to give you the Holy Seal.
-<sophie>私に力を貸してほしい。|でも——どうしても聖印を使えないと|言うのなら、私は１人で戦うわ。=<sophie>I wanted you to lend me your power. But if you refuse to use the seal, then I'll fight alone.
+<sophie>私に力を貸してほしい。|でも——どうしても聖印を使えないと|言うのなら、私は１人で戦うわ。=<sophie>I wanted you to lend me your power.|But if you refuse to use the seal, then I'll fight alone.
 <alphonse>ソフィ……。=<alphonse>Sophie...
 <edward>勝手な……ことをっ……。=<edward>That's so... selfish of you...
 <sophie>……ごめんね……エド……アル……。=<sophie>I'm sorry... Ed, Al...
@@ -3183,7 +3183,7 @@
 <alphonse>そ、それは分かるけど……でも……。=<alphonse>I... I understand that, but...
 <edward>なら、ここでソフィを見捨てるのか？|ソフィは前に進もうとしているのに、|オレたちが足踏みしてどうする。=<edward>Then would you abandon her in this place? She's trying to move forward, so what's the point of stalling her?
 <alphonse>う、うん……そう、だよね……。=<alphonse>Ye-Yeah... I see...
-<alphonse>——分かったよ、兄さん。|ボクも、ソフィと一緒に行くよ。=<alphonse>Understood, Brother. I'll go with Sophie too.
+<alphonse>——分かったよ、兄さん。|ボクも、ソフィと一緒に行くよ。=<alphonse>Understood, Brother.|I'll go with Sophie too.
 <sophie>エド……！ アル……！=<sophie>Ed! Al!
 <edward>ソフィ。オレたちは、|お前を、絶対に死なせたりはしない。=<edward>Sophie, we won't let you die, that's for sure.
 <edward>この聖印が、お前の命を|削るというのなら……|その前に、すべてを終わらせてやる……！=<edward>If the Holy Seal is about to take your life, I'll end everything before that happens!
@@ -3200,12 +3200,12 @@
 <blackbold>アクセサリ<normal>【破れふんどし】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Torn Loincloth"
 <blackbold>にゃんこ<normal>【あさんどら】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Assandra"
 <smalltext>敵に見つからないよう進みましょう=<smalltext>Go ahead without being discovered by enemies
-<edward>……チクショウ……。|腕さえ自由になりゃ、|錬金術が使えるってのに……。=<edward>Damn! If at least I had my arms free, I could use alchemy...
+<edward>……チクショウ……。|腕さえ自由になりゃ、|錬金術が使えるってのに……。=<edward>Damn! If I had my arms free, at least, I could use alchemy...
 <edward>アル……ソフィ……|無事でいてくれ……。=<edward>Al... Sophie...|Please be safe...
 <edward>——ん？=<edward>Huh?
 <hammer>おう、ボーズ、調子はどうだよ？=<hammer>Hey boy, how're you doing?
 <edward>……アンタは、たしか|ローズマリア中佐の——。=<edward>If I'm not mistaken, you're one of Lt. Colonel Rosemaria's men...
-<hammer>ボリス・ハンマーだ。|へへ、覚えててくれたのかァ、|嬉しいぞォ。=<hammer>Boris Hammer. Heh heh! I'm glad you remember me.
+<hammer>ボリス・ハンマーだ。|へへ、覚えててくれたのかァ、|嬉しいぞォ。=<hammer>Boris Hammer. Heh heh!|I'm glad you remember me.
 <edward>……フン。|あの女の部下が、オレに何の用だ。=<edward>Hmm... And what does the henchman of that woman want from me?
 <hammer>そう怒るなよォ。オラたちだって、|好きでやってんじゃねーんだ。|将軍の命令だから、しょーがねぇだろ？=<hammer>Don't get so angry. We're not doing this because we like it. It's the General's orders, so what can we do?
 <edward>………ケッ。=<edward>Hmph!
@@ -3228,7 +3228,7 @@
 <hammer>じゃあな、ボーズ。|オラは行くけど、|おとなしくいい子でいろよ。=<hammer>Well, boy, I'm going now, but stay there and be a good boy.
 <hammer>クサリがなくなったからって、|妙なこと考えんじゃねーぞォ。=<hammer>Don't think anything funny just because your chains are gone.
 <edward>……アイツ、いいヤツだな……。=<edward>He's a nice guy...
-<edward>さて、行くか。|まずは、アルを捜さねーと……。=<edward>Well, let's go! First of all, I gotta search for Al...
+<edward>さて、行くか。|まずは、アルを捜さねーと……。=<edward>Well, let's go! First of all, I gotta search|for Al...
 <edward>アルを見つけるまでは、|騒ぎを起こしたらマズいな。|しばらくは、慎重にいくか……。=<edward>I shouldn't raise any ruckus until I find Al. I'll be careful for the time being.
 <guard>待て！|見つけたぞ、脱走者め！！=<guard>Wait! I found you, fugitive!!
 <edward>しまった、見つかった！|うわあああぁ———っ！？=<edward>Oh no, they found me!|Aaaaah!!
@@ -3279,11 +3279,11 @@
 <alphonse>ウ、ウルトラ超科学……？|最強のマッスィ～ン……？？=<alphonse>U-Ultra super science?|The strongest machine!?
 <trigger>すべてを破壊するロケットパンチ！|あらゆる物質を貫くアームドリル！|どんな攻撃も跳ね返すメタルボディ！=<trigger>A rocket punch that destroys everything!|An arm drill that pierces every material!|A metal body that repels any attack!
 <trigger>スンバラスィィィ！！|このボクが、キミを|無敵のメカに改造してみせよう！！=<trigger>Wonderful!!|I'll transform you into an invincible mecha!!
-<alphonse>か……改造だって！？|イ、イヤだよ、そんなのッ！！=<alphonse>Tra-Transform!? N...No, I don't want that!!
+<alphonse>か……改造だって！？|イ、イヤだよ、そんなのッ！！=<alphonse>Tra-Transform!?|N...No, I don't want that!!
 <trigger>ククク……抵抗してもムダだよ。|その装置から発生する磁力が、鋼鉄の|キミを捕えて、ハ・ナ・サ・ナ・イ♪=<trigger>Heh! It's no use struggling. The magnetic force generated by this device holds your steel body. You-can't-es-cape! ♪
 <alphonse>イヤだ——ッ！！|兄さん！ 兄さん！！|兄さああああああぁぁん！！！=<alphonse>Nooo!!|Brother! Brother!!|Brotheeeeeeer!!!
 <trigger>なぁに、恐れることはない。|力を手にすれば、|キミの考えも変わるハズだ。=<trigger>Don't be afraid. Once you get the power, you surely will change your mind.
-<trigger>嗚呼、愛しのヴィーナス様……。|不肖このトリガー、貴女様のために|最強の兵器を造りあげてみせますぞ……！=<trigger>Oooh, my beloved Lady Venus...! The unworthy Trigger will create the strongest weapon for your lofty self!
+<trigger>嗚呼、愛しのヴィーナス様……。|不肖このトリガー、貴女様のために|最強の兵器を造りあげてみせますぞ……！=<trigger>Oooh, my beloved Lady Venus...!|The unworthy Trigger will create the strongest weapon for your lofty self!
 <alphonse>——！|兄さん！=<alphonse>............! Brother!
 <edward>アル！ 無事か！？=<edward>Al! Are you hurt!?
 <edward>——って、|そんなトコで何してんだ？=<edward>Wha... What are you doing in that thing?
@@ -4088,7 +4088,7 @@
 <sophie>いつでもいいわよ、|準備は出来てるわ。|これが、最後の戦いね……。=<sophie>I'm ready whenever you are.|This is the final battle.
 <sophie>……無事で良かった……。|私、２人に何かあったら、|どうしようかと……。=<sophie>I'm so glad you're safe... I don't know what I'd do if something happened to you two.
 <sophie>まだ、間に合うわ！ 今なら、ヴェルザの|復活を止めることができる……。|——急ぎましょう！=<sophie>We still have time! If we do it now, we can stop Velza's resurrection.|Let's hurry!
-<sophie>２人は強いね……。|それに比べて私は……、|私にも、力があれば……。=<sophie>You two are so strong... In comparison, I'm...|If I had that power...
+<sophie>２人は強いね……。|それに比べて私は……、|私にも、力があれば……。=<sophie>You two are so strong...|In comparison, I'm...|If I had that power...
 <sophie>命に代えても、|神の復活を止めてみせる……。|見ててね、父さん……。=<sophie>I'll stop the resurrection of the goddess, even at the price of my life.|Watch me, Dad...
 <sophie>あなたたちを信じるわ。|辛い戦いになると思うけど……。|——よろしくお願いします。=<sophie>I believe in you guys. Though I think it's going to be a tough battle.|Thank you very much.
 <sophie>——おめでとう！！|ニャンコに、ワンコに、パンダ……。|すべてのアイテムが揃ったよ！！=<sophie>Congratulations!! The kittens, the puppy, the panda...|You collected them all!!
@@ -4191,17 +4191,17 @@
 <winry>ソフィが喜びそうなプレゼントとか。|ネコの時、あんなに|嬉しそうだったじゃない。=<winry>What about some present she'd like? She seemed so happy with that cat...
 <edward>プレゼントか……。|ソフィにあげられそうな物なんて、|何かあったかなぁ……。=<edward>A present?|I wonder if there's something we could give her...
 <winry>おかえり、エド、アル。|その顏だと、オベリスクの封印は|うまくいったみたいね。=<winry>Welcome back, Ed, Al.|From the looks of it, it seems you successfully sealed the obelisk.
-<alphonse>うん、バッチリだよ。|ウィンリィの教えてくれた地下鉄で|ちゃんと行けたしね。=<alphonse>Yeah, it worked just fine. We got there quickly using the subway you told us about, Winry.
+<alphonse>うん、バッチリだよ。|ウィンリィの教えてくれた地下鉄で|ちゃんと行けたしね。=<alphonse>Yeah, it worked just fine.|We got there quickly using the subway you told us about, Winry.
 <edward>だけど、ヒドイ目にあったぜー。|列車の中は敵だらけだし、|暑苦しい筋肉に捕まるし……。=<edward>But we got into trouble.|The train was full of enemies, and I was trapped between sweaty muscles.
 <sophie>…………………………。=<sophie>...............................
 <alphonse>列車の件は、|兄さんが悪いんじゃないか。|——って、どうしたの、ソフィ？=<alphonse>Well, the issue with the train was your fault, Brother.|..........Huh, what's the matter, Sophie?
 <sophie>え……。=<sophie>Eh....
-<edward>さっきから黙って、オレたちを|ジロジロ見てるけど、|……何かあったのか？=<edward>You've been silent and staring at us for a while now...|Is something wrong?
+<edward>さっきから黙って、オレたちを|ジロジロ見てるけど、|……何かあったのか？=<edward>You've been silent and staring at us|for a while now...|Is something wrong?
 <sophie>あ、ううん、ごめん。なんでもないわ。|——ただ、さっきウィンリィから|２人のことを聞いたから……。=<sophie>Ah, well, sorry. It's nothing. Just that, a while ago, Winry told me about you two...
 <edward>オレたちのこと？=<edward>About us?
 <sophie>うん。２人の旅の目的……|２人がどうして、賢者の石を探す|旅を続けているのか……。=<sophie>Yes. About the purpose of your journey...|And the reason you keep searching for the Philosopher's Stone.
 <winry>…………。=<winry>...........................
-<sophie>エドとアルを最初に見た時、|何か力強いものを感じたの。|そのわけが、分かったような気がするわ。=<sophie>When I first met you, I sensed something powerful about you. I think I understand why now.
+<sophie>エドとアルを最初に見た時、|何か力強いものを感じたの。|そのわけが、分かったような気がするわ。=<sophie>When we first met, I sensed something powerful about you. I think I understand why now.
 <edward>そうか……。=<edward>I see...
 <sophie>エドもアルも、|きっと、元の身体に戻れると思う。|賢者の石、早く見つかるといいね……。=<sophie>I'm sure you'll be able to get back your original bodies. And I hope you find the Philosopher's Stone soon.
 <alphonse>ソフィ……。ありがとう。=<alphonse>Sophie... Thank you.
@@ -4213,7 +4213,7 @@
 <edward>すまない、ソフィ……。|オレたちの力が、|足りなかったみたいだ……。=<edward>I'm sorry, Sophie...|It seems we weren't strong enough...
 <winry>エド……。=<winry>Ed...
 <edward>——オレたち、今から、|この街の中心にある|城に行ってくる。=<edward>We're going now to the castle at the center of this city.
-<alphonse>そのリーダーみたいな人、|「復活を止めたければ城へ来い」って|言ってたんだ。罠かもしれないけど……。=<alphonse>The leader told us to go to the castle, if we wanted to stop the resurrection.|It may be a trap though.
+<alphonse>そのリーダーみたいな人、|「復活を止めたければ城へ来い」って|言ってたんだ。罠かもしれないけど……。=<alphonse>The leader told us to go to the castle,|if we wanted to stop the resurrection.|It may be a trap, though.
 <sophie>——待って！ 私も行くわ！=<sophie>Wait! I'm going too!
 <alphonse>え！？ ソフィ！？=<alphonse>Eeeh? Sophie!?
 <sophie>エネルギーが集まったとしても、|実際にヴェルザが復活するまでは、|少し時間がかかるはず……。=<sophie>Even if they've gathered the energy, the actual resurrection of Velza should still take a little time.
@@ -5410,8 +5410,8 @@
 <sophie>え……？=<sophie>Huh?
 <winry>成功して、自分たちも生き残る。|そうじゃないと意味がないって、|あいつらは、そう考えるはずだから……。=<winry>They'll succeed while surviving themselves. They'd think there's no point otherwise.
 <sophie>……………。=<sophie>.........................
-<edward>よっし、いよいよだな。|最後のオベリスクを封印してくるぜ。=<edward>Alright, it's finally time. Let's go and seal that last obelisk.
-<alphonse>少佐が言ってたよね。|オベリスクは、街の東にある、|軍司令部にある、って。=<alphonse>The Major said it was east of the city, at the military headquarters.
+<edward>よっし、いよいよだな。|最後のオベリスクを封印してくるぜ。=<edward>Alright, it's finally time.|Let's go and seal that last obelisk.
+<alphonse>少佐が言ってたよね。|オベリスクは、街の東にある、|軍司令部にある、って。=<alphonse>The Major said it was east of the city,|at the military headquarters.
 <edward>ああ。|教えてもらった下水道から、|司令部に潜入するぞ。=<edward>Yeah. We'll sneak into there through the sewers he told us about.
 <sophie>……………………。=<sophie>.............................
 <edward>ん？ どうしたんだ、ソフィ？=<edward>Huh? What's the matter, Sophie?
@@ -5419,13 +5419,13 @@
 <edward>ああ。|オレたちなら心配するな。|行こうぜ、アル。=<edward>Yeah, don't worry about us.|Let's go, Al.
 <alphonse>うん。|もう少しでカタがつくから、|待っててね、ソフィ。=<alphonse>Okay. We're almost done, so wait for us, Sophie.
 <sophie>——エドとアルは、どうして、|あんなに頑張れるんだろう。|戦うことは、怖くないのかな……。=<sophie>I wonder why Ed and Al are trying so hard. Aren't they scared of fighting?
-<winry>そりゃ、あいつらだって怖いと思うわよ。|でも、あいつらには|大事な目的があるから——。=<winry>I'm sure they're scared too. But they have an important goal.
+<winry>そりゃ、あいつらだって怖いと思うわよ。|でも、あいつらには|大事な目的があるから——。=<winry>I'm sure they're scared too.|But they have an important goal.
 <winry>それを成し遂げるまでは、|何があっても|前に進むしかないよね。=<winry>And until they accomplish it, they won't stop moving forward, no matter what.
 <winry>ソフィだって、ヴェルザの復活を|防ぐため、頑張ってきたんでしょ？|あいつらと同じじゃないの……？=<winry>Sophie, you've been doing your best to stop Velza's resurrection, right?|So aren't you just like them?
 <sophie>——私……私は……。|お父さんの望みを|かなえなきゃならないだけだから……。=<sophie>But I... I just need to fulfill my father's wishes.
 <winry>ソフィ……。=<winry>Sophie...
 <edward>——よし。|じゃあ行くぞ。|準備はいいか、２人とも。=<edward>Well, let's go then. Are you both ready?
-<sophie>——ノルン。|ちょっと、お出かけしてくるから、|いい子で、お留守番しててね。=<sophie>Norn, I have to go out now. So be good and stay at home.
+<sophie>——ノルン。|ちょっと、お出かけしてくるから、|いい子で、お留守番しててね。=<sophie>Norn, I have to go out now.|So be good and stay at home.
 <norn>ニャ～ン。=<norn>Meow!
 <winry>ノルンの世話は、|私がちゃんとしておくから……。|気をつけてね。=<winry>I'll watch over Norn.|You all be careful.
 <sophie>うん。|お願い、ウィンリィ。|じゃあ、行ってくるね。=<sophie>Yeah. Thank you, Winry.|Well, I'll be off then.
@@ -5507,7 +5507,7 @@
 <sophie>ヴェルザは実在している……。=<sophie>Velza really exists...
 <sophie>そして、ヴェルザの一族は、|ヴェルザを目覚めさせて、|世界を滅ぼそうとしているの。=<sophie>And the Velza Clan plans to awaken her and bring ruin to the world.
 <sophie>封印を解き、ヴェルザを蘇らせるには、|たくさんのイケニエ——、|人の命のエネルギーが必要になる。=<sophie>To break the seal and resurrect Velza, they need many sacrifices...|The energy of human lives.
-<sophie>だから彼らは、|「オベリスク」という大きな塔を造り、|それを集めようとしているわ。=<sophie>So they're building those big towers, those obelisks, to collect this energy.
+<sophie>だから彼らは、|「オベリスク」という大きな塔を造り、|それを集めようとしているわ。=<sophie>So they're building those big towers,|those obelisks, to collect this energy.
 <alphonse>……どう思う、兄さん？=<alphonse>What do you think, Brother?
 <edward>——どうもこうも、|いきなりこんな話聞かされて、|信じろって方が無茶だろ。=<edward>No matter how you look at it, hearing such a story wouldn't be enough to convince anyone.
 <sophie>……そうね。|信じられないのも無理ないわ。=<sophie>That's true. I'm not surprised that you don't believe it.
