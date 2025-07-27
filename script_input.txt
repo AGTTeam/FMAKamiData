@@ -3015,7 +3015,7 @@
 <hammer>——ヴィーナス様。=<hammer>Lady Venus...
 <venus>……ん？|なんだい、ハンマー。=<venus>Eh? What's the matter, Hammer?
 <hammer>……どうしたんですか？|ここんとこ、様子が変ですぜ。|何か悩みでもあるんですかい？=<hammer>Is something wrong? You've been acting strange lately. Are you worried about something?
-<hammer>もしや、|恋わずらい、|ってぇ、ヤツですか——？=<hammer>Is it that you're lovesick? That kind of thing?
+<hammer>もしや、|恋わずらい、|ってぇ、ヤツですか——？=<hammer>Is it that you're lovesick?|That kind of thing?
 <venus>フフッ……バカだねぇ、|違うよ。|ちょっと、考えごとをね……。=<venus>Heh heh! Don't be stupid, it's nothing like that. Just thinking about something...
 <hammer>そうっすか……。|でも、もし悩みがあっても、|１人で抱えこまねぇでくだせぇよ。=<hammer>I see... Anyway, if you have worries, don't keep them to yourself.
 <hammer>オラたちなら、いつでも|ヴィーナス様の|お側にいますから。=<hammer>You know we're always by your side, Lady Venus.
@@ -3307,7 +3307,7 @@
 <smalltext><blackbold>アイテム<normal>【ハンマー日記】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Hammer's Diary"
 <guard>キサマら！|こんな所で何をしている！=<guard>You bastards! What are you doing here!?
 <edward>ちっ、見つかったか。=<edward>Tsk! They found us.
-<guard>——パンツ一丁のチビと、|全身ヨロイの怪人……。|キサマら、報告にあった反逆者だな！=<guard>A shorty in his underwear and a freak in full body armor...|You bastards are the rebels from the report!
+<guard>——パンツ一丁のチビと、|全身ヨロイの怪人……。|キサマら、報告にあった反逆者だな！=<guard>A shorty in his underwear and a freak in full body armor... You bastards are the rebels from the report!
 <edward>だぁれぇがぁ、|豆粒パンツ星人か———ッ！！！=<edward>What did you call meee!?|A guy from the bean-pants planet!?
 <alphonse>うあ、すごい被害妄想……。=<alphonse>Wow! You're too paranoid...
 <guard>抵抗するな！ おとなしくしろ！=<guard>Don't resist! Stay quiet!
@@ -3722,7 +3722,7 @@
 
 !FILE:0180_003/004.txt
 <edward>ここが、塔の内部か……。=<edward>So this is the inside of the tower...
-<alphonse>——ねぇ、兄さん。|大佐たち、大丈夫かな……。=<alphonse>Hey, Brother.|I wonder if the Colonel and the others are alright...
+<alphonse>——ねぇ、兄さん。|大佐たち、大丈夫かな……。=<alphonse>Hey, Brother.|I wonder if the Colonel and the others|are alright...
 <edward>今は、信じて先に進むしかねぇ。|大佐たちのことだ、|きっと、大丈夫さ。=<edward>Right now we can only trust them and move forward. I'm sure the Colonel and his men are fine.
 <alphonse>……うん、そうだね。=<alphonse>Yeah, that's right.
 <edward>——待ってろよ、ソフィ……。=<edward>Hold on, Sophie...
@@ -3839,14 +3839,14 @@
 <zelgius>——さっきの勢いはどうした？|貴様の言う、|「とっておき」とやらを見せてみろ。=<zelgius>What happened with that courage a moment ago? Show me that “ace up your sleeve" you've got, bastard.
 <roy>フッ……。|そんなものは、ない。=<roy>Heh... I have no such thing.
 <zelgius>——なんだと……？=<zelgius>What?
-<roy>策などない。|あの２人を行かせるために、|適当なことを言っただけだ。=<roy>I have no plan.|I just said something suitable to those two, so they'd keep going.
+<roy>策などない。|あの２人を行かせるために、|適当なことを言っただけだ。=<roy>I have no plan.|I just said something suitable to those|two, so they'd keep going.
 <zelgius>フッ……ふざけた真似を——。=<zelgius>Hmph! You're a joke!
-<zelgius>ならば、|己の無力を噛みしめて——|——死ぬがいい！！=<zelgius>In that case, realize your own powerlessness!|Die!!
+<zelgius>ならば、|己の無力を噛みしめて——|——死ぬがいい！！=<zelgius>In that case, realize your own futility!|Die!!
 <roy>たしかに策はないが……|むざむざ死ぬつもりもない——！！=<roy>I may not have a plan...|But that doesn't mean I'm going to die without a fight!!
 
 !FILE:0208_002/004.txt
-<edward>下手な嘘を信じてやろうぜ……。|アイツは身体を張って、|オレたちを先に行かせてくれたんだ。=<edward>Let's believe that awkward lie...|After all, he's risking his life so we can continue.
-<edward>大佐なら大丈夫さ。|——急ぐぞ、アルッ！！=<edward>The Colonel will be alright. Let's hurry, Al!
+<edward>下手な嘘を信じてやろうぜ……。|アイツは身体を張って、|オレたちを先に行かせてくれたんだ。=<edward>Let's believe that awkward lie...|After all, he's risking his life so we|can continue.
+<edward>大佐なら大丈夫さ。|——急ぐぞ、アルッ！！=<edward>The Colonel will be alright.|Let's hurry, Al!
 
 !FILE:0213_002/004.txt
 <blackbold>アクセサリ<normal>【聖女のアンク】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Priestess Ankh"
@@ -3859,7 +3859,7 @@
 !FILE:0216_003/004.txt
 <alphonse>最上階……。|きっと、ソフィは|この先だね……。=<alphonse>The top floor...|Sophie must be up ahead.
 <edward>——アル……|絶対にソフィを助けだすぞ……！=<edward>Al... We'll definitely save her!
-<alphonse>もちろんだよ。|３人で一緒に、|ウィンリィが待ってる教会に帰るんだ！=<alphonse>Of course. The three of us we'll go back to the church, where Winry is waiting!
+<alphonse>もちろんだよ。|３人で一緒に、|ウィンリィが待ってる教会に帰るんだ！=<alphonse>Of course. The three of us will go back to the church, where Winry is waiting!
 <edward>よし。行こう……！=<edward>Okay, let's go!
 
 !FILE:0217_003/004.txt
