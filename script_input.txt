@@ -548,7 +548,7 @@
 <yellow>防御力が２０上がる|<yellow>また、射撃・炎・爆発属性のダメージを２５％軽減する=<yellow>Defense increases by 20. <yellow>The damage received from shooting, fire and explosive attacks decreases by 25%.
 <yellow>防御力が１５上がり、凍結状態にならない<white>|ＨＯＴなカイロをエドのコートに編みこんだもの=<yellow>Defense increases by 15. Protects against freezing.<white>|A hot warmer is woven into Ed's coat.
 <yellow>気絶状態にならない<white>|黄色の作業用ヘルメット、頭部への衝撃を和らげてくれる=<yellow>Protects against stunning.<white>|A yellow working helmet, that can soften blows to the head.
-<yellow>攻撃力、防御力が５上がり、気絶状態にならない<white>|ウィンリィの作った、メカニカルな兜=<yellow>Attack and Defense increase by 5. Protects against stunning.<white>|A mechanical helmet made by Winry.
+<yellow>攻撃力、防御力が５上がり、気絶状態にならない<white>|ウィンリィの作った、メカニカルな兜=<yellow>Attack and Defense increase by 5. Protects against stunning.<white>|A helmet made by Winry from mechanical parts.
 <yellow>防御力が５０上がり、気絶状態にならない|通常の走りができなくなる<white> 超重量の兜=<yellow>Defense increases by 50. Protects against stunning.|Makes it impossible to run. <white>A really heavy helmet.
 <yellow>防御力が５０上がり、気絶状態にならない<white>|にゃんこの贈り物、白銀を素材とした兜=<yellow>Defense increases by 50. Protects against stunning.<white>|A gift from a cat, made of silver.
 <yellow>ＳＰゲージの溜まる速度が３倍に増加する<white>|ソフィが繕ってくれた、純白に輝くパンツ=<yellow>The SP gauge fills thrice as fast.<white>|The briefs mended by Sophie; they shine pure white.
@@ -592,7 +592,7 @@
 <yellow>攻撃力が５上がり、防御力、錬成力が５％低下する<white>|すべてを貫くパワーを持つ、サイの角=<yellow>Increases Attack by 5, and reduces Defense and Alchemy by 25%. <white>A rhino horn that can pierce anything.
 <yellow>攻撃力が５上がり、防御力、錬成力が５％低下する<white>|鉄さえ切り裂く、トラの爪=<yellow>Increases Attack by 5, and reduces Defense and Alchemy by 25%. <white>A tiger claw that can cut up even iron.
 <yellow>攻撃力が５上がり、防御力、錬成力が５％低下する<white>|ブリッグス山の猛獣、グリズリーの爪=<yellow>Increases Attack by 5, and reduces Defense and Alchemy by 25%. <white>A claw from a grizzly, the beast from Briggs Mountain.
-<yellow>攻撃力が５上がり、防御力、錬成力が５％低下する<white>|集団で獲物を襲う、吸血コウモリの牙=<yellow>Increases Attack by 5, and reduces Defense and Alchemy by 25%. <white>A fang from a vampire bat, that attack in groups.
+<yellow>攻撃力が５上がり、防御力、錬成力が５％低下する<white>|集団で獲物を襲う、吸血コウモリの牙=<yellow>Increases Attack by 5, and reduces Defense and Alchemy by 25%. <white>A fang from a vampire bat, which attacks in groups.
 <yellow>攻撃力が５上がり、防御力、錬成力が５％低下する<white>|数種類の動物から成る、キメラの牙=<yellow>Increases Attack by 5, and reduces Defense and Alchemy by 25%. <white>A fang from a chimera, created from several animals.
 <yellow>敵のガードに関係なく、ダメージを与えることができる<white>|ソフィが作った、サイの角を素材とする腕輪=<yellow>Deal damage regardless of enemies' blocking.<white>|An armlet made by Sophie from a rhino's horn.
 <yellow>カウンター成功時のダメージが、大きく増加する<white>|ソフィが作った、トラの爪を素材とする腕輪=<yellow>Successful counters deal much more damage.<white>|An armlet made by Sophie from a tiger's claw.
@@ -945,7 +945,7 @@
 第四封の間=Fourth Seal's Room
 古城・最上階=Old Castle: Top Floor
 古城・屋上=Old Castle: Rooftop
-ヴェルザの間=Velza's Room
+ヴェルザの間=Velza's Chamber
 古城・中庭=Old Castle: Courtyard
 
 !FILE:0014_096.txt
@@ -1087,7 +1087,7 @@
 ＶＳ　コーネロ教主様=VS Father Cornello
 ＶＳ　テロリストたち=VS Terrorists
 ＶＳ　バルド=VS Bald
-ＶＳ　中尉＆少尉=VS Lieutenant & Second Lieutenant
+ＶＳ　中尉＆少尉=VS Lieutenant & 2nd Lieutenant
 ＶＳ　傷の男=VS Scarred Man
 ＶＳ　焔＆豪腕=VS Flame & Strong Arm
 
@@ -2032,13 +2032,13 @@
 ポップアップ=Popup
 <edward>ウィンリィ！ ウィンリィ——ッ！|……ったく、アイツめ、|どこ行きやがったんだよ……！！=<edward>Winry! Winryyyy!|Damn! That girl... Where did she go!?
 <alphonse>——この街の、機械鎧のお店を|回るって言ってたよね。|大丈夫かな……。=<alphonse>She said she wanted to visit the automail shops in this town. I wonder if she's okay...
-<alphonse>それにしても、|いったい、何が起こってるんだろう。|本当に、戦争が始まったのかな……。=<alphonse>Anyway, what on earth is going on? Did a war really start?
+<alphonse>それにしても、|いったい、何が起こってるんだろう。|本当に、戦争が始まったのかな……。=<alphonse>Anyway, what on earth is going on?|Did a war really start?
 <edward>……とにかく、まずは|ウィンリィを捜そう。|行くぞ、アルッ。=<edward>In any case, first we need to find Winry.|Let's go, Al!
 <alphonse>兄さん、ウィンリィが心配だよ。|早く捜しに行かなきゃ！=<alphonse>Brother, I'm worried about Winry.|We must find her quickly!
 <man>妻と娘が見当たらないのです！|ああ、いったい、２人はどこへ——！？=<man>I can't find my wife and daughter!|Aah, where did those two go...!?
 <oldman>……あの者たちが、|このヴァルドラを……！！=<oldman>Those people... doing this to Valdolla...!!
 <boy>おい、お前も早く逃げた方がいいぞ。|マジで、ただごとじゃねえって！=<boy>Hey, you gotta escape fast!|Seriously, this is no joke!
-<soldier>ここから先は危険だ、|一般人は早く避難しろ！！=<soldier>It's dangerous to go any further. Civilians should evacuate quickly!
+<soldier>ここから先は危険だ、|一般人は早く避難しろ！！=<soldier>It's dangerous to go any further.|Civilians should evacuate quickly!
 <soldier>てっ、敵はどこにいるんだ！？|何で司令部から、|何も連絡が来ねぇんだよ……！！=<soldier>Hmmph, where's the enemy!? Why haven't we heard anything from headquarters!?
 <soldier>非常呼集が発令されてな、|ただの暴動鎮圧かと思ったが……。|おいおい、まるで戦争だ……！=<soldier>We received an emergency call, and thought it was just some common riot...|Yeesh! This is like a war!
 <verda>…終末の祈りは成就した……|我が子らよ…世界に満ちよ……！！=<verda>The Prayer of the End has been fulfilled...|Spread through the world, children of mine!
@@ -2137,7 +2137,7 @@
 <smalltext>車の上の宝箱を開けよう！=<smalltext>Open the treasure chest on top of the car!
 <smalltext><R1a><R1b>押し続け＝協力ジャンプ[エド操作時]=<smalltext>Hold <R1a><R1b>: Alleyoop (while controlling Ed)
 <blackbold>アイテム<normal>【キャンディ】|<blackbold>を手に入れた！！=<blackbold>Got item|<normal>“Candy"
-<blackbold>にゃんこ<normal>【たま】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Tama"
+<blackbold>にゃんこ<normal>【たま】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Tama"
 <girl>うぅ……ぐすっ……。|お母さーん！ 熱いよぉ……！=<girl>*Sob...*|Mommy! It's hot!
 <edward>おい！ あんな所に女の子が！=<edward>Hey! There's a little girl over there!
 <alphonse>兄さん、ここはボクに任せて！！=<alphonse>Leave this to me, Brother!
@@ -2498,7 +2498,7 @@
 いいえ=No
 列車に乗りますか？=Get on the train?
 <blackbold>にゃんこ<normal>【とらきち】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Tiger"
-<alphonse>街がヴェルザの一族に襲われてるのに、|地下鉄が運行してるなんて……。=<alphonse>It seems the train's running, despite the attacks of Velza Clan upon the city...
+<alphonse>街がヴェルザの一族に襲われてるのに、|地下鉄が運行してるなんて……。=<alphonse>It seems the train's running, Velza Clan's attack on the city...
 <edward>助かったぜ。|これで、線路の上を|歩いていかずにすみそーだ。=<edward>Perfect. That way we won't have to|walk on the railroad tracks.
 <alphonse>ちょ、ちょっと待ってよ、兄さん！|こんな時に列車が動いてるなんて、|少し変だと思わない？=<alphonse>Wa...Wait a moment, Brother!|Don't you think it's a bit strange that trains are working at a time like this?
 <edward>たまたま、|仕事熱心な運転手さんでも|いたんじゃねーの？=<edward>Maybe there was a driver very enthusiastic about his job?
@@ -2744,10 +2744,10 @@
 <roy>——鋼の。|クレイギン将軍は、あまり信用するな。=<roy>Fullmetal... Don't trust General Craigin too much.
 <edward>ん？ どういうことだよ？=<edward>Huh? What are you talking about?
 <roy>あの男は、目的のためには|手段を選ばない、油断のならない人物だ。|今回も、何か裏で動いてるふしがある。=<roy>He's a cunning man who'll stop at nothing to achieve his goals. And it seems he's up to something this time, too.
-<edward>——そういえば、大佐。大佐こそ、|オレたちに、あんな手紙をよこして、|なにか裏があるんじゃねーのかよ。=<edward>Speaking of which, Colonel... That includes you too. There must be more to that letter you sent us.
+<edward>——そういえば、大佐。大佐こそ、|オレたちに、あんな手紙をよこして、|なにか裏があるんじゃねーのかよ。=<edward>Speaking of which, Colonel...|That also describes you. There must be more to that letter you sent us.
 <roy>——ん？=<roy>Huh?
 <edward>「ヴァルドラに賢者の石に関する噂がある」|オレたちに何かさせたくて、|こんな手紙で呼んだんだろ。=<edward>“There are rumors of the Philosopher's Stone in Valdolla". You drew us in with that letter to use us for something, right?
-<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>Well, there are legends in this town about a witch who gave herself to the “Red Demon" which sounds like the Philosopher's Stone.#don't add comma or it will overrun
+<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>Well, there are legends in this town about a witch who gave herself to a “Red Demon", which sounds like the Philosopher's Stone.
 <roy>——まぁ、お前たちが来たら、|せっかくだから少し手伝ってもらおうと|考えていたのも事実だがな……。=<roy>And it's true that, since you two had come here, I thought you might as well help us a little.
 <edward>あ——ったく！ いつもいつも、|そうやって、人をいいように|動かそうとしやがって……！=<edward>Aaargh, really! You're always trying to make people do whatever you want!
 <roy>ハハハ。まぁ、そう怒るな。|お前たちには、クレイギン将軍の動きに|注意してほしいのだ。=<roy>Ha ha ha! Don't get so angry.|I want you two to keep an eye on General Craigin's movements.
@@ -2942,7 +2942,7 @@
 <alphonse>目的地は、|この先みたいだけど……|どうやって進めばいいんだろう？=<alphonse>It seems our destination is up ahead...|But how do we get there?
 <sophie>どこかに、光の発生源が|あるんじゃないかしら。|探しに行きましょう。=<sophie>The source of the light must be somewhere. Let's go find it.
 <alphonse>光が消えて、|先に進めるようになったね！|もうすぐ目的地だよ。=<alphonse>The light has disappeared and we can go ahead! We're almost there.
-<edward>ああ。だけど気をつけろ。|ヤツらが、そう簡単にオレたちを|行かせてくれるとは思えねぇ。=<edward>Yeah, but be careful. I don't think they'll let us go so easily.
+<edward>ああ。だけど気をつけろ。|ヤツらが、そう簡単にオレたちを|行かせてくれるとは思えねぇ。=<edward>Yeah, but be careful.|I don't think they'll let us go so easily.
 <sophie>でも、行くしかないわ。|早くヴェルザを封印しなきゃ……！=<sophie>But we must continue. We have to seal Velza away quickly!
 
 !FILE:0126_003/004.txt
@@ -2973,7 +2973,7 @@
 <edward>くっ！？ こいつは……！=<edward>Huh!? What is this guy...!?
 <sophie>ダメ！|それ以上、印の力を|使っちゃいけない！=<sophie>Stop! Don't use the power of the seal any further!
 <leonid>うるさいッ……！|このアタシのプライドを傷つけた罪、|死んでつぐなってもらうわッ……！！=<leonid>Shut up! You'll atone with your death for the sin of wounding my pride!
-<sophie>ダ、ダメよ！|早く！ 早く力を止めて！！=<sophie>St...Stop now! Quickly! You must stop the power at once!
+<sophie>ダ、ダメよ！|早く！ 早く力を止めて！！=<sophie>St...Stop now! Quickly! You must stop using that power at once!
 <leonid>フン、いまさら命乞い……？|もう遅い……ウッ……クッ……！|ウアァッ……！？=<leonid>Hmph! Begging for my life now?|It's far too late...|Uuh... Uugh! Aaaaaah!!
 <leonid>クッ……アタシの……力が……！|これが……限界だと言うの……！？|ウッ……ウアアアァァッ！！=<leonid>Damn... My... power... Is this its limit!?|Uuh.... UAAAAAAHHH!!
 <sophie>くっ！ こうなったら——！=<sophie>No! If this goes on...
@@ -3018,12 +3018,12 @@
 <hammer>もしや、|恋わずらい、|ってぇ、ヤツですか——？=<hammer>Is it that you're lovesick?|That kind of thing?
 <venus>フフッ……バカだねぇ、|違うよ。|ちょっと、考えごとをね……。=<venus>Heh heh! Don't be stupid, it's nothing like that. Just thinking about something...
 <hammer>そうっすか……。|でも、もし悩みがあっても、|１人で抱えこまねぇでくだせぇよ。=<hammer>I see... Anyway, if you have worries, don't keep them to yourself.
-<hammer>オラたちなら、いつでも|ヴィーナス様の|お側にいますから。=<hammer>You know we're always by your side, Lady Venus.
+<hammer>オラたちなら、いつでも|ヴィーナス様の|お側にいますから。=<hammer>You know we're always by your side,|Lady Venus.
 <venus>ハンマー……。=<venus>Hammer...
 <venus>フッ……やっぱり、|アンタたちまで巻きこむ|ワケにはいかないね……。=<venus>Hmph!... After all, I guess I can't drag you guys into this.
 <trigger>コラコラコラ、ハンマー！|我が愛しのヴィーナス様に、|それ以上、近づくんじゃない！！=<trigger>Hey hey hey, Hammer! Don't get so close to my beloved Lady Venus!!
 <venus>ん？ どうしたんだい、トリガー？=<venus>Eh? What now, Trigger?
-<trigger>ああ、今日も美しきヴィーナス様！|クレイギン将軍が、|お呼びになっていますです、ハイ。=<trigger>Aah, you're also beautiful today, Lady Venus!|General Graigin has called for you, aye.
+<trigger>ああ、今日も美しきヴィーナス様！|クレイギン将軍が、|お呼びになっていますです、ハイ。=<trigger>Aah, you're also beautiful today,|Lady Venus!|General Graigin has called for you, aye.
 <venus>そうか——！|来たね……。=<venus>Is that so!? Then he came...
 
 !FILE:0129_003/004.txt
@@ -3106,7 +3106,7 @@
 <officer>ハッ、も、申し訳ありません……！=<officer>Ah! I'm... I'm so sorry!
 <craigin>主力部隊を出撃させよ！|一刻も早く私の前に、反逆者|ロイ・マスタングの首を持ってこい！=<craigin>Send the main force! And bring me the head of that traitor Roy Mustang as soon as possible!
 <officer>ハッ、ハハッ！=<officer>A...Aye!
-<craigin>……念願の「神の力」を得るまで、|あとわずかの辛抱だ。|邪魔をさせてなるものか……！=<craigin>I've only got so much patience left, until I obtain the god's power I've desired for so long. Nobody will get in my way!
+<craigin>……念願の「神の力」を得るまで、|あとわずかの辛抱だ。|邪魔をさせてなるものか……！=<craigin>I've only got so much patience left. Until I obtain the god's power I've desired for so long, nobody will get in my way!
 <craigin>………。|ローズマリア！|ローズマリアはどこだ！！=<craigin>....................|Rosemaria! Where's Rosemaria!?
 
 !FILE:0130_002/004.txt
@@ -3124,7 +3124,7 @@
 <edward>く、来る気か……！？=<edward>Is he... Is he coming for us!?
 <godot>ウッ……ウアアアアァ……！？|ウ……グ……アァ…………！！=<godot>Uh... Uaaahhh!?|Uh... Gu...Aaah...!!
 <alphonse>に、兄さん。|なんだか様子が変だよ……！=<alphonse>Br-Brother? Something strange is happening!
-<sophie>早く！|早く力を止めて！|でないと、あなたが——！！=<sophie>Quick! You must stop the power right now! If you don't...
+<sophie>早く！|早く力を止めて！|でないと、あなたが——！！=<sophie>Quick! You must stop using that power right now! If you don't...
 <godot>ウ……ウ……ウゥ……。=<godot>Uh... Uh... Uuh...
 <godot>ウアアアアァァァァ—————ッ！！！=<godot>UAAAAAAHHH!!!
 <sophie>ああ……そんな……！=<sophie>Aaah! That's...!
@@ -3141,7 +3141,7 @@
 <sophie>……ええ。=<sophie>Yes...
 <edward>じゃあ、聖印はどうなんだ？|お前が、オレとアルにくれた|この印も、同じじゃないのか？=<edward>Then what about the Holy Seal?|Isn't this symbol you gave Al and me the same?
 <alphonse>ええっ！？=<alphonse>Eeeh!?
-<sophie>——それは大丈夫よ。安心して。|聖印は私が与えたものだから、|エドたちの命が削られることはないわ。=<sophie>That's alright, don't worry. As I gave you the Holy Seal, it won't burn away your lives.
+<sophie>——それは大丈夫よ。安心して。|聖印は私が与えたものだから、|エドたちの命が削られることはないわ。=<sophie>That's alright, don't worry. Since I gave you the Holy Seal, it won't burn away your lives.
 <alphonse>そ、そっかぁ……よかった……。=<alphonse>So that's it... Thank goodness!
 <edward>いや……待て、アル。|オレたちの命が削られないんなら、|聖印の力は、どこから来てるんだ？=<edward>No... wait, Al. If it's not using up our lives, where does the Holy Seal draw its power from?
 <alphonse>えっ？=<alphonse>Huh?
@@ -3353,10 +3353,10 @@
 <alphonse>してないよ！=<alphonse>I didn't promise so!
 <venus>さぁ、素直に降伏するんだね。|良い子は、お家へ帰る時間だ。=<venus>Now, surrender without fuss. It's time for good children to go home.
 <edward>聞いてくれ、中佐！|クレイギン将軍を止めないと、|大変なことになる！=<edward>Listen, Lt. Colonel! If we don't stop General Craigin, terrible things will happen!
-<alphonse>お願いです、ここは見逃してください！|ヴェルザの話は、|本当のことなんです！=<alphonse>Please, let us go! The story about Velza is true!
+<alphonse>お願いです、ここは見逃してください！|ヴェルザの話は、|本当のことなんです！=<alphonse>Please, let us go!|The story about Velza is true!
 <venus>あの、世界が滅ぶというヤツかい？|夢のあるお話だねぇ……。|続きはゆっくり、牢屋で聞いてあげるよ。=<venus>What, that thing about the destruction of the world? That's dreamy talk... But you can tell the rest without hurry, in prison.
 <edward>くっ、この分からず屋め……！=<edward>Damn, these idiots...!
-<hammer>さぁ、おとなしく戻るだよ！|ボーズたちが、あんま怒られないよう、|オラも言ってやるからさァ！=<hammer>Come on, get back obediently! I'll say something to the boys so they don't get too angry!
+<hammer>さぁ、おとなしく戻るだよ！|ボーズたちが、あんま怒られないよう、|オラも言ってやるからさァ！=<hammer>Come on, get back obediently!|I'll say something to the boys so they don't get too angry!
 <trigger>今からでも遅くはない。戻っておいで、|ボクのカワイイ鎧ちゃん！|今なら、ミサイルもつけてあげるよぉ！=<trigger>It's not too late. Come back, my cute armor boy! This time I'll give you missiles too!
 <edward>くそッ……！|やるしかねぇってか！=<edward>Dammit! I guess we have no choice!
 <venus>——フン。やっぱり、|おとなしく捕まるつもりは|ないんだね。=<venus>Hmph! It seems you're not going to be captured quietly after all.
@@ -3364,13 +3364,13 @@
 <venus>いくよっ、ハンマー！ トリガー！|ヴィーナス隊の恐ろしさ、|思い知らせておやりっ！！=<venus>Let's go, Hammer! Trigger!|We'll show them the terror of the Venus corps!
 <trigger>ヒィィィィィィィ！？|ウ、ウソだぁ———っ！！|ボクのメカがやられるなんてぇぇ！！！=<trigger>Heeeeeyyyy!? No-No way!!|My mecha was destroyeeed!!
 <venus>——ア、アンタたち！|何やってんだい！？=<venus>You...You two! What are you doing!?
-<hammer>エンジンがやられたみたいでさぁ。|ウンともスンともいいませんぜ。=<hammer>It seems the engine's broken. It's totally unresponsive.
+<hammer>エンジンがやられたみたいでさぁ。|ウンともスンともいいませんぜ。=<hammer>It seems the engine's broken.|It's totally unresponsive.
 <venus>チィッ——！|だったら、外に出て戦うよ！！=<venus>Tsk! Then we'll fight outside!!
 <hammer>わかりました。|——あれ？|ドアが開かねーぞ。=<hammer>Understood.|Huh? The door won't open.
 <trigger>当然だ！ このボクのメカなのだよ？|時代遅れの手動装置など存在しない！|すべてが自動化されている！=<trigger>Of course, this is my mecha after all! It has nothing like outdated manual mechanisms! Everything's automated!
 <trigger>エンジンが動かないのに、|ドアが開くワケないだろう！！=<trigger>If the engine doesn't work, then the door won't open!
 <hammer>——だそうです。=<hammer>And that's it.
-<venus>えーい、このアンポンタン！|どうにかして|外に出る方法はないのかい！？=<venus>Whaaat, you idiot! Then there's no way to get out!?
+<venus>えーい、このアンポンタン！|どうにかして|外に出る方法はないのかい！？=<venus>Whaaat, you idiot!|Then there's no way to get out!?
 <hammer>ボーズー、助けてくれ——！=<hammer>Boy, please help us!
 <trigger>開けてくれー！|ヨロイちゃ——ん！=<trigger>Open up! Armor booooy!
 <venus>バカ！|敵に助けを求めてんじゃないよ！！=<venus>Fools! Don't ask the enemy for help!!
@@ -3386,24 +3386,24 @@
 地雷を攻撃するか、敵が近づいてくると|爆発します。|敵を攻撃したり物を壊すのに使えます。=The mines explode when they're attacked or the enemy approaches them.|They can be used to attack enemies or destroy objects.
 <smalltext><white><L2a><L2b>押しながら<triangle>＝「アル地雷」を錬成[アル操作時]=<smalltext><white>Press <triangle> while holding <L2a><L2b>: Transmute Al Land Mine (controlling Al)
 <roy>では、これより作戦を開始する。=<roy>Well then, with this we'll start the operation.
-<roy>敵は、クレイギン軍の主力部隊だ。|奴らは、街の中心にある城の周囲に|展開している。=<roy>The enemies are Craigin's main forces. They're deployed around the castle at the town's center.
-<roy>我々は、部隊を２つに分ける。|連携した攻撃で、|敵を混乱におとしいれるのだ。=<roy>We'll split our troops in two. With coordinated attacks, we can disarray their ranks.
+<roy>敵は、クレイギン軍の主力部隊だ。|奴らは、街の中心にある城の周囲に|展開している。=<roy>The enemies are Craigin's main forces. They're deployed around the castle at|the town's center.
+<roy>我々は、部隊を２つに分ける。|連携した攻撃で、|敵を混乱におとしいれるのだ。=<roy>We'll split our troops in two.|With coordinated attacks, we can disarray their ranks.
 <roy>敵は我が軍より多勢だが、|この私の作戦通りに動けば、|けっして負けることはない。=<roy>The enemy is more numerous than us, but if we follow my strategy, we cannot fail.
 <roy>ゆくぞ、諸君。|私についてこい。=<roy>Let's go, gentlemen. Follow me.
 <officer>オ————ッ！！=<officer>Ooooooh!!
 <roy>我々が攻撃を開始すれば、|城に続く道の守りも|手薄になるはずだ。=<roy>Once we begin our attack, the road to the castle should be less protected.
-<roy>だが、クレイギンもバカではない。|すべての敵が|いなくなるわけではないだろう。=<roy>But Craigin is no fool. Not all enemies will be gone.
+<roy>だが、クレイギンもバカではない。|すべての敵が|いなくなるわけではないだろう。=<roy>But Craigin is no fool.|Not all enemies will be gone.
 <edward>いや、それで十分だよ。|残った敵は、|オレたちでなんとかする。=<edward>No, that's enough. We can deal with the rest of the enemies.
 <alphonse>ありがとうございます、大佐。=<alphonse>Thank you very much, Colonel.
 <roy>……鋼の——。|お前も男なら、あの少女を|守ってみせたまえ。=<roy>Fullmetal... If you're also a man, you must protect that girl.
-<edward>……へっ、言われなくても|そのつもりだ。|ソフィはオレが守る。=<edward>Heh! I was gonna do that even if you didn't tell me.|I will protect Sophie.
+<edward>……へっ、言われなくても|そのつもりだ。|ソフィはオレが守る。=<edward>Heh! I was gonna do that even if|you didn't tell me.|I will protect Sophie.
 <alphonse>オレたちが、でしょ、兄さん。|安心してください、ソフィを|二度と危険な目には遭わせません。=<alphonse>We'll both do so, Brother. Don't worry, we won't put Sophie in danger again.
 <roy>フッ……。|その言葉、信じたぞ。=<roy>Hmmm... I believe those words.
 <riza>２人とも、気をつけて。|常に状況判断を|怠らないようにね。=<riza>You two, be careful. Always remember to judge according to the situation.
 <alphonse>はい。|ホークアイ中尉も、|どうかご無事で。=<alphonse>Yes. Stay safe too, Lt. Hawkeye.
-<armstrong>くれぐれも無茶をするでないぞ、|エドワード・エルリック。|時には退くことも勇気なのだからな。=<armstrong>Really, don't do anything reckless, Edward Elric. Sometimes discretion is the best part of valor.
+<armstrong>くれぐれも無茶をするでないぞ、|エドワード・エルリック。|時には退くことも勇気なのだからな。=<armstrong>Really, don't do anything reckless, Edward Elric. Sometimes discretion is the better part of valor.
 <edward>ああ。分かったよ、少佐。=<edward>Yeah. I know, Major.
-<roy>では、いったん、ここでお別れだ。|すべてが終わったら|また会おう、鋼の。=<roy>Well, this is where we part ways. We'll meet again once everything's over, Fullmetal
+<roy>では、いったん、ここでお別れだ。|すべてが終わったら|また会おう、鋼の。=<roy>Well, this is where we part ways.|We'll meet again once everything's over, Fullmetal
 <alphonse>大佐たちのおかげで、|守りは手薄に|なってるみたいだね……。=<alphonse>It seems that defenses are thin thanks to the Colonel and the others...
 <edward>だけど、まだまだ敵がいるな。=<edward>But there are still enemies left.
 <alphonse>さすがに簡単には|行かせてくれないね。=<alphonse>Of course they wouldn't let us go so easily.
@@ -3415,7 +3415,7 @@
 <girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that weird armor guy's big bro!|It's a secret, but I'm hiding here.
 <younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<younggirl>My mom told me to play hide-and-seek until the loud noises are gone.
 <younggirl>ほんとは、ちょっと怖いけど……。|——大丈夫、|私、もう泣かないもん！=<younggirl>To be honest, I'm a bit scared...|But it's okay, I'm not gonna cry anymore!
-<younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<younggirl>I wonder if my mom is here yet... She said she'd come later...
+<younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<younggirl>I wonder if my mom is here yet...|She said she'd come later...
 
 !FILE:0148_003/004.txt
 <blackbold>アクセサリ<normal>【鋼のバングル】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Fullmetal Bangle"
@@ -3425,7 +3425,7 @@
 
 !FILE:0149_003/004.txt
 <blackbold>アイテム<normal>【秘密の史書（７）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Secret Book (7)"
-<oldman>奴らは、ヴェルザの恐ろしさを知らんのだ。|歴史に学べば、愚かな過ちを|繰り返すこともなかったろうに……。=<oldman>They know nothing about Velza's horror. If they had studied history, they wouldn't be repeating the same foolish mistakes.
+<oldman>奴らは、ヴェルザの恐ろしさを知らんのだ。|歴史に学べば、愚かな過ちを|繰り返すこともなかったろうに……。=<oldman>They know nothing about Velza's horror.|If they had studied history, they wouldn't be repeating the same foolish mistakes.
 
 !FILE:0150_003/004.txt
 <smalltext>ゲートを破壊して先に進もう！=<smalltext>Destroy the gate and move forward!
@@ -3498,7 +3498,7 @@
 <alphonse>——ソフィ？=<alphonse>Sophie?
 <???>——許さない……！=<???>I won't forgive!
 <sophie>ウッ……アアァッ……！？=<sophie>Uuhhh... Aaaah!
-<man>ヴェルザ様！ ありがとうございます！|息子は命を取りとめました！=<man>Thank you so much, Lady Velza! You saved my son's life!
+<man>ヴェルザ様！ ありがとうございます！|息子は命を取りとめました！=<man>Thank you so much, Lady Velza!|You saved my son's life!
 <woman>ウチの母も、ヴェルザ様のおかげで！|本当に、なんとお礼を|言ったらいいか……！=<woman>My mother was saved too, thanks to you, Lady Velza! I don't know how to express my gratitude!
 <oldman>ヴェルザ様は、不思譲な力で|我らをお救いくださる……。|神の生まれ変わりに違いない！=<oldman>Lady Velza has helped us with her mysterious powers... Sure enough, she must be the reincarnation of a god!
 <maleworshipper>大変です！ 王の軍勢が！|ヴェルザ様を差しだせと……！=<maleworshipper>This is terrible! The king has brought his army here, and he wants Lady Velza to submit to him!
@@ -3510,8 +3510,8 @@
 <maleworshipper>ヴェルザ様、助けにまいりました！|——ああっ！？|そ、そのお身体は……！？=<maleworshipper>Lady Velza, I've come to rescue you!|..... Aaah! Yo-Your body...
 <youngworshipper>……我々は裏切られたのです……|ヴェルザ様が救った、|民によって……。=<youngworshipper>We've been betrayed... By the same people whom Lady Velza saved.
 <man>ヴェルザ様！？ お、お許しください！|王に脅されて、しかたなかったのです！|あなた様の居場所を教えねば殺す、と！=<man>Lady Velza!? Pl-Please forgive me! The king threatened me, I had no choice! He'd kill me if I didn't tell him about your place!
-<woman>もう、ここには来ないでください！|あなたがいると、王に知れたら……！|私たちを巻きこまないで！=<woman>Please, don't come here again! If the king knew you were here...|Don't get us involved!
-<oldman>何をしにきた、この魔女め！|お前がいるから、我々が苦しめられる！|早く出ていくがいい！ 出ていけ！=<oldman>What are you doing here, witch!? Your presence brings nothing but pain! Go away right now! Go away!
+<woman>もう、ここには来ないでください！|あなたがいると、王に知れたら……！|私たちを巻きこまないで！=<woman>Please, don't come here again!|If the king knew you were here...|Don't get us involved!
+<oldman>何をしにきた、この魔女め！|お前がいるから、我々が苦しめられる！|早く出ていくがいい！ 出ていけ！=<oldman>What are you doing here, witch!?|Your presence brings nothing but pain!|Go away right now! Go away!
 <man>あの魔女を殺せ！|じゃなきゃ、オレたちが殺されちまうぞ！|アイツが災いをもたらしたんだ！=<man>Kill that witch! Otherwise we'll be killed instead! She's the one who brought disaster!
 <sophie>——こ、この声は……！？=<sophie>This... This voice...
 <???>許さない……許さない……！=<???>I won't forgive... I won't forgive!
@@ -3644,7 +3644,7 @@
 <edward>くっ！！=<edward>Damn!!
 <craigin>誰にも邪魔はさせん……！|私がこれを手に入れるため、どれだけ|労を尽くしてきたと思っている？=<craigin>I won't let anyone get in my way!|Do you know how hard I've struggled|to achieve this?
 <craigin>教えてやろう。|そもそも、この戦いは、|私が起こしたのだよ。=<craigin>I'll tell you.|For starters, it was me who started|this war.
-<craigin>ヴェルザの一族の奴らに、|「神の力」を用意させるためにな！=<craigin>So those guys from the Clan of Velza could ready the goddess' power.
+<craigin>ヴェルザの一族の奴らに、|「神の力」を用意させるためにな！=<craigin>All so that those guys from the Clan of Velza could ready the goddess' power.
 <edward>なんだと！？=<edward>What are you saying!?
 <craigin>ヴァルドラに伝わる伝承から|「神の力」の存在を知った私は、|軍を率いて奴らを攻撃し、追いつめた。=<craigin>After learning about the goddess' power from the legends of Valdolla, I led the army to attack and corner them.
 <craigin>予想どおり奴らは、|軍に対抗するために、|「神の力」に手を出した。=<craigin>As expected, they resorted to that power to oppose my army.
@@ -3700,7 +3700,7 @@
 <roy>……そうか。|あの巨大な塔といい、怪物の群れといい、|容易ならざる事態だな……。=<roy>I see...|The situation isn't simple, with that giant tower and the hordes of monsters.
 <roy>——お前たちは、これから|どうするつもりだ？=<roy>What are you planning to do now?
 <alphonse>——ソフィを|連れていかれたのは、|ボクたちの責任です。=<alphonse>It's our fault that Sophie was taken away.
-<edward>たぶん、ソフィは、あの塔にいると思う。|あそこで、きっと|オレたちの助けを待ってる。=<edward>I think that Sophie's probably in that tower. She's surely there, waiting for us to help her.
+<edward>たぶん、ソフィは、あの塔にいると思う。|あそこで、きっと|オレたちの助けを待ってる。=<edward>I think that Sophie's probably in that tower. She's surely there, waiting for|us to help her.#"tower" tips to the second line, leaving an awkward space after "that". Take out the newline if this is changing.
 <edward>行ってくるよ。|アイツを取り戻してくる。=<edward>We're going there.|We're going to take her back.
 <alphonse>決めたんです。|——たとえ、相手が神だろうと、|立ち向かってみせる……。=<alphonse>It's decided.|Even if our opponent is a god, we'll fight against it.
 <edward>オレたちは、|もう、迷わない。=<edward>We'll no longer waver.
@@ -3875,8 +3875,8 @@
 <alphonse>——ッ！|兄さん……！|まさか、まさか——！=<alphonse>Ugh! Brother!|No way, it can't be!
 <alphonse>ソフィの中に……|ヴェルザの魂が——！？=<alphonse>Velza's soul... is inside of Sophie!?
 <edward>——な、なんだと……！？|そんな……！|うそだろ——！？=<edward>Wh...What!?|Impossible! It's gotta be a lie!
-<verda>我が子らよ……|目覚めの時は来た……。|今こそ、すべての者に死を……！=<verda>My children... the time for awakening has come.|Everyone will die now!
-<verda>……見るがいい……。|世界が滅びゆく様を——。|我が苦しみの代価を——！！=<verda>Take a look. The world is perishing.|This is the price of my suffering!
+<verda>我が子らよ……|目覚めの時は来た……。|今こそ、すべての者に死を……！=<verda>My children...|The time for awakening has come.|Everyone will die now!
+<verda>……見るがいい……。|世界が滅びゆく様を——。|我が苦しみの代価を——！！=<verda>Take a look. The world will soon perish.|This is the price of my suffering!
 <edward>——くっ！？=<edward>....Ugh!
 <man>く、来るな……来るな……！|ウアアアァァ————ッ！！！=<man>Do...Don't get closer... Don't get closer!|Uaaaahhhh!!
 <woman>か、怪物！！|イヤ、来ないで……！！|キャアアアァァ————ッ！！=<woman>Mo-Monsters! No, go away!!|Aaaaahhh!!
@@ -3941,7 +3941,7 @@
 <edward>——ああ。=<edward>...Yeah.
 <edward>それでも、オレたちは、|負けられない……。|教会で、ウィンリィが待ってる。=<edward>Even then, we won't be defeated.|Winry is waiting for us at the church.
 <alphonse>ノルンもだよ。|ボクたちが、|３人で帰ってくるのを待ってる。=<alphonse>And Norn too. They're waiting for the three of us to come back.
-<edward>——必ず帰るぞ。|みんなのいる場所へ……！=<edward>And we'll surely return. There, with everyone!
+<edward>——必ず帰るぞ。|みんなのいる場所へ……！=<edward>And we'll surely return.|There, with everyone!
 <edward>いくぞぉぉぉっ——！！=<edward>Let's goooooo!!
 <verda>ウアアアアアアァァァ————ッ！！！=<verda>Uaaaaaahhhh!!
 <verda>アアアアァァァァ————ッ……！！！=<verda>Aaaaaaaaaaaahhh!!
@@ -3951,7 +3951,7 @@
 <bradley>ひさしぶりだな、|鋼の錬金術師君。=<bradley>It's been a while, Fullmetal Alchemist.
 <alphonse>——キング・ブラッドレイ大総統！？|どうして、ここに？=<alphonse>Führer King Bradley!?|What are you doing here?
 <bradley>うむ。北方の武装集団が、無事|鎮圧されたと報告を受けてな。|視察に来たのだよ。=<bradley>Hmm. I received a report about the northern armed group being successfully suppressed. I came to inspect it.
-<bradley>そうそう。君たちのことも聞いたよ。|今回も活躍だったようだな。|いや、結構結構。はっはっは。=<bradley>Well, well... I also heard about you. It seems you did well this time too.|No, good work, good work. Ha ha ha!
+<bradley>そうそう。君たちのことも聞いたよ。|今回も活躍だったようだな。|いや、結構結構。はっはっは。=<bradley>Well, well... I also heard about you.|It seems you did well this time too.|No, good work, good work. Ha ha ha!
 <edward>……………………。=<edward>........................
 <bradley>……ところで君は、ヴェルザの一族と|称する奴らの不思譲な力のこと、|何か知っていないかね？=<bradley>By the way, do you know something about the mysterious power of those that call themselves the Velza Clan?
 <edward>……別に、何も。=<edward>Nothing really.
@@ -3963,8 +3963,8 @@
 <edward>……アンタが、ヴェルザの一族を|攻撃するよう命じたのか……？|秘密を手に入れるために……！=<edward>Did you order the attacks on the Clan of Velza? Just to obtain their secrets!?
 <bradley>——だとしたら、何かね？|どちらにせよ、危険な力を持つ武装集団、|早めに潰しておくべきだったからな。=<bradley>And what if I did? Even in that case, a group with such dangerous power should have been crushed a long time ago.
 <edward>……アンタが……！|アンタが余計なことをしなけりゃ……|戦いは避けられたっ……！=<edward>You...! If you hadn't done something so useless... this whole war could have been avoided!
-<edward>……ソフィも……|あんなことには|ならなかったハズだっ……！！=<edward>And Sophie too...|She wouldn't have needed to go through all this!!
-<edward>許せねぇ……許せねぇぞ……！|キング・ブラッドレイッ！！=<edward>I can't forgive... I can't forgive it!|King Bradley!!
+<edward>……ソフィも……|あんなことには|ならなかったハズだっ……！！=<edward>And Sophie too...|She wouldn't have needed to go through|all this!!
+<edward>許せねぇ……許せねぇぞ……！|キング・ブラッドレイッ！！=<edward>I can't forgive... I can't forgive it!|King Bradley!!#These look weird written.
 <bradley>……妙なことは考えぬ方が良いぞ。|鋼の錬金術師君。=<bradley>It'd be better if you didn't think anything strange. Fullmetal Alchemist.
 <edward>うるせぇ——————っ！！！=<edward>Shut uuuup!!
 <bradley>……私を本気にさせる気かね、|鋼の錬金術師君……！=<bradley>Are you seriously trying to take on me, Fullmetal Alchemist?
@@ -3973,7 +3973,7 @@
 <armstrong>——何をやっておるかぁぁっ！！|エドワード・エルリックゥゥッ！！！=<armstrong>What are you doooing!?|Edward Elriiic!!?
 <edward>ぐあああぁっ！！！=<edward>Guaaah!!
 <alphonse>に、兄さん！！=<alphonse>Br-Brother!
-<armstrong>この愚か者ども！！|恐れ多くも、大総統閣下に殴りかかるとは|何を血迷っておるっ！！！=<armstrong>You fool!! This is so disrespectful, striking at His Excellency the Führer like this! Have you lost your mind!?
+<armstrong>この愚か者ども！！|恐れ多くも、大総統閣下に殴りかかるとは|何を血迷っておるっ！！！=<armstrong>You fool!! This is so disrespectful, striking at His Excellency the Führer like this!|Have you lost your mind!?
 <armstrong>そこにひざまずけぃ！！|大総統閣下に|おわび申しあげるのだっ！！！=<armstrong>Kneel right here!|And ask His Excellency for forgiveness!!
 <edward>う……ぐっ……！=<edward>Uh... guh...!
 <roy>——恐れながら、大総統閣下……！=<roy>With all due respect, Your Excellency...
@@ -3984,7 +3984,7 @@
 <bradley>——はっはっは。そのような物騒な顏で|にらみつけなくとも良い、|マスタング大佐、アームストロング少佐。=<bradley>Ha ha ha! You don't need to glare at me with such troubled faces, Colonel Mustang, Major Armstrong!
 <bradley>まさか彼も、本気で私に|襲いかかってきたわけではあるまい。|少し、悪ふざけの度がすぎたのであろう。=<bradley>Of course, he didn't intend to attack me for real. It was just a prank that got a bit out of hand.
 <roy>は、はい……。=<roy>Ye-Yes...
-<bradley>彼らは、諸君らにまかせる。|下がってよいぞ、２人とも。=<bradley>I leave them to you, gentlemen. You can retire now.
+<bradley>彼らは、諸君らにまかせる。|下がってよいぞ、２人とも。=<bradley>I leave them to you, gentlemen.|You can retire now.
 <roy>ハハッ！=<roy>Aye aye!
 <edward>ぐっ……ちき……しょうっ……！=<edward>Guh... Da... Damn!
 <alphonse>兄さん……。=<alphonse>Brother...
@@ -3998,8 +3998,8 @@
 <bradley>………………。=<bradley>.........................
 <craigin>これはすべて、反逆者ロイ・マスタングと|鋼の錬金術師エドワード・エルリックが|私の邪魔をしたためなのです！=<craigin>It was all because of the meddling of that traitor Roy Mustang, and the Fullmetal Alchemist, Edward Elric!
 <bradley>——ふむ、そうかね。|ご苦労だった。|下がって休むが良いぞ。=<bradley>Hmm, I see. You did good work.|Now you should retire and take a rest.
-<craigin>——か、閣下！|この私めに、もう一度チャンスを！=<craigin>Yo-Your Excellency! Please give me one more chance!
-<bradley>……聞こえなかったのかね？|私は、下がって休めと|言ったのだぞ。=<bradley>Didn't you listen? I told you to retire and take a rest.
+<craigin>——か、閣下！|この私めに、もう一度チャンスを！=<craigin>Yo-Your Excellency!|Please give me one more chance!
+<bradley>……聞こえなかったのかね？|私は、下がって休めと|言ったのだぞ。=<bradley>Didn't you listen?|I told you to retire and take a rest.
 <craigin>今度こそ！ 今度こそ、|閣下のご期待にそってみせます！|ですから、この私めに——！=<craigin>Just this time! This time I'll live up to your expectations, Excellency!|So please, give me...
 <bradley>——やれやれ……。=<bradley>Well, well...
 <craigin>——ッ！！=<craigin>Ugh!!
@@ -4007,10 +4007,10 @@
 <sophie>……………………。=<sophie>.............................
 <winry>——ソフィ。|今日は、お別れを言いに来たの。=<winry>Sophie... Today I came to say goodbye.
 <winry>でも、絶対に、|また会いに来るからね！=<winry>But I'll definitely come back again to see you!
-<winry>だから……|だから、その時は……|あなたの元気な声を……ッ……！=<winry>That's why... That's why, when that time comes...|I want to hear your happy voice again...
+<winry>だから……|だから、その時は……|あなたの元気な声を……ッ……！=<winry>That's why...|That's why, when that time comes...|I want to hear your happy voice again...
 <edward>……ッ……！=<edward>.............Ah..........!
 <alphonse>——ウィンリィ……。=<alphonse>Winry....
-<winry>……だ、大丈夫……。|——もう、今日は泣かないって|決めてたのに……。=<winry>I'm... I'm alright.... I promised I wouldn't cry today...
+<winry>……だ、大丈夫……。|——もう、今日は泣かないって|決めてたのに……。=<winry>I'm... I'm alright....|I promised I wouldn't cry today...
 <sophie>……………………。=<sophie>......................
 <alphonse>ソフィ……|ボクたち、もう行くよ……。=<alphonse>Sophie... We must go now...
 <winry>じゃあね、ソフィ……。=<winry>See you, Sophie...
@@ -4018,10 +4018,10 @@
 <sophie>……………………。=<sophie>......................................
 <edward>………………。=<edward>....................................
 <winry>……ソフィ、元に戻るよね……。=<winry>You'll be back to normal, Sophie.
-<alphonse>——お医者さんの話だと、突然、|何かのきっかけで戻るかもしれないし……|ずっと、あのままかもしれないって……。=<alphonse>The doctor said that something might suddenly make her come back...|Or she might stay like this forever.
+<alphonse>——お医者さんの話だと、突然、|何かのきっかけで戻るかもしれないし……|ずっと、あのままかもしれないって……。=<alphonse>The doctor said that something might suddenly make her come back...|Or she might stay like|this forever.
 <winry>絶対に戻るわよ！|ソフィが、ずっとあのままだなんて、|そんなこと、あるワケないじゃないっ！=<winry>She'll come back for sure!|There's no way Sophie can stay like this forever!
 <alphonse>ウィンリィ……。=<alphonse>Winry...
-<edward>……オレの命を救うために……|ソフィは、聖印の力を使ったんだ……。|限界を超えるまで……。=<edward>Sophie used the power of the Holy Seal to save my life... And she went beyond her limits.
+<edward>……オレの命を救うために……|ソフィは、聖印の力を使ったんだ……。|限界を超えるまで……。=<edward>Sophie used the power of the Holy Seal|to save my life...|And she went beyond her limits.
 <edward>……オレは助かった……。|だけど代わりに、ソフィの心が……。=<edward>She saved me...|But she paid with her soul in exchange...
 <edward>……オレは、どうすりゃいい……！|何か、何かないのかよっ……！|オレがアイツにしてやれることは……！=<edward>What should I do!?|Is there anything, anything at all!?|Something I can do for her!?
 <winry>エド……。=<winry>Ed...
@@ -4159,7 +4159,7 @@
 <sophie>……うん。|実はね、私の父も、|ヴェルザの一族の人間だったの……。=<sophie>Yes. To be honest, my father was also a member of the Clan.
 <armstrong>父の名は、ヴィクトール・ベルクマン。|かつては、ヴェルザの一族の一員だった。=<sophie>My father's name was Victor Bergmann.|He was once a member of the Velza Clan.
 <armstrong>ヴェルザの一族とは、何百年も前から、|ブリックズ山に連なる北の山中に身を隠し、|独自の錬金術体系を守ってきた集団。=<sophie>Velza Clan is a group that has been hiding in the northern mountains around Briggs for hundreds of years, protecting their own system of alchemy.
-<armstrong>だが、いつの頃からか、|彼らは大いなる力——ヴェルザの復活を|望むようになっていた。=<sophie>However, at some point, they began to desire a great power: the resurrection of Velza.
+<armstrong>だが、いつの頃からか、|彼らは大いなる力——ヴェルザの復活を|望むようになっていた。=<sophie>However, at some point, they|began to desire a great power:|the resurrection of Velza.
 <armstrong>父は、ヴェルザの復活に反対した。|けれど、彼らは誰も、|父の言うことを聞こうとはしなかった。=<sophie>My father was opposed to Velza's rebirth. But none of them wanted to listen to him.
 <armstrong>ヴェルザが、今の汚れた世界を浄化し、|新しい自分たちの世界が来る……|それが彼らの信仰だった。=<sophie>Velza would purify the corrupted world of the present, and usher in a new world for them... That was what they believed.
 <armstrong>ヴェルザが復活すれば世界は滅ぶ——|彼らを止めることを決意した父は、|幼い私の手を引いて、一族の下を去った。=<sophie>But Velza's resurrection would mean the destruction of the world. So my father, determined to stop them, took the hand of his little daughter and left the Clan.
@@ -4228,7 +4228,7 @@
 <alphonse>ボクたちがソフィを守るよ。|みんなで、絶対に、|ヴェルザの復活を防ぐんだ！=<alphonse>We'll protect you, Sophie!|And I'm sure that, together, we'll prevent Velza's return!
 <sophie>ありがとう！|エド、アル……！=<sophie>Thank you, Ed, Al...!
 <sophie>……………。=<sophie>............................
-<winry>……………。|大丈夫よ、ソフィ……|あいつらなら、きっと大丈夫……。=<winry>..................|It's okay, Sophie. I'm sure those two are fine.
+<winry>……………。|大丈夫よ、ソフィ……|あいつらなら、きっと大丈夫……。=<winry>..................|It's okay, Sophie.|I'm sure those two are fine.
 <sophie>……うん。=<sophie>Yeah...
 <winry>大丈夫……今に、|ひょっこり帰ってくるから……。=<winry>Alright... They'll pop up at any time now...
 <sophie>……うん……。=<sophie>...Yeah...
@@ -4237,16 +4237,16 @@
 <edward>おう。今戻ったぜ！=<edward>Hey, we're back!
 <edward>——おわっ！|ソ、ソフィ……！？=<edward>Whoa!|So-Sophie!?
 <sophie>——良かった……！|２人が無事で……本当に良かった……！=<sophie>I'm so glad...|I'm really so glad you two are safe...!
-<sophie>私のお父さんみたいに……|もう二度と会えなかったら|どうしよう、って——。=<sophie>What would I do if I didn't get to see you again?|Like my dad...
+<sophie>私のお父さんみたいに……|もう二度と会えなかったら|どうしよう、って——。=<sophie>What would I do if I didn't get to|see you again?|Like my dad...
 <sophie>おかえり……。|おかえりなさい……|エド……アル……！=<sophie>Welcome back...|Welcome home, Ed... Al...
 <edward>ソフィ……。=<edward>Sophie...
 <edward>ごはっ——！=<edward>Ouch!
-<winry>このバカッ！|どれだけ心配かけたら|気が済むのよ！？=<winry>You idiot! Why do you have to worry us so much!?
+<winry>このバカッ！|どれだけ心配かけたら|気が済むのよ！？=<winry>You idiot! Why do you have to worry us|so much!?
 <edward>テ、テメェ！|いきなり何しやがる！？=<edward>Damn! Where did that come from!?
 <winry>無茶するなって言ったのに！！|大佐がいなかったら、|ソフィだって危なかったのよ！？=<winry>I told you not to do anything reckless!!|Sophie would be in danger too, if it wasn't for the Colonel!
 <alphonse>えっ？ 大佐……？=<alphonse>Eh? The Colonel?
 <???>——その美しいお嬢さんの|言うとおりだ。=<???>The beautiful young lady is right.
-<roy>レディ１人守れぬとは、|男の風上にも置けぬ奴だな。|情けないぞ——鋼の。=<roy>You don't deserve to be called a man, if you can't even protect a lady.|So pathetic... Fullmetal.
+<roy>レディ１人守れぬとは、|男の風上にも置けぬ奴だな。|情けないぞ——鋼の。=<roy>You don't deserve to be called a man,|if you can't even protect a lady.|So pathetic... Fullmetal.
 <alphonse>マスタング大佐！？=<alphonse>Colonel Mustang!?
 <edward>ええ！？|なんで大佐がここにいんだよ！？=<edward>Huuuh!? What's the Colonel doing here!?
 <sophie>マスタングさんが、|クレイギン将軍の部下に|追われていた私を助けてくれたの。=<sophie>Mustang helped me when I was being chased by General Craigin's men.
@@ -4266,13 +4266,13 @@
 <roy>その力とやらが、そこまでして|得る価値があるものだとは、|私には思えん。=<roy>That's too high a price to pay, in order to obtain that power.
 <edward>そうか……。=<edward>I see...
 <sophie>ヴェルザの力は、ただすべてを殺し、|破壊するだけ……。|人が操れるようなものじゃないわ。=<sophie>The power of Velza will just kill and destroy everything... It's not something that people can control.
-<sophie>もう、いつ復活しても|おかしくない。|早く行って封印しないと……！=<sophie>And she could return any moment now, if we don't seal her quickly!
+<sophie>もう、いつ復活しても|おかしくない。|早く行って封印しないと……！=<sophie>And she could return any moment now,|if we don't seal her quickly!
 <alphonse>うん、そうだね。|兄さん。もう一度、城に行こう！=<alphonse>Yeah, that's right.|Brother, let's go to the castle again!
-<roy>——城に続く道は、クレイギンの|部隊によって、すべて封鎖されている。|今はネズミ１匹、抜けることはできん。=<roy>The path to the castle is completely blocked by Craigin's troops. Not even a rat could slip through right now.
+<roy>——城に続く道は、クレイギンの|部隊によって、すべて封鎖されている。|今はネズミ１匹、抜けることはできん。=<roy>The path to the castle is completely blocked by Craigin's troops. Not even|a rat could slip through right now.
 <alphonse>そ、そんな……。=<alphonse>Oh, no...
 <roy>そこで、我々の部隊がオトリになる。|守りが手薄になったところから、|お前たちは城へ向かうがいい。=<roy>Therefore, we're going to use our troops as bait. So you can head to the castle once their defenses are weakened.
 <sophie>——！|マスタングさん……！=<sophie>........!|Mustang!
-<edward>——おいおい、いいのかよ。|将軍に逆らったら、|大佐まで反逆者になっちまうぜ。=<edward>Hey, hey, are you sure of this? If you oppose the General, you'll also become a traitor, Colonel.
+<edward>——おいおい、いいのかよ。|将軍に逆らったら、|大佐まで反逆者になっちまうぜ。=<edward>Hey, hey, are you sure of this? If you oppose the General, you'll also become|a traitor, Colonel.
 <roy>自分の目的のために、|多くの者を犠牲にする。|クレイギンのやり方は気にいらん。=<roy>He's sacrificing so many people for his own objectives. I simply can't agree with Craigin's methods.
 <roy>フッ。それに、勝てば良いのだ。|反逆者はクレイギンの方だ。|証拠など、いくらでも後で作れる。=<roy>Heh! It will be fine as long as we're the victors. Craigin is the traitor. And we can produce all the evidence we need later.
 <edward>へへ……、わかった。|頼んだぜ、大佐……！=<edward>Heh heh... Alright. I'm counting on you, Colonel!
@@ -4357,7 +4357,7 @@
 <sophie>えっ？ 私の聖印を——？=<sophie>Eh? My Holy Seal?
 <sophie>——ううん、|私は、このままがいい。=<sophie>No. It's okay the way it is.
 <sophie>この力は、ヴェルザが持つ本来の力——。|多くの人を癒すことができる、|慈愛の力だもの——。=<sophie>This power is the original one that Velza possessed. The power of love, able to heal many people.
-<sophie>聖印のおかげで、|ノルンのケガを治すことができた。|——エドたちとも出会えた……。=<sophie>Thanks to that power, I could cure Norn's injuries.|And I could also meet all of you.
+<sophie>聖印のおかげで、|ノルンのケガを治すことができた。|——エドたちとも出会えた……。=<sophie>Thanks to that power, I could cure Norn's injuries. And I could also meet all of you.
 <alphonse>ソフィ……。=<alphonse>Sophie...
 <sophie>それに、私にはまだ、|やり残したことがある——。=<sophie>Besides, I still have some unfinished business.
 <winry>やり残したこと——？=<winry>Unfinished business?
@@ -5408,7 +5408,7 @@
 <sophie>ええ。=<sophie>That's right.
 <winry>だけど、あいつらは——エドとアルは、|「命に代えても」なんて言葉、|絶対に言わないと思うんだ。=<winry>But they... Ed and Al... I don't think they'd ever say something like that.
 <sophie>え……？=<sophie>Huh?
-<winry>成功して、自分たちも生き残る。|そうじゃないと意味がないって、|あいつらは、そう考えるはずだから……。=<winry>They'll succeed while surviving themselves. They'd think there's no point otherwise.
+<winry>成功して、自分たちも生き残る。|そうじゃないと意味がないって、|あいつらは、そう考えるはずだから……。=<winry>They'll succeed, and keep themselves alive. They'd think there's no point otherwise.
 <sophie>……………。=<sophie>.........................
 <edward>よっし、いよいよだな。|最後のオベリスクを封印してくるぜ。=<edward>Alright, it's finally time.|Let's go and seal that last obelisk.
 <alphonse>少佐が言ってたよね。|オベリスクは、街の東にある、|軍司令部にある、って。=<alphonse>The Major said it was east of the city,|at the military headquarters.
@@ -5432,7 +5432,7 @@
 <norn>ニャ～ン……。=<norn>Meeeow...
 <edward>よし行くぞ、アル。|ソフィは、ここで待っててくれ。=<edward>Let's go, Al.|You wait here, Sophie.
 <sophie>えっ、どうして……！？|私も一緒に——！=<sophie>Huh, but why!? I want to go too!
-<edward>いや、まずはクレイギンの部隊を|どうにかして、城への道を確保|しなきゃならねぇ。=<edward>No. First we need to get past Craigin's troops somehow, and secure a path to the castle.
+<edward>いや、まずはクレイギンの部隊を|どうにかして、城への道を確保|しなきゃならねぇ。=<edward>No. First we need to get past Craigin's troops somehow, and secure a path to|the castle.
 <alphonse>城に行けるようになったら、|すぐに迎えにくるから。ソフィは|もう少し身体を休めておいて。=<alphonse>We'll come back to get you as soon as we can reach the castle.|Meanwhile, rest a bit longer, Sophie.
 <sophie>……そう、分かったわ。=<sophie>Okay, I understand...
 <winry>行ってらっしゃい。|気をつけてね、２人とも。=<winry>Be careful on your way. And don't get into trouble, you two.
@@ -5552,7 +5552,7 @@
 <sophie>ヴェルザの復活を防ぐには、|エネルギーを集めている、|オベリスクの動きを止めなきゃならない。=<sophie>To prevent Velza's resurrection, you need to deactivate the obelisks that are gathering energy.
 <sophie>その聖印さえあれば、|あなたたちにも、|オベリスクを封印することができるわ。=<sophie>With this Holy Seal, you too will be able to seal the obelisks.
 <edward>……これが、|さっきのアンタの力の——？=<edward>Is this the power you showed earlier?
-<sophie>ええ。聖印は、私の力の源。|それがあれば、ヴェルザの一族が持つ|力にも対抗できるわ。=<sophie>Yes. The Holy Seal is the source of my powers. With it, I can fight against the Velza Clan.
+<sophie>ええ。聖印は、私の力の源。|それがあれば、ヴェルザの一族が持つ|力にも対抗できるわ。=<sophie>Yes. The Holy Seal is the source of my power. With it, I can fight against the Velza Clan.
 <alphonse>こんな印に、そんな力が……。=<alphonse>Such power... in this seal...
 
 !FILE:0224_000/004.txt
