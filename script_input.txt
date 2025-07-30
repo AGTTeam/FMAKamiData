@@ -586,7 +586,7 @@
 <yellow>槍属性の攻撃力が５０％上昇する<white>|槍技の心得、歴代の戦士に受け継がれる=<yellow>Increases the power of lance attacks by 50%.<white>|The knowledge of lancers, passed down by generations.
 <yellow>鈍器属性の攻撃力が５０％上昇する<white>|槌技の心得、歴代の戦士に受け継がれる=<yellow>Increases the power of blunt attacks by 50%.<white>|The knowledge of hammers, passed down by generations.
 <yellow>ＨＰの最大値、攻撃力が５０％上昇する|防御力、錬成力は激減する <white>戦士の心はパンツに宿る！=<yellow>Increases max HP and Attack by 50%. Defense and Alchemy are greatly reduced. <white>A soldier's spirit resides in his pants!
-<yellow>錬成武器「日本刀」に１００％の即死効果がつく<white>|別名、サムライダマシイ=<yellow>“Katana", a transmuted weapon with a 100% instant death effect. <white>Also known as “Samurai Spirit".
+<yellow>錬成武器「日本刀」に１００％の即死効果がつく<white>|別名、サムライダマシイ=<yellow>Adds a 100% instant death effect to transmuted katanas. <white>Also known as “Samurai Soul".
 <yellow>剣属性の攻撃に１００％の即死効果がつく（ボス無効）|ＨＰの最大値が９０％低下する=<yellow>Sword attacks have a 100% instant death effect (except bosses). Max HP decreases by 90%.
 <yellow>すべての能力値、属性攻撃、属性防御力が上昇する<white>|ＴＨＥ・チャンピオンベルト！ 最強の証！！=<yellow>Increases all stats, attack types and defense types.<white>|The Champion Belt! Proof of the strongest!
 <yellow>攻撃力が５上がり、防御力、錬成力が５％低下する<white>|すべてを貫くパワーを持つ、サイの角=<yellow>Increases Attack by 5, and reduces Defense and Alchemy by 25%. <white>A rhino horn that can pierce anything.
@@ -2180,11 +2180,11 @@
 
 !FILE:0038_003/004.txt
 <bigtext><blackbold> 武器の乗り降り=<bigtext><blackbold> Getting On And Off A Vehicle
-<8006><white>（武器の近くで）|<8006><white><triangle>　＝　<yellow>武器に乗る=<8006><white>(Near the vehicle)|<8006><white><triangle>: <yellow>Get on vehicle
+<8006><white>（武器の近くで）|<8006><white><triangle>　＝　<yellow>武器に乗る=<8006><white>(Near a vehicle)|<8006><white><triangle>: <yellow>Get on vehicle
 乗っている間は、<orange>左スティックで操作、|<white><square><orange>で攻撃<white>です。=While riding, use the <orange>left stick to move <white>and|<square> <orange>to attack.
 降りる時は、もう一度<triangle>です。=To get off, press <triangle> again.
-<bigtext><blackbold> パートナー武器乗り指示=<bigtext><blackbold> Partner Riding Instructions
-<8006><white>（武器の近くで）|<8006><white><R1a><R1b>　＝　<yellow>パートナーを武器に乗せる=<8006><white>(Near the vehicle)|<8006><white><R1a><R1b>: <yellow>Make partner get on the vehicle
+<bigtext><blackbold> パートナー武器乗り指示=<bigtext><blackbold> Partner Vehicle Instructions
+<8006><white>（武器の近くで）|<8006><white><R1a><R1b>　＝　<yellow>パートナーを武器に乗せる=<8006><white>(Near a vehicle)|<8006><white><R1a><R1b>: <yellow>Make partner get on the vehicle
 もう一度<R1a><R1b>を押すと、パートナーは|乗っている武器から降ります。=By pressing <R1a><R1b> again, the partner will get|off the vehicle.
 <bigtext><blackbold> リローダー=<bigtext><blackbold> Reloader
 <8006><white>大砲などには<orange>弾数制限<white>があります。=<8006><white>Cannons and similar weapons have a <orange>limited amount of ammunition.
