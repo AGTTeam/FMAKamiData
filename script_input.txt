@@ -2747,7 +2747,7 @@
 <edward>——そういえば、大佐。大佐こそ、|オレたちに、あんな手紙をよこして、|なにか裏があるんじゃねーのかよ。=<edward>Speaking of which, Colonel...|That also describes you. There must be more to that letter you sent us.
 <roy>——ん？=<roy>Huh?
 <edward>「ヴァルドラに賢者の石に関する噂がある」|オレたちに何かさせたくて、|こんな手紙で呼んだんだろ。=<edward>“There are rumors of the Philosopher's Stone in Valdolla". You drew us in with that letter to use us for something, right?
-<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>Well, there are legends in this town about a witch who gave herself to a “Red Demon", which sounds like the Philosopher's Stone.
+<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>Well, there are legends in this town about a witch who gave herself to a “Red Demon"|It sounds a bit like the Philosopher's Stone.
 <roy>——まぁ、お前たちが来たら、|せっかくだから少し手伝ってもらおうと|考えていたのも事実だがな……。=<roy>And it's true that, since you two had come here, I thought you might as well help us a little.
 <edward>あ——ったく！ いつもいつも、|そうやって、人をいいように|動かそうとしやがって……！=<edward>Aaargh, really! You're always trying to make people do whatever you want!
 <roy>ハハハ。まぁ、そう怒るな。|お前たちには、クレイギン将軍の動きに|注意してほしいのだ。=<roy>Ha ha ha! Don't get so angry.|I want you two to keep an eye on General Craigin's movements.
@@ -2859,7 +2859,7 @@
 <alphonse>兄さん……。=<alphonse>Brother...
 <edward>結局、間に合わなかったって|言うのかよ……！|ソフィに、なんて言やいいんだ……。=<edward>You're telling me that we were too late after all!?|What am I gonna say to Sophie now...?
 <alphonse>……そうだ、兄さん。|オベリスクは、どうしよう……？=<alphonse>It's okay, Brother.|What should we do about the obelisk?
-<edward>あ、ああ——。|そうだな、いまさらかもしれないけど、|とにかく封印しておこう。=<edward>Ah, yeah... I know it may be too late now,|but let's seal it anyway.
+<edward>あ、ああ——。|そうだな、いまさらかもしれないけど、|とにかく封印しておこう。=<edward>Ah, yeah... I know it may be too late already, but let's seal it anyway.
 <roy>鋼の……。=<roy>Fullmetal...
 <alphonse>大佐、大丈夫ですか？=<alphonse>Are you alright, Colonel?
 <roy>私のことなら心配ない。|それより、何が起こっているのか、|説明してもらいたい。=<roy>No need to worry about me. Rather, I'd like you to explain what's going on.
@@ -4034,7 +4034,7 @@
 <edward>……行こう。|アル、ウィンリィ……。=<edward>Let's go. Al, Winry...
 <roy>——ケガの具合はどうだ、中尉。=<roy>How are your injuries, Lieutenant?
 <riza>たいしたことありません。|大佐の方こそ、|ご無理をなさっては——。=<riza>They're nothing important. I'd rather ask you, Colonel, if you're pushing yourself too much.
-<roy>残念だが、のんびりしてもいられん。|戦死したクレイギン将軍に代わり、|私が、この街の臨時司令官に任命された。=<roy>Unfortunately, I can't take it easy. I've been appointed as temporary commandant of this city, replacing General Craigin, who was killed in action.
+<roy>残念だが、のんびりしてもいられん。|戦死したクレイギン将軍に代わり、|私が、この街の臨時司令官に任命された。=<roy>Sadly, I can't take it easy. I've been set up as temporary commandant of this city, after General Craigin was killed in action.
 <riza>そうですか……。|——ヴェルザの一族は、|みな、姿を消したとか？=<riza>Is that so?|I heard that Velza Clan has completely disappeared.
 <roy>ああ。北の山岳地帯、|彼らが住んでいた地へ|撤退したようだ。=<roy>They seem to have retreated to the northern mountains, where they used to live.
 <roy>ヴェルザ復活の望みがなくなった今、|こちらから手を出さん限りは、|襲ってくることもあるまい。=<roy>Now that they can't hope to revive Velza, they won't attack unless we make a move.
@@ -4087,7 +4087,7 @@
 <sophie>これからは、普通の女の子として、|生きていける……。|もう、私は１人じゃない……。=<sophie>From now on, I can live as a normal girl.|I'm not alone anymore...
 <sophie>いつでもいいわよ、|準備は出来てるわ。|これが、最後の戦いね……。=<sophie>I'm ready whenever you are.|This is the final battle.
 <sophie>……無事で良かった……。|私、２人に何かあったら、|どうしようかと……。=<sophie>I'm so glad you're safe... I don't know what I'd do if something happened to you two.
-<sophie>まだ、間に合うわ！ 今なら、ヴェルザの|復活を止めることができる……。|——急ぎましょう！=<sophie>We still have time! If we do it now, we can stop Velza's resurrection.|Let's hurry!
+<sophie>まだ、間に合うわ！ 今なら、ヴェルザの|復活を止めることができる……。|——急ぎましょう！=<sophie>We still have time! If we do it now, we|can stop Velza's resurrection.|Let's hurry!
 <sophie>２人は強いね……。|それに比べて私は……、|私にも、力があれば……。=<sophie>You two are so strong...|In comparison, I'm...|If I had that power...
 <sophie>命に代えても、|神の復活を止めてみせる……。|見ててね、父さん……。=<sophie>I'll stop the resurrection of the goddess, even at the price of my life.|Watch me, Dad...
 <sophie>あなたたちを信じるわ。|辛い戦いになると思うけど……。|——よろしくお願いします。=<sophie>I believe in you guys. Though I think it's going to be a tough battle.|Thank you very much.
