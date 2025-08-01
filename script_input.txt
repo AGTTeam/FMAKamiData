@@ -596,7 +596,7 @@
 <yellow>攻撃力が５上がり、防御力、錬成力が５％低下する<white>|数種類の動物から成る、キメラの牙=<yellow>Increases Attack by 5, and reduces Defense and Alchemy by 5%. <white>A fang from a chimera, created from several animals.
 <yellow>敵のガードに関係なく、ダメージを与えることができる<white>|ソフィが作った、サイの角を素材とする腕輪=<yellow>Deal damage regardless of enemies' blocking.<white>|An armlet made by Sophie from a rhino's horn.
 <yellow>カウンター成功時のダメージが、大きく増加する<white>|ソフィが作った、トラの爪を素材とする腕輪=<yellow>Successful counters deal much more damage.<white>|An armlet made by Sophie from a tiger's claw.
-<yellow>槍属性の攻撃にふっとばし効果がつく（一部対象外あり）<white>|ソフィが作った、グリズリーの爪を素材とする腕輪=<yellow>Adds a blow-out effect to lance attacks (with some exclusions). <white>An armlet made by Sophie from a grizzly's claw.
+<yellow>槍属性の攻撃にふっとばし効果がつく（一部対象外あり）<white>|ソフィが作った、グリズリーの爪を素材とする腕輪=<yellow>Adds a knock-back effect to lance attacks (with some exclusions). <white>An armlet made by Sophie from a grizzly's claw.
 <yellow>打撃攻撃で与えたダメージの２０％分、ＨＰが回復する<white>|ソフィが作った、コウモリの牙を素材とする腕輪=<yellow>20% of punch damage dealt is recovered as HP.<white>|An armlet made by Sophie from a bat's fang.
 <yellow>現在のＨＰが１００未満になると攻撃力が２倍に上昇する<white>|ソフィが作った、キメラの牙を素材とする腕輪=<yellow>When HP drops below 100, Attack doubles.<white>|An armlet made by Sophie from a chimera's fang.
 <yellow>手持ちの錬成武器が、無限に使える<white>|使っても減らない砥石、主婦の間で評判=<yellow>Transmuted hand weapons can be used indefinitely.<white>|A whetstone that doesn't wear out with use.#"popular among housewives." too long
@@ -1100,7 +1100,7 @@
 ヤッホ～☆どこ見てんのぉ？=Yoo-hoo! ☆Where are you looking?
 ＶＳ　ヴェルザの天使=VS Velza's Angels
 我が炎、味わうがいい！=Taste my flames!
-ＶＳ　ヴァルドラ機甲部隊=VS Valdolla's Armored Troops
+ＶＳ　ヴァルドラ機甲部隊=VS Valdolla's Tank Force
 超スーパーウルトラ…以下略=Hyper Super Ultra... (rest omitted)
 
 !FILE:0014_106.txt
@@ -2137,7 +2137,7 @@
 <smalltext>車の上の宝箱を開けよう！=<smalltext>Open the treasure chest on top of the car!
 <smalltext><R1a><R1b>押し続け＝協力ジャンプ[エド操作時]=<smalltext>Hold <R1a><R1b>: Alleyoop (while controlling Ed)
 <blackbold>アイテム<normal>【キャンディ】|<blackbold>を手に入れた！！=<blackbold>Got item|<normal>“Candy"
-<blackbold>にゃんこ<normal>【たま】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Tama"
+<blackbold>にゃんこ<normal>【たま】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Tama"
 <girl>うぅ……ぐすっ……。|お母さーん！ 熱いよぉ……！=<girl>*Sob...*|Mommy! It's hot!
 <edward>おい！ あんな所に女の子が！=<edward>Hey! There's a little girl over there!
 <alphonse>兄さん、ここはボクに任せて！！=<alphonse>Leave this to me, Brother!
@@ -2331,7 +2331,7 @@
 <alphonse>あのマンホールから|先へ進めるかもしれないね。|入ってみようよ、兄さん。=<alphonse>It seems we can move ahead through this manhole. Let's enter it, Brother.
 
 !FILE:0052_003/004.txt
-<blackbold>にゃんこ<normal>【えるうっど】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Elwood"
+<blackbold>にゃんこ<normal>【えるうっど】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Elwood"
 <alphonse>またリフトが止まってるね。|先に進むには、ここを上がらなきゃ|ダメみたいだけど……。=<alphonse>Another stopped lift.|We need to go up there to proceed but...|It doesn't seem possible.
 <edward>——しょうがない。|ここは、いったん引き返すしか|ないみたいだな。=<edward>Nothing to do about it.|It seems we'll have to turn back for now.
 
@@ -2356,7 +2356,7 @@
 <edward>ああ。どうやら、このあたりに|ヤバいヤツがいるみてーだな。|——気をつけろよ、アル。=<edward>Yeah. There must be someone dangerous in the area.|Be careful, Al.
 <guard>すさまじい冷気で……、|あっという間に部隊が……！=<guard>That terrible cold wave...|In the blink of an eye, the troops were...
 <guard>うう……気をつけろ……。|この先に……、|変なオカマがいる……。=<guard>Uuuh... Be careful.|Up ahead... there's that weird effeminate guy...
-<guard>…………………。|（返事がない、気を失っているようだ）=<guard>.........................|(There's no response, it seems he's unconscious.)
+<guard>…………………。|（返事がない、気を失っているようだ）=<guard>.........................|[There's no response, it seems he's unconscious.]
 <guard>くっ……なんて奴だ……、|銃が効かないなんて……。|……中尉……危険です……。=<guard>Uggh... That guy...|Guns seem to be useless against him...|The lieutenant... She's in danger...
 <guard>中尉が危ない……、|この先に１人で……。|君たち、中尉を頼む……！=<guard>The lieutenant's in danger...|She's all alone there...|You guys have gotta help her!
 
@@ -2497,7 +2497,7 @@
 はい=Yes
 いいえ=No
 列車に乗りますか？=Get on the train?
-<blackbold>にゃんこ<normal>【とらきち】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Tiger"
+<blackbold>にゃんこ<normal>【とらきち】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Tiger"
 <alphonse>街がヴェルザの一族に襲われてるのに、|地下鉄が運行してるなんて……。=<alphonse>It seems the train's running, Velza Clan's attack on the city...
 <edward>助かったぜ。|これで、線路の上を|歩いていかずにすみそーだ。=<edward>Perfect. That way we won't have to|walk on the railroad tracks.
 <alphonse>ちょ、ちょっと待ってよ、兄さん！|こんな時に列車が動いてるなんて、|少し変だと思わない？=<alphonse>Wa...Wait a moment, Brother!|Don't you think it's a bit strange that trains are working at a time like this?
@@ -2660,7 +2660,7 @@
 
 !FILE:0101_003/004.txt
 <smalltext><blackbold>アイテム<normal>【秘密指令書】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Secret Orders"
-<blackbold>にゃんこ<normal>【ばーにー】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Bernie"
+<blackbold>にゃんこ<normal>【ばーにー】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Bernie"
 <smalltext><blackbold>アイテム<normal>【悲しみのキズ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Wounds of Sadness"
 <alphonse>この部屋……。|なんか、ここが司令室っぽいね。=<alphonse>This room...|This seems to be the command room.
 <edward>司令室の隣に、ドアのロックを解除する|スイッチがあるって言ってたよな。|行ってみようぜ。=<edward>They said the switch to unlock the door was next to the command room.|Let's go and check it.
@@ -2946,7 +2946,7 @@
 <sophie>でも、行くしかないわ。|早くヴェルザを封印しなきゃ……！=<sophie>But we must continue. We have to seal Velza away quickly!
 
 !FILE:0126_003/004.txt
-<blackbold>にゃんこ<normal>【えすとらごん】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Tarragon"
+<blackbold>にゃんこ<normal>【えすとらごん】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Tarragon"
 
 !FILE:0128_003/004.txt
 <smalltext><blackbold>アクセサリ<normal>【セクスィーパンツ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Sexy Briefs"
@@ -3198,7 +3198,7 @@
 <blackbold>アイテム<normal>【牛肉（高）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Expensive Beef"
 <smalltext><blackbold>アクセサリ<normal>【絶望のくつした】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Despair Socks"
 <blackbold>アクセサリ<normal>【破れふんどし】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Torn Loincloth"
-<blackbold>にゃんこ<normal>【あさんどら】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Assandra"
+<blackbold>にゃんこ<normal>【あさんどら】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Assandra"
 <smalltext>敵に見つからないよう進みましょう=<smalltext>Go ahead without being discovered by enemies
 <edward>……チクショウ……。|腕さえ自由になりゃ、|錬金術が使えるってのに……。=<edward>Damn! If I had my arms free, at least, I could use alchemy...
 <edward>アル……ソフィ……|無事でいてくれ……。=<edward>Al... Sophie...|Please be safe...
@@ -3432,7 +3432,7 @@
 
 !FILE:0155_003/004.txt
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
-<blackbold>にゃんこ<normal>【まろん】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Chestnut"
+<blackbold>にゃんこ<normal>【まろん】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Chestnut"
 <edward>よし。このあたりの敵は|あらかた片づいたな。=<edward>Good. Most enemies around here are gone.
 <alphonse>城まで、もう少しだね。=<alphonse>We're almost at the castle.
 <edward>ああ。でも、油断するなよ、アル。|どんなヤツが待ち受けているか|分からねぇからな。=<edward>Yeah, but don't let your guard down, Al.|We don't know what may be waiting for us.
@@ -3489,7 +3489,7 @@
 <smalltext><blackbold>アイテム<normal>【秘密の史書（８）】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Secret Book (8)"
 
 !FILE:0172_002/004.txt
-<blackbold>にゃんこ<normal>【すさのお】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Susanoo"
+<blackbold>にゃんこ<normal>【すさのお】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Susanoo"
 
 !FILE:0173_003/004.txt
 <alphonse>ふぅ。|やっと、ここまで来たね。=<alphonse>Ufff! We finally made it.
@@ -3700,7 +3700,7 @@
 <roy>……そうか。|あの巨大な塔といい、怪物の群れといい、|容易ならざる事態だな……。=<roy>I see...|The situation isn't simple, with that giant tower and the hordes of monsters.
 <roy>——お前たちは、これから|どうするつもりだ？=<roy>What are you planning to do now?
 <alphonse>——ソフィを|連れていかれたのは、|ボクたちの責任です。=<alphonse>It's our fault that Sophie was taken away.
-<edward>たぶん、ソフィは、あの塔にいると思う。|あそこで、きっと|オレたちの助けを待ってる。=<edward>I think that Sophie's probably in that tower. She's surely there, waiting for|us to help her.#"tower" tips to the second line, leaving an awkward space after "that". Take out the newline if this is changing.
+<edward>たぶん、ソフィは、あの塔にいると思う。|あそこで、きっと|オレたちの助けを待ってる。=<edward>I think Sophie's probably in that tower, waiting for us to help her.
 <edward>行ってくるよ。|アイツを取り戻してくる。=<edward>We're going there.|We're going to take her back.
 <alphonse>決めたんです。|——たとえ、相手が神だろうと、|立ち向かってみせる……。=<alphonse>It's decided.|Even if our opponent is a god, we'll fight against it.
 <edward>オレたちは、|もう、迷わない。=<edward>We'll no longer waver.
@@ -3854,7 +3854,7 @@
 <godsoldier>——だが、止めなくてはならない。|私たちは間違っていた、|間違っていたのだ……！！=<godsoldier>And yet we must stop her.|We were mistaken, we were so mistaken!
 
 !FILE:0215_003/004.txt
-<blackbold>にゃんこ<normal>【くろーでぃあす】|<blackbold>を拾った！！=<blackbold>Found cat <normal>“Clawdius"
+<blackbold>にゃんこ<normal>【くろーでぃあす】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Clawdius"
 
 !FILE:0216_003/004.txt
 <alphonse>最上階……。|きっと、ソフィは|この先だね……。=<alphonse>The top floor...|Sophie must be up ahead.
@@ -4574,9 +4574,9 @@
 <sophie>北の大地の贈り物——。|ヴァルドラのタマネギは、|野菜の一流ブランドといわれてるの。=<sophie>A gift from the northern lands...|Valdolla onions are said to be a top-quality brand of vegetables.
 <sophie>攻撃力がちょっと高めで、|涙なしでは調理できないけど、|栄養満点で、身体にもいいのよ♪=<sophie>They're a bit too strong, and you can't cook them without crying. But they're healthy and full of nutrients. ♪
 <sophie>よーし！|このタマネギで何を作るか、|私の腕の見せどころね！=<sophie>Alright! Now it's time to show off my skills, and what I can do with these onions!
-<sophie>——好き！ 好き！ 大好き！！|ジャガイモっていったら、|やっぱり、ジャガバターよねッ！=<sophie>Love them! Love them! I love them!!|Whenever I see potatoes, I think of|potato butter!
+<sophie>——好き！ 好き！ 大好き！！|ジャガイモっていったら、|やっぱり、ジャガバターよねッ！=<sophie>Love them! Love them! I love them!!|Whenever I see potatoes, I think of|buttered potatoes!
 <sophie>ホクホクのジャガイモと|トロけるバターのハーモニー……。|——あぁん、ヨダレでちゃうッ！！=<sophie>The harmony of soft potatoes and|melting butter...|Aaaah, I'm drooling!
-<sophie>バターがないから、|ジャガバターは無理だけど、|他に何か作れないか、考えてみるね♪=<sophie>I don't have any butter, so potato butter is out of the question.|But I'll think of something else to cook. ♪
+<sophie>バターがないから、|ジャガバターは無理だけど、|他に何か作れないか、考えてみるね♪=<sophie>I don't have any butter, so buttered potatoes is out of the question.|But I'll think of something else to cook. ♪
 <sophie>あら、このニンジン、|先っぽが２つに分かれてるじゃない、|突然変異ってヤツかしら……？=<sophie>Oh, this carrot has a forked end.|I wonder if it's a mutation...
 <sophie>……２人は、マンドラゴラって知ってる？|人の形をした植物で、引っこ抜くと、|死を招く金切り声を上げるっていう……。=<sophie>You two know about mandragoras? They're human-shaped plants, and when uprooted, they howl a shrill and deadly cry.
 <sophie>マンドラゴラも、このニンジンみたく、|足が２つに分かれてるんですって。|なんだか似てるわね、フフフ……。=<sophie>Like this carrot, mandragoras also have two legs. They look so similar, heh heh!
@@ -4674,12 +4674,12 @@
 <sophie>ヴェルザの依り代である肉体に|赤き石を埋めこめば|ヴェルザは再び目を覚ます=<sophie>This red stone must be embedded in the body that is to serve as Velza's vessel.|Then Velza will wake once more.
 <sophie>ヴェルザの完全たる復活には|ヴェルザの新たな肉体——|ヴェルザの血を継ぐ肉体が必要となる=<sophie>Thus, a new body is needed for Velza's complete resurrection...|A body that carries her blood.
 <sophie>「考察」=<sophie>“Thoughts"
-<sophie>最愛の娘を|目の前で殺されたのだ|憎まないはずがない=<sophie>My beloved daughter was killed before my eyes. How could I not hate them?
-<sophie>最も信頼していた夫に|裏切られたのだ|絶望しないはずがない=<sophie>My most trusted husband betrayed me. How could I not despair?
-<sophie>己が助けた民衆に|恩を仇で返され、殺されかけたのだ|だれが、まっとうでいられよう=<sophie>The people I helped repaid good with evil and almost killed me. Who remains honest anymore?
-<sophie>特別な力を持つがゆえの苦しみ|己の持つ、絶大なる力を呪い|神を呪い、己を呪い、すべてを呪った=<sophie>These special powers I hold are the cause of my pain. I curse this great power.|I curse god. I curse myself.|I cursed everything.
-<sophie>永久に救われぬだろう|堕ちることを選んだ|それは、必然だったのだ=<sophie>I will never be saved. I chose to fall. It was inevitable.
-<sophie>以上が、魔女ヴェルザに関する|ヴァルドラの史書である|——ヴィクトール・ベルクマン=<sophie>The above is the history of Valdolla, concerning the witch Velza.|-Victor Bergmann.
+<sophie>最愛の娘を|目の前で殺されたのだ|憎まないはずがない=<sophie>She watched her beloved daughter be killed right before her eyes. How could she not hate them?
+<sophie>最も信頼していた夫に|裏切られたのだ|絶望しないはずがない=<sophie>She was betrayed by her husband, the person she trusted the most. How could she not despair?
+<sophie>己が助けた民衆に|恩を仇で返され、殺されかけたのだ|だれが、まっとうでいられよう=<sophie>The people she saved repaid her kindness with cruelty and almost killed her. Who could stay sane after that?
+<sophie>特別な力を持つがゆえの苦しみ|己の持つ、絶大なる力を呪い|神を呪い、己を呪い、すべてを呪った=<sophie>The special powers she possessed were the very the cause of her pain. She cursed her immense power, cursed god, cursed herself.|She cursed everything.
+<sophie>永久に救われぬだろう|堕ちることを選んだ|それは、必然だったのだ=<sophie>There was no salvation left for her. She chose to fall. It was inevitable.
+<sophie>以上が、魔女ヴェルザに関する|ヴァルドラの史書である|——ヴィクトール・ベルクマン=<sophie>The above is a historical account from  Valdolla, concerning the witch Velza.|-Victor Bergmann.
 <sophie>一枚の手紙がはさまれていた=<sophie>A letter was tucked inside.
 <sophie>「最愛の娘、ソフィへ」=<sophie>“To my beloved daughter, Sophie."
 <sophie>父さんは罪を犯した|それは、人としての罪|許されない罪だ=<sophie>Your father has committed a sin.|An unforgivable sin.
@@ -4807,7 +4807,7 @@
 <sophie>——こっ、これは！|正義のヒーロー、月光ニャンコの熱き魂、|白銀に煌く、月のメダル——！！=<sophie>What's this!? The fiery soul of the hero of justice, Moonlight Kitten. The silvery, shiny Moon Medal!!
 <sophie>悪事を許せぬ月光ニャンコ……。|ヴァルドラに渦巻く危機を察して、|深き眠りから今、目覚めるのね——！！=<sophie>Moonlight Kitten doesn't allow evil to exist. Sensing the crisis swirling around Valdolla, he has awoken from his deep slumber!!
 <sophie>……って、ドキドキのバックストーリーを|妄想してみたところで、|このメダルはアルの物よ♪=<sophie>I just imagined this thrilling backstory, but the medal belongs to Al. ♪
-<sophie>——こっ、これは！ 銀河の殺戮者、|猫型宇宙ロボット「ニャンコゥ」を封ぜし、|星のメダル——！！=<sophie>What's this!? The Star Medal that sealed away that galactic killer, the cat-shaped space robot, “Kitty"!!
+<sophie>——こっ、これは！ 銀河の殺戮者、|猫型宇宙ロボット「ニャンコゥ」を封ぜし、|星のメダル——！！=<sophie>What's this!? The Star Medal that sealed away that galactic killer, the cat-shaped space robot, “Kittie"!!
 <sophie>……………………！|……………………！|……………………！=<sophie>.........................!|.........................!|.........................!
 <sophie>……って、ムリヤリな|バックストーリーを妄想してみたけど、|ムリヤリすぎて、続かなかったわ。=<sophie>Well, I improvised a far-fetched backstory, but it was too outlandish, and I couldn't continue with it.
 <sophie>ごめんね……。|というわけで、|このメダルはアルの物よ♪=<sophie>Sorry...|Anyway, this medal belongs to Al. ♪
@@ -4854,7 +4854,7 @@
 <sophie>——だめよ！|せっかく、ウィンリィが|作ってくれたんじゃない！=<sophie>No! Winry put her whole heart into making this!
 <sophie>そのベストは、|きっと２人を守ってくれるわ……。|大切にしてあげてね。=<sophie>This vest will surely protect you two.|Take good care of it.
 <sophie>せっかく、私とウィンリィが|力を合わせて作ったのに……。|もーっ、大事にしてよ！=<sophie>Winry and I put our strength together to make this.|Please, take good care of it!
-<sophie>そのベストって、ものすっごく|貴重な素材を使ってるんでしょ……？|役立つ物は、持っておいた方がいいよ。=<sophie>That vest is made of extremely valuable materials, right?|Better have something useful at hand.
+<sophie>そのベストって、ものすっごく|貴重な素材を使ってるんでしょ……？|役立つ物は、持っておいた方がいいよ。=<sophie>That vest is made of extremely valuable materials, right?|It might be useful, so you should hang onto it.
 <sophie>防弾チョッキ……。|……心配してくれるのは嬉しいけど、|これがなくて２人は平気なの？=<sophie>A bulletproof vest...|I'm glad you're worried about me, but|will you two be okay without this?
 <alphonse>大丈夫だよ。ボクの身体は、|銃弾なんか効かないし、兄さんは、|弾が当たるほど大きくないしね。=<alphonse>It's fine. Bullets can't damage my body, and my brother is too small to be hit by them.
 <sophie>ふふっ……。|エドが聞いたら怒るわよ……。=<sophie>Heh heh!|Ed will be furious if he hears that.
@@ -4935,8 +4935,8 @@
 <sophie>キャーッ！！|かわいいエプロンね。|ニャンコ戦隊ニャーレンジャー！！=<sophie>Yeeeeaaah!! A cute apron: Power Kitty Rangers!!
 <sophie>………すっごく欲しいけど、|サイズも違うし、アルにゆずるわ。|でも、たまにさわらせてね♪=<sophie>I really want it, but it's not my size so I'll give it to you, Al.|But let me touch it from time to time. ♪
 <sophie>まぁ、ハヤテくんのエプロン！|中尉さんと一緒で幸せそうね、|いいなぁ、こういうの……。=<sophie>Oh, an apron of Hayate!|He looks so happy with the Lieutenant,|I like it.
-<sophie>これを着て外に出るのは|ちょっぴり恥ずかしいけど……。|いつか、私もニャンコと作りたいな……。=<sophie>But it's a bit embarrassing going out with this... Someday, I'd like to make one with Kitty too.
-<sophie>あのパンダちゃん、|名前をシャオメイっていうらしいの。|ニャンコとも仲良くやってるよ。=<sophie>It seems the name of that panda is Shao May. She's on good terms with Kitty.
+<sophie>これを着て外に出るのは|ちょっぴり恥ずかしいけど……。|いつか、私もニャンコと作りたいな……。=<sophie>But it's a bit embarrassing going out with this... Someday, I'd like to make one with the kitties too.
+<sophie>あのパンダちゃん、|名前をシャオメイっていうらしいの。|ニャンコとも仲良くやってるよ。=<sophie>It seems the name of that panda is Shao May. She's on good terms with the kitties.
 <sophie>シャオメイのエプロン……？|あら、あの子、人を襲ってるわ……、|それも、パーフェクトスマイルで……。=<sophie>An apron of Shao May?|Hey, that little one is attacking a guy... And with a perfect smile.
 <sophie>かじられてるチョビヒゲさん、|不幸そうな顏してるわね……。|誰なのかしら、いったい……？=<sophie>The guy with the small mustache who's being bitten looks unhappy.|I wonder who he is?
 <sophie>——たるんだ腹巻き！|伸びきったゴムは、使いこんだ証！|生活感の勲章ねッ……！！=<sophie>A loose bellyband! The stretched elastic|is proof that it's been worn a lot!|It gives a feeling of daily use...
