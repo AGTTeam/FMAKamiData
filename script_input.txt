@@ -1872,7 +1872,7 @@
 <yellow>転がっていって敵を攻撃する石球を錬成<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute a stone ball that rolls around attacking enemies<white>|・While holding <L2a><L2b>, press <circle>
 <yellow>敵を吸い寄せる吸引マシンを錬成<white>|・<L2a><L2b>押しながら<square>=<yellow>Transmute a suction machine that attracts enemies<white>|・While holding <L2a><L2b>, press <square>
 <yellow>長時間持続する吸引マシンを錬成<white>|・<L2a><L2b>押しながら<square>=<yellow>Transmute a suction machine that works for a long time<white>|・While holding <L2a><L2b>, press <square>
-<yellow>より長い時間持続する吸引マシンを錬成<white>|・<L2a><L2b>押しながら<square>=<yellow>Transmute a suction machine that works for even a longer time<white>|・While holding <L2a><L2b>, press <square>
+<yellow>より長い時間持続する吸引マシンを錬成<white>|・<L2a><L2b>押しながら<square>=<yellow>Transmute a suction machine that works for an even longer time<white>|・While holding <L2a><L2b>, press <square>
 <yellow>高くジャンプするための石柱を錬成<white>|・<L2a><L2b>押しながら<cross>=<yellow>Transmute a stone pillar to jump higher<white>|・While holding <L2a><L2b>, press <cross>
 <yellow><yellow>敵が接近するか、攻撃すると爆発する地雷を錬成<white>|・<L2a><L2b>押しながら<triangle>=<yellow>Transmute a mine that explodes when enemies approach<white>|・While holding <L2a><L2b>, press <triangle>
 <yellow>地雷を２コ錬成可能<white>|・<L2a><L2b>押しながら<triangle>=<yellow>Transmute two mines<white>|・While holding <L2a><L2b>, press <triangle>
