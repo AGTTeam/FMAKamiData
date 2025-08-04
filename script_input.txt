@@ -196,9 +196,9 @@
 メタルベスト=Fullmetal Vest
 ※アクセサリ予備用３１=Accessory Slot 31
 防弾チョッキ=Bulletproof Vest
-防弾チョッキＳ=Bulletproof Vest (S)
+防弾チョッキＳ=Bulletproof Vest+
 耐熱マント=Fireguard Cloak
-耐熱マントＳ=Fireguard Cloak (S)
+耐熱マントＳ=Fireguard Cloak+
 白銀のマント=Silver Cloak
 防寒コート=Winter Coat
 ※アクセサリ予備用３３=Accessory Slot 33
@@ -235,7 +235,7 @@
 ※アクセサリ予備用４５=Accessory Slot 45
 ※アクセサリ予備用４６=Accessory Slot 46
 鉄ゲタ=Iron Sandals
-強化鉄ゲタ=Iron Sandals (S)#Reinforced Iron Sandals
+強化鉄ゲタ=Iron Sandals+#Reinforced Iron Sandals
 リストウエイト=Wrist Weights
 アンクルウエイト=Ankle Weights
 ※アクセサリ予備用４７=Accessory Slot 47
@@ -821,9 +821,9 @@
 エドスキル：<yellow>壁Ｌｖ３<white>が=Ed skill: <yellow>Rockblocker Lv.3<white>
 エドスキル：<yellow>突起Ｌｖ２<white>が=Ed skill: <yellow>Stonespikes Lv.2<white>
 エドスキル：<yellow>突起Ｌｖ３<white>が=Ed skill: <yellow>Stonespikes Lv.3<white>
-<yellow>爆弾<white>を<yellow>集束爆弾<white>に=<yellow>Bomb<white> becomes<yellow> Focused Bomb<white>
-<yellow>牛さん<white>を<yellow>猛牛<white>に=<yellow>Miss Cow<white> becomes<yellow> Raging Bull<white>
-<yellow>閃光弾<white>を<yellow>打ち上げ花火<white>に=<yellow>Flash Bullet<white> becomes<yellow> Skyrocket Fireworks<white>
+<yellow>爆弾<white>を<yellow>集束爆弾<white>に=<yellow>Bomb<white> becomes<yellow> Focused |Bomb<white>
+<yellow>牛さん<white>を<yellow>猛牛<white>に=<yellow>Miss Cow<white> becomes<yellow> Raging |Bull<white>
+<yellow>閃光弾<white>を<yellow>打ち上げ花火<white>に=<yellow>Flash Bullet<white> becomes<yellow> |Skyrocket Fireworks<white>
 アルスキル：石球ＬＶ２が ※削除！=Al skill: Stone Ball Lv.2 - Deleted!
 アルスキル：石球ＬＶ３が ※削除！=Al skill: Stone Ball Lv.3 - Deleted!
 アルスキル：<yellow>吸引Ｌｖ２<white>が=Al skill: <yellow>Vacuum Lv.2<white>
@@ -832,9 +832,9 @@
 アルスキル：<yellow>地雷Ｌｖ３<white>が=Al skill: <yellow>Land Mine Lv.3<white>
 アルスキル：<yellow>突起Ｌｖ２<white>が=Al skill: <yellow>Stonespikes Lv.2<white>
 アルスキル：<yellow>突起Ｌｖ３<white>が=Al skill: <yellow>Stonespikes Lv.3<white>
-<yellow>手裏剣<white>を<yellow>強化手裏剣<white>に=<yellow>Shuriken<white> becomes<yellow> Enhanced Shuriken<white>
-<yellow>鉄球<white>を<yellow>トゲつき鉄球<white>に=<yellow>Iron Ball<white> becomes<yellow> Spiked Iron Ball<white>
-<yellow>クレーン<white>を<yellow>トゲつきクレーン<white>に=<yellow>Crane<white> becomes<yellow> Spiked Crane<white>
+<yellow>手裏剣<white>を<yellow>強化手裏剣<white>に=<yellow>Shuriken<white> becomes<yellow> |Enhanced Shuriken<white>
+<yellow>鉄球<white>を<yellow>トゲつき鉄球<white>に=<yellow>Iron Ball<white> becomes<yellow> |Spiked Iron Ball<white>
+<yellow>クレーン<white>を<yellow>トゲつきクレーン<white>に=<yellow>Crane<white> becomes<yellow> Spiked |Crane<white>
 
 !FILE:0014_091.txt
 ヴァルドラ・１番街=Valdolla: 1st District
@@ -1000,7 +1000,7 @@
 仕掛け部屋Ｃ=Trap Room C
 古城・最上階=Old Castle: Top Floor
 古城・屋上=Old Castle: Rooftop
-ヴェルザの間=Velza's Room
+ヴェルザの間=Velza's Chamber
 （※欠番？２３※）=(Missing number)
 （※欠番？２４※）=(Missing number)
 （※欠番？２５※）=(Missing number)
@@ -1625,10 +1625,10 @@
 !FILE:1211_004.txt
 鋼の錬金術師３=Fullmetal Alchemist 3
 四神官=The Four Priests
-大佐＆少佐=Colonel & Major
+大佐＆少佐=Colonel and Major
 ソフィとノルン=Sophie and Norn
 一族を抜ける２人=Two leaving home
-父とソフィ=Dad and Sophie
+父とソフィ=Sophie and her father
 殺された父=Murdered father
 捕まったエド=Captured Ed
 クレイギンと部下たち=Craigin and his men
@@ -1638,12 +1638,12 @@
 出撃するロイたち=Roy and co. charging
 ヴィーナス隊の３人=The three members of Venus corps
 囚われたソフィ=Sophie is imprisoned
-かつての２人=The former two of us
+かつての２人=Two as they once were
 造られた神の器=A vessel made for a goddess
 ホークアイに迫る影=A shadow approaching Hawkeye
 奮闘アームストロング=The fierce Armstrong
 苦戦のロイ=Roy fighting hard
-豪腕の拳=Strong arm's fist
+豪腕の拳=Strong Arm's fist
 病室のソフィ=Sophie in the hospital
 病室を見上げる３人=Three looking up at the hospital
 病室のロイとホークアイ=Roy and Hawkeye at the hospital
@@ -1663,7 +1663,7 @@
 古城=Old castle
 ヴェルザの神殿=The Temple of Velza
 神殿内通路=A passage inside the temple
-神殿内ヴェルザの間=Velza's room inside the temple
+神殿内ヴェルザの間=Velza's chamber
 設定・ソフィ１=Model: Sophie 1
 設定・ソフィ２=Model: Sophie 2
 設定・ゼルギウス１=Model: Zelgius 1
@@ -1816,7 +1816,7 @@
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　第四封の間=<orange>Material area| <yellow>Old Castle<white>　Fourth Seal's Room
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ｃ=<orange>Material area| <yellow>Old Castle B<white>　Trap Room C
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　脊髄の間Ａ=<orange>Material area| <yellow>Temple<white>　Spinal Cord Chamber A
-<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　ヴェルザの間=<orange>Material area| <yellow>Old Castle B<white>　Velza's Room
+<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　ヴェルザの間=<orange>Material area| <yellow>Old Castle B<white>　Velza's Chamber
 
 !FILE:1211_006.txt
 ？？？=???
@@ -1839,9 +1839,9 @@
 <yellow>敵を攻撃する突起を錬成<white>|・<circle>を押す=<yellow>Transmute Stonespikes to attack enemies<white>|・Press <circle>
 <yellow>広い範囲に突起を錬成<white>|・<circle>押してエドの右手が光ったら放す（溜め押し）=<yellow>Transmute Stonespikes in a wide area (charge press)<white>|・Press <circle> and release when Ed's right hand glows
 <yellow>エドの周囲全体に突起を錬成<white>|・<circle>長く押してエドの右手が強く光ったら放す（溜め押し）=<yellow>Transmute Stonespikes all around Ed (charge press)<white>|・Hold <circle> and release when Ed's right hand glows strongly
-<yellow>敵からの攻撃を防ぐ壁を錬成<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute a rockblocker to protect against enemy attacks<white>|・While holding <L2a><L2b>, press <circle>
-<yellow>壁を２枚錬成可能<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute two rockblockers<white>|・While holding <L2a><L2b>, press <circle>
-<yellow>壁を３枚錬成可能<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute three rockblockers<white>|・While holding <L2a><L2b>, press <circle>
+<yellow>敵からの攻撃を防ぐ壁を錬成<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute a Rockblocker to protect against enemy attacks<white>|・While holding <L2a><L2b>, press <circle>
+<yellow>壁を２枚錬成可能<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute two Rockblockers<white>|・While holding <L2a><L2b>, press <circle>
+<yellow>壁を３枚錬成可能<white>|・<L2a><L2b>押しながら<circle>=<yellow>Transmute three Rockblockers<white>|・While holding <L2a><L2b>, press <circle>
 <yellow>連続攻撃に優れる槍を錬成<white>|・<L2a><L2b>押しながら<square>=<yellow>Transmute a lance ideal for combo attacks<white>|・While holding <L2a><L2b>, press <square>
 <yellow>一撃の威力の大きい大剣を錬成<white>|・<L2a><L2b>押しながら<triangle>=<yellow>Transmute a large sword with great power in each strike<white>|・While holding <L2a><L2b>, press <triangle>
 <yellow>ガードを貫通、物も壊せるハンマーを錬成<white>|・<L2a><L2b>押しながら<cross>=<yellow>Transmute a hammer that can break objects and blocks<white>|・While holding <L2a><L2b>, press <cross>
@@ -2068,12 +2068,12 @@
 <bigtext><blackbold> セーブポイント=<bigtext><blackbold> Save Point
 （セーブポイント内で）|<8006><white><square>/<circle>　＝　<yellow>セーブ画面を開く=(Inside the Save Point)|<8006><white><square>/<circle>: <yellow>Open Save screen
 セーブ画面を開いた時に、|<orange>エドとアルのＨＰが全回復<white>します。=When you open the Save screen,|<orange>Ed and Al's HP<white> will be fully recovered.
-<bigtext><blackbold> スキル錬成「壁」=<bigtext><blackbold> Skill Transmutation “Rockblocker"
+<bigtext><blackbold> スキル錬成「壁」=<bigtext><blackbold> “Rockblocker" Transmutation
 <8006><white><L2a><L2b>押しながら<circle>　＝　<yellow>「壁」を錬成=<8006><white>Press <circle> while holding <L2a><L2b>: <yellow>Create Rockblocker
-敵の攻撃を防ぐ「壁」を錬成します。=Creates a rockblocker which can|shield you from enemy attacks.
-壁に向かって進み続けると、|<orange>自動で上に乗る<white>こともできます。=If you keep walking towards the rockblocker, <orange>you will climb onto|it <white>automatically.
+敵の攻撃を防ぐ「壁」を錬成します。=Creates a rockblocker which can shield you from enemy attacks.
+壁に向かって進み続けると、|<orange>自動で上に乗る<white>こともできます。=If you keep walking towards a rockblocker, <orange>you will climb onto it <white>automatically.
 ※修得したスキルは、キャンプ画面|『ステータス』で確認できます。=※You can check learned skills in the “Status" menu.
-<smalltext><L2a><L2b>押しながら<circle>　＝　<yellow>「壁」を錬成=<smalltext>Press <circle> while holding <L2a><L2b>: <yellow>Create Rockblocker
+<smalltext><L2a><L2b>押しながら<circle>　＝　<yellow>「壁」を錬成=<smalltext>Press <circle> while holding <L2a><L2b>: Create Rockblocker
 <smalltext><square>/<circle>　＝　宝箱を開ける=<smalltext><square>/<circle>: Open treasure chest
 <smalltext>アクセサリの装備：キャンプ画面=<smalltext>Equip accessories: Main Menu
 <smalltext>車の上にある宝箱を開けよう！=<smalltext>Open the treasure chest on top of the car!
@@ -2102,7 +2102,7 @@
 <smalltext><L1a><L1b>押しっぱなし＝敵をロックオン（一定範囲内）=<smalltext>Hold <L1a><L1b>: Lock on to enemy (within a certain range)
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
 <smalltext><square>＝攻撃=<smalltext><square>: Attack
-<smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies
+<smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies.
 <alphonse>あっ！ 兵隊さんたちが！！=<alphonse>Ah! Those soldiers...!
 <edward>何モンだ、コイツら……。=<edward>What's going on with these guys?
 <alphonse>気をつけて兄さん！|——来るよ！！=<alphonse>Careful, Brother!|They're coming at us!!
@@ -2128,7 +2128,7 @@
 <8006><white><R1a><R1b>　＝　<yellow>待機/行動　の切り替え=<8006><white><R1a><R1b>: <yellow>Switch between Standby/Action
 直接操作していないキャラクターにも|<R1a><R1b>で指示を出すことができます。=You can give instructions to characters not directly controlled by pressing <R1a><R1b>.
 <bigtext><blackbold> パートナーを呼ぶ=<bigtext><blackbold> Call Your Partner
-<8006><white><R1a><R1b>押し続け　＝　<yellow>呼び寄せる=<8006><white>Hold <R1a><R1b>: <yellow>Summon the partner
+<8006><white><R1a><R1b>押し続け　＝　<yellow>呼び寄せる=<8006><white>Hold <R1a><R1b>: <yellow>Summon your partner
 離れた所にいるパートナーを、近くに|呼び寄せます。=Makes the partner come to you when they're far away.
 <bigtext><blackbold> 協力ジャンプ=<bigtext><blackbold> Cooperative Jump
 <8006><white>（アルが近くにいる時に）|<R1a><R1b>押し続け　＝　<yellow>協力ジャンプ=<8006><white>(When Al is close by)|Hold <R1a><R1b>: <yellow>Alleyoop (Cooperative jump)
@@ -2198,7 +2198,7 @@
 !FILE:0039_003/004.txt
 <bigtext><blackbold> 特殊攻撃=<bigtext><blackbold> Special Moves
 <8006><white><square>＋<cross>同時押し　＝　<yellow>足払い=<8006><white>Press <square> ＋ <cross> simultaneously: <yellow>Foot sweep
-<8006><white>（走りながら）|<8006><square>＋<cross>同時押し　＝　<yellow>スライディング[エド]|       <white>　＝　<yellow>踏みつけ[アル]=<8006><white>(While running)|<8006>Press <square> ＋ <cross> simultaneously: <yellow>Slide kick (Ed)|                                        <white>  <yellow>Trample (Al)
+<8006><white>（走りながら）|<8006><square>＋<cross>同時押し　＝　<yellow>スライディング[エド]|       <white>　＝　<yellow>踏みつけ[アル]=<8006><white>(While running)|<8006>Press <square> ＋ <cross> simultaneously: <yellow>Slide kick (Ed)|                                           <white>  <yellow>Trample (Al)
 ダウンした敵へ、追い撃ちができます。=You can continue attacking fallen enemies.
 <bigtext><blackbold> ジャストアタック=<bigtext><blackbold> Accu-Strike
 連続攻撃時、特定のタイミングで|攻撃ボタンを押すと、通常より強力な|<orange>ジャストアタック<white>が出ます。=Pressing the Attack button at the right moment during combos will cause you to perform a powerful <orange>Accu-Strike<white>.
@@ -2209,17 +2209,17 @@
 <8006><white><R2a><R2b>　＝　<yellow>ガード=<8006><white><R2a><R2b>: <yellow>Block
 <8006><white>（移動しながら）|<8006><R2a><R2b>　＝　<yellow>回避行動[エドのみ]=<8006><white>(While moving)|<8006><R2a><R2b>: <yellow>Dodge (only Ed)
 <8006><white>（敵の攻撃に合わせて）|<8006><R2a><R2b>　＝　<yellow>カウンター=<8006><white>(When attacked by an enemy)|<8006><R2a><R2b>: <yellow>Counter
-敵の攻撃に合わせ、タイミングよく<R2a><R2b>で|強力な<orange>カウンター攻撃<white>を出せます。=Press <R2a><R2b> when an enemy attacks to unleash a powerful <orange>counterattack.
+敵の攻撃に合わせ、タイミングよく<R2a><R2b>で|強力な<orange>カウンター攻撃<white>を出せます。=Press <R2a><R2b> when an enemy attacks to unleash|a powerful <orange>counterattack.
 <bigtext><blackbold> 受け身=<bigtext><blackbold> Safe Fall
 <8006><white>（吹き飛ばされた時）|<8006><cross>　＝　<yellow>受け身[エドのみ]=<8006><white>(When blown away)|<8006><cross>: <yellow>Breakfall (only Ed)
 エドは、敵の攻撃で吹き飛ばされた時、|すばやく<cross>で<orange>受け身<white>を取れます。=When Ed is knocked into the air by an enemy attack, he can perform a <orange>breakfall <white>by quickly pressing <cross>.
 <smalltext><white>敵の攻撃に合わせて<R2a><R2b>＝カウンター=<smalltext><white>Press <R2a><R2b> when an enemy attacks: Counter
-<smalltext><white>（吹き飛ばされた時）<cross>＝受け身[エド操作時]=<smalltext><white>(When blown away) <cross>: Breakfall (while controlling Ed)
+<smalltext><white>（吹き飛ばされた時）<cross>＝受け身[エド操作時]=<smalltext><white>Press <cross> when blown away: Breakfall (while controlling Ed)
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
-<smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies
+<smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies.
 
 !FILE:0041_003/004.txt
-<bigtext><blackbold> アルのスキル錬成「石球」=<bigtext><blackbold> Al's Skill “Stone Ball"#"Transmutation" too long
+<bigtext><blackbold> アルのスキル錬成「石球」=<bigtext><blackbold> “Stone Ball" Transmutation
 <8006><white>（アル操作時）|<8006><L2a><L2b>押しながら<circle>　＝　<yellow>「石球」を錬成=<8006><white>(While controlling Al)|<8006>Press <circle> while holding <L2a><L2b>: Transmute a|Stone Ball
 錬成した「石球」を<square>で攻撃すると、|転がっていって敵を弾き飛ばします。=Attack the Stone Ball with <square> and it will|roll over enemies and knock them down.
 ただし、跳ね返ってきた石球に当たると|エドやアルもダメージを受けてしまうので|注意してください。=However, keep in mind that if Ed or Al are hit by the bouncing ball, they'll also receive damage.
@@ -2242,7 +2242,7 @@
 <8006><white>（ＳＰゲージＭＡＸ時に）|<8006><circle>＋<triangle>同時押し　＝　<yellow>スぺシャルアタック=<8006><white>(When the SP gauge is full)|<8006>Press <circle> ＋ <triangle> simultaneously: <yellow>Special Attack
 <orange>ＳＰゲージ<white>は、攻撃を敵に当てた時などに|少しずつ上昇します。=The <orange>SP gauge <white>fills up progressively as you attack enemies.
 <smalltext><blackbold>アクセサリ<normal>【金のピアス】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Gold Earring"
-<smalltext>（ゲージＭＡＸ時）<circle>＋<triangle>＝スぺシャルアタック=<smalltext>(When SP gauge is full) <circle> ＋ <triangle>: Special Attack
+<smalltext>（ゲージＭＡＸ時）<circle>＋<triangle>＝スぺシャルアタック=<smalltext>Press <circle> ＋ <triangle> when the SP gauge is full: Special Attack
 <winry>な…なによ、アンタたちッ！？|ちょっと！|寄ってこないでよッ……！！=<winry>Wh...Who are you!? Wait!|Don't come any closer!!
 <winry>イヤァァァァッ！！|助けてーっ！！|エド——ッ！！ アル——ッ！！=<winry>Aaaaaah!! Help meee!|Ed! Al!
 <alphonse>——兄さん！！=<alphonse>Brother!
@@ -2272,13 +2272,13 @@
 <smalltext>アイテムの使用：キャンプ画面=<smalltext>Use item: Main Menu
 <smalltext>怪しい場所を調べよう！=<smalltext>Examine any suspicious places!
 <smalltext><blackbold>アイテム<normal>【回復薬（小）】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Elixir (S)"
-<bigtext><blackbold> ２周目以降のプレイ=<bigtext><blackbold> Second and subsequent plays
-<yellow>【引き継がないもの】<white>|・キャラクターの<orange>レベルとＥＸＰ<white>|（レベル１、ＥＸＰは０からスタート）=<yellow>Things that are not transferred<white>|・Characters' <orange>Level and EXP<white>|(Start from Level 1 with 0 EXP)
-|<yellow>【引き継ぐもの】<white>|・持っている<orange>アイテムとアクセサリ<white>|・ソフィへの<white>プレゼントの状況<white>|・未使用の<orange>ボーナスポイント<white>|・修得している<orange>スキル錬成と| オブジェの再錬成能力<white>=|<yellow>Things that are transferred<white>|・Current <orange>items and accessories<white>|・Status of <orange>Sophie's presents<white>|・Unused <orange>Bonus points<white>|・Acquired <orange>Skill transmutations|・Ability to re-transmute objects<white>
+<bigtext><blackbold> ２周目以降のプレイ=<bigtext><blackbold> New Game+
+<yellow>【引き継がないもの】<white>|・キャラクターの<orange>レベルとＥＸＰ<white>|（レベル１、ＥＸＰは０からスタート）=<yellow>Things that are not transferred<white>|・Characters' <orange>Level and EXP<white>|(You start from Level 1 with 0 EXP)
+|<yellow>【引き継ぐもの】<white>|・持っている<orange>アイテムとアクセサリ<white>|・ソフィへの<white>プレゼントの状況<white>|・未使用の<orange>ボーナスポイント<white>|・修得している<orange>スキル錬成と| オブジェの再錬成能力<white>=|<yellow>Things that are transferred<white>|・Current <orange>items and accessories<white>|・Status of <orange>Sophie's presents<white>|・Unused <orange>Bonus points<white>|・Acquired <orange>Skill transmutations|<white>・Ability to <orange>re-transmute objects<white>
 <bigtext><blackbold> 画像マテリアル=<bigtext><blackbold> Image Materials
  ２周目以降のプレイでは、ステージ内に| <orange>画像マテリアル<white>が配置されています。=Upon second and subsequent plays, you'll find <orange>Image Materials <white>scattered around the map.
- これを集めると、<orange>ギャラリーモード<white>の| グラフィックが増えていきます。=|After collecting these, new graphics will unlock in the <orange>Gallery Mode<white>.
-（ギャラリーモードで画像マテリアルの| 配置エリアを知ることができます）=(You can check the locations for missing Image Materials in the Gallery Mode)
+ これを集めると、<orange>ギャラリーモード<white>の| グラフィックが増えていきます。=|After collecting these, new graphics will be unlocked in the <orange>Gallery Mode<white>.
+（ギャラリーモードで画像マテリアルの| 配置エリアを知ることができます）=(You can check the locations for missing Image Materials in the Gallery Mode.)
 <edward>ウィンリィ！ ウィンリィ——ッ！|……ったく、アイツめ、|どこ行きやがったんだよ……！！=<edward>Winry! Winryyyy!|Damn! That girl... Where did she go!?
 <alphonse>——この街の、機械鎧のお店を|回るって言ってたよね。|大丈夫かな……。=<alphonse>She said she wanted to visit the automail shops in this town. I wonder if she's okay...
 <alphonse>それにしても、|いったい、何が起こってるんだろう。|本当に、戦争が始まったのかな……。=<alphonse>Anyway, what on earth is going on? Did a war really start?
@@ -2311,7 +2311,7 @@
 
 !FILE:0049_003/004.txt
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
-<smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies
+<smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies.
 
 !FILE:0050_003/004.txt
 <smalltext>ほふく前進：エドは狭い穴をくぐって進めます=<smalltext>Crawling: Ed can move through narrow openings
@@ -2346,7 +2346,7 @@
 <oldman>……何があったというのだ、|ヴェルザの一族よ……。=<oldman>What did they call them...|the Clan of Velza?
 
 !FILE:0054_003/004.txt
-<smalltext>アルなら、炎や放電など危険な場所でも進めます=<smalltext>Al can pass through hazards such|as fires or electrical fields.
+<smalltext>アルなら、炎や放電など危険な場所でも進めます=<smalltext>Al can pass through hazards such as|fires or electrical fields.
 <alphonse>あれっ？ 兄さんはどこ？？|小さくて見つけにくいけど、|つれてこないと。（テスト）=<alphonse>What!? Where's my brother? He's small and hard to find, but I must take him with me. (Test)
 <alphonse>おっと、兄さんを連れてこなきゃ。|ボクだけ、先に|進むワケにもいかないよね……。=<alphonse>Oops! I must bring my brother along.|I can't go ahead on my own.
 
@@ -2361,8 +2361,8 @@
 <guard>中尉が危ない……、|この先に１人で……。|君たち、中尉を頼む……！=<guard>The lieutenant's in danger...|She's all alone there...|You guys have gotta help her!
 
 !FILE:0056_002/004.txt
-<bigtext><blackbold> スキル錬成「槍」=<bigtext><blackbold> Skill transmutation “Lance"
-<8006><L2a><L2b>押しながら<square>　＝　<yellow>「槍」を錬成=<8006>Press <square> while holding <L2a><L2b>: <yellow> Transmute a Lance
+<bigtext><blackbold> スキル錬成「槍」=<bigtext><blackbold> “Lance" Transmutation
+<8006><L2a><L2b>押しながら<square>　＝　<yellow>「槍」を錬成=<8006>Press <square> while holding <L2a><L2b>: <yellow>Transmute a Lance
 エドは、地面から「槍」を錬成できます。|<square>連打で、<orange>強力な連続攻撃<white>が可能です。=Ed can transmute a Lance from the ground. By pressing <square> multiple times, you can perform <orange>a powerful continuous attack.
 <smalltext>  【コンボの例】|  ・<square>→<square>連打|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>=|<smalltext>  Combo examples|  ・<square>→<square> (repeatedly)|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>
 <smalltext><blackbold>アクセサリ<normal>【決意の弾丸】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Bullet of Resolve"
@@ -2455,14 +2455,14 @@
 <edward>う……。=<edward>Uh...
 
 !FILE:0061_003/004.txt
-<smalltext>レバースイッチに反応はない=<smalltext>The lever switch doesn't work
+<smalltext>レバースイッチに反応はない=<smalltext>The lever switch doesn't work.
 <alphonse>このシャッターを開けないと、|先には、進めないみたいだね……。=<alphonse>It seems we can't continue if we don't open this shutter.
 
 !FILE:0064_003/004.txt
-<bigtext><blackbold> スキル錬成「吸引マシン」=<bigtext><blackbold> Skill transmutation “Vacuum"
-<8006><white>（アル操作時に）|<8006><L2a><L2b>押しながら<square>　＝　<yellow>「吸引マシン」を錬成=<8006><white>(While controlling Al)|<8006>Press <square> while holding <L2a><L2b>: <yellow>Transmute a Vacuum
+<bigtext><blackbold> スキル錬成「吸引マシン」=<bigtext><blackbold> “Vacuum" Transmutation
+<8006><white>（アル操作時に）|<8006><L2a><L2b>押しながら<square>　＝　<yellow>「吸引マシン」を錬成=<8006><white>(While controlling Al)|<8006>Press <square> while holding <L2a><L2b>:|<yellow>Transmute a Vacuum
  アルは、前方にいる敵を吸い寄せる| 吸引マシンを錬成することができます。=Al can transmute a suction machine that attracts the enemies in front of him.
-<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」を錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>:「Transmute a Vacuum (while controlling Al)
+<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」を錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>:|Transmute a Vacuum (while controlling Al)
 
 !FILE:0065_003/004.txt
 <man>よく、ここが分かったな。|下からは死角になってるし、|隠れるには、いい場所だろ？=<man>Okay, I understand this. If there's a blind spot from below, it's a good place to hide, right?
@@ -2576,14 +2576,14 @@
 
 
 !FILE:0081_003/004.txt
-<bigtext><blackbold> スキル錬成「吸引マシン」=<bigtext><blackbold> Skill transmutation “Vacuum"
+<bigtext><blackbold> スキル錬成「吸引マシン」=<bigtext><blackbold> “Vacuum" Transmutation
 <8006><white>（アル操作時に）|<8006><L2a><L2b>押しながら<square>　＝<yellow>「吸引マシン」錬成=<8006><white>(While controlling Al)|<8006>Press <square> while holding <L2a><L2b>: <yellow>Transmute a Vacuum
 アルは、周囲にいる敵を吸い寄せる|<orange>吸引マシン<white>を錬成できます。=Al can transmute a <orange>suction machine <white>that attracts the surrounding enemies.
 <smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>: Transmute a Vacuum (while controlling Al)
 
 !FILE:0083_002/004.txt
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
-<smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies
+<smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies.
 <edward>——なっ！？|コイツら！|こんな所にまで……！=<edward>What!? Those guys are even here!
 <alphonse>ほら、やっぱり……。|こんなことだと思ったんだよ。=<alphonse>See? I knew it...|It's just as I thought.
 <edward>あー、うるせぇなー……。|——こんなヤツら、オベリスクに|着くまでの、いいヒマつぶしだぜ！=<edward>Ahh, shut up! These guys will be a great way to kill time till we reach the obelisk!
@@ -2614,7 +2614,7 @@
 はい=Yes
 いいえ=No
 エレベーターで上にのぼりますか？=Go up in the elevator?
-<smalltext>外へのドアは厳重にロックされている=<smalltext>The door to the outside is solidly locked.
+<smalltext>外へのドアは厳重にロックされている=<smalltext>The door to the outside is locked.
 <smalltext><blackbold>アクセサリ<normal>【鬼のパンツ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Demon Briefs"
 <edward>——おい！|大丈夫か！？=<edward>Hey! Are you alright?
 <soldier>あ、ああ……。|足を少し、やられただけだ。|それより君たちは……？=<soldier>Ah, yeah... I just hurt my leg a little.|By the way, who are you?
@@ -2823,10 +2823,10 @@
 <edward>わかった！|ここはアンタらにまかせた！|——行くぞ、アル！=<edward>Alright! I'll leave this to you!|Let's go, Al!
 
 !FILE:0104_002/004.txt
-<bigtext><blackbold> スキル錬成「大剣」=<bigtext><blackbold> Transmutation “Large Sword"
+<bigtext><blackbold> スキル錬成「大剣」=<bigtext><blackbold> “Large Sword" Transmutation
 <8006><L2a><L2b>押しながら<triangle>　＝　<yellow>「大剣」を錬成=<8006>Press <triangle> while holding <L2a><L2b>: <yellow> Transmute a|Large Sword
 エドは、地面から「大剣」を錬成できます。|攻撃範囲が広く、威力の高い武器です。=Ed can transmute a Large Sword from the ground. It's a powerful weapon with a wide attack range.
-<smalltext>  【「大剣」コンボの例】|  ・<square>→<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>=|<smalltext>Combo examples with Large Sword|  ・<square>→<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>
+<smalltext>  【「大剣」コンボの例】|  ・<square>→<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>=|<smalltext>Combo examples|  ・<square>→<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>
 <smalltext><blackbold>アクセサリ<normal>【焔の手袋】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory<normal> “Flame Gloves"
 <roy>鋼の……お前……。=<roy>Fullmetal... You...
 <edward>大佐、ここは任せてくれ。|アイツの相手はオレたちがやる。=<edward>Leave this to us, Colonel.|We'll deal with that guy.
@@ -2866,7 +2866,7 @@
 <roy>私といっしょに司令室まで来てくれ。|クレイギン将軍も|そこにいるはずだ。=<roy>Come with me to the command room. General Craigin should be there too.
 
 !FILE:0105_003/004.txt
-<bigtext><blackbold> スキル錬成「石柱ジャンプ」=<bigtext><blackbold> Skill transmutation “Stone Pillar Jump"
+<bigtext><blackbold> スキル錬成「石柱ジャンプ」=<bigtext><blackbold> “Stone Pillar Jump" Transmutation
 <8006><white>（アル操作時）|<8006><L2a><L2b>押しながら<cross>　＝<yellow>石柱ジャンプ=<8006><white>(While controlling Al)|<8006>Press <cross> while holding <L2a><L2b>: <yellow>Stone Pillar Jump
 アルは、自分の足元から石柱を錬成し、|高くジャンプすることができます。=Al can transmute a Stone Pillar under his feet, allowing him to jump higher.
 <smalltext><white><L2a><L2b>押しながら<cross>＝石柱ジャンプ[アル操作時]=<smalltext><white>Press <cross> while holding <L2a><L2b>:|Stone Pillar Jump (while controlling Al)
@@ -3190,16 +3190,16 @@
 <sophie>あ、ありがとう……。|２人とも本当に……ありがとう……！=<sophie>Th-Thank you...|Thank you so much, both of you!
 
 !FILE:0131_003/004.txt
-<bigtext><blackbold> スキル錬成「ハンマー」=<bigtext><blackbold> Skill transmutation “Hammer"
-<8006><L2a><L2b>押しながら<cross>　＝<yellow>「ハンマー」を錬成=<8006>Press <cross> while holding <L2a><L2b>: <yellow>Transmute a Hammer
-エドは地面から「ハンマー」を錬成できます。|<orange>ガードの上から敵にダメージ<white>を与えたり、|<orange>物を壊す<white>ことができます。=Ed can transmute a hammer from the ground.|It deals damage <orange>regardless of enemies' blocking, <white>and can <orange>break objects.
-<smalltext>  【「ハンマー」コンボの例】|  ・<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>=<smalltext>Combo examples with Hammer|  ・<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>
-<smalltext>荷物を取り返すまで、アイテム・アクセサリは使用不可です=<smalltext>You can't use items or accessories until you recover your belongings
+<bigtext><blackbold> スキル錬成「ハンマー」=<bigtext><blackbold> “Hammer" Transmutation
+<8006><L2a><L2b>押しながら<cross>　＝<yellow>「ハンマー」を錬成=<8006>Press <cross> while holding <L2a><L2b>:|<yellow>Transmute a Hammer
+エドは地面から「ハンマー」を錬成できます。|<orange>ガードの上から敵にダメージ<white>を与えたり、|<orange>物を壊す<white>ことができます。=Ed can transmute a hammer from the ground. It deals damage <orange>regardless of enemies' blocking, <white>and can even <orange>break objects.
+<smalltext>  【「ハンマー」コンボの例】|  ・<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>=<smalltext>Combo examples|  ・<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>
+<smalltext>荷物を取り返すまで、アイテム・アクセサリは使用不可です=<smalltext>You can't use items or accessories until you recover your belongings.
 <blackbold>アイテム<normal>【牛肉（高）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Expensive Beef"
 <smalltext><blackbold>アクセサリ<normal>【絶望のくつした】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Despair Socks"
 <blackbold>アクセサリ<normal>【破れふんどし】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Torn Loincloth"
 <blackbold>にゃんこ<normal>【あさんどら】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Assandra"
-<smalltext>敵に見つからないよう進みましょう=<smalltext>Go ahead without being discovered by enemies
+<smalltext>敵に見つからないよう進みましょう=<smalltext>Make sure not to be spotted by enemies.
 <edward>……チクショウ……。|腕さえ自由になりゃ、|錬金術が使えるってのに……。=<edward>Damn! If I had my arms free, at least, I could use alchemy...
 <edward>アル……ソフィ……|無事でいてくれ……。=<edward>Al... Sophie...|Please be safe...
 <edward>——ん？=<edward>Huh?
@@ -3318,7 +3318,7 @@
 <smalltext><blackbold>アイテム<normal>【秘密の史書（６）】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Secret Book (6)"
 
 !FILE:0140_003/004.txt
-<smalltext>アイテム・アクセサリが使用可能になりました=<smalltext>Items and accessories are available now
+<smalltext>アイテム・アクセサリが使用可能になりました=<smalltext>Items and accessories are now available.
 <smalltext><blackbold>アイテム<normal>【クレイギン手記】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Craigin's Memo"
 <smalltext><blackbold>アイテム<normal>【悲しみのキズ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Wounds of Sadness"
 <smalltext><blackbold>奪われた荷物を探そう！=<smalltext><blackbold>Find your stolen belongings!
@@ -3380,11 +3380,11 @@
 <venus>ちょ、ちょいとお待ち！！|お待ちってば！！|コラ————————ッ！！=<venus>Wa-Wait a minute! Wait!!|HEEEEEY!!
 
 !FILE:0144_003/004.txt
-<bigtext><blackbold> スキル錬成「アル地雷」=<bigtext><blackbold> Skill transmutation “Al Land Mine"
-<8006><white>（アル操作時）|<8006><L2a><L2b>押しながら<triangle>　＝<yellow>「アル地雷」を錬成=<8006><white>(While controlling Al)|<8006>Press <triangle> while holding <L2a><L2b>: <yellow>Transmute Al Land Mine
+<bigtext><blackbold> スキル錬成「アル地雷」=<bigtext><blackbold> “Al Land Mine" Transmutation
+<8006><white>（アル操作時）|<8006><L2a><L2b>押しながら<triangle>　＝<yellow>「アル地雷」を錬成=<8006><white>(While controlling Al)|<8006>Press <triangle> while holding <L2a><L2b>:|<yellow>Transmute Al Land Mine
 アルは、小型の「地雷」を錬成できます。=Al can transmute small land mines.
 地雷を攻撃するか、敵が近づいてくると|爆発します。|敵を攻撃したり物を壊すのに使えます。=The mines explode when they're attacked or the enemy approaches them.|They can be used to attack enemies or destroy objects.
-<smalltext><white><L2a><L2b>押しながら<triangle>＝「アル地雷」を錬成[アル操作時]=<smalltext><white>Press <triangle> while holding <L2a><L2b>: Transmute Al Land Mine (controlling Al)
+<smalltext><white><L2a><L2b>押しながら<triangle>＝「アル地雷」を錬成[アル操作時]=<smalltext><white>Press <triangle> while holding <L2a><L2b>:|Transmute Al Land Mine (while controlling Al)
 <roy>では、これより作戦を開始する。=<roy>Well then, with this we'll start the operation.
 <roy>敵は、クレイギン軍の主力部隊だ。|奴らは、街の中心にある城の周囲に|展開している。=<roy>The enemies are Craigin's main forces. They're deployed around the castle at|the town's center.
 <roy>我々は、部隊を２つに分ける。|連携した攻撃で、|敵を混乱におとしいれるのだ。=<roy>We'll split our troops in two.|With coordinated attacks, we can disarray their ranks.
@@ -4754,9 +4754,9 @@
 <roy>好きな言葉は|「幸せか不幸かは自分次第」=<roy>Her favorite sayings are “Both happiness and unhappiness are up to you".
 <roy>「人生の最終目標は、| 良い女になり死んでいくことです。」=<roy>“My end goal is to die as a good woman".
 <sophie><bigtext>カッコイ——ッ！！=<sophie><bigtext>Sooo cool!!
-<roy>とある詩人が|詩は「言葉の錬金術」と言った。=<roy>A certain poet once said that poetry is “the alchemy of words".
+<roy>とある詩人が|詩は「言葉の錬金術」と言った。=<roy>A certain writer once said that poetry is “the alchemy of words".
 <roy>だとすれば、菜奈ちゃんの歌は|「激情の錬金術」|といったところか……！！=<roy>If that's the case, then Nana-chan's songs are “the alchemy of passion"!
-<edward><bigtext>「ちゃん」<8006>付け……。=<edward><8006>Why do you add <bigtext>“chan"...?
+<edward><bigtext>「ちゃん」<8006>付け……。=<edward><8006>Why did you add <bigtext>“chan"...?
 <roy>——フッ、忘れたとは言わせんぞ。=<roy>Hmph! Don't tell me you've forgotten.
 <roy>鋼１では、ファーストシングル|「消せない罪」をバックに、|私と死闘を繰り広げたろう？=<roy>During Fullmetal 1, we fought to the death while her first single “Inerasable Sin" played in the background, right?
 <edward><bigtext>身もフタもねえ——！！=<edward><bigtext>That’s breaking the fourth|wall!#Roy is being too blunt/honest
@@ -4872,10 +4872,10 @@
 <edward><bigtext>しっ、身長——！？=<edward><bigtext>My... My height!?
 <edward><bigtext>イヤアアァァァ！！=<edward><bigtext>NOOOOO!!
 <sophie>……………エド？=<sophie>....................Ed?
-<sophie>「耐熱マントＳ」のＳは、|ＳＵＰＥＲ（スーパー）のＳじゃないの。|さて、何のＳでしょう……？=<sophie>The S in this “Fireguard Cloak (S)"|doesn't stand for “Super".|Then, what does the S mean?
-<edward>ＳＭＡＬＬ（スモール）のＳだって|言いたいのかヨ……。=<edward>Are you saying the S stands for “Small"?
+<sophie>「耐熱マントＳ」のＳは、|ＳＵＰＥＲ（スーパー）のＳじゃないの。|さて、何のＳでしょう……？=<sophie>The plus in this “Fireguard Cloak+" doesn't stand for “extra long", you know.#Changed the (S) in the name to prevent confusion with the Elixirs, which meant changing this conversation to match. "The S in this “Fireguard Cloak (S)"|doesn't stand for “Super".|Then, what does the S mean?"
+<edward>ＳＭＡＬＬ（スモール）のＳだって|言いたいのかヨ……。=<edward>Are you saying it stands for “extra small"!?#"Are you saying the S stands for “Small"?"
 <sophie>ブッブー、違いまーす！=<sophie>No, no, it's not that!
-<sophie>答えは、|ＳＨＯＲＴ（ショート）のＳでした♪=<sophie>The answer is, the S is for “Short". ♪
+<sophie>答えは、|ＳＨＯＲＴ（ショート）のＳでした♪=<sophie>It actually stands for “extra short"! ♪#"The answer is, the S is for “Short". ♪"
 <edward><bigtext>同じじゃああああッ！！=<edward><bigtext>THAT'S THE SAME|THIIIING!!
 <sophie>エドもアルも着れるサイズってことは、|エドには大きすぎて、アルには|小さすぎるってことなのよね。=<sophie>If both Ed and Al wear this size, then it must be too big for Ed and too small for Al.
 <sophie>身長も横幅も全然違うのに……。|いったい、どうやって共有してるの？|結構なミステリーなんだけど……。=<sophie>Their height and width are completely different... Then, how on earth can they share it? It's quite a mystery...
