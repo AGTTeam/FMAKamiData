@@ -466,6 +466,11 @@ BLUR POS:
 氷の守護者
 Ice Guardian
 
+ORIGINAL POS:
+1a8 (第)={"x": 0, "y": 0, "width": 24, "height": 24, "screenx": -37, "screeny": -74}
+1a9 (章)={"x": 24, "y": 0, "width": 24, "height": 24, "screenx": 13, "screeny": -74}
+1aa (2)={"x": 26, "y": 24, "width": 12, "height": 20, "screenx": -6, "screeny": -72}
+
 0018_000\001_04.png#done
 第 章=Chapter 3
 
