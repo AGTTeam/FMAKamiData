@@ -460,16 +460,65 @@ BLUR POS:
 落={"x": 166, "y": 65, "width": 54, "height": 76,
 
 
-0017_000\001_04.png  - TBD
+0017_000\001_04.png#done
 第 章=Chapter 2
+The Ice Guardian
 
-氷の守護者
-Ice Guardian
+95 - 99, 9a - 9e, 9f-a3 are moving from the center outwards animation
+96 is closest to the screen center, then 9a, then af
+
+19b - 19f, 1a0 - 1a4 moving from their places outwards animation
+1a0 is further out
+
+氷 a4={"x": 0, "y": 0, "width": 59, "height": 54, "screenx": -137, "screeny": -47}
+の a5={"x": 62, "y": 0, "width": 51, "height": 52, "screenx": -81, "screeny": -47}
+守 a6={"x": 118, "y": 1, "width": 54, "height": 55, "screenx": -30, "screeny": -47}
+護 a7={"x": 175, "y": 0, "width": 57, "height": 55, "screenx": 24, "screeny": -47}
+者 a8={"x": 3, "y": 54, "width": 55, "height": 55, "screenx": 81, "screeny": -46}
+
+BLUR starts at b4
+{"x": 2, "y": 177, "width": 55, "height": 75, "screenx": -135, "screeny": -55, "width2": 55, "height2": 152}
+{"x": 56, "y": 177, "width": 63, "height": 76, "screenx": -86, "screeny": -48, "width2": 63, "height2": 152}
+{"x": 118, "y": 177, "width": 53, "height": 76, "screenx": -30, "screeny": -136, "width2": 53, "height2": 152}
+
+"screeny": -56 are the centered blurs
+
+EDITED
+a4={"x": 0, "y": 0, "width": 80, "height": 54, "screenx": -150, "screeny": -47}
+a5={"x": 106, "y": 0, "width": 71, "height": 52, "screenx": -72, "screeny": -47}
+a6={"x": 0, "y": 55, "width": 165, "height": 55, "screenx": -12, "screeny": -47}
+
 
 ORIGINAL POS:
 1a8 (第)={"x": 0, "y": 0, "width": 24, "height": 24, "screenx": -37, "screeny": -74}
 1a9 (章)={"x": 24, "y": 0, "width": 24, "height": 24, "screenx": 13, "screeny": -74}
 1aa (2)={"x": 26, "y": 24, "width": 12, "height": 20, "screenx": -6, "screeny": -72}
+
+big 1
+{"x": 0, "y": 0, "width": 24, "height": 24, "screenx": -43, "screeny": -81, "width2": 36, "height2": 36}
+{"x": 24, "y": 0, "width": 24, "height": 24, "screenx": 7, "screeny": -81, "width2": 36, "height2": 36}
+{"x": 26, "y": 24, "width": 12, "height": 20, "screenx": -8, "screeny": -78, "width2": 16, "height2": 30}
+
+big 2
+{"x": 0, "y": 0, "width": 24, "height": 24, "screenx": -50, "screeny": -86, "width2": 48, "height2": 48}
+{"x": 24, "y": 0, "width": 24, "height": 24, "screenx": 0, "screeny": -86, "width2": 48, "height2": 48}
+{"x": 26, "y": 24, "width": 12, "height": 20, "screenx": -12, "screeny": -83, "width2": 24, "height2": 40}
+
+EDITED
+第={"x": 0, "y": 0, "width": 64, "height": 24, "screenx": -38, "screeny": -64}
+章={"x": 24, "y": 0, "width": 0, "height": 24, "screenx": 13, "screeny": -74}
+2={"x": 0, "y": 43, "width": 11, "height": 16, "screenx": 30, "screeny": -61}
+
+big 1
+{"x": 0, "y": 0, "width": 64, "height": 24, "screenx": -46, "screeny": -67, "width2": 80, "height2": 30}
+{"x": 24, "y": 0, "width": 0, "height": 24, "screenx": 7, "screeny": -81, "width2": 0, "height2": 0}
+{"x": 0, "y": 43, "width": 11, "height": 16, "screenx": 32, "screeny": -63, "width2": 16, "height2": 20}
+
+big 2
+{"x": 0, "y": 0, "width": 64, "height": 24, "screenx": -54, "screeny": -70, "width2": 96, "height2": 36}
+{"x": 24, "y": 0, "width": 0, "height": 24, "screenx": 0, "screeny": -86, "width2": 0, "height2": 0}
+{"x": 0, "y": 43, "width": 11, "height": 16, "screenx": 33, "screeny": -67, "width2": 20, "height2": 28}
+
 
 0018_000\001_04.png#done
 第 章=Chapter 3
