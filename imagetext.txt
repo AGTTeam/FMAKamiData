@@ -488,7 +488,6 @@ a4={"x": 0, "y": 0, "width": 80, "height": 54, "screenx": -150, "screeny": -47}
 a5={"x": 106, "y": 0, "width": 71, "height": 52, "screenx": -72, "screeny": -47}
 a6={"x": 0, "y": 55, "width": 165, "height": 55, "screenx": -12, "screeny": -47}
 
-
 ORIGINAL POS:
 1a8 (第)={"x": 0, "y": 0, "width": 24, "height": 24, "screenx": -37, "screeny": -74}
 1a9 (章)={"x": 24, "y": 0, "width": 24, "height": 24, "screenx": 13, "screeny": -74}
@@ -579,9 +578,34 @@ BLUR starts from c4
 0019_000\001_04.png
 第 章=Chapter 4
 
+95 - 99, 9a - 9e, 9f - a3 are moving from the center outwards animation
+96 is closest to the screen center, then 9a, then af
+
+17a - 17e, 17f - 183 moving from their places outwards animation
+17f is further out
+
 0019_000
-煉獄の野望
+ORIGINAL POS:
+煉 a4={"x": 2, "y": 1, "width": 56, "height": 54, "screenx": -142, "screeny": -47}
+獄 a5={"x": 59, "y": 1, "width": 58, "height": 54, "screenx": -84, "screeny": -47}
+の a6={"x": 120, "y": 1, "width": 49, "height": 54, "screenx": -24, "screeny": -47}
+野 a7={"x": 176, "y": 1, "width": 55, "height": 54, "screenx": 31, "screeny": -47}
+望 a8={"x": 2, "y": 57, "width": 55, "height": 54, "screenx": 91, "screeny": -47}
+
 Ambition of Purgatory
+
+BLUR starts from c3
+煉={"x": 1, "y": 179, "width": 56, "height": 76,
+獄={"x": 59, "y": 179, "width": 57, "height": 76, 
+の={"x": 119, "y": 179, "width": 49, "height": 76, 
+野={"x": 176, "y": 179, "width": 54, "height": 76,
+望={"x": 58, "y": 55, "width": 55, "height": 76,
+
+
+EDITED
+煉={"x": 2, "y": 1, "width": 156, "height": 54, "screenx": -183, "screeny": -47}
+獄={"x": 159, "y": 1, "width": 48, "height": 54, "screenx": -27, "screeny": -47}
+の={"x": 3, "y": 57, "width": 169, "height": 54, "screenx": 15, "screeny": -47}
 
 0020_000\001_04.png
 第 章=Chapter 5
