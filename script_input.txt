@@ -728,10 +728,10 @@
 <yellow>倉庫街<white>　最終区画=<yellow>Warehouse District<white>　Last Section
 <yellow>倉庫街<white>　６号倉庫=<yellow>Warehouse District<white>　Warehouse No. 6
 <yellow>倉庫街<white>　地下水路・中央部=<yellow>Warehouse District<white>　Sewer: Central Section
-<yellow>地下鉄駅<white>　改札口=<yellow>Subway Station<white>　Ticket Gate
-<yellow>地下鉄駅<white>　到着Ｐホーム=<yellow>Subway Station<white>　Arrival Platform
-<yellow>地下鉄駅<white>　到着駅・出口=<yellow>Subway Station<white>　Arrival Station: Exit
-<yellow>地下鉄駅<white>　病院前広場=<yellow>Subway Station<white>　Hospital Square
+<yellow>地下鉄駅<white>　改札口=<yellow>Subway<white>　Ticket Gate
+<yellow>地下鉄駅<white>　到着Ｐホーム=<yellow>Subway<white>　Arrival Platform
+<yellow>地下鉄駅<white>　到着駅・出口=<yellow>Subway<white>　Arrival Station: Exit
+<yellow>地下鉄駅<white>　病院前広場=<yellow>Subway<white>　Hospital Square
 <yellow>司令部<white>　裏口前=<yellow>HQ<white>　Rear Entrance
 <yellow>司令部<white>　中央縦孔エリア=<yellow>HQ<white>　Central Shaft
 <yellow>司令部<white>　３Ｆ・兵員室Ａ=<yellow>HQ<white>　3F: Military Quarters A
@@ -870,16 +870,16 @@
 西のオベリスク=West Obelisk
 
 !FILE:0014_093.txt
-地下鉄駅・改札口=Subway Station: Ticket Gate
-地下鉄駅・東通路Ａ=Subway Station: East Passage A
+地下鉄駅・改札口=Subway: Ticket Gate
+地下鉄駅・東通路Ａ=Subway: East Passage A
 東口　動く歩道=East Entrance: Moving Walkway
-地下鉄駅・東通路Ｂ=Subway Station: East Passage B
+地下鉄駅・東通路Ｂ=Subway: East Passage B
 東口　制御室=East Entrance: Control Room
-地下鉄駅・西通路Ａ=Subway Station: West Passage A
-地下鉄駅・西通路Ｂ=Subway Station: West Passage B
+地下鉄駅・西通路Ａ=Subway: West Passage A
+地下鉄駅・西通路Ｂ=Subway: West Passage B
 西口　動く歩道=West Entrance: Moving Walkway
 西口　制御室=West Entrance: Control Room
-地下鉄駅・閉鎖区画=Subway Station: Closed Section
+地下鉄駅・閉鎖区画=Subway: Closed Section
 プラットホーム=Platform
 到着プラットホーム=Arrival Platform
 地下鉄・第５車両=Subway: 5th Car
@@ -890,8 +890,8 @@
 到着駅・通路=Arrival Station: Passage
 到着駅・出口=Arrival Station: Exit
 病院前広場=Hospital Square
-地下鉄駅・入口=Subway Station: Entrance
-地下鉄駅・南通路=Subway Station: South Passage
+地下鉄駅・入口=Subway: Entrance
+地下鉄駅・南通路=Subway: South Passage
 地下鉄・第２車両=Subway: 2nd Car
 地下鉄・第１車両=Subway: 1st Car
 （※欠番※）=(Missing number)
@@ -1755,7 +1755,7 @@
 <orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・大通り=<orange>Material area| <yellow>City<white>　Valdolla: Main street
 <orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・４番街=<orange>Material area| <yellow>City<white>　Valdolla: 4th District
 <orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　１号倉庫=<orange>Material area| <yellow>Warehouse District<white>　Warehouse No. 1
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　改札口=<orange>Material area| <yellow>Subway Station<white>　Ticket Gate
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　改札口=<orange>Material area| <yellow>Subway<white>　Ticket Gate
 <orange>[マテリアル配置エリア]| <yellow>司令部<white>　１Ｆ・作戦室=<orange>Material area| <yellow>Headquarters<white>　1F: Operations Room
 <orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　屋上=<orange>Material area| <yellow>Headquarters B<white>　Rooftop　
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　入口=<orange>Material area| <yellow>Old Castle<white>　Entrance
@@ -1771,7 +1771,7 @@
 <orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　３号倉庫=<orange>Material area| <yellow>Warehouse District<white>　Warehouse No. 3
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　第一封の間=<orange>Material area| <yellow>Old Castle<white>　First Seal's Room
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　腸の間=<orange>Material area| <yellow>Temple<white>　Intestine Chamber
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　西口　制御室=<orange>Material area| <yellow>Subway Station<white>　West Entrance: Control Room
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　西口　制御室=<orange>Material area| <yellow>Subway<white>　West Entrance: Control Room
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア北=<orange>Material area| <yellow>Old Castle<white>　Outer Area North　
 <orange>[マテリアル配置エリア]| <yellow>市街・西<white>　８番地=<orange>Material area| <yellow>City West<white>　8th Area
 <orange>[マテリアル配置エリア]| <yellow>市街・西<white>　６番地=<orange>Material area| <yellow>City West<white>　6th Area
@@ -1782,8 +1782,8 @@
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　脊髄の間Ｂ=<orange>Material area| <yellow>Temple<white>　Spinal Cord Chamber B
 <orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・８番街=<orange>Material area| <yellow>City<white>　Valdolla: 8th District
 <orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　２号倉庫=<orange>Material area| <yellow>Warehouse District<white>　Warehouse No. 2
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　東口　制御室=<orange>Material area| <yellow>Subway Station<white>　East Entrance: Control Room
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　プラットホーム=<orange>Material area| <yellow>Subway Station<white>　Platform
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　東口　制御室=<orange>Material area| <yellow>Subway<white>　East Entrance: Control Room
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　プラットホーム=<orange>Material area| <yellow>Subway<white>　Platform
 <orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　３Ｆ=<orange>Material area| <yellow>Headquarters B<white>　3F
 <orange>[マテリアル配置エリア]| <yellow>市街・西<white>　物資置き場Ｂ=<orange>Material area| <yellow>City West<white>　Supply Storage B
 <orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　４Ｆ・Ｂブロック=<orange>Material area| <yellow>Headquarters B<white>　4F: Block B
@@ -1792,7 +1792,7 @@
 <orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　地下水路・入口=<orange>Material area| <yellow>Warehouse District<white>　Sewer: Entrance
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　心臓の間=<orange>Material area| <yellow>Temple<white>　Heart Chamber
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　ヴェルザの脳蓋=<orange>Material area| <yellow>Temple<white>　Velza's Skullcap　
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄・第３車両=<orange>Material area| <yellow>Subway station<white>　Subway: 3rd Car
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄・第３車両=<orange>Material area| <yellow>Subway<white> 3rd Car
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　城内・バルコニー=<orange>Material area| <yellow>Old Castle B<white>　Inner Castle: Balcony
 <orange>[マテリアル配置エリア]| <yellow>司令部<white>　４Ｆ=<orange>Material area| <yellow>Headquarters<white>　4F
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　肝臓の間=<orange>Material area| <yellow>Temple<white>　Liver Chamber
@@ -1801,7 +1801,7 @@
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　第三封の間=<orange>Material area| <yellow>Old Castle<white>　Third Seal's Room
 <orange>[マテリアル配置エリア]| <yellow>司令部<white>　屋上=<orange>Material area| <yellow>Headquarters<white>　Rooftop
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　肺臓の間=<orange>Material area| <yellow>Temple<white>　Lung Chamber
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　到着駅・改札口=<orange>Material area| <yellow>Subway Station<white>　Arrival Station: Ticket Gate
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　到着駅・改札口=<orange>Material area| <yellow>Subway<white>　Arrival Station: Ticket Gate
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア南=<orange>Material area| <yellow>Old Castle<white>　Outer Area South
 <orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　牢獄=<orange>Material area| <yellow>Headquarters B<white>　Prison　
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ｂ=<orange>Material area| <yellow>Old Castle B<white>　Trap Room B
@@ -1811,7 +1811,7 @@
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　外郭エリア西=<orange>Material area| <yellow>Old Castle B<white>　Outer Area West
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア東=<orange>Material area| <yellow>Old Castle<white>　Outer Area East
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ａ=<orange>Material area| <yellow>Old Castle B<white>　Trap room A
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄駅・閉鎖区画=<orange>Material area| <yellow>Subway Station<white>　Subway Station: Closed Section
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄駅・閉鎖区画=<orange>Material area| <yellow>Subway<white> Closed Section
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　外郭エリア南=<orange>Material area| <yellow>Old Castle B<white>　Outer Area South
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　第四封の間=<orange>Material area| <yellow>Old Castle<white>　Fourth Seal's Room
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ｃ=<orange>Material area| <yellow>Old Castle B<white>　Trap Room C
@@ -2579,7 +2579,7 @@
 <bigtext><blackbold> スキル錬成「吸引マシン」=<bigtext><blackbold> “Vacuum" Transmutation
 <8006><white>（アル操作時に）|<8006><L2a><L2b>押しながら<square>　＝<yellow>「吸引マシン」錬成=<8006><white>(While controlling Al)|<8006>Press <square> while holding <L2a><L2b>: <yellow>Transmute a Vacuum
 アルは、周囲にいる敵を吸い寄せる|<orange>吸引マシン<white>を錬成できます。=Al can transmute a <orange>suction machine <white>that attracts the surrounding enemies.
-<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>: Transmute a Vacuum (while controlling Al)
+<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>:|Transmute a Vacuum (while controlling Al)
 
 !FILE:0083_002/004.txt
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
