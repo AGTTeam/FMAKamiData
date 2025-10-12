@@ -1657,7 +1657,7 @@
 ヴァルドラ全景=Panoramic view of Valdolla
 ヴェルザ像の広場=Velza's square
 倉庫街=Warehouse district
-地下鉄駅=Subway
+地下鉄駅=Subway station#This is for the gallery pictures, and isn't pressed for space.
 軍司令部１=Military headquarters 1
 軍司令部２=Military headquarters 2
 古城=Old castle
@@ -1792,7 +1792,7 @@
 <orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　地下水路・入口=<orange>Material area| <yellow>Warehouse District<white>　Sewer: Entrance
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　心臓の間=<orange>Material area| <yellow>Temple<white>　Heart Chamber
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　ヴェルザの脳蓋=<orange>Material area| <yellow>Temple<white>　Velza's Skullcap　
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄・第３車両=<orange>Material area| <yellow>Subway<white>　Subway: 3rd Car
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄・第３車両=<orange>Material area| <yellow>Subway<white> 3rd Car#I don't see any point in repeating it.
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　城内・バルコニー=<orange>Material area| <yellow>Old Castle B<white>　Inner Castle: Balcony
 <orange>[マテリアル配置エリア]| <yellow>司令部<white>　４Ｆ=<orange>Material area| <yellow>Headquarters<white>　4F
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　肝臓の間=<orange>Material area| <yellow>Temple<white>　Liver Chamber
@@ -1811,7 +1811,7 @@
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　外郭エリア西=<orange>Material area| <yellow>Old Castle B<white>　Outer Area West
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア東=<orange>Material area| <yellow>Old Castle<white>　Outer Area East
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ａ=<orange>Material area| <yellow>Old Castle B<white>　Trap room A
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄駅・閉鎖区画=<orange>Material area| <yellow>Subway<white>　Subway: Closed Section
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄駅・閉鎖区画=<orange>Material area| <yellow>Subway<white>　Closed Section
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　外郭エリア南=<orange>Material area| <yellow>Old Castle B<white>　Outer Area South
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　第四封の間=<orange>Material area| <yellow>Old Castle<white>　Fourth Seal's Room
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ｃ=<orange>Material area| <yellow>Old Castle B<white>　Trap Room C
@@ -2321,7 +2321,7 @@
 <alphonse>うーん……。|でも、狭すぎてボクじゃ通れないよ。|兄さんなら、大丈夫そうだけど。=<alphonse>Hmmm... It's too narrow for me.|You should fit though, Brother.
 <edward>ああ。|身体が小さくて良かった——って、|誰がミニマムサイズかあぁっ！！=<edward>Yeah. It's a good thing my body's so sma... Hey!|Who're you calling minimal size!!?
 <alphonse>誰も何も言ってないよ、兄さん。=<alphonse>I didn't say anything, Brother.
-<edward>オレだけ、先に|進むわけにはいかないな。|アルを連れてこないと……。=<edward>No, can't move on yet.|I won't leave Al behind.
+<edward>オレだけ、先に|進むわけにはいかないな。|アルを連れてこないと……。=<edward>No, I can't move on yet.|I won't leave Al behind.
 
 !FILE:0051_003/004.txt
 はい=Yes
@@ -2401,7 +2401,7 @@
 <riza>私は大丈夫……。|それより、どうしてあなたたちが？=<riza>I'm fine...|More importantly, what are you two doing here?
 <alphonse>ボクたち、マスタング大佐から|「ヴァルドラに賢者の石に関する噂がある」|っていう手紙をもらったんです。=<alphonse>We received a letter from Colonel Mustang, saying there were rumors about the Philosopher's Stone in Valdolla.
 <riza>大佐の手紙……？=<riza>A letter from the Colonel?
-<edward>——ああ。|それで、この街に来たら、|騒動に巻き込まれちまって……。=<edward>Yeah.|But when we got to this city,|we got caught up in all this.
+<edward>——ああ。|それで、この街に来たら、|騒動に巻き込まれちまって……。=<edward>Yeah.|But when we got to this city, we got caught up in all this.#Trying to match newlines to the source text is a mug's game that will only end in awkwardly shaped text blocks.
 <alphonse>中尉こそ、どうしてヴァルドラに？=<alphonse>What about you, Lieutenant? Why are you in Valdolla?
 <riza>——数年前から、|軍は、不思譲な力を持つ、|謎の武装集団と戦っているの。=<riza>For a few years now, the military has been fighting against a mysterious armed group, which holds some unknown power.
 <alphonse>不思譲な力を持つ集団？|——ヴェルザの一族のことか……。=<alphonse>A group holding an unknown power?|Could it be the Velza Clan?
@@ -2440,7 +2440,7 @@
 <riza>ふぅ……。|大佐が聞いたら、なんて言うかしら……。=<riza>Oof... I wonder what the Colonel's going to say when he hears about this...
 <alphonse>中尉はこれからどうするんですか？=<alphonse>What are you going to do now, Lieutenant?
 <riza>私はこの街の司令部に戻って、|事の次第を大佐に報告するつもりよ。|だから、エドワード君たちも一緒に——。=<riza>I'll return to this city's Headquarters and give the Colonel a report of the situation. That's why you two are coming with me.
-<edward>いや、オレたちはオレたちで行動するよ。|今は一刻も早く、すべてのオベリスクを|封印しなきゃならないしな。=<edward>No way, we've got our own stuff to deal with.|We have to seal all the obelisks as soon as possible.
+<edward>いや、オレたちはオレたちで行動するよ。|今は一刻も早く、すべてのオベリスクを|封印しなきゃならないしな。=<edward>No way, we've got our own stuff to deal with. We have to seal all the obelisks as soon as possible.#Looks like a newline before "We" would come right after the second line starts, but I haven't checked in-game. It's an awkwardness best avoided.
 <alphonse>オベリスクのことは、ボクたちに|任せてください。というか、ボクたちにしか|どうにもできないみたいですから。=<alphonse>Please, leave this to us. I mean, with the Holy Seals we're the only ones who can do anything about them.
 <riza>……そう、分かったわ。|君たちなら大丈夫とは思うけど、|くれぐれも無茶はしないようにね。=<riza>...I see. Guess you'll be alright.|But nonetheless, don't do anything reckless.
 <edward>さ、早く教会に戻ろうぜ。|ソフィとウィンリィも心配だしな。=<edward>Well, let's head back to the church for now. Sophie and Winry must be worried.
@@ -2451,7 +2451,7 @@
 <edward>はぁ……。ダメだぞ、アル。|分かってるだろ。|今はそれどころじゃないんだからな。=<edward>Aah... Stop it, Al. You already know that we don't have time for that.
 <alphonse>でも兄さん……。|この子、ケガしてるよ……。=<alphonse>But Brother...|This little one is injured...
 <edward>えっ……ケガ？=<edward>Eh... Injured?
-<alphonse>かわいそうに……。|１人じゃ歩けないんだね……。|このままじゃ、きっと死んじゃうね……。=<alphonse>Poor guy... It can't walk alone...|Left like this, they're going to die.
+<alphonse>かわいそうに……。|１人じゃ歩けないんだね……。|このままじゃ、きっと死んじゃうね……。=<alphonse>Poor guy... It can't walk alone...|Left like this, it's going to die.#"It" is pretty firmly the dodge used in the rest of the text to avoid gendering Norn.
 <edward>う……。=<edward>Uh...
 
 !FILE:0061_003/004.txt
@@ -2476,7 +2476,7 @@
 <woman>隠れっぱなしも疲れるのよね、|肉体的にというより、精神的に……。|私、もう、気が変になりそうで……。=<woman>Hiding all the time is tiring, don't you think? Not so much physically, but mentally...|I feel like I'm going crazy.
 <woman>……あのおじいさんも、|きっと、イッパイイッパイなんだわ。=<woman>I'm sure that old man is also reaching his limit.
 <woman>——だって、さっきから|意味の分からないことばかり|喋ってるんですもの……。=<woman>I mean, he was just mumbling some nonsense...
-<oldman>……ワシら普通の人間が、|あやつら、印を持つ者たちに、|勝てるハズがないんじゃ……。=<oldman>There's no way for us normal humans to defeat those manipulated by the Seal.
+<oldman>……ワシら普通の人間が、|あやつら、印を持つ者たちに、|勝てるハズがないんじゃ……。=<oldman>There's no way for us normal humans to defeat those manipulated by the seal.
 <oldman>……それこそ、|神の力でも使わない限りはな……。=<oldman>...That is, unless we use the power of|a god.
 
 !FILE:0070_003/004.txt
@@ -2531,20 +2531,20 @@
 <blackbold>アクセサリ<normal>【我輩の愛】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“My Love"
 <smalltext>錬成壁で跳ね返せ！=<smalltext>Counterattack with a transmuted rockblocker!
 <armstrong>その身一つで、|我が軍の部隊を一蹴するとは……！|まさに、恐るべき力よ……。=<armstrong>To think that he defeated our troops|with just his body...!|That's surely a dreadful power...
-<Godot>ウウウウゥゥ……。=<Godot>Uuuuuh....
+<godot>ウウウウゥゥ……。=<godot>Uuuuuh....
 <armstrong>だが！ 我輩にも使命がある。|ここで倒れるわけにはいかん。|——ゆくぞっ！=<armstrong>However, I have also my duty!|I can't be defeated here.|Let's gooo!
-<Godot><bigtext>ウガアァァッ！！=<Godot><bigtext>Ugaaaaahh!!
+<godot><bigtext>ウガアァァッ！！=<godot><bigtext>Ugaaaaahh!!
 <armstrong><bigtext>ぬおおお——っ！！=<armstrong><bigtext>Nnnnnghhh!!
-<Godot><bigtext>グワアアア——ッ！！=<Godot><bigtext>GWAAAAH!!
+<godot><bigtext>グワアアア——ッ！！=<godot><bigtext>GWAAAAH!!
 <armstrong><bigtext>ふんぬりゃあぁぁっ！！=<armstrong><bigtext>Hnnngaaaahhh!!
 <alphonse>——兄さん！|あれは——！？=<alphonse>Brother! Isn't that...!?
 <edward>アームストロング少佐！！=<edward>Major Armstrong!!
 <armstrong>む……ま、まさか……！？|エドワード・エルリック、か……！=<armstrong>Hmm... Could it be...?|Edward Elric!
 <edward>——おい！|今度は、オレたちが相手だ！！=<edward>Hey you! This time you're fighting us!
-<Godot>グウウウウウゥゥ……！=<Godot>GUUUUH!
+<godot>グウウウウウゥゥ……！=<godot>GUUUUH!
 <armstrong>い、いかん、来てはならぬッ……！|早く逃げるのだ、|エドワード・エルリック……！=<armstrong>Y...You can't, don't get closer!|Get away quickly, Edward Elric!
 <edward>少佐は下がっててくれ！|——さぁ、かかってきやがれ！|このデカブツ野郎ッ！！=<edward>Step back, Major!|Come on, bring it on!|You monstrous freak!
-<Godot><bigtext>ゴアアアアァァッ！！=<Godot><bigtext>GOAAAAAAH!!
+<godot><bigtext>ゴアアアアァァッ！！=<godot><bigtext>GOAAAAAAH!!
 <armstrong>ぬおおおおおおおおおおお！！|エドワード・エルリックゥゥッッ！！=<armstrong>Hnnnngwooooo!!|Edward Elriiiic!!
 <edward>ギャアアアアアアアアァァッ！！=<edward>Gaaaahh!!
 <armstrong>身を呈して我輩を救ってくれた、|おぬしの勇気！ そして優しさ！！|我輩、心より感謝しておるぞッ！！=<armstrong>Such courage, risking your life to rescue me! And such kindness!|You have my most heartfelt gratitude!!
@@ -2572,7 +2572,7 @@
 !FILE:0080_003/004.txt
 <edward>——ここが、|ウィンリィの言ってた|地下鉄の駅だな……。=<edward>This must be the subway station Winry was talking about...
 <alphonse>——兄さん！|こんな所まで、ヴェルザの一族が！=<alphonse>Brother!|The Velza Clan is here too!
-<edward>ちっ……。|楽に行かせちゃくれねーらしいな！！=<edward>Tch...|So much for doing this the|easy way!!
+<edward>ちっ……。|楽に行かせちゃくれねーらしいな！！=<edward>Tch...|So much for doing this the easy way!!
 
 
 !FILE:0081_003/004.txt
@@ -2878,14 +2878,14 @@
 <alphonse>兄さん、ここはボクが行くよ。=<alphonse>I'll go here, Brother.
 
 !FILE:0116_002/004.txt
-<Godot>グォワアアァァ———ッ！！=<Godot>GRUAAAAAH!!
+<godot>グォワアアァァ———ッ！！=<godot>GRUAAAAAH!!
 <edward>な！？|コ、コイツは！？=<edward>Wha...!? It's... that guy!?
-<Godot>ウウウウゥゥ……。=<Godot>UUUUHHH...
+<godot>ウウウウゥゥ……。=<godot>UUUUHHH...
 <edward>——あの時の、デカブツか。|一度やられたのに、|まだ、こりてないみたいだな……！=<edward>The same giant freak from before?|It seems he didn't learn his lesson last time we defeated him!
 <sophie>エド！ 私も一緒に——！=<sophie>Ed! I'll go with you too!
 <alphonse>危ないよ！|ソフィは下がってて！=<alphonse>No, it's dangerous! Stay back, Sophie!
 <edward>大丈夫だから、|オレたちにまかせとけ！|行くぞ、アル！=<edward>It's okay, leave it to us! Let's go, Al!
-<Godot>ゴアアアアアァァ———————ッ！！=<Godot>GROAAAAAAHH!!
+<godot>ゴアアアアアァァ———————ッ！！=<godot>GROAAAAAAHH!!
 
 !FILE:0117_002/004.txt
 <edward>１人で、先へ進む|ワケにはいかねーな……。|アルとソフィを連れてこないと……。=<edward>I can't go ahead alone...|I must bring Al and Sophie with me.
@@ -3041,10 +3041,10 @@
 <zelgius>我ら四神官は、時が満ちるまで、|邪魔が入らぬよう、|オベリスクを護らなければならん。=<zelgius>We, the Four Priests, must protect the obelisks against any hindrance, until the time is right.
 <zelgius>レオニード、|お前は西のオベリスクへ向かえ。|ゴドーは北だ。=<zelgius>Leonid, you'll go to the west obelisk. Godot, you go north.
 <leonid>分かったわ……。|聞こえたわね、ゴドー。|アンタは北のオベリスクを護るのよ。=<leonid>Understood.|You heard him, Godot; you'll protect the north obelisk.
-<Godot>ガアアアアアアァァッ！！=<Godot>Gaaaaaaahhhh!!
+<godot>ガアアアアアアァァッ！！=<godot>Gaaaaaaahhhh!!
 <leonid>……ホントに分かってんでしょうね。=<leonid>I wonder if he really understands...
 <janice>ゼルギウス～。|ジャニスは？ ジャニスは？|ジャニスはどうすればいいのぉ？=<janice>Zeeelgius!|What about Janice? What about Janice? What's the job for Jaaanice?
-<zelgius>お前は俺と共に来い。|今から、小うるさいネズミどもを|掃除しに行く。=<zelgius>You come with me.|We're going get rid of those fussy rats right now.
+<zelgius>お前は俺と共に来い。|今から、小うるさいネズミどもを|掃除しに行く。=<zelgius>You come with me.|We're going to get rid of those fussy rats right now.
 <janice>りょうかぁ～ぃ♪=<janice>Ooookay! ♪
 <zelgius>もう少しだ……。|もう少しで我らが神、|ヴェルザは蘇る……。=<zelgius>Just a little longer...|Just a little longer until our goddess Velza is resurrected...
 <edward>あれは……！=<edward>That's...!
@@ -3111,22 +3111,22 @@
 
 !FILE:0130_002/004.txt
 <smalltext><blackbold>アクセサリ<normal>【漢のふんどし】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Manly Loincloth"
-<Godot>グウウゥゥ……。|ウウウゥゥ……。=<Godot>Guuuuhhh.... Uuuuhhhhh.....
+<godot>グウウゥゥ……。|ウウウゥゥ……。=<godot>Guuuuhhh.... Uuuuhhhhh.....
 <edward>決着はついた。|オレたちの勝ちだ。|これ以上は、もうやめとけ。=<edward>It's over; we win. So don't keep fighting.
-<Godot>ウウウウウゥゥ…………！=<Godot>Uuuuuhhh!
+<godot>ウウウウウゥゥ…………！=<godot>Uuuuuhhh!
 <edward>おい、何をする気だ？|それ以上、無理をしたら、|お前も——。=<edward>Hey, what are you trying to do!?|If you keep pushing yourself, you're|going to...
-<Godott>ウガアアアァァ———————ッ！！！=<Godot>UGAAAAAHHH!!
+<Godot>ウガアアアァァ———————ッ！！！=<godot>UGAAAAAHHH!!
 <edward>な、なにっ！？|まだ、そんな力が——！？=<edward>Wh-What!? He still has such power!?
 <sophie>待って！！ ダメよっ！！=<sophie>Wait!! You gotta stop!!
 <alphonse>ソフィ！？ 何を！？=<alphonse>Sophie!? What are you doing!?
 <sophie>ダメッ！！ それ以上、|印の力を使っちゃいけない！！=<sophie>Stop!! Don't use the power of the seal any further!!
-<Godot>ウオアアァァ—————ッ！！=<Godot>Uoaaaaaaahhh!!
+<godot>ウオアアァァ—————ッ！！=<godot>Uoaaaaaaahhh!!
 <edward>く、来る気か……！？=<edward>Is he... Is he coming for us!?
-<Godot>ウッ……ウアアアアァ……！？|ウ……グ……アァ…………！！=<Godot>Uh... Uaaahhh!?|Uh... Gu...Aaah...!!
+<godot>ウッ……ウアアアアァ……！？|ウ……グ……アァ…………！！=<godot>Uh... Uaaahhh!?|Uh... Gu...Aaah...!!
 <alphonse>に、兄さん。|なんだか様子が変だよ……！=<alphonse>Br-Brother? Something strange is happening!
 <sophie>早く！|早く力を止めて！|でないと、あなたが——！！=<sophie>Quick! You must stop using that power right now! If you don't...
-<Godot>ウ……ウ……ウゥ……。=<Godot>Uh... Uh... Uuh...
-<Godot>ウアアアアァァァァ—————ッ！！！=<Godot>UAAAAAAHHH!!!
+<godot>ウ……ウ……ウゥ……。=<godot>Uh... Uh... Uuh...
+<godot>ウアアアアァァァァ—————ッ！！！=<godot>UAAAAAAHHH!!!
 <sophie>ああ……そんな……！=<sophie>Aaah! That's...!
 <edward>き、消えちまった……。|いったい、どうなってんだ……。=<edward>He... He vanished!|What the hell's going on?
 <sophie>——印に、命を|燃やしつくされてしまったのよ……。|これが、彼らの背負う、印の呪い……。=<sophie>His life was burned away by the seal.|This is the curse of those that carry it.
@@ -3963,7 +3963,7 @@
 <edward>……アンタが、ヴェルザの一族を|攻撃するよう命じたのか……？|秘密を手に入れるために……！=<edward>Did you order the attacks on the Velza Clan? Just to obtain their secrets!?
 <bradley>——だとしたら、何かね？|どちらにせよ、危険な力を持つ武装集団、|早めに潰しておくべきだったからな。=<bradley>And what if I did? Even in that case, a group with such dangerous power should have been crushed a long time ago.
 <edward>……アンタが……！|アンタが余計なことをしなけりゃ……|戦いは避けられたっ……！=<edward>You...! If you hadn't done something so useless... this whole war could have been avoided!
-<edward>……ソフィも……|あんなことには|ならなかったハズだっ……！！=<edward>And Sophie too...|She wouldn't have had to go through|all this!!
+<edward>……ソフィも……|あんなことには|ならなかったハズだっ……！！=<edward>And Sophie too...|She wouldn't have had to go through all this!!
 <edward>許せねぇ……許せねぇぞ……！|キング・ブラッドレイッ！！=<edward>I can't forgive... I can't forgive it!|King Bradley!!#These look weird written.
 <bradley>……妙なことは考えぬ方が良いぞ。|鋼の錬金術師君。=<bradley>It'd be better if you didn't think anything strange. Fullmetal Alchemist.
 <edward>うるせぇ——————っ！！！=<edward>Shut uuuup!!
