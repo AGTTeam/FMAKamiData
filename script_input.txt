@@ -2375,7 +2375,7 @@
 <riza>なっ……！？=<riza>What the...!?
 <leonid>ウフフ……。|美しいバラには|トゲがあるっていうけど……。=<leonid>Heh heh...|They say that beautiful roses have thorns, but...
 <leonid>アナタのトゲじゃ、アタシに|かすり傷を付けることも|できないようね……。=<leonid>It seems your thorns can't even scratch on me.
-<riza>くっ……その力は……。|あなたたち、|いったい何者なの……？=<riza>Damn... That power...|What on earth are you people...?
+<riza>くっ……その力は……。|あなたたち、|いったい何者なの……？=<riza>Damn... That power...|What the hell are you people...?
 <leonid>——さぁ、美しく散りなさい。=<leonid>Now... Do me a favor and scatter beautifully.
 <edward>ホークアイ中尉！！=<edward>Lieutenant Hawkeye!!
 <riza>エドワード君！？|どうしてここに……。=<riza>Edward!?|What are you doing here!?
@@ -2439,7 +2439,7 @@
 <riza>だけど、さっきの変な男の力といい、|この塔の存在といい、あなたたちの話を|信じないと説明がつかないのも事実だわ。=<riza>However I can't explain the power of that strange man before, or the existence of this tower otherwise.
 <riza>ふぅ……。|大佐が聞いたら、なんて言うかしら……。=<riza>Oof... I wonder what the Colonel's going to say when he hears about this...
 <alphonse>中尉はこれからどうするんですか？=<alphonse>What are you going to do now, Lieutenant?
-<riza>私はこの街の司令部に戻って、|事の次第を大佐に報告するつもりよ。|だから、エドワード君たちも一緒に——。=<riza>I'll return to this city's Headquarters and give the Colonel a report of the situation. That's why you two are coming with me.
+<riza>私はこの街の司令部に戻って、|事の次第を大佐に報告するつもりよ。|だから、エドワード君たちも一緒に——。=<riza>I'll return to this city's headquarters and give the Colonel a report of the situation. That's why you two are coming with me.
 <edward>いや、オレたちはオレたちで行動するよ。|今は一刻も早く、すべてのオベリスクを|封印しなきゃならないしな。=<edward>No way, we've got our own stuff to deal with. We have to seal all the obelisks as soon as possible.#Looks like a newline before "We" would come right after the second line starts, but I haven't checked in-game. It's an awkwardness best avoided.
 <alphonse>オベリスクのことは、ボクたちに|任せてください。というか、ボクたちにしか|どうにもできないみたいですから。=<alphonse>Please, leave this to us. I mean, with the Holy Seals we're the only ones who can do anything about them.
 <riza>……そう、分かったわ。|君たちなら大丈夫とは思うけど、|くれぐれも無茶はしないようにね。=<riza>...I see. Guess you'll be alright.|But nonetheless, don't do anything reckless.
@@ -2498,16 +2498,16 @@
 いいえ=No
 列車に乗りますか？=Get on the train?
 <blackbold>にゃんこ<normal>【とらきち】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Tiger"
-<alphonse>街がヴェルザの一族に襲われてるのに、|地下鉄が運行してるなんて……。=<alphonse>It seems the train's running, the Velza Clan's attack on the city...
-<edward>助かったぜ。|これで、線路の上を|歩いていかずにすみそーだ。=<edward>Perfect. That way we won't have to|walk on the railroad tracks.
-<alphonse>ちょ、ちょっと待ってよ、兄さん！|こんな時に列車が動いてるなんて、|少し変だと思わない？=<alphonse>Wa...Wait a moment, Brother!|Don't you think it's a bit strange that trains are working at a time like this?
-<edward>たまたま、|仕事熱心な運転手さんでも|いたんじゃねーの？=<edward>Maybe there was a driver very enthusiastic about his job?
-<alphonse>何言ってるんだよ、もぅ……。|——やめといた方が|いいと思うけどなぁ……。=<alphonse>What are you talking about? Really...|I think it'd be better if you stopped...
+<alphonse>街がヴェルザの一族に襲われてるのに、|地下鉄が運行してるなんて……。=<alphonse>Huh, even with the Velza Clan's attack on the city...
+<edward>助かったぜ。|これで、線路の上を|歩いていかずにすみそーだ。=<edward>Perfect timing. This way we won't have to|walk on the railroad tracks.
+<alphonse>ちょ、ちょっと待ってよ、兄さん！|こんな時に列車が動いてるなんて、|少し変だと思わない？=<alphonse>Wa...Wait a moment, Brother!|Don't you think it's a bit strange that trains are running at a time like this?
+<edward>たまたま、|仕事熱心な運転手さんでも|いたんじゃねーの？=<edward>Maybe the driver's really enthusiastic about his job?
+<alphonse>何言ってるんだよ、もぅ……。|——やめといた方が|いいと思うけどなぁ……。=<alphonse>Are you being serious? Oh boy...|Things would go a lot better if you stopped to think about things...
 
 !FILE:0072_003/004.txt
 <edward>イベント０４１（０４０）=<edward>Event 041 (040)
 <edward>よっし、無事到着！=<edward>Alright, we arrived in one piece!
-<alphonse>無事到着じゃないでしょ……。|兄さんのせいで、よけい危ない目に|遭ったじゃないか……。=<alphonse>We didn't arrive safely!|We went through unnecessary danger because of you, Brother!
+<alphonse>無事到着じゃないでしょ……。|兄さんのせいで、よけい危ない目に|遭ったじゃないか……。=<alphonse>Don't celebrate!|We went through unnecessary danger because of you, Brother!
 <edward>いいじゃんか、その分、早く着いたし。|細かいこと、気にすんなよ。|——さ、行こうぜ。=<edward>It's fine, this way we arrived faster.|Don't worry about the details.|Well, let's go!
 <alphonse>もう、いいかげんだなぁ……。=<alphonse>So irresponsible...
 
@@ -2523,16 +2523,16 @@
 <man>この戦争を写真に残し、|皆に伝えるのが私の使命だ。|……お互い、頑張ろう。=<man>My mission is to photograph this war|and tell everyone about it.|Let's each do our best!
 
 !FILE:0078_003/004.txt
-<alphonse>ここを上がれば、|地上に出られるみたいだね。=<alphonse>It seems we'll reach the surface if we|go up there.
-<edward>オベリスクは、この先か……。|行くぞ、アル。=<edward>The obelisk is up ahead...|Let's go, Al.
+<alphonse>ここを上がれば、|地上に出られるみたいだね。=<alphonse>Here's the exit.|Can't believe we really made it.
+<edward>オベリスクは、この先か……。|行くぞ、アル。=<edward>We're close to the obelisk now...|Let's go, Al.
 
 !FILE:0079_002/004.txt
 <smalltext><blackbold>アクセサリ<normal>【豪腕の手甲】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Strong-Arm Gauntlet"
 <blackbold>アクセサリ<normal>【我輩の愛】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“My Love"
 <smalltext>錬成壁で跳ね返せ！=<smalltext>Counterattack with a transmuted rockblocker!
-<armstrong>その身一つで、|我が軍の部隊を一蹴するとは……！|まさに、恐るべき力よ……。=<armstrong>To think that he defeated our troops|with just his body...!|That's surely a dreadful power...
-<godot>ウウウウゥゥ……。=<godot>Uuuuuh....
-<armstrong>だが！ 我輩にも使命がある。|ここで倒れるわけにはいかん。|——ゆくぞっ！=<armstrong>However, I have also my duty!|I can't be defeated here.|Let's gooo!
+<armstrong>その身一つで、|我が軍の部隊を一蹴するとは……！|まさに、恐るべき力よ……。=<armstrong>This man defeated our troops|with just his body...!|What incredible power...
+<godot>ウウウウゥゥ……。=<godot>Uuuuuhh....
+<armstrong>だが！ 我輩にも使命がある。|ここで倒れるわけにはいかん。|——ゆくぞっ！=<armstrong>However, I have a duty!|I have to take you down.|Let's go!
 <godot><bigtext>ウガアァァッ！！=<godot><bigtext>Ugaaaaahh!!
 <armstrong><bigtext>ぬおおお——っ！！=<armstrong><bigtext>Nnnnnghhh!!
 <godot><bigtext>グワアアア——ッ！！=<godot><bigtext>GWAAAAH!!
@@ -2540,34 +2540,34 @@
 <alphonse>——兄さん！|あれは——！？=<alphonse>Brother! Isn't that...!?
 <edward>アームストロング少佐！！=<edward>Major Armstrong!!
 <armstrong>む……ま、まさか……！？|エドワード・エルリック、か……！=<armstrong>Hmm... Could it be...?|Edward Elric!
-<edward>——おい！|今度は、オレたちが相手だ！！=<edward>Hey you! This time you're fighting us!
+<edward>——おい！|今度は、オレたちが相手だ！！=<edward>Hey, you! This time you're fighting us!
 <godot>グウウウウウゥゥ……！=<godot>GUUUUH!
 <armstrong>い、いかん、来てはならぬッ……！|早く逃げるのだ、|エドワード・エルリック……！=<armstrong>Y...You can't, don't get closer!|Get away quickly, Edward Elric!
-<edward>少佐は下がっててくれ！|——さぁ、かかってきやがれ！|このデカブツ野郎ッ！！=<edward>Step back, Major!|Come on, bring it on!|You monstrous freak!
+<edward>少佐は下がっててくれ！|——さぁ、かかってきやがれ！|このデカブツ野郎ッ！！=<edward>Step back, Major!|Okay, you monstrous freak!|Bring it on!
 <godot><bigtext>ゴアアアアァァッ！！=<godot><bigtext>GOAAAAAAH!!
 <armstrong>ぬおおおおおおおおおおお！！|エドワード・エルリックゥゥッッ！！=<armstrong>Hnnnngwooooo!!|Edward Elriiiic!!
 <edward>ギャアアアアアアアアァァッ！！=<edward>Gaaaahh!!
 <armstrong>身を呈して我輩を救ってくれた、|おぬしの勇気！ そして優しさ！！|我輩、心より感謝しておるぞッ！！=<armstrong>Such courage, risking your life to rescue me! And such kindness!|You have my most heartfelt gratitude!!
 <edward>ギャアアアアアアアアァァッ！！|か、か、感謝してるなら、|放してくれえええぇぇッッ……！！=<edward>Gaaaah!!|If you're really thankful, then let me goooo!!
 <alphonse>しょ、少佐……。|さっきまで動けなかったハズじゃ……。=<alphonse>Ma...Major...|A moment ago you couldn't even move...
-<armstrong>むぅ……。|敵の襲来の裏に、|そのような事情があったとは……。=<armstrong>Hmmm... There must be several reasons behind this enemy invasion...
+<armstrong>むぅ……。|敵の襲来の裏に、|そのような事情があったとは……。=<armstrong>Hmmm... There must be more to this invasion than we thought...
 <alphonse>はい。それでボクたち、|あのオベリスクを|封印しに来たんです。=<alphonse>Yes. That's why we came to seal that obelisk.
-<armstrong>——うむ。|ならば、さっそく|取りかかるが良かろう。=<armstrong>Humm... In that case, you should set about it at once.
+<armstrong>——うむ。|ならば、さっそく|取りかかるが良かろう。=<armstrong>Hmm... In that case, you better do just that.
 <alphonse>ふぅ。２つ目の封印完了、っと。=<alphonse>Pheew! That takes care of the second seal.
-<alphonse>これで、残りはあと１つ。|最後のオベリスクは、|どこにあるんだろう……。=<alphonse>With this, there's only one left.|I wonder where the last obelisk could be?
+<alphonse>これで、残りはあと１つ。|最後のオベリスクは、|どこにあるんだろう……。=<alphonse>With that, there's only one left.|I wonder where the last obelisk could be?
 <alphonse>——って、兄さん、|いつまで寝てるんだよ！=<alphonse>Hey, Brother!|How long are you gonna sleep!?
 <armstrong>これと同じ巨大な塔なら、|街の東にある、軍司令部にあるぞ。=<armstrong>If you're looking for a giant tower like this, there's one at the east of the city, in the military headquarters.
 <edward>え！？ 本当に！？=<edward>Huh? Really!?
 <alphonse>——あ。|生き返った。=<alphonse>Ah... You're alive again.
-<armstrong>うむ。敵の進攻と同時に、|ヴァルドラ軍司令部に、|突如として出現したのだ。=<armstrong>Hmm. It appeared suddenly at the Valdolla headquarters, at the same time as the enemy advanced.
+<armstrong>うむ。敵の進攻と同時に、|ヴァルドラ軍司令部に、|突如として出現したのだ。=<armstrong>Mmhm. It appeared suddenly at the Valdolla headquarters, at the same time the enemy advanced.
 <edward>最後のオベリスクは、司令部か……。|よし、行こう、アル。=<edward>So the last obelisk is at the military headquarters...|Okay, let's go, Al.#"military" to fit the awkward gap that headquarters leaves by not fitting in the first line
-<armstrong>む。待つのだ、２人とも。|今、司令部は敵に包囲されておる。|とても、中に入ることはできんぞ。=<armstrong>Humm. Wait, you two. Right now, the headquarters are surrounded by enemies. You can't go inside at all.
-<armstrong>我輩は、援軍を連れてくるため、|敵の包囲を抜け、やっとのことで|司令部を脱出してきたのだ。=<armstrong>I had to slip by their siege to bring reinforcements, and then at last managed to escape from there.
+<armstrong>む。待つのだ、２人とも。|今、司令部は敵に包囲されておる。|とても、中に入ることはできんぞ。=<armstrong>Hmm. Wait, you two. Right now, headquarters is surrounded by clan members. You'll never get inside.
+<armstrong>我輩は、援軍を連れてくるため、|敵の包囲を抜け、やっとのことで|司令部を脱出してきたのだ。=<armstrong>I barely managed to slip out of there. I need to call for reinforcements.
 <edward>その援軍が到着するまで、|司令部に行くなってんじゃねーだろうな。|そんな、ノンビリしてらんねーんだ。=<edward>We can't wait for those reinforcements to arrive before going to headquarters.|We're running short on time.
-<armstrong>むうぅ……。=<armstrong>Huummm...
+<armstrong>むうぅ……。=<armstrong>Hmmm...
 <armstrong>——ならば、我輩が脱出する時に使った|下水道から司令部に潜入するが良い。|そのルートなら、まだ安全だろう。=<armstrong>In that case, you should infiltrate through the sewers I used to escape.|That route should still be safe.
-<edward>下水道から、|司令部の中に入れるんだな？|わかった、サンキュー、少佐。=<edward>Enter headquarters through the sewers?|Understood. Thank you, Major.
-<armstrong>援軍を呼んだら、我輩もすぐに駆けつける。|それまで、くれぐれも無茶するでないぞ、|エドワード・エルリック。=<armstrong>As soon as I call reinforcements, I'll join you there at once. Until then, please don't do anything dangerous, Edward Elric.
+<edward>下水道から、|司令部の中に入れるんだな？|わかった、サンキュー、少佐。=<edward>Enter headquarters through the sewers?|Got it. Thank you, Major.
+<armstrong>援軍を呼んだら、我輩もすぐに駆けつける。|それまで、くれぐれも無茶するでないぞ、|エドワード・エルリック。=<armstrong>As soon as I call for the reinforcements, I'll join you over there. Until then, please don't do anything dangerous, Edward Elric.
 
 !FILE:0080_003/004.txt
 <edward>——ここが、|ウィンリィの言ってた|地下鉄の駅だな……。=<edward>This must be the subway station Winry was talking about...
@@ -2585,30 +2585,30 @@
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
 <smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies.
 <edward>——なっ！？|コイツら！|こんな所にまで……！=<edward>What!? Those guys are even here!
-<alphonse>ほら、やっぱり……。|こんなことだと思ったんだよ。=<alphonse>See? I knew it...|It's just as I thought.
-<edward>あー、うるせぇなー……。|——こんなヤツら、オベリスクに|着くまでの、いいヒマつぶしだぜ！=<edward>Ahh, shut up! These guys will be a great way to kill time till we reach the obelisk!
+<alphonse>ほら、やっぱり……。|こんなことだと思ったんだよ。=<alphonse>There, you see?|This is what I was trying to say.
+<edward>あー、うるせぇなー……。|——こんなヤツら、オベリスクに|着くまでの、いいヒマつぶしだぜ！=<edward>Ahh, shut up! These guys'll be a great way to kill time 'till we reach the obelisk!
 
 !FILE:0084_003/004.txt
 テスト=Test
 <edward>ここが、少佐の言ってた下水道だな。|この先が司令部へ|つながってるのか……。=<edward>These are the sewers the Major was talking about. So we'll find the headquarters up ahead.
-<alphonse>——兄さん！|ここにも、ヴェルザの一族が……！=<alphonse>Brother! The Velza Clan is here too!
+<alphonse>——兄さん！|ここにも、ヴェルザの一族が……！=<alphonse>Brother! The Velza Clan is here, too!
 <edward>——なんだと！？|くそっ……！=<edward>What!?|Dammit...
-<edward>——てことは、司令部の中にも、|すでに敵が侵入してるんじゃ……。|急ぐぞ、アル！=<edward>That means the enemy has already invaded headquarters.|Let's hurry, Al!
+<edward>——てことは、司令部の中にも、|すでに敵が侵入してるんじゃ……。|急ぐぞ、アル！=<edward>That means they must've already invaded headquarters.|Let's hurry, Al!
 
 !FILE:0087_003/004.txt
 はい=Yes
 いいえ=No
 マンホールに入りますか？=Enter the manhole?
 テスト=Test
-<alphonse>ここは……司令部の中だね。|無事に、たどりつけたみたい。=<alphonse>So we're... inside the headquarters.|It seems we managed to get here safely.
-<edward>ああ。だけど、思った通りだ。|すでに、ヴェルザの一族が|侵入してるな……。=<edward>Yeah. But it's just as I feared.|The Velza Clan has already invaded this place.
-<alphonse>司令部は、この街でいちばん、|守りが堅い場所の|はずなのに……。=<alphonse>Even when headquarters are supposed to be the most secure place in this city...
-<edward>ヤツらには「印の力」があるからな。|ただの軍人じゃ、|太刀打ちできないだろう。=<edward>That's because they have the power of the seal. Normal soldiers don't stand a chance against that.
-<edward>オベリスクは、この先みたいだな。|行こう、アル。=<edward>It seems the obelisk is this way.|Let's go, Al.
+<alphonse>ここは……司令部の中だね。|無事に、たどりつけたみたい。=<alphonse>So we're... at headquarters.|That wasn't too bad.
+<edward>ああ。だけど、思った通りだ。|すでに、ヴェルザの一族が|侵入してるな……。=<edward>Yeah. But it's just as I feared.|The Velza Clan's already invaded this place.
+<alphonse>司令部は、この街でいちばん、|守りが堅い場所の|はずなのに……。=<alphonse>Even when headquarters was supposed to be the most secure place in this city...
+<edward>ヤツらには「印の力」があるからな。|ただの軍人じゃ、|太刀打ちできないだろう。=<edward>It's because they have the power of the seal. Normal soldiers don't stand a chance against that.
+<edward>オベリスクは、この先みたいだな。|行こう、アル。=<edward>The obelisk must be this way.|Let's go, Al.
 <soldier>——うう、気をつけろ……、|奴らの力……普通じゃない……！=<soldier>Uuhh... Be careful...|The power of those guys...|It's not normal!
 <soldier>…………………………。=<soldier>...........................
 <soldier>……話しかけんなよ、|死んだフリがバレちまうだろ……。=<soldier>Don't talk to me...|They'll find out I'm playing dead...
-<soldier>……俺だって、コワイんだよ……！！=<soldier>This even has me scared!!
+<soldier>……俺だって、コワイんだよ……！！=<soldier>This even has ME scared!!
 
 !FILE:0090_003/004.txt
 はい=Yes
@@ -2617,17 +2617,17 @@
 <smalltext>外へのドアは厳重にロックされている=<smalltext>The door to the outside is locked.
 <smalltext><blackbold>アクセサリ<normal>【鬼のパンツ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Demon Briefs"
 <edward>——おい！|大丈夫か！？=<edward>Hey! Are you alright?
-<soldier>あ、ああ……。|足を少し、やられただけだ。|それより君たちは……？=<soldier>Ah, yeah... I just hurt my leg a little.|By the way, who are you?
+<soldier>あ、ああ……。|足を少し、やられただけだ。|それより君たちは……？=<soldier>Ah, yeah... I just hurt my leg a little.|But anyway, who are you?
 <alphonse>ボクたち、オベリスク——、|外にある、大きな塔の所へ|行きたいんです。=<alphonse>We want to reach the obelisk...|That big tower outside.
-<soldier>司令部に突然出現した、あの塔か……。|そこから外に出ればすぐだが、|今はドアがロックされていて通れんぞ。=<soldier>That tower that suddenly appeared? You can get out quickly from here, but the door is locked and there's no way through.
+<soldier>司令部に突然出現した、あの塔か……。|そこから外に出ればすぐだが、|今はドアがロックされていて通れんぞ。=<soldier>The tower that suddenly appeared? You could get to it quickly from here, but the door is locked and there's no other way through.
 <edward>うーん……。|オレたち、急いでるんだ。|なんとか、ならねーのかな？=<edward>Hmmm... We're in a hurry, isn't there anything we can do?
-<soldier>コントロールルームが|敵にやられてしまって、|ロックを解除できんのだ。=<soldier>The control room is taken by the enemy, so you can't release the lock.
+<soldier>コントロールルームが|敵にやられてしまって、|ロックを解除できんのだ。=<soldier>The control room was taken by the enemy, so you can't release the lock.
 <soldier>予備のスイッチなら、|最上階の司令室の隣に|あるはずだが……。=<soldier>But there should be a spare switch next to the command room at the top floor.
-<edward>最上階？ 一番上まで|行かなきゃなんねーのかよ……。|——しかたない。行こうぜ、アル。=<edward>The top floor? We have to go all the way up there? Guess it can't be helped...|Let's go, Al.
-<alphonse>兄さん、ドアが開いてる。|クレイギン将軍、忘れずにロックを|解除してくれたみたいだね。=<alphonse>The door is open, Brother.|It seems that General Craigin didn't forget to release the lock.
+<edward>最上階？ 一番上まで|行かなきゃなんねーのかよ……。|——しかたない。行こうぜ、アル。=<edward>The top floor? We have to go all the way up there? Nothing for it, then...|Let's go, Al.
+<alphonse>兄さん、ドアが開いてる。|クレイギン将軍、忘れずにロックを|解除してくれたみたいだね。=<alphonse>The door is open, Brother.|I guess General Craigin didn't forget to release the lock.
 <edward>よし、これでやっと|オベリスクの所へ行けるな。=<edward>Great, now we can finally get to the obelisk.
-<alphonse>——え？ なに、今の音？=<alphonse>Huh? What was that noise right now?
-<edward>爆発音？ 外からだな。|——急ぐぞ、アル！=<edward>An explosion? It came from outside.|Hurry up, Al!
+<alphonse>——え？ なに、今の音？=<alphonse>Huh? What was that noise just now?
+<edward>爆発音？ 外からだな。|——急ぐぞ、アル！=<edward>An explosion? It came from outside.|Hurry, Al!
 <soldier>最上階にあるスイッチを操作すれば、|ドアのロックを|解除することができる……。=<soldier>You can unlock the door using the switch at the top floor.
 <soldier>ロック解除のスイッチは、|司令室の隣の部屋にあるはずだ。|いいか、くれぐれも無茶はするなよ……。=<soldier>The switch to open the door should be next to the command room.|But please, don't do anything reckless...
 <soldier>お前たち、うまくやったな。|だが、この先に行きたいのなら、|今は止めた方がいい……。=<soldier>You did fine.|But if you plan to go further, you'd better stop now.
@@ -2642,18 +2642,18 @@
 <blackbold>アイテム<normal>【野戦レーション】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Field Ration"
 <soldier>——ッ！！|……なんだ、脅かすなよ、|敵かと思ったぞ……。=<soldier>Ah!...|Don't scare me like that. I thought you were the enemy...
 <soldier>…………………。=<soldier>.................
-<soldier>……で、|オマエらはいったい、|何者なんだ……？=<soldier>So... who on earth are you guys?
-<soldier>押すことも、引くこともできず、|こんな場所でくすぶっているとは……。|ああ、なんと不甲斐ない……！=<soldier>I'm staying here, neither pushing forward nor retreating... Oh, how pathetic!
+<soldier>……で、|オマエらはいったい、|何者なんだ……？=<soldier>So... who exactly are you guys?
+<soldier>押すことも、引くこともできず、|こんな場所でくすぶっているとは……。|ああ、なんと不甲斐ない……！=<soldier>I'm just waiting around here in safety... Oh, how pathetic!
 <soldier>せめて、将軍様が、|ご無事だとよいのだが……。=<soldier>I hope the General's safe at least.
-<soldier>ついさっきのことだけどよ、|中央から来た大佐さんに、|危ねぇところを助けられてな……。=<soldier>A little while ago, a colonel from the capital saved me from a dangerous situation.
-<soldier>スカした野郎だと思ったが、|あの強さといい、指揮能力といい……。=<soldier>I thought he was an arrogant guy, but he had great strength and leadership abilities.
-<soldier>——いやいや、確かに、|若くして大佐になるだけはあったよ。|止めるのもきかず、奥へ向かってったぜ。=<soldier>No, no, for real! He was a colonel at such a young age... He didn't listen to anyone trying to stop him, and headed inside.
-<soldier>……お前ら、よく無事だったな。|あの銃弾の雨の中を|どうやって抜けてきたんだ……？=<soldier>It's good you two are safe.|How did you escape from that rain of bullets?
-<soldier>あの装置は本来、侵入者にだけ|作動する仕組みで、軍人には|無反応のハズなんだが……。=<soldier>That device was only supposed to activate against intruders, and not react towards soldiers...
-<soldier>——チキショウ！|しっかり誤作動してるじゃねーかッ！！=<soldier>Damn! It's clearly malfunctioning!
-<soldier>……ここまで来たんだ、|君たちがタダ者じゃないってのは分かる。=<soldier>It's obvious you're no ordinary people,|if you've come this far.
-<soldier>——だが、油断するなよ。|奴らは殺す気でやってくる。|万全の注意を払うんだぞ……。=<soldier>But don't let your guard down.|Those guys are here to kill you.|So take all kinds of precautions.
-<soldier>司令室ならこの先だ、将軍を頼む……！！=<soldier>The command room is up ahead.|I entrust the General to you!
+<soldier>ついさっきのことだけどよ、|中央から来た大佐さんに、|危ねぇところを助けられてな……。=<soldier>A moment ago, a colonel from the capital saved my ass.
+<soldier>スカした野郎だと思ったが、|あの強さといい、指揮能力といい……。=<soldier>I thought he was just a cocky bastard, but that strength of his, and his leadership skills...
+<soldier>——いやいや、確かに、|若くして大佐になるだけはあったよ。|止めるのもきかず、奥へ向かってったぜ。=<soldier>He earned the title of colonel at such a young age and he's the real deal! I told him it was dangerous but he still went ahead.
+<soldier>……お前ら、よく無事だったな。|あの銃弾の雨の中を|どうやって抜けてきたんだ……？=<soldier>It's good you two are safe.|How did you avoid that rain of bullets?
+<soldier>あの装置は本来、侵入者にだけ|作動する仕組みで、軍人には|無反応のハズなんだが……。=<soldier>Those things were only supposed to activate against intruders, not shoot at us!
+<soldier>——チキショウ！|しっかり誤作動してるじゃねーかッ！！=<soldier>Damn! Malfunctioning at a time like this!
+<soldier>……ここまで来たんだ、|君たちがタダ者じゃないってのは分かる。=<soldier>It's obvious you're no regular kids,|if you've come this far.
+<soldier>——だが、油断するなよ。|奴らは殺す気でやってくる。|万全の注意を払うんだぞ……。=<soldier>But don't let your guard down.|Those guys won't hesistate to kill you.
+<soldier>司令室ならこの先だ、将軍を頼む……！！=<soldier>The command room is up ahead.|I entrust the General to you two!
 
 !FILE:0098_003/004.txt
 <blackbold>アイテム<normal>【野戦レーション】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Field Ration"
@@ -4053,7 +4053,7 @@
 !FILE:0221_003/004.txt
 <winry>アンタたちのことだから、|心配ないとは思うけど……。|一応、気をつけてね……？=<winry>I guess I shouldn't worry, since it's you guys.|But be careful, okay?
 <winry>ネコで、あれだけ変わる人間も、|世の中にはいるのねぇ……。|——アルと気が合うんじゃない？=<winry>So there really are other people in this world who get that crazy about cats...|She would get along just fine with Al.
-<winry>だって、しょうがないじゃない。|アルがカラッポになった理由、|ずっと言わないってのも、変でしょ？=<winry>Well, it can't be helped. After all, it's weird you haven't explained why Al became empty, right?
+<winry>だって、しょうがないじゃない。|アルがカラッポになった理由、|ずっと言わないってのも、変でしょ？=<winry>Well, what was I supposed to do? I mean, it was weird that you hadn't explained why Al was just a suit of armor, y'know?
 <winry>ええーっ、１人で留守番——！？|ありえなーい……、|早く帰ってきなさいよ……？=<winry>Huuh!? Staying here alone!?|I don't like it... Please come back quickly.
 <winry>戻ってきたソフィの後ろに、|アンタたちがいないんだもん……。|ビックリしたじゃない……ばか……。=<winry>You weren't there when Sophie returned...|So don't act so surprised... Idiot.
 <winry>女の子って、カヨワイものなの。|スパナで殴られたくなかったら、|ソフィのこと、必ず守ってね！！=<winry>Girls are delicate. So if you don't want me to strike you with a wrench, make sure you protect Sophie!!
@@ -4190,20 +4190,20 @@
 <edward>何とか、って言ったって……。=<edward>Something, you say...
 <winry>ソフィが喜びそうなプレゼントとか。|ネコの時、あんなに|嬉しそうだったじゃない。=<winry>What about some present she'd like? She seemed so happy with that cat...
 <edward>プレゼントか……。|ソフィにあげられそうな物なんて、|何かあったかなぁ……。=<edward>A present?|I wonder if there's something we could give her...
-<winry>おかえり、エド、アル。|その顏だと、オベリスクの封印は|うまくいったみたいね。=<winry>Welcome back, Ed, Al.|From the looks of it, it seems you successfully sealed the obelisk.
+<winry>おかえり、エド、アル。|その顏だと、オベリスクの封印は|うまくいったみたいね。=<winry>Welcome back, Ed, Al.|I assume that means you successfully sealed the obelisk.
 <alphonse>うん、バッチリだよ。|ウィンリィの教えてくれた地下鉄で|ちゃんと行けたしね。=<alphonse>Yeah, it worked out just fine.|We got there quickly using the subway you told us about, Winry.
 <edward>だけど、ヒドイ目にあったぜー。|列車の中は敵だらけだし、|暑苦しい筋肉に捕まるし……。=<edward>But there was some trouble.|The train was full of clan members, and I was trapped between sweaty muscles.
 <sophie>…………………………。=<sophie>...............................
-<alphonse>列車の件は、|兄さんが悪いんじゃないか。|——って、どうしたの、ソフィ？=<alphonse>Well, the issue with the train was your fault, Brother.|..........Huh, what's the matter, Sophie?
-<sophie>え……。=<sophie>Eh....
-<edward>さっきから黙って、オレたちを|ジロジロ見てるけど、|……何かあったのか？=<edward>You've been silent and staring at us|for a while now...|Is something wrong?
-<sophie>あ、ううん、ごめん。なんでもないわ。|——ただ、さっきウィンリィから|２人のことを聞いたから……。=<sophie>Ah, well, sorry. It's nothing. Just that, a while ago, Winry told me about you two...
+<alphonse>列車の件は、|兄さんが悪いんじゃないか。|——って、どうしたの、ソフィ？=<alphonse>Well, the issue with the train was your fault, Brother.|...Huh, what's wrong, Sophie?
+<sophie>え……。=<sophie>Eh...?
+<edward>さっきから黙って、オレたちを|ジロジロ見てるけど、|……何かあったのか？=<edward>You've been silent and staring at us|this whole time...|Is something wrong?
+<sophie>あ、ううん、ごめん。なんでもないわ。|——ただ、さっきウィンリィから|２人のことを聞いたから……。=<sophie>Ah, well, sorry. It's nothing. Just that, while you were out Winry told me about you two...
 <edward>オレたちのこと？=<edward>About us?
 <sophie>うん。２人の旅の目的……|２人がどうして、賢者の石を探す|旅を続けているのか……。=<sophie>Yes. About the purpose of your journey...|And the reason you keep searching for the Philosopher's Stone.
 <winry>…………。=<winry>...........................
 <sophie>エドとアルを最初に見た時、|何か力強いものを感じたの。|そのわけが、分かったような気がするわ。=<sophie>When we first met, I sensed something powerful about you. I think I understand why now.
 <edward>そうか……。=<edward>I see...
-<sophie>エドもアルも、|きっと、元の身体に戻れると思う。|賢者の石、早く見つかるといいね……。=<sophie>I'm sure you'll be able to get back your original bodies. And I hope you find the Philosopher's Stone soon.
+<sophie>エドもアルも、|きっと、元の身体に戻れると思う。|賢者の石、早く見つかるといいね……。=<sophie>I'm sure you'll be able to get your original bodies back. And I hope you find the Philosopher's Stone soon.
 <alphonse>ソフィ……。ありがとう。=<alphonse>Sophie... Thank you.
 <sophie>——エド！ アル！=<sophie>Ed! Al!
 <winry>２人とも遅かったじゃない！|——って、どうしたの、その顏……。|封印、うまくいかなかったの？=<winry>You two are late!|...Huh? What's with those faces? Didn't the seal work?
@@ -4551,7 +4551,7 @@
 <sophie>「ビッグになれよ、成長の秘薬」|……………？=<sophie>“Growth Tonic: To Grow Big"?
 <sophie>「成長」ってことは、|きっと、身長が伸びるのよね……？=<sophie>“Growth" surely means that you'll become taller.
 <sophie>……本当に、私がもらっちゃっていいの？|これが必要なのは、私じゃなくて……。|——あっ、ううん……、なんでもない。=<sophie>Are you sure I should take this?|It's not me who needs it.|Ah, no... forget I said anything.
-<sophie>よく分からない|鉄クズや木クズ……。|これは……いったい……？=<sophie>I don't understand what you're doing with this scrap iron and scrap wood...|What on earth is this?
+<sophie>よく分からない|鉄クズや木クズ……。|これは……いったい……？=<sophie>I don't understand what you're doing with these scraps of iron and wood...|What on earth is this?
 <edward>大砲の弾や、矢に錬成して使うんだ。|このままだと、ソフィの言うとおり、|何の役にも立たないゴミだけどな。=<edward>I can use it to transmute cannon balls and arrows. If it stays like this, as you said, it's just useless junk.
 <sophie>（何の役にも立たないゴミ……。| 錬金術の使えない私にとって、| ゴミはゴミでしかないのだけど……。）=<sophie>(Useless junk... Since I can't use alchemy, trash is just trash for me.)
 <sophie>——まぁ！|羊肉より安い席民の味方、|ヴァルドラの友、荒川牛ね！！=<sophie>Wow! Arakawa beef: cheaper than lamb, an ally of the people, a friend of Valdolla!!
@@ -5412,7 +5412,7 @@
 <sophie>……………。=<sophie>.........................
 <edward>よっし、いよいよだな。|最後のオベリスクを封印してくるぜ。=<edward>Alright, it's finally time.|Let's go and seal that last obelisk.
 <alphonse>少佐が言ってたよね。|オベリスクは、街の東にある、|軍司令部にある、って。=<alphonse>The Major said it was east of the city,|at the military headquarters.
-<edward>ああ。|教えてもらった下水道から、|司令部に潜入するぞ。=<edward>Yeah. We'll sneak into there through the sewers he told us about.
+<edward>ああ。|教えてもらった下水道から、|司令部に潜入するぞ。=<edward>Yeah. We'll sneak in there through the sewers he told us about.
 <sophie>……………………。=<sophie>.............................
 <edward>ん？ どうしたんだ、ソフィ？=<edward>Huh? What's the matter, Sophie?
 <sophie>……あ、ううん。|なんでもない……。|気をつけてね、２人とも。=<sophie>Oh, no... nothing.|Be careful, you two.
