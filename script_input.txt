@@ -3115,7 +3115,7 @@
 <edward>決着はついた。|オレたちの勝ちだ。|これ以上は、もうやめとけ。=<edward>It's over; we win. So don't keep fighting.
 <godot>ウウウウウゥゥ…………！=<godot>Uuuuuhhh!
 <edward>おい、何をする気だ？|それ以上、無理をしたら、|お前も——。=<edward>Hey, what are you trying to do!?|If you keep pushing yourself, you're|going to...
-<Godot>ウガアアアァァ———————ッ！！！=<godot>UGAAAAAHHH!!
+<godot>ウガアアアァァ———————ッ！！！=<godot>UGAAAAAHHH!!
 <edward>な、なにっ！？|まだ、そんな力が——！？=<edward>Wh-What!? He still has such power!?
 <sophie>待って！！ ダメよっ！！=<sophie>Wait!! You gotta stop!!
 <alphonse>ソフィ！？ 何を！？=<alphonse>Sophie!? What are you doing!?
