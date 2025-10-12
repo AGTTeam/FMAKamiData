@@ -2007,7 +2007,7 @@
 <teal>⬤<smalltext>|Ｒ１６=<teal>⬤<smalltext>|R16
 ⬤<smalltext>=
 <edward>ふーん。なるほど。|ここが砂漠の街・リオールか…。=<edward>Hmm, I see... Is this the desert city of Lior?
-<alphonse>街の人たちの雰囲気が|普通の街の人とは少し違ってるね。=<alphonse>The appearance of the townpeople seems a bit different from usual...
+<alphonse>街の人たちの雰囲気が|普通の街の人とは少し違ってるね。=<alphonse>The appearance of the townspeople seems a bit different from usual...
 <edward>そりゃあ、住人のほとんどが|レト教って宗教の信者らしいからな=<edward>Well, that's because most of the residents seem to be members of the Leto sect.
 <alphonse>ねぇ兄さん|その、レト教の教主様が使うっていう|『奇跡の業』のことなんだけど……。=<alphonse>Hey, Brother. About those “miracles" that are performed by the head priest of Leto...
 <edward>ああ。噂を聞く限りじゃ|ただの錬金術だとは思うんだが…。=<edward>Aah. From the rumors I've heard, I think it's just alchemy.
@@ -2179,19 +2179,19 @@
 <alphonse>せっかくだから錬成武器を使おうよ。=<alphonse>Let's use a transmuted weapon.
 
 !FILE:0038_003/004.txt
-<bigtext><blackbold> 武器の乗り降り=<bigtext><blackbold> Mounting and Dismouinting a Weapon
-<8006><white>（武器の近くで）|<8006><white><triangle>　＝　<yellow>武器に乗る=<8006><white>(Near a weapon)|<8006><white><triangle>: <yellow>Mount weapon
+<bigtext><blackbold> 武器の乗り降り=<bigtext><blackbold> Mounting and Dismounting an Object
+<8006><white>（武器の近くで）|<8006><white><triangle>　＝　<yellow>武器に乗る=<8006><white>(Near an object)|<8006><white><triangle>: <yellow>Mount object
 乗っている間は、<orange>左スティックで操作、|<white><square><orange>で攻撃<white>です。=While mounted, use the <orange>left stick to move <white>and|<square> <orange>to attack.
 降りる時は、もう一度<triangle>です。=To dismount, press <triangle> again.
-<bigtext><blackbold> パートナー武器乗り指示=<bigtext><blackbold> Partner Weapon Instructions
-<8006><white>（武器の近くで）|<8006><white><R1a><R1b>　＝　<yellow>パートナーを武器に乗せる=<8006><white>(Near a weapon)|<8006><white><R1a><R1b>: <yellow>Make partner mount the weapon
-もう一度<R1a><R1b>を押すと、パートナーは|乗っている武器から降ります。=By pressing <R1a><R1b> again, the partner will|dismount the weapon.
+<bigtext><blackbold> パートナー武器乗り指示=<bigtext><blackbold> Partner Object Instructions
+<8006><white>（武器の近くで）|<8006><white><R1a><R1b>　＝　<yellow>パートナーを武器に乗せる=<8006><white>(Near a weapon)|<8006><white><R1a><R1b>: <yellow>Make partner mount the object
+もう一度<R1a><R1b>を押すと、パートナーは|乗っている武器から降ります。=By pressing <R1a><R1b> again, the partner will|dismount the object.
 <bigtext><blackbold> リローダー=<bigtext><blackbold> Reloader
 <8006><white>大砲などには<orange>弾数制限<white>があります。=<8006><white>Cannons and similar weapons have a <orange>limited amount of ammunition.
-弾が切れた時は、一度武器から降りて|<circle>で再錬成してください。=When you run out of ammo, you must dismount the weapon and use <circle> to re-transmute it.
+弾が切れた時は、一度武器から降りて|<circle>で再錬成してください。=When you run out of ammo, you must dismount the object and use <circle> to re-transmute it.
 ただし、弾を補充する再錬成には、|<orange>リローダー（弾）アイテムが必要<white>です。=However, you will need <orange>reloaders<white> in order to re-transmute.#This translation comes from FMA2
 <smalltext>サークル内で<circle> ＝　オブジェ錬成|サークル内で<R1a><R1b>＝　パートナーが錬成=<smalltext>Press <circle> inside the circle: Object transmutation|Press <R1a><R1b> inside the circle: Partner makes a transmutation
-<smalltext><triangle> ＝　武器に乗る|<R1a><R1b>＝　パートナーが乗る=<smalltext><triangle>: Mount weapon|<R1a><R1b>: Partner mounts weapon
+<smalltext><triangle> ＝　武器に乗る|<R1a><R1b>＝　パートナーが乗る=<smalltext><triangle>: Mount object|<R1a><R1b>: Partner mounts object
 <smalltext><square>で攻撃・<triangle>で降りる=<smalltext>Attack with <square> / Dismount with <triangle>
 <alphonse>せっかくだから錬成武器を使おうよ。=<alphonse>Let's use a transmuted weapon.
 
@@ -2747,7 +2747,7 @@
 <edward>——そういえば、大佐。大佐こそ、|オレたちに、あんな手紙をよこして、|なにか裏があるんじゃねーのかよ。=<edward>Speaking of which, Colonel...|That also describes you. There must be more to that letter you sent us.
 <roy>——ん？=<roy>Huh?
 <edward>「ヴァルドラに賢者の石に関する噂がある」|オレたちに何かさせたくて、|こんな手紙で呼んだんだろ。=<edward>“There are rumors of the Philosopher's Stone in Valdolla". You drew us in with that letter to use us for something, right?
-<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>Well, there are legends in this city about a witch who gave herself to a “Crimson Demon"|It sounds a bit like the Philosopher's Stone.
+<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>Well, there're legends in this city about a witch who gave herself to a “Crimson Demon"|It sounds a bit like the Philosopher's Stone.
 <roy>——まぁ、お前たちが来たら、|せっかくだから少し手伝ってもらおうと|考えていたのも事実だがな……。=<roy>And it's true that, since you two had come here, I thought you might as well help us a little.
 <edward>あ——ったく！ いつもいつも、|そうやって、人をいいように|動かそうとしやがって……！=<edward>Aaargh, really! You're always trying to make people do whatever you want!
 <roy>ハハハ。まぁ、そう怒るな。|お前たちには、クレイギン将軍の動きに|注意してほしいのだ。=<roy>Ha ha ha! Don't get so angry.|I want you two to keep an eye on General Craigin's movements.
