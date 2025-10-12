@@ -359,7 +359,7 @@
 ※アクセサリ予備用９２=Accessory Slot 92
 ※アクセサリ予備用９３=Accessory Slot 93
 ※アクセサリ予備用９４=Accessory Slot 94
-たま=Eggy#I feel like Japanese names should be avoided as best as possible
+たま=Tama
 えるうっど=Elwood
 とらきち=Tiger
 ばーにー=Bernie
@@ -560,7 +560,7 @@
 <yellow>防御力が１０下がる<white>|穴の開いたふんどし、やっぱりアルでも恥ずかしい……=<yellow>Defense decreases by 10.<white>|A loincloth with holes. Even Al is embarrassed...
 <yellow>攻撃力が５０上がり、通常の走りができなくなる<white>|オシリにくいこむタイプのふんどし、上級者用=<yellow>Attack increases by 50, but makes it impossible to run.<white>|A loincloth that fits between the buttocks; for advanced users.
 <yellow>ＨＰの最大値と攻撃力が２０上がり、錬成力が１０下がる<white>|ゴドー愛用のふんどし、とにかくデカイ=<yellow>Max HP and Attack increase by 20. Alchemy decreases by 10.<white>|Godot's favorite loincloth. It's simply huge.
-<yellow>通常取得経験値が１０％増加する<white>|たまの恩返し、荒川先生が微笑んでいる……=<yellow>Experience points earned in battle increase by 10%.<white>|A gift from Eggy; Arakawa-sensei is smiling.
+<yellow>通常取得経験値が１０％増加する<white>|たまの恩返し、荒川先生が微笑んでいる……=<yellow>Experience points earned in battle increase by 10%.<white>|A gift from Tama; Arakawa-sensei is smiling.
 <yellow>通常取得経験値が１０％増加する<white>|えるうっどの恩返し、ニャンコの集団が微笑んでいる……=<yellow>Experience points earned in battle increase by 10%.<white>|A gift from Elwood; a group of cats is smiling.
 <yellow>通常取得経験値が５０％増加する<white>|ブラックハヤテ号がホークアイと共に微笑んでいる……=<yellow>Experience points earned in battle increase by 50%.<white>|Hawkeye is smiling with Black Hayate.
 <yellow>通常取得経験値が２倍に増加する<white>|シャオメイがヨキをかじって微笑んでいる……=<yellow>Experience points earned in battle are doubled.<white>|Shao May is biting Yoki and smiling.
@@ -2137,7 +2137,7 @@
 <smalltext>車の上の宝箱を開けよう！=<smalltext>Open the treasure chest on top of the car!
 <smalltext><R1a><R1b>押し続け＝協力ジャンプ[エド操作時]=<smalltext>Hold <R1a><R1b>: Alleyoop (while controlling Ed)
 <blackbold>アイテム<normal>【キャンディ】|<blackbold>を手に入れた！！=<blackbold>Got item|<normal>“Candy"
-<blackbold>にゃんこ<normal>【たま】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Eggy"
+<blackbold>にゃんこ<normal>【たま】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Tama"
 <girl>うぅ……ぐすっ……。|お母さーん！ 熱いよぉ……！=<girl>*Sob...*|Mommy! It's hot!
 <edward>おい！ あんな所に女の子が！=<edward>Hey! There's a little girl over there!
 <alphonse>兄さん、ここはボクに任せて！！=<alphonse>Leave this to me, Brother!
@@ -2579,7 +2579,7 @@
 <bigtext><blackbold> スキル錬成「吸引マシン」=<bigtext><blackbold> “Vacuum" Transmutation
 <8006><white>（アル操作時に）|<8006><L2a><L2b>押しながら<square>　＝<yellow>「吸引マシン」錬成=<8006><white>(While controlling Al)|<8006>Press <square> while holding <L2a><L2b>: <yellow>Transmute a Vacuum
 アルは、周囲にいる敵を吸い寄せる|<orange>吸引マシン<white>を錬成できます。=Al can transmute a <orange>suction machine <white>that attracts the surrounding enemies.
-<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>: Transmute a Vacuum (while controlling Al)
+<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>:|Transmute a Vacuum (while controlling Al)
 
 !FILE:0083_002/004.txt
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
@@ -5268,11 +5268,11 @@
 <alphonse>あの光は、何だったのかな……。|その石は……？=<alphonse>What was that light?|And what about this stone?
 <sophie>カワイイ！ カワイイ！|チョ——カワイ——ッ！！|キャ———ッ！！=<sophie>Cute, cute!! Sooooo cute!! Yeaaaah!!
 <alphonse>……………。=<alphonse>....................
-<sophie>あなた、お名前は？|——そう、「たま」っていうの。|素敵なお名前ね……。=<sophie>What's your name?|I see, you're called “Eggy". That's a lovely name.
+<sophie>あなた、お名前は？|——そう、「たま」っていうの。|素敵なお名前ね……。=<sophie>What's your name?|I see, you're called “Tama". That's a lovely name.
 <alphonse>——ええっ！？|この子が何を言ってるか、|ソフィには、分かるの……！？=<alphonse>Huh!? Sophie, do you understand this little one!?
 <sophie>うん、なんとなく……。=<sophie>Yeah, more or less.
 <alphonse>（エスパーですか、あなたは……）=<alphonse>(Are you a psychic?)
-<sophie>今日から、この教会が|あなたの新しいお家よ！|たま、よろしくね！ 仲良くしましょ！=<sophie>From this day on, this church will be your new home! Nice to meet you, Eggy.|Let's be good friends!
+<sophie>今日から、この教会が|あなたの新しいお家よ！|たま、よろしくね！ 仲良くしましょ！=<sophie>From this day on, this church will be your new home! Nice to meet you, Tama.|Let's be good friends!
 <sophie>カワイイ！ カワイイ！|チョ———|……カワイイ？=<sophie>Cute! Cute! Sooooo...|Cute?
 <alphonse>この子、少し変わってるんだ。|トゲトゲの腕輪してるし……、|オスなのにメイクしてるし……。=<alphonse>This one is a little weird. He's wearing a spiked bracelet and makeup, even though he's a male...
 <sophie>——ッ！ この子、今、私を見て、|鼻で笑ったわ……！|……何様のつもりかしら。（ボソッ）=<sophie>Huh!? He just looked at me and smirked!|*Muttering* Who does he think he is!?
