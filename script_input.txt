@@ -2523,14 +2523,14 @@
 <man>この戦争を写真に残し、|皆に伝えるのが私の使命だ。|……お互い、頑張ろう。=<man>My mission is to photograph this war|and tell everyone about it.|Let's each do our best!
 
 !FILE:0078_003/004.txt
-<alphonse>ここを上がれば、|地上に出られるみたいだね。=<alphonse>Here's the exit.|Can't believe we really made it.
+<alphonse>ここを上がれば、|地上に出られるみたいだね。=<alphonse>Here's the exit.|I can't believe we really made it.
 <edward>オベリスクは、この先か……。|行くぞ、アル。=<edward>We're close to the obelisk now...|Let's go, Al.
 
 !FILE:0079_002/004.txt
 <smalltext><blackbold>アクセサリ<normal>【豪腕の手甲】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Strong-Arm Gauntlet"
 <blackbold>アクセサリ<normal>【我輩の愛】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“My Love"
 <smalltext>錬成壁で跳ね返せ！=<smalltext>Counterattack with a transmuted rockblocker!
-<armstrong>その身一つで、|我が軍の部隊を一蹴するとは……！|まさに、恐るべき力よ……。=<armstrong>This man defeated our troops|with just his body...!|What incredible power...
+<armstrong>その身一つで、|我が軍の部隊を一蹴するとは……！|まさに、恐るべき力よ……。=<armstrong>This man defeated our troops with just his body...!|What incredible power...
 <godot>ウウウウゥゥ……。=<godot>Uuuuuhh....
 <armstrong>だが！ 我輩にも使命がある。|ここで倒れるわけにはいかん。|——ゆくぞっ！=<armstrong>However, I have a duty!|I have to take you down.|Let's go!
 <godot><bigtext>ウガアァァッ！！=<godot><bigtext>Ugaaaaahh!!
@@ -2552,7 +2552,7 @@
 <alphonse>しょ、少佐……。|さっきまで動けなかったハズじゃ……。=<alphonse>Ma...Major...|A moment ago you couldn't even move...
 <armstrong>むぅ……。|敵の襲来の裏に、|そのような事情があったとは……。=<armstrong>Hmmm... There must be more to this invasion than we thought...
 <alphonse>はい。それでボクたち、|あのオベリスクを|封印しに来たんです。=<alphonse>Yes. That's why we came to seal that obelisk.
-<armstrong>——うむ。|ならば、さっそく|取りかかるが良かろう。=<armstrong>Hmm... In that case, you better do just that.
+<armstrong>——うむ。|ならば、さっそく|取りかかるが良かろう。=<armstrong>Hmm... In that case, you'd better do just that.
 <alphonse>ふぅ。２つ目の封印完了、っと。=<alphonse>Pheew! That takes care of the second seal.
 <alphonse>これで、残りはあと１つ。|最後のオベリスクは、|どこにあるんだろう……。=<alphonse>With that, there's only one left.|I wonder where the last obelisk could be?
 <alphonse>——って、兄さん、|いつまで寝てるんだよ！=<alphonse>Hey, Brother!|How long are you gonna sleep!?
@@ -2586,7 +2586,7 @@
 <smalltext>周囲の敵を全滅させました=<smalltext>You defeated all surrounding enemies.
 <edward>——なっ！？|コイツら！|こんな所にまで……！=<edward>What!? Those guys are even here!
 <alphonse>ほら、やっぱり……。|こんなことだと思ったんだよ。=<alphonse>There, you see?|This is what I was trying to say.
-<edward>あー、うるせぇなー……。|——こんなヤツら、オベリスクに|着くまでの、いいヒマつぶしだぜ！=<edward>Ahh, shut up! These guys'll be a great way to kill time 'till we reach the obelisk!
+<edward>あー、うるせぇなー……。|——こんなヤツら、オベリスクに|着くまでの、いいヒマつぶしだぜ！=<edward>Ahh, shut up! These guys'll be a great way to kill time 'til we reach the obelisk!
 
 !FILE:0084_003/004.txt
 テスト=Test
@@ -2619,7 +2619,7 @@
 <edward>——おい！|大丈夫か！？=<edward>Hey! Are you alright?
 <soldier>あ、ああ……。|足を少し、やられただけだ。|それより君たちは……？=<soldier>Ah, yeah... I just hurt my leg a little.|But anyway, who are you?
 <alphonse>ボクたち、オベリスク——、|外にある、大きな塔の所へ|行きたいんです。=<alphonse>We want to reach the obelisk...|That big tower outside.
-<soldier>司令部に突然出現した、あの塔か……。|そこから外に出ればすぐだが、|今はドアがロックされていて通れんぞ。=<soldier>The tower that suddenly appeared? You could get to it quickly from here, but the door is locked and there's no other way through.
+<soldier>司令部に突然出現した、あの塔か……。|そこから外に出ればすぐだが、|今はドアがロックされていて通れんぞ。=<soldier>The tower that suddenly appeared? You could get to it quickly from here, but the door is locked and there's no other way through.#I remember this needing to be cut down to fit. Recent change might tip it back over.
 <edward>うーん……。|オレたち、急いでるんだ。|なんとか、ならねーのかな？=<edward>Hmmm... We're in a hurry, isn't there anything we can do?
 <soldier>コントロールルームが|敵にやられてしまって、|ロックを解除できんのだ。=<soldier>The control room was taken by the enemy, so you can't release the lock.
 <soldier>予備のスイッチなら、|最上階の司令室の隣に|あるはずだが……。=<soldier>But there should be a spare switch next to the command room at the top floor.
