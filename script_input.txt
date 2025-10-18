@@ -2682,10 +2682,10 @@
 <craigin>ふむ。あの塔の所へ……。|——君たち、奴らについて、|何か秘密を知っているのかね？=<craigin>I see. So you're going to that tower...|You know some secret about the enemy, right?
 <edward>え？ いや、まぁ……。=<edward>Huh? No, well...
 <edward>——な、なんだっ！？=<edward>Wh...What was that!?
-<craigin>くっ……また奴か……！|よし、こうなったら——。=<craigin>Damn... That girl again!?|Fine, I guess it's come to this...
+<craigin>くっ……また奴か……！|よし、こうなったら——。=<craigin>Damn... That thing again!?|Fine, I guess it's come to this...
 <craigin>エドワード君、君に頼みがある。|ぜひ、私に力を貸してくれ。=<craigin>Edward, I have a favor to ask of you.|I need your strength for now.
 <craigin>今、この司令部の屋上に、|私の命を狙っている敵がいる。=<craigin>There's some vile creature on the headquarters roof right now that's trying to kill me.
-<craigin>私の部下たちを、|一瞬にして倒してしまった、|恐ろしいバケモノだ。=<craigin>It's a terrible monster who defeated my men|in the blink of an eye.
+<craigin>私の部下たちを、|一瞬にして倒してしまった、|恐ろしいバケモノだ。=<craigin>It's a terrible monster who defeated my men in the blink of an eye.
 <alphonse>恐ろしい、バケモノ……。=<alphonse>A terrible monster...?
 <craigin>うむ。そいつを倒すため、|秘密兵器の出撃準備を進めているのだが、|まだ、もう少し時間がかかる。=<craigin>Yes. We're working on a secret weapon to kill that thing, but we need a little more time.
 <craigin>準備が整うまで、|敵を食い止めて、|時間を稼いでくれないだろうか。=<craigin>Could you hold it back, to buy us some time until we're ready?
@@ -2747,7 +2747,7 @@
 <edward>——そういえば、大佐。大佐こそ、|オレたちに、あんな手紙をよこして、|なにか裏があるんじゃねーのかよ。=<edward>Speaking of which, Colonel...|That also describes you. There must be more to that letter you sent us.
 <roy>——ん？=<roy>Huh?
 <edward>「ヴァルドラに賢者の石に関する噂がある」|オレたちに何かさせたくて、|こんな手紙で呼んだんだろ。=<edward>“There are rumors of the Philosopher's Stone in Valdolla". You drew us in with that letter to use us for something, right?
-<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>There're legends here about a witch who devoted herself to a “Crimson Demon". It sounds a bit like the Philosopher's Stone.
+<roy>ふむ。この街に、賢者の石を思わせる、|「赤き悪魔に身をささげた魔女」という|伝承があるのは事実だ。=<roy>There are legends here of a witch who devoted herself to a “Crimson Demon". It sounds a bit like the Philosopher's Stone.
 <roy>——まぁ、お前たちが来たら、|せっかくだから少し手伝ってもらおうと|考えていたのも事実だがな……。=<roy>And it's true that since you two had come here, I thought you may as well help us a little.
 <edward>あ——ったく！ いつもいつも、|そうやって、人をいいように|動かそうとしやがって……！=<edward>Aaargh, god damn it! You're always trying to make people do whatever you want!
 <roy>ハハハ。まぁ、そう怒るな。|お前たちには、クレイギン将軍の動きに|注意してほしいのだ。=<roy>Ha ha ha! Don't get so angry.|I want you two to keep an eye on General Craigin's movements.
@@ -2835,13 +2835,13 @@
 <roy>——気をつけろ、鋼の。|お前にも何か秘密があるようだが……|あの男の力、普通じゃない……。=<roy>Be careful, Fullmetal. I can see you have an ace up your sleeve... but that man's power isn't ordinary.
 <edward>——ああ。|タダ者じゃないってことは、分かってる。|この借りは、高くつきそうだぜ、大佐。=<edward>Yeah. I know he's not a regular guy.|You're gonna owe me big time, Colonel.
 <edward>………………。=<edward>.................
-<zelgius>お前が「聖印」を受けた小僧か。|フン、なるほど。|なかなかいい面構えだな。=<zelgius>So you're the kids who received the Holy Seal. Hmmm, I see... Your appearences are quite something.
+<zelgius>お前が「聖印」を受けた小僧か。|フン、なるほど。|なかなかいい面構えだな。=<zelgius>So you're the kids who received the Holy Seal. Hmmm, I see... Your appearances are quite something.
 <zelgius>レオニードやゴドーを退けたその力、|俺にも見せてもらおうか。=<zelgius>Will you show me the power that defeated both Leonid and Godot?
 <edward>……言われなくても、|そのつもりだぜ。|その目で、しっかり見るんだな！=<edward>I intended to, even if you didn't ask.|Try not to miss a thing!
 <zelgius>ほぅ……面白い……。=<zelgius>Ho... How interesting...
 <edward>アル、気をつけろよ……。|コイツ、今までの相手とは、|レベルが違う……。=<edward>Watch out, Al... I think he's in a different league from those other guys.
 <alphonse>うん、分かってる……。=<alphonse>Yeah, I think so too...
-<zelgius>俺は、四神官の長、煉獄のゼルギウス。|すべてを焼きつくす我が炎、|その身をもって味わうがいい！！=<zelgius>I am Zelgius of Purgatory, the leader of the Four Priests. You can have a taste of the flames that consume all, with your whole body!#Ineferno?
+<zelgius>俺は、四神官の長、煉獄のゼルギウス。|すべてを焼きつくす我が炎、|その身をもって味わうがいい！！=<zelgius>I am Zelgius of Purgatory, the leader of the Four Priests. You can have a taste of the flames that consume all!#Ineferno?
 <zelgius>クックック……なるほど。|なかなかやるな。|それが聖印の力というわけか。=<zelgius>Ho ho ho... I see now. That wasn't half bad.|So that's the power of the Holy Seal...
 <edward>くそッ……。|コイツ、まだ余裕を|持ってやがる……。=<edward>Damn! This guy isn't even taking this seriously...
 <zelgius>フッ……お前たち、|オベリスクを封印するために|ここまで来たのだろう？=<zelgius>Hmph! You came all the way here to seal the obelisk, right?
@@ -2866,7 +2866,7 @@
 <roy>私といっしょに司令室まで来てくれ。|クレイギン将軍も|そこにいるはずだ。=<roy>Come with me to the command room. General Craigin should be there too.
 
 !FILE:0105_003/004.txt
-<bigtext><blackbold> スキル錬成「石柱ジャンプ」=<bigtext><blackbold> “Stone Pillar" Transmutation#only way to make it fit......
+<bigtext><blackbold> スキル錬成「石柱ジャンプ」=<bigtext><blackbold> “Pillar Jump" Transmutation#only way to make it fit......
 <8006><white>（アル操作時）|<8006><L2a><L2b>押しながら<cross>　＝<yellow>石柱ジャンプ=<8006><white>(While controlling Al)|<8006>Press <cross> while holding <L2a><L2b>: <yellow>Stone Pillar Jump
 アルは、自分の足元から石柱を錬成し、|高くジャンプすることができます。=Al can transmute a Stone Pillar under his feet, allowing him to jump higher.
 <smalltext><white><L2a><L2b>押しながら<cross>＝石柱ジャンプ[アル操作時]=<smalltext><white>Press <cross> while holding <L2a><L2b>:|Stone Pillar Jump (while controlling Al)
@@ -5379,6 +5379,7 @@
 <winry>で、ソフィ！ あなたも！=<winry>And you neither, Sophie!
 <sophie>え？ 私？=<sophie>Huh? Me?
 <winry>おとなしそうに見えて、|意外と無茶するタイプなんだから。|ダメよ、気をつけないと。=<winry>You may seem quiet, but actually you're the kind who does reckless things.|You had better be careful.
+<sophie>えっ…、そ、そうかな……。=<sophie>Uh... Is that so?
 <winry>アルは——大丈夫だと思うけど……。=<winry>As for Al... I think he'll be okay.
 <winry>でも、冷静なように見えて、|やっぱり、エドと一緒に|無茶してたりするのよねぇ……。=<winry>But, even if you're calm, you put yourself in danger when you go with Ed.
 <alphonse>——ええっ！|に、兄さんと一緒にしないでよ。|ボクは、大丈夫だからね！=<alphonse>What!? Don't place me in the same category as my brother.|I'm gonna be fine!
