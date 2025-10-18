@@ -726,7 +726,7 @@
 <yellow>市街<white>　オートメイル屋広場=<yellow>City<white>　Automail Shop Square
 <yellow>倉庫街<white>　第３区画=<yellow>Industrial Area<white>　3rd Sector
 <yellow>倉庫街<white>　最終区画=<yellow>Industrial Area<white>　Last Sector
-<yellow>倉庫街<white>　６号倉庫=<yellow>Industrial Area<white>　Industrial No. 6
+<yellow>倉庫街<white>　６号倉庫=<yellow>Industrial Area<white>　Warehouse No. 6
 <yellow>倉庫街<white>　地下水路・中央部=<yellow>Industrial Area<white>　Sewer: Central Sector
 <yellow>地下鉄駅<white>　改札口=<yellow>Subway<white>　Ticket Gate
 <yellow>地下鉄駅<white>　到着Ｐホーム=<yellow>Subway<white>　Arrival Platform
@@ -853,17 +853,17 @@
 
 !FILE:0014_092.txt
 倉庫街・第１区画=Industrial Area: 1st Sector
-１号倉庫=Industrial No. 1
+１号倉庫=Warehouse No. 1
 倉庫街・第２区画=Industrial Area: 2nd Sector
-２号倉庫=Industrial No. 2
+２号倉庫=Warehouse No. 2
 倉庫街・第３区画=Industrial Area: 3rd Sector
-３号倉庫=Industrial No. 3
+３号倉庫=Warehouse No. 3
 倉庫街・第４区画=Industrial Area: 4th Sector
-４号倉庫=Industrial No. 4
+４号倉庫=Warehouse No. 4
 倉庫街・裏手=Industrial Area: Rear
-５号倉庫=Industrial No. 5
+５号倉庫=Warehouse No. 5
 倉庫街・最終区画=Industrial Area: Last Sector
-６号倉庫=Industrial No. 6
+６号倉庫=Warehouse No. 6
 地下水路・入口=Sewer: Entrance
 地下水路・中央部=Sewer: Central Sector
 地下水路・出口=Sewer: Exit
@@ -1754,7 +1754,7 @@
 ソフィとの想い出・・・=Memories with Sophie...
 <orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・大通り=<orange>Material area| <yellow>City<white>　Valdolla: Main street
 <orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・４番街=<orange>Material area| <yellow>City<white>　Valdolla: 4th District
-<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　１号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Industrial No. 1
+<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　１号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Warehouse No. 1
 <orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　改札口=<orange>Material area| <yellow>Subway<white>　Ticket Gate
 <orange>[マテリアル配置エリア]| <yellow>司令部<white>　１Ｆ・作戦室=<orange>Material area| <yellow>Headquarters<white>　1F: Operations Room
 <orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　屋上=<orange>Material area| <yellow>Headquarters B<white>　Rooftop　
@@ -1762,13 +1762,13 @@
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　ヴェルザ神殿・入口=<orange>Material area| <yellow>Temple<white>　Velza's Temple: Entrance
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　第１層・通路Ｃ=<orange>Material area| <yellow>Temple<white>　1st Level: Passage C
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　脊髄の間Ｃ=<orange>Material area| <yellow>Temple<white>　Spinal Cord Chamber C
-<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　５号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Industrial No. 5
+<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　５号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Warehouse No. 5
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　城内・バルコニー=<orange>Material area| <yellow>Old Castle<white>　Inner Castle: Balcony
 <orange>[マテリアル配置エリア]| <yellow>司令部<white>　下水道・中央部=<orange>Material area| <yellow>Headquarters<white>　Sewer: Central Sector
 <orange>[マテリアル配置エリア]| <yellow>司令部<white>　２Ｆ=<orange>Material area| <yellow>Headquarters<white>　2F
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　腎臓の間=<orange>Material area| <yellow>Temple<white>　Kidneys Chamber
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　胃の間=<orange>Material area| <yellow>Temple<white>　Stomach Chamber
-<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　３号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Industrial No. 3
+<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　３号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Warehouse No. 3
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　第一封の間=<orange>Material area| <yellow>Old Castle<white>　First Seal's Room
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　腸の間=<orange>Material area| <yellow>Temple<white>　Intestine Chamber
 <orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　西口　制御室=<orange>Material area| <yellow>Subway<white>　West Entrance: Control Room
@@ -1781,7 +1781,7 @@
 <orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　貯蔵室Ａ=<orange>Material area| <yellow>Old Castle B<white>　Storage Room B
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　脊髄の間Ｂ=<orange>Material area| <yellow>Temple<white>　Spinal Cord Chamber B
 <orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・８番街=<orange>Material area| <yellow>City<white>　Valdolla: 8th District
-<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　２号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Industrial No. 2
+<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　２号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Warehouse No. 2
 <orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　東口　制御室=<orange>Material area| <yellow>Subway<white>　East Entrance: Control Room
 <orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　プラットホーム=<orange>Material area| <yellow>Subway<white>　Platform
 <orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　３Ｆ=<orange>Material area| <yellow>Headquarters B<white>　3F
@@ -1797,7 +1797,7 @@
 <orange>[マテリアル配置エリア]| <yellow>司令部<white>　４Ｆ=<orange>Material area| <yellow>Headquarters<white>　4F
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　肝臓の間=<orange>Material area| <yellow>Temple<white>　Liver Chamber
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　牌臓の間=<orange>Material area| <yellow>Temple<white>　Spleen Chamber
-<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　４号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Industrial No. 4
+<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　４号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Warehouse No. 4
 <orange>[マテリアル配置エリア]| <yellow>古城<white>　第三封の間=<orange>Material area| <yellow>Old Castle<white>　Third Seal's Room
 <orange>[マテリアル配置エリア]| <yellow>司令部<white>　屋上=<orange>Material area| <yellow>Headquarters<white>　Rooftop
 <orange>[マテリアル配置エリア]| <yellow>神殿<white>　肺臓の間=<orange>Material area| <yellow>Temple<white>　Lung Chamber
@@ -2684,11 +2684,11 @@
 <edward>——な、なんだっ！？=<edward>Wh...What was that!?
 <craigin>くっ……また奴か……！|よし、こうなったら——。=<craigin>Damn... That girl again!?|Fine, I guess it's come to this...
 <craigin>エドワード君、君に頼みがある。|ぜひ、私に力を貸してくれ。=<craigin>Edward, I have a favor to ask of you.|I need your strength for now.
-<craigin>今、この司令部の屋上に、|私の命を狙っている敵がいる。=<craigin>There's a girl on the headquarters roof right now who's trying to kill me.
-<craigin>私の部下たちを、|一瞬にして倒してしまった、|恐ろしいバケモノだ。=<craigin>She's a terrible monster who defeated my men|in the blink of an eye.
+<craigin>今、この司令部の屋上に、|私の命を狙っている敵がいる。=<craigin>There's some vile creature on the headquarters roof right now that's trying to kill me.
+<craigin>私の部下たちを、|一瞬にして倒してしまった、|恐ろしいバケモノだ。=<craigin>It's a terrible monster who defeated my men|in the blink of an eye.
 <alphonse>恐ろしい、バケモノ……。=<alphonse>A terrible monster...?
-<craigin>うむ。そいつを倒すため、|秘密兵器の出撃準備を進めているのだが、|まだ、もう少し時間がかかる。=<craigin>Yes. We're working on a secret weapon to kill her, but we need a little more time.
-<craigin>準備が整うまで、|敵を食い止めて、|時間を稼いでくれないだろうか。=<craigin>Could you hold her back, to buy us some time until we're ready?
+<craigin>うむ。そいつを倒すため、|秘密兵器の出撃準備を進めているのだが、|まだ、もう少し時間がかかる。=<craigin>Yes. We're working on a secret weapon to kill that thing, but we need a little more time.
+<craigin>準備が整うまで、|敵を食い止めて、|時間を稼いでくれないだろうか。=<craigin>Could you hold it back, to buy us some time until we're ready?
 <edward>バケモノ、か……。|きっと、また印の力を持ったヤツ|なんだろうな……。=<edward>A monster?|Must be another one with the power of the seal...
 <edward>わかりました。|そいつのことは、|オレたちに、まかせてください。=<edward>No prob.|Just leave it to us.
 <craigin>おお、では頼んだぞ！|ドアのロックは、私が解除して、|外に出られるようにしておこう。=<craigin>Great, I'm counting on you!|I'll unlock the door so you can get outside.
@@ -2765,7 +2765,7 @@
 <smalltext><blackbold>アクセサリ<normal>【ハートぺンダント】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Heart Pendant"
 <edward>——ん？|敵はどうしたんだ？|それらしいヤツは、どこにも——。=<edward>Huh? What about the fight?|There's absolutely nobody here...
 <janice>ヤッホ～～～☆|どーこ、見てんのぉ？|こっち、こっち♪=<janice>Yooohooo...! ☆|Where are you looking?|This way, this way! ♪
-<edward>な……！|そ、空に……！？=<edward>Wha...!? She's in... the sky!?
+<edward>な……！|そ、空に……！？=<edward>Wha...!? They're in... the sky!?
 <alphonse>まさか、君が……、|恐ろしいバケモノ……？=<alphonse>No way! You're the terrible monster?
 <janice>エ————ッ！？|バケモノって、ジャニスのコトぉ！？|ガビーン！ 大ショックぅ～～！=<janice>Eeeeeh!? Janice, a monster!?|Geez, no! What a shock!
 <janice>てゆーか！ このキュートでセクスィな|ジャニスちゃんをバケモノ呼ばわりなんて、|失礼しちゃうわ！ ぷんぷん！！=<janice>I mean, it's so rude to call the cute and sexy Janice a monster! Pffft!
