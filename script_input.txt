@@ -2449,10 +2449,10 @@
 <edward>……お前がそうやってる時って、|たいがい、ネコか何かを|見つけた時なんだよな……。=<edward>When you act like this, it's usually because you've found a cat or something...
 <cat>ニャ～ン……。=<cat>Meooow!
 <edward>はぁ……。ダメだぞ、アル。|分かってるだろ。|今はそれどころじゃないんだからな。=<edward>Aah... Stop it, Al. You already know that we don't have time for that.
-<alphonse>でも兄さん……。|この子、ケガしてるよ……。=<alphonse>But Brother...|This little one is injured...
-<edward>えっ……ケガ？=<edward>Eh... Injured?
-<alphonse>かわいそうに……。|１人じゃ歩けないんだね……。|このままじゃ、きっと死んじゃうね……。=<alphonse>Poor guy... It can't walk alone...|Left like this, it's going to die.#"It" is pretty firmly the dodge used in the rest of the text to avoid gendering Norn.
-<edward>う……。=<edward>Uh...
+<alphonse>でも兄さん……。|この子、ケガしてるよ……。=<alphonse>But Edward...|This little one is injured...
+<edward>えっ……ケガ？=<edward>Huh... Injured?
+<alphonse>かわいそうに……。|１人じゃ歩けないんだね……。|このままじゃ、きっと死んじゃうね……。=<alphonse>Poor thing... It can't walk alone...|Left like this, it's going to die.#"It" is pretty firmly the dodge used in the rest of the text to avoid gendering Norn.
+<edward>う……。=<edward>Ugh...
 
 !FILE:0061_003/004.txt
 <smalltext>レバースイッチに反応はない=<smalltext>The lever switch doesn't work.
@@ -2991,7 +2991,7 @@
 <leonid>印は、絶対に消えない|ものだったはずよ！|なのに、どうしてアナタがそれを！=<leonid>The seal was supposed to be impossible to remove! So how is it you could you do it!?
 <sophie>……父に教えてもらったの。|父はずっと、印の呪いを消す方法を|研究していたのよ。=<sophie>My father taught me. He had been studying a way to remove the seal's curse for a long time.
 <sophie>印がなくなれば、ヴェルザの一族は|普通の人間に戻る……。|普通に暮らしていけるようになる……。=<sophie>With the seal gone, the members of the Clan will become normal humans again... They'll be able to lead normal lives.
-<sophie>そうすれば、軍と戦う必要もなく、|いずれ争いはなくなる……。|父は、そう考えていたの。=<sophie>If that happened, there would be no need to fight the army, and conflicts would end, eventually... That's what my father thought.
+<sophie>そうすれば、軍と戦う必要もなく、|いずれ争いはなくなる……。|父は、そう考えていたの。=<sophie>In that case, there would be no need to fight the army, and conflicts would eventually end... That's what my father thought.
 <leonid>ギルベルトが……そんなことを……。=<leonid>Gilbert... would do something like that...
 <sophie>ねぇ。たとえヴェルザを復活させて、|今の世界を滅ぼしても、何も変わらない！|一族を救うことなんて、できないのよ！=<sophie>Listen. Even if you revive Velza and destroy this world, it won't change anything! You can't save the Clan like that!
 <leonid>………………………………。=<leonid>..............................
@@ -3020,7 +3020,7 @@
 <hammer>そうっすか……。|でも、もし悩みがあっても、|１人で抱えこまねぇでくだせぇよ。=<hammer>I see... Anyway, if you have worries, don't keep them to yourself.
 <hammer>オラたちなら、いつでも|ヴィーナス様の|お側にいますから。=<hammer>You know we're always by your side,|Lady Venus.
 <venus>ハンマー……。=<venus>Hammer...
-<venus>フッ……やっぱり、|アンタたちまで巻きこむ|ワケにはいかないね……。=<venus>Hmph!... I suppose there's no way around involving you, after all.
+<venus>フッ……やっぱり、|アンタたちまで巻きこむ|ワケにはいかないね……。=<venus>Hmph...|I don't like dragging you two into this, after all.
 <trigger>コラコラコラ、ハンマー！|我が愛しのヴィーナス様に、|それ以上、近づくんじゃない！！=<trigger>Hey hey hey, Hammer! Don't get so close to my beloved Lady Venus!!
 <venus>ん？ どうしたんだい、トリガー？=<venus>Eh? What's that, Trigger?
 <trigger>ああ、今日も美しきヴィーナス様！|クレイギン将軍が、|お呼びになっていますです、ハイ。=<trigger>Aah, you're also beautiful today, Lady Venus!|General Graigin has called for you, yes.
@@ -3211,7 +3211,7 @@
 <edward>………ケッ。=<edward>Tch.
 <hammer>あー……じゃあ、イイこと教えてやるよ。|あのソフィって娘ッ子、|うまく逃げきったみてぇだぞ。=<hammer>Ah, well... I'll tell you something to cheer you up. It seems that Sophie girl got away safely.
 <edward>——！ そ、それ本当か！？=<edward>Is... Is that true!?
-<hammer>ああ。クレイギン将軍、|「小娘１人捕らえられんとは何事か！」|って、頭から湯気出して怒ってたよ。=<hammer>Yeah. General Craigin was saying “How is it you can't even catch a little girl!?". He was so angry that steam came out of his head.
+<hammer>ああ。クレイギン将軍、|「小娘１人捕らえられんとは何事か！」|って、頭から湯気出して怒ってたよ。=<hammer>Yeah. General Craigin said “How is it you can't even catch a little girl!?". He was so angry that steam came out his head.
 <edward>そっか……へへ……|そりゃ良かった……。=<edward>I see... Heh heh! That's good...
 <hammer>ぐへへ、やっと笑ったな。=<hammer>Heh heh! You finally smiled.
 <edward>……なぁ、おっちゃん。|オレの弟、アルはどうしてる？|この司令部の、どこかにいるのか？=<edward>Tell me, old man, how's my little brother doing?|Is he somewhere in these headquarters?
@@ -3354,7 +3354,7 @@
 <venus>さぁ、素直に降伏するんだね。|良い子は、お家へ帰る時間だ。=<venus>Now, surrender without fuss. It's time for good children to go home.
 <edward>聞いてくれ、中佐！|クレイギン将軍を止めないと、|大変なことになる！=<edward>Listen, Lt. Colonel! If we don't stop General Craigin, we'll all be in trouble!
 <alphonse>お願いです、ここは見逃してください！|ヴェルザの話は、|本当のことなんです！=<alphonse>Please, let us go!|The story about Velza is true!
-<venus>あの、世界が滅ぶというヤツかい？|夢のあるお話だねぇ……。|続きはゆっくり、牢屋で聞いてあげるよ。=<venus>What, that thing about the destruction of the world? That's fairy tale nonsense... But you can tell us more in prison.
+<venus>あの、世界が滅ぶというヤツかい？|夢のあるお話だねぇ……。|続きはゆっくり、牢屋で聞いてあげるよ。=<venus>What, all that about the destruction of the world? That's fairy tale nonsense... But you can tell us more in prison.
 <edward>くっ、この分からず屋め……！=<edward>Damn, these idiots...!
 <hammer>さぁ、おとなしく戻るだよ！|ボーズたちが、あんま怒られないよう、|オラも言ってやるからさァ！=<hammer>Come on, go back quietly!|I'll say something to the boys so they don't get too angry!
 <trigger>今からでも遅くはない。戻っておいで、|ボクのカワイイ鎧ちゃん！|今なら、ミサイルもつけてあげるよぉ！=<trigger>It's not too late. Come back, my cute armor boy! This time I'll give you missiles, too!
@@ -3412,7 +3412,7 @@
 
 !FILE:0147_003/004.txt
 <blackbold>アイテム<normal>【オルゴール】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Music Box"
-<girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that weird armor guy and his big bro!|It's a secret that I'm hiding here.
+<girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that weird armor guy's big bro!|It's a secret that I'm hiding here.
 <younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<younggirl>My mom told me to play hide-and-seek until the loud noises stop.
 <younggirl>ほんとは、ちょっと怖いけど……。|——大丈夫、|私、もう泣かないもん！=<younggirl>To be honest, I'm a bit scared...|But it's okay. I'm not gonna cry anymore!
 <younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<younggirl>I wonder if my mom is almost here...|She said she'd come later...
@@ -4146,7 +4146,7 @@
 <sophie>キャーッ！ カワイイ！|ネコちゃん、カッワイイィィッ！！=<sophie>Yaaayyy! It's sooo cute!|Such a cute kitten!!
 <winry>ソ、ソフィ……。=<winry>So-Sophie...
 <alphonse>あ……ね、ねぇ、ソフィ。|この子に、名前をつけてあげようよ。=<alphonse>Ah... He-Hey, Sophie, you gotta give it a name.
-<sophie>——うん。|名前ならもう考えてあるの。|この子の名前は——『ノルン』よ。=<sophie>Yes. I've already thought about the name. This little one will be called... “Norn".
+<sophie>——うん。|名前ならもう考えてあるの。|この子の名前は——『ノルン』よ。=<sophie>Yes. I've already thought of the name. This little one will be called... “Norn".
 <alphonse>ノルン、かぁ……。|いい名前だね！=<alphonse>Norn?|That's a great name!
 <sophie>北方の国の言葉で、|『運命』って意味なんだけどね……。=<sophie>It means “fate" in the language of the northern country.
 <sophie>今日からあなたはノルンよ。|よろしくね、ノルン。=<sophie>From today you'll be Norn.|Nice to meet you, Norn.
@@ -4302,7 +4302,7 @@
 <sophie>……ねぇ、エド。|この戦いが終わっても、このまま|私と仲良しでいてくれる？=<sophie>Hey, Ed... After this battle is over, will we stay good friends?
 <edward>あ、当たり前だろ……！|な、なに急に|変なこと言い出すんだ。=<edward>Of... Of course!|Why are you talking like this so suddenly?
 <sophie>……ありがとう、エド！=<sophie>Thank you, Ed!
-<edward>お、おう。=<edward>Y-Your welcome...
+<edward>お、おう。=<edward>Y-You're welcome...
 <edward>ほ、ほら、行こうぜ。|ウィンリィとアルが待ってる。=<edward>Come on, let's go. Winry and Al are waiting.
 <sophie>うん！=<sophie>Okay!
 <winry>——エド！ アル！|良かった……！|無事だったのね……！=<winry>Ed! Al!|Thank goodness...|You're safe!
@@ -4365,7 +4365,7 @@
 <sophie>——私、彼らを助けたい……！|聖印の力を持った私なら、|印の呪いを消すことができる——！=<sophie>I want to help them! I could erase their curse with the power of my Holy Seal.
 <sophie>これは、父さんの遺志……。|そして、私の|意思でもあるの……。=<sophie>This was my father's last wish...|And it's my wish as well.
 <edward>ソフィ……！=<edward>Sophie...
-<sophie>お父さん……。|やっと……|やっと、終わったよ……。=<sophie>Fatjer...|At last... At last it's all over.
+<sophie>お父さん……。|やっと……|やっと、終わったよ……。=<sophie>Father...|At last... At last it's all over.
 <sophie>私、信じてるよ……。|お父さんのこと……！=<sophie>I believe in you... Father!
 <sophie>いつも私を見ていてくれた……。|時には、本気で叱ってくれた……。|そして、命をかけて守ってくれた……！=<sophie>You were always watching over me.|Sometimes you'd scold me for real... But you sacrificed yourself to protect me!
 <sophie>あの想いは、あの優しさは、|偽りなんかじゃなかった——！=<sophie>That love, that tenderness, they were not lies!
@@ -4604,7 +4604,7 @@
 <sophie>乾パンと、スープと……確かに、|栄養バランスのとれた物ばかりだわ。|非常食として保管しておくね。=<sophie>Dry bread and soup... Sure enough, they have nutritional balance.|I'll keep this as emergency food.
 <sophie>キャットフードね、ノルンが喜ぶわ。|私たちより豪勢な食事だなんて、|羨ましいニャンニャンね……。=<sophie>Cat food, huh? Norn will be delighted.|This is better food than ours, I'm so jealous. Meow!
 <edward><bigtext>ニャンニャン……。=<edward><bigtext>Meow...
-<sophie>この煮干し、|ノルンにあげてもいいかな？|きっと、喜ぶと思うの。=<sophie>Can I give this dried sardine to Norn?|I'm sure it'll make him happy.
+<sophie>この煮干し、|ノルンにあげてもいいかな？|きっと、喜ぶと思うの。=<sophie>Can I give this dried sardine to Norn?|I'm sure it'll make them happy.
 <alphonse>——構わないよ。|ボクもそのつもりで|ソフィに渡したんだ。=<alphonse>Please do. I gave it to you with that intention, anyway.
 <sophie>ありがとう、アルは優しいね……。=<sophie>Thank you, you're so kind, Al...
 <alphonse>……ニャンコ好きに悪者はいないよ。|ソフィと同じ、|優しい心を持つ人ばかりさ……。=<alphonse>There aren't bad people among cat lovers. Just like you, we all have kind hearts.
