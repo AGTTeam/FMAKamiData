@@ -980,7 +980,7 @@
 
 !FILE:0014_098.txt
 古城・裏口=Old Castle: Rear Entrance
-古城・裏口通路=Old Castle: Rear Entrance Passage
+古城・裏口通路=Old Castle: Rear Passage
 古城・外郭エリア南=Old Castle: Outer Area South
 南の隠し部屋=Secret Chamber South
 仕掛け部屋Ａ=Trap Room A
@@ -3412,14 +3412,14 @@
 
 !FILE:0147_003/004.txt
 <blackbold>アイテム<normal>【オルゴール】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Music Box"
-<girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that weird armor guy's big bro!|It's a secret, but I'm hiding here.
-<younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<younggirl>My mom told me to play hide-and-seek until the loud noises are gone.
-<younggirl>ほんとは、ちょっと怖いけど……。|——大丈夫、|私、もう泣かないもん！=<younggirl>To be honest, I'm a bit scared...|But it's okay, I'm not gonna cry anymore!
+<girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that weird armor guy and his big bro!|It's a secret that I'm hiding here.
+<younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<younggirl>My mom told me to play hide-and-seek until the loud noises stop.
+<younggirl>ほんとは、ちょっと怖いけど……。|——大丈夫、|私、もう泣かないもん！=<younggirl>To be honest, I'm a bit scared...|But it's okay. I'm not gonna cry anymore!
 <younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<younggirl>I wonder if my mom is almost here...|She said she'd come later...
 
 !FILE:0148_003/004.txt
 <blackbold>アクセサリ<normal>【鋼のバングル】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Fullmetal Bangle"
-<soldier>——待て、君たちと戦うつもりはない。|俺には、君たちが奴らの仲間とは、|どうしても思えないんだ。=<soldier>Wait, I'm not going to fight you. There's no way you can be their comrades.
+<soldier>——待て、君たちと戦うつもりはない。|俺には、君たちが奴らの仲間とは、|どうしても思えないんだ。=<soldier>Hold it, I'm not going to fight you. There's no way you can be in league with those bastards.
 <soldier>軍人の中には、クレイギン将軍に|不満を持つ者も多い。|俺も、その中の１人でな……。=<soldier>There are many soldiers dissatisfied with General Craigin, and I'm one of them.
 <soldier>こんな時だからこそ、|自分の判断は、|大切にしないとな……。=<soldier>It's at times like this that it's important to use your own judgement.
 
@@ -3433,45 +3433,45 @@
 !FILE:0155_003/004.txt
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
 <blackbold>にゃんこ<normal>【まろん】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Chestnut"
-<edward>よし。このあたりの敵は|あらかた片づいたな。=<edward>Good. Most enemies around here are gone.
+<edward>よし。このあたりの敵は|あらかた片づいたな。=<edward>Good. That takes care of most of them.
 <alphonse>城まで、もう少しだね。=<alphonse>We're almost at the castle.
 <edward>ああ。でも、油断するなよ、アル。|どんなヤツが待ち受けているか|分からねぇからな。=<edward>Yeah, but don't let your guard down, Al.|We don't know what may be waiting for us.
 
 !FILE:0156_002/004.txt
 <???>——どこへ行く気だい、ボウヤたち？=<???>Where do you think you're going, boys?
-<edward>なにっ！？=<edward>What!?
+<edward>なにっ！？=<edward>What now!?
 <alphonse>うわああぁ———っ！？=<alphonse>Uwaaaaa!!
 <edward>アルっ！？=<edward>Al!?
 <venus>オーッホッホッホッホ！|ここでアタシに見つかったのが、|運の尽きさ！=<venus>Oh-ho-ho-ho-ho! Your luck has run out now that I've found you!
 <edward>くそっ！|また、アンタらかよっ！=<edward>Damn! You guys again!?
-<venus>悪いけど、アタシにも立場ってヤツが|あってね。アンタたちを|見逃すわけにゃいかないんだ。=<venus>Sorry, but I have also a position to maintain. I can't just overlook you.
-<hammer>ボーズ、カクゴすんだなァ！|今度はオラたちも、|気合い入ってっからよォ！=<hammer>Get ready boy! This time, we're also quite fired up!
+<venus>悪いけど、アタシにも立場ってヤツが|あってね。アンタたちを|見逃すわけにゃいかないんだ。=<venus>Sorry, but I also have a position to maintain. I can't just overlook your transgressions.
+<hammer>ボーズ、カクゴすんだなァ！|今度はオラたちも、|気合い入ってっからよォ！=<hammer>Get ready boy! This time we're really fired up!
 <trigger>ひさしぶりだネェ、クソガキ君……！=<trigger>Long time no see, you damn brat!
-<trigger>こないだは、よくもボクの、|超スーパーウルトラキャンサー１号を|ブッ壊してくれたなァ……！！=<trigger>How did you dare to destroy my Hyper Super Ultra Cancer No. 1 the other day!?
+<trigger>こないだは、よくもボクの、|超スーパーウルトラキャンサー１号を|ブッ壊してくれたなァ……！！=<trigger>How dare you destroy my Hyper Super Ultra Cancer No. 1!?
 <trigger>クク……超スーパーウルトラキャンサー|ネクストジェネレーションの威力！|たっぷりと思い知らせてやるゥ！=<trigger>Heh heh! Behold the power of the Hyper Super Ultra Cancer Next Generation!|This will surely teach you a lesson!
-<venus>いくよ、ハンマー！ トリガー！|あのボウヤを、メチャクチャに|かわいがっておやりっ！！=<venus>Let's go, Hammer! Trigger!|Pour your extraordinary love on that boy!!
-<edward>——でえぇぇっ！？|イキナリかよっ！！！=<edward>Eeeeeh!? All of a sudden!?
+<venus>いくよ、ハンマー！ トリガー！|あのボウヤを、メチャクチャに|かわいがっておやりっ！！=<venus>Let's go, Hammer! Trigger!|Pour your extraordinary love onto that boy!!
+<edward>——でえぇぇっ！？|イキナリかよっ！！！=<edward>What the hell!?|Anything but that!!!
 <trigger>ウヒャアアァァァ！？|ま、またしても、|ボクのメカがぁぁぁっ！！！=<trigger>Uuaaaaah! A-Again? My mechaaaaaa!!
-<hammer>エンジンがやられてまさァ。|ピクリともしませんぜ。=<hammer>The engine's been destroyed.|Not moving at all.
-<venus>チィッ、またかい！？|だったら、|外に出て戦うよ！=<venus>Tsk, again!?|In that case, we fight outside!
+<hammer>エンジンがやられてまさァ。|ピクリともしませんぜ。=<hammer>The engine's been destroyed.|It's not moving at all.
+<venus>チィッ、またかい！？|だったら、|外に出て戦うよ！=<venus>Tch, again!?|In that case, we fight outside!
 <hammer>わかりました！|——あれ？|ドアが開かねーぞ。=<hammer>Understood!|...What? The door won't open.
 <trigger>当然だ！ 前にも言っただろう！|このボクのメカは、|すべてが自動化されている、と！=<trigger>Of course, I told you before!|My mecha is completely automated!
 <hammer>つまり、出れねーだか？=<hammer>So we can't get out?
-<trigger>出れない！=<trigger>We can't get out!
-<hammer>出れません。=<hammer>Not getting out.
-<venus>バ・カ・タ・レ———ッ！！！|トリガー！ アンタは、|反省って言葉を知らないのかい！？=<venus>YOU-COM-PLETE-MO-ROOON! Trigger! Can't you learn from past mistakes!?
+<trigger>出れない！=<trigger>We cannot get out!
+<hammer>出れません。=<hammer>We can't get out.
+<venus>バ・カ・タ・レ———ッ！！！|トリガー！ アンタは、|反省って言葉を知らないのかい！？=<venus>YOU-COM-PLETE-MO-ROOON! Trigger! Why don't you learn from past mistakes!?
 <trigger>——な、なんということだ……！！|愛しのヴィーナス様に|叱られてしまった……！！=<trigger>Wh-What's this?...|My beloved Lady Venus scolded me!!
 <trigger>………たまらん。=<trigger>...It's irresistible.
 <venus>え……？=<venus>Huh?
 <trigger>もっと——！|もっと、叱ってくださぁい！|ヴィーナス様ぁ～～っ！！=<trigger>More! Please, punish me more!|Lady Venuuuus!!
-<venus>——この変態がぁぁぁッ！！=<venus>You pervert!!
-<edward>ダメだ、コイツら……。|ダメすぎる……。=<edward>These guys are wrong... Too wrong...
+<venus>——この変態がぁぁぁッ！！=<venus>You useless pervert!!
+<edward>ダメだ、コイツら……。|ダメすぎる……。=<edward>These guys are weird... Too weird...
 <alphonse>兄さん、大丈夫？=<alphonse>Brother, are you alright?
 <edward>おう、アル。=<edward>Yes, Al.
-<venus>——ちっ、しょうがない……。|ボウヤ。今回は、特別に、|負けを認めてあげるわ。=<venus>Tsk, it cannot be helped...|Boy, just for this time, I'll admit defeat.
-<venus>ボウヤも、なかなかやるわね。|「鋼の錬金術師」のふたつ名は、|ダテじゃないってことかしら？=<venus>You're pretty good too, boy.|Maybe the nickname “Fullmetal Alchemist" isn't just for show...
-<venus>だけど、このアタシも、|「ヴァルドラの紅い薔薇」と恐れられた女。|次に会う時は——。=<venus>But I'm the feared woman known as|the “Red Rose of Valdolla".|Next time we meet...
-<venus>——って、|無視して行くんじゃないよ！！|コラ————————ッ！！=<venus>Eh, don't just go away and ignore me!!|HEEEEEEEY!!
+<venus>——ちっ、しょうがない……。|ボウヤ。今回は、特別に、|負けを認めてあげるわ。=<venus>Tch, so be it...|Boy, just this once, I'll admit defeat.
+<venus>ボウヤも、なかなかやるわね。|「鋼の錬金術師」のふたつ名は、|ダテじゃないってことかしら？=<venus>You're not too bad.|Maybe the nickname “Fullmetal Alchemist" isn't just for show...
+<venus>だけど、このアタシも、|「ヴァルドラの紅い薔薇」と恐れられた女。|次に会う時は——。=<venus>But I'm the feared woman known as the “Red Rose of Valdolla".|Next time we meet...
+<venus>——って、|無視して行くんじゃないよ！！|コラ————————ッ！！=<venus>H-Hey, don't just walk away and ignore me!!|HEEEEEEEY!!
 
 !FILE:0157_003/004.txt
 <alphonse>ようやく城まで|来ることができたね。=<alphonse>We finally made it to the castle.
@@ -4794,7 +4794,7 @@
 <sophie>鉛のピアス？|耳が垂れないか心配ね……。=<sophie>A lead earring?|I'm afraid my ears will be pulled down.
 <sophie>けど、せっかく、もらったことだし……。|ウィンリィに、穴の開け方、|教えてもらわなきゃ……♪=<sophie>But it's still a precious gift...|I must ask Winry to teach me how to pierce my ears. ♪
 <sophie>純金のピアス……。|小さい頃から憧れてたの……、|いつか、つけてみたいと思ってた……。=<sophie>A pure gold earring...|I've longed for this since I was little. I've always wanted to wear something like it.
-<sophie>でも、このピアスをつけるのは、|今の戦争が終わってから……。|それが、私なりのケジメだから……。=<sophie>But I'll only wear it after this war is over.|It's my own way to make a distinction.
+<sophie>でも、このピアスをつけるのは、|今の戦争が終わってから……。|それが、私なりのケジメだから……。=<sophie>But I'll only wear it after this battle is over.|That way it'll really feel like a new day.
 <sophie>かっこいいピアスだね……。|存在感あるし、これだけでも|充分な個性だよ……。=<sophie>Such a stylish earring... It gives a feeling of presence, of enough personality.
 <sophie>オシャレかぁ……。|この戦いが終わったら私も、|普通の女の子みたいに——。=<sophie>It's very fashionable. Once this war is over, I'll be like a normal girl too.
 <sophie>……ピアスというより、|刃そのものね。|挿すというより貫くって感じ……？=<sophie>It looks more like a blade than an earring. For piercing, rather than fastening.
@@ -4864,24 +4864,24 @@
 <sophie>用心に越したことはないよ……？|私だって、２人が傷つくのなんて|見たくないもの……大切にしてあげて。=<sophie>You can never be too careful, right?|I wouldn't want to see you two injured.|So take good care of it.
 <sophie>耐熱マント……？|身につけるだけで、|火や熱に強くなるのね。=<sophie>A fireguard cloak?|If you wear this, your body becomes resistant to fire and heat.
 <sophie>……けど、私がもらっちゃっていいの？|アルは大丈夫だとしても、|エドには必要な物なんじゃ……？=<sophie>But can I have this? Even if Al is alright, wouldn't you need it, Ed?
-<edward>……サイズが、デカすぎてよ。|動くのに、もたついちまうんだ。|このままだと、ちょっと不便でな……。=<edward>The size is too big and it's hard to move with it. It's a bit inconvenient just like that...
+<edward>……サイズが、デカすぎてよ。|動くのに、もたついちまうんだ。|このままだと、ちょっと不便でな……。=<edward>It's way too big so it's hard to move with it on. Too inconvenient as it is...
 <sophie>——あら、だったら、|エドの身体に合わせて、|丈を直せばいいじゃない。=<sophie>Oh! In that case, I can adjust the length so it fits you, Ed.
 <sophie>任せといて、|こういう裁縫仕事は得意なの。=<sophie>Leave it to me, I'm good at this kind of sewing.
 <edward>そっか、ワリィな……。|よろしく頼むぜ。=<edward>I see, sorry... I trust you to take care of it.
-<sophie>——そうだ！|丈を合わせるために、|エドの身長を教えてもらわないと……。=<sophie>That's it!|I need to know your height to adjust the length.
-<edward><bigtext>しっ、身長——！？=<edward><bigtext>My... My height!?
-<edward><bigtext>イヤアアァァァ！！=<edward><bigtext>NOOOOO!!
+<sophie>——そうだ！|丈を合わせるために、|エドの身長を教えてもらわないと……。=<sophie>I'm on it!|I just need to know your height to adjust the length.
+<edward><bigtext>しっ、身長——！？=<edward><bigtext>My... My height!? 
+<edward><bigtext>イヤアアァァァ！！=<edward><bigtext>NOOOOO!! 
 <sophie>……………エド？=<sophie>....................Ed?
-<sophie>「耐熱マントＳ」のＳは、|ＳＵＰＥＲ（スーパー）のＳじゃないの。|さて、何のＳでしょう……？=<sophie>The plus in this “Fireguard Cloak+" doesn't stand for “extra long", you know.#Changed the (S) in the name to prevent confusion with the Elixirs, which meant changing this conversation to match. "The S in this “Fireguard Cloak (S)"|doesn't stand for “Super".|Then, what does the S mean?"
+<sophie>「耐熱マントＳ」のＳは、|ＳＵＰＥＲ（スーパー）のＳじゃないの。|さて、何のＳでしょう……？=<sophie>The plus in “Fireguard Cloak+" doesn't mean “extra long", you know.#Changed the (S) in the name to prevent confusion with the Elixirs, which meant changing this conversation to match. "The S in this “Fireguard Cloak (S)"|doesn't stand for “Super".|Then, what does the S mean?"
 <edward>ＳＭＡＬＬ（スモール）のＳだって|言いたいのかヨ……。=<edward>Are you saying it stands for “extra small"!?#"Are you saying the S stands for “Small"?"
-<sophie>ブッブー、違いまーす！=<sophie>No, no, it's not that!
+<sophie>ブッブー、違いまーす！=<sophie>No, no, not at all!
 <sophie>答えは、|ＳＨＯＲＴ（ショート）のＳでした♪=<sophie>It actually stands for “extra short"! ♪#"The answer is, the S is for “Short". ♪"
-<edward><bigtext>同じじゃああああッ！！=<edward><bigtext>THAT'S THE SAME|THIIIING!!
+<edward><bigtext>同じじゃああああッ！！=<edward><bigtext>THAT'S THE SAME|THIIIING!!  
 <sophie>エドもアルも着れるサイズってことは、|エドには大きすぎて、アルには|小さすぎるってことなのよね。=<sophie>If both Ed and Al wear this size, then it must be too big for Ed and too small for Al.
-<sophie>身長も横幅も全然違うのに……。|いったい、どうやって共有してるの？|結構なミステリーなんだけど……。=<sophie>Their height and width are completely different... Then, how on earth can they share it? It's quite a mystery...
+<sophie>身長も横幅も全然違うのに……。|いったい、どうやって共有してるの？|結構なミステリーなんだけど……。=<sophie>Their height and width are completely different... Then, how exactly can they share it? It's quite a mystery...
 <sophie>確かに、今の季節に防寒コートなんて、|必要ないかもしれないわ……。|けど、万が一ってこともあるじゃない。=<sophie>Certainly, you don't need a winter coat at this time of year.|But you never know what might happen...
 <sophie>持っておいて、損はないと思うな。|ほら、サウナスーツにもなるし、|お得感タップリって感じでしょ……？=<sophie>It can't hurt to have one. And look, you can use it as a sauna suit, so it seems like a good deal, right?
-<sophie>工事ヘルメット……？|……酸っぱい匂いね。|こんなもの、どこで拾ってきたの……？=<sophie>A hard hat?|It's stinky, where did you pick this up?
+<sophie>工事ヘルメット……？|……酸っぱい匂いね。|こんなもの、どこで拾ってきたの……？=<sophie>A hard hat?|It's stinky. Where did you pick this up?
 <winry>アンタたちねぇ……。|ソフィに、そんな物渡して、|何がしたいのよ……？=<winry>You two... What are you doing, giving Sophie something like that?
 <winry>ほら、私に貸して。|アンタたちの役に立つよう、|私が改造してあげるわ。=<winry>Here, lend it to me. I'll modify it so it can be useful for you.
 <winry>ちょっとぉ！|わざわざ作ってやったのに、|いらないっての！？=<winry>Hey! I made it specially for you.|Don't you want it!?
@@ -5373,16 +5373,16 @@
 <winry>……うん。|あいつらも、ソフィに負けないくらい、|重いものを背負っているからね……。=<winry>Yes. They're carrying a heavy burden,|no less than yours, Sophie.
 <alphonse>どうしたの、兄さん。|なにかあったの？=<alphonse>What's wrong, Brother?|Did something happen?
 <edward>いや。|待たせて悪かったな。=<edward>No. Sorry for keeping you waiting.
-<edward>ウィンリィ、留守を頼む。|パッと終わらせて、帰ってくるからよ。|もう少し待っててくれ。=<edward>Winry, keep watch of the place.|We'll finish quickly and come back.|Just wait a little longer.
+<edward>ウィンリィ、留守を頼む。|パッと終わらせて、帰ってくるからよ。|もう少し待っててくれ。=<edward>Winry, keep watch of the place.|We'll finish this up quickly and be right back.|Just wait a little longer.
 <winry>うん、それはいいけど……。|エド、アンタ、|本当に無茶するんじゃないわよ。=<winry>Yeah, that's fine, but... Ed, you really shouldn't do anything reckless.
 <edward>ああ、分かってるよ。=<edward>Yeah, I know.
 <winry>で、ソフィ！ あなたも！=<winry>And you neither, Sophie!
 <sophie>え？ 私？=<sophie>Huh? Me?
-<winry>おとなしそうに見えて、|意外と無茶するタイプなんだから。|ダメよ、気をつけないと。=<winry>You may seem quiet, but actually you're the kind who does reckless things.|You had better be careful.
+<winry>おとなしそうに見えて、|意外と無茶するタイプなんだから。|ダメよ、気をつけないと。=<winry>You may seem shy, but you're actually just as reckless as him.|You had better be careful.
 <sophie>えっ…、そ、そうかな……。=<sophie>Uh... Is that so?
 <winry>アルは——大丈夫だと思うけど……。=<winry>As for Al... I think he'll be okay.
 <winry>でも、冷静なように見えて、|やっぱり、エドと一緒に|無茶してたりするのよねぇ……。=<winry>But, even if you're calm, you put yourself in danger when you go with Ed.
-<alphonse>——ええっ！|に、兄さんと一緒にしないでよ。|ボクは、大丈夫だからね！=<alphonse>What!? Don't place me in the same category as my brother.|I'm gonna be fine!
+<alphonse>——ええっ！|に、兄さんと一緒にしないでよ。|ボクは、大丈夫だからね！=<alphonse>What!? Don't put me in the same category as my brother.|I'm gonna be fine!
 <winry>——とにかく！|３人とも無茶しちゃダメよ。|本当に気をつけてね。=<winry>Anyway, don't get into trouble, you three.|Please be careful.
 <edward>——ああ。|じゃあ、行ってくるぜ。=<edward>Yeah. Well, let's go.
 <sophie>……………。|ねぇ、ウィンリィ。=<sophie>.....................|Hey, Winry.
