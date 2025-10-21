@@ -2050,7 +2050,7 @@
 
 !FILE:0030_001/004.txt
 <alphonse>あれれ？？|どこかから音楽が聞こえるよ？=<alphonse>Huh?|Do you hear that music?
-<edward>ん？この勇ましい音楽は！？=<edward>Hmm? This triumphant song can only mean...
+<edward>ん？この勇ましい音楽は！？=<edward>Hmm? This stirring song can only mean...
 <roy>やぁー鋼の|元気でやっているかね？？=<roy>Hey, Fullmetal!|How are you doing?
 <edward>うぁー、突然！=<edward>Wow, what a surprise!
 <roy>むむ、なんだか懐かしいな。=<roy>Well, this feels nostalgic...
@@ -2058,11 +2058,11 @@
 <edward>あんときは、大佐|めちゃめちゃだったよな。=<edward>You made quite a mess, Colonel.
 <alphonse>まさにあたり一面が|火の海に沈んじゃってたよね。=<alphonse>That's true, the whole area was drowned in a sea of fire.
 <roy>ふふふ。|まぁ私が本気を出せば、|あんなものだよ。=<roy>Ha ha ha!|Well, to be honest, I guess it was like that.
-<edward>はー、それなのに今回は、|やられっぱなしじゃん？=<edward>Ah... However, this time you keep getting your ass kicked, right?
+<edward>はー、それなのに今回は、|やられっぱなしじゃん？=<edward>Ha... However, this time you keep getting your ass kicked, right?
 <roy>ぬぬっ！あのゼルとかいうやつめ！|よくも私の見せ場を！|今度こそやっつけてやる！=<roy>Meh! That Zel guy! Ruining my stellar appearance... This time I'll beat him for sure!
 <edward>大佐ー！？=<edward>Colonel!?
 <sophie>——、い、いまの方は？？=<sophie>Wh... What's going on?
-<alphonse>う、うん。|いやなんでもないんだよ——=<alphonse>Uh huh...|No, it's nothing.
+<alphonse>う、うん。|いやなんでもないんだよ——=<alphonse>Uh...|No, it's nothing.
 
 !FILE:0032_003/004.txt
 <bigtext><blackbold> セーブポイント=<bigtext><blackbold> Save Point
@@ -3800,12 +3800,12 @@
 <smalltext><blackbold>アクセサリ<normal>【無限の弾丸】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Infinity Bullet"
 <zelgius>……………………。=<zelgius>.........................
 <edward>——ゼルギウスッ！！=<edward>Zelgius!!
-<zelgius>……やはり、ジャニスでは|力不足だったか……。=<zelgius>As expected, Janice wasn't good enough for you...
+<zelgius>……やはり、ジャニスでは|力不足だったか……。=<zelgius>As expected, Janice wasn't good enough to stop you...
 <edward>テメェ……！|——ソフィはどこだ！！=<edward>You bastard! Where is Sophie!?
-<zelgius>フッ……ここまで来るとは、|いい度胸だ。|その褒美として教えてやろう。=<zelgius>Hmm... You got the nerve to come this far. As a reward, I will tell you.
-<zelgius>この塔の最上階だ。|そこに娘は、|ヴェルザと共にいる……。=<zelgius>She's in the top floor of this tower.|That girl is there, together with Velza.
+<zelgius>フッ……ここまで来るとは、|いい度胸だ。|その褒美として教えてやろう。=<zelgius>Hmm... You've got guts to come this far. As a reward, I will tell you.
+<zelgius>この塔の最上階だ。|そこに娘は、|ヴェルザと共にいる……。=<zelgius>She's on the top floor of this tower.|That girl is there, together with Velza.
 <alphonse>ヴェルザと共に……？|それって、どういうこと？=<alphonse>With Velza...?|What does that mean?
-<zelgius>知りたくば、|己の目で確かめるがよい。=<zelgius>If you want to know, you can check it with your own eyes.
+<zelgius>知りたくば、|己の目で確かめるがよい。=<zelgius>If you want to know, you can see it with your own eyes.
 <zelgius>ただし——。|この俺を、倒すことが|できればの話だがな——！！=<zelgius>That is, however...|If you can defeat me!!
 <edward>言われなくても、|そのつもりだぜ！！=<edward>I was planning to, no need tell me!!
 <zelgius>来るがいい、|錬金術師の兄弟よ——！！=<zelgius>Come at me, alchemist brothers!
@@ -3830,16 +3830,16 @@
 <alphonse>大佐！！=<alphonse>Colonel!!
 <roy>お前の相手は、この私だ。=<roy>I will be your opponent now.
 <zelgius>焔使い……！=<zelgius>The flame user!
-<roy>——鋼の！|お前たちは先を急げ！|終末の祈りとやらを止めてみせろ！！=<roy>Fullmetal, you must hurry up! Stop that Prayer of the End thing!
+<roy>——鋼の！|お前たちは先を急げ！|終末の祈りとやらを止めてみせろ！！=<roy>Fullmetal, you must hurry! Stop that Prayer of the End thing!
 <edward>だけど、大佐！ コイツは——！=<edward>But Colonel! This guy...
-<roy>心配するな。|同じ相手に二度敗れるほど、|私は愚かではない。=<roy>Don't worry about me. I'm not stupid enough to lose against the same rival twice.
+<roy>心配するな。|同じ相手に二度敗れるほど、|私は愚かではない。=<roy>Don't worry about me. I'm not so stupid that I'd lose to the same punk twice.
 <roy>私には、とっておきの策がある！|——お前たちは先に進め！=<roy>I've got an ace up my sleeve!|You two go ahead!
 <edward>——分かった！|死ぬんじゃねぇぞ、大佐！=<edward>Alright! Try not to die, Colonel!
 <roy>……さて、どうしたものかな——。=<roy>Well now... What should I do?
-<zelgius>——さっきの勢いはどうした？|貴様の言う、|「とっておき」とやらを見せてみろ。=<zelgius>What happened with that courage a moment ago? Show me that “ace up|your sleeve" you've got, bastard.
+<zelgius>——さっきの勢いはどうした？|貴様の言う、|「とっておき」とやらを見せてみろ。=<zelgius>What happened to that courage a moment ago? Show me that “ace up|your sleeve" you've got, bastard.
 <roy>フッ……。|そんなものは、ない。=<roy>Heh... I have no such thing.
 <zelgius>——なんだと……？=<zelgius>What?
-<roy>策などない。|あの２人を行かせるために、|適当なことを言っただけだ。=<roy>I have no plan.|I just said something suitable to those|two, so they'd keep going.
+<roy>策などない。|あの２人を行かせるために、|適当なことを言っただけだ。=<roy>I have no plan.|I just said something impressive to those|two, so they'd keep going.
 <zelgius>フッ……ふざけた真似を——。=<zelgius>Hmph! You're a joke!
 <zelgius>ならば、|己の無力を噛みしめて——|——死ぬがいい！！=<zelgius>In that case, realize your own futility!|Die!!
 <roy>たしかに策はないが……|むざむざ死ぬつもりもない——！！=<roy>I may not have a plan...|But that doesn't mean I'm going to die without a fight!!
