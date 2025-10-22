@@ -1547,10 +1547,10 @@
 05fa=＜
 05fb=＞
 05fc=△
-05fd=▽
-05fe=♀
+05fd=▽# replaced with @
+05fe=♀# replaced with $
 05ff=═
-0600=♂
+0600=♂# replaced with # (type ^)
 0601=□
 0602=≧
 0603=≦
