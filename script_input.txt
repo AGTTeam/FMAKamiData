@@ -2289,7 +2289,7 @@
 <boy>おい、お前も早く逃げた方がいいぞ。|マジで、ただごとじゃねえって！=<boy>Hey, you gotta hide fast!|Seriously, this is no joke!
 <soldier>ここから先は危険だ、|一般人は早く避難しろ！！=<soldier>It's dangerous to go any further.|Civilians should evacuate immediately!
 <soldier>てっ、敵はどこにいるんだ！？|何で司令部から、|何も連絡が来ねぇんだよ……！！=<soldier>Dammit, where's the enemy!? Why haven't we heard anything from HQ!?
-<soldier>非常呼集が発令されてな、|ただの暴動鎮圧かと思ったが……。|おいおい、まるで戦争だ……！=<soldier>We received an emergency call, and thought it was just some common riot...|Yeesh, this is more like a war!
+<soldier>非常呼集が発令されてな、|ただの暴動鎮圧かと思ったが……。|おいおい、まるで戦争だ……！=<soldier>We received an emergency call, and thought it was just some common riot...|Yeesh—this is more like a war!
 
 !FILE:0045_003/004.txt
 <normal>【迷い犬】|<blackbold>を手に入れた！！=<blackbold>Found <normal>“Lost Dog"
