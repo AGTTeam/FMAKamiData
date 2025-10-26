@@ -860,7 +860,7 @@
 ３号倉庫=Warehouse No. 3
 倉庫街・第４区画=Industrial Area: 4th Sector
 ４号倉庫=Warehouse No. 4
-倉庫街・裏手=Industrial Area: Rear
+倉庫街・裏手=Industrial Area: Back Alley
 ５号倉庫=Warehouse No. 5
 倉庫街・最終区画=Industrial Area: Last Sector
 ６号倉庫=Warehouse No. 6
@@ -2318,8 +2318,8 @@
 <alphonse>今度はスイッチが見当たらないね。|この扉、どうすれば開くのかな？=<alphonse>I don't see any switch this time.|How do we open this door?
 <edward>——おい、アル、見てみろよ。=<edward>Hey, Al, take a look at this.
 <edward>ここから扉の先に行けそうだぞ。=<edward>We can probably get around the door through here.
-<alphonse>うーん……。|でも、狭すぎてボクじゃ通れないよ。|兄さんなら、大丈夫そうだけど。=<alphonse>Hmmm... It's too narrow for me.|You should fit though, Brother.
-<edward>ああ。|身体が小さくて良かった——って、|誰がミニマムサイズかあぁっ！！=<edward>Yeah. It's a good thing my body's so sma... Hey!|Who're you calling minimal size!!?
+<alphonse>うーん……。|でも、狭すぎてボクじゃ通れないよ。|兄さんなら、大丈夫そうだけど。=<alphonse>Hmm... It's too narrow for me.|You should fit though, Brother.
+<edward>ああ。|身体が小さくて良かった——って、|誰がミニマムサイズかあぁっ！！=<edward>Yeah. It's a good thing my body's so sma... Hey! Who're you calling minimal size!!?
 <alphonse>誰も何も言ってないよ、兄さん。=<alphonse>I didn't say anything like that, Ed.
 <edward>オレだけ、先に|進むわけにはいかないな。|アルを連れてこないと……。=<edward>No, I can't move on yet.|I won't leave Al behind.
 
@@ -2327,20 +2327,20 @@
 はい=Yes
 いいえ=No
 マンホールに入りますか？=Enter the manhole?
-<edward>ん？ あれは……。=<edward>Hm? A manhole...
-<alphonse>あのマンホールから|先へ進めるかもしれないね。|入ってみようよ、兄さん。=<alphonse>I bet we can continue through here. Let's go, Brother.
+<edward>ん？ あれは……。=<edward>Hmm? A manhole...
+<alphonse>あのマンホールから|先へ進めるかもしれないね。|入ってみようよ、兄さん。=<alphonse>I bet we'll find a way through here. Let's try it, Ed.
 
 !FILE:0052_003/004.txt
 <blackbold>にゃんこ<normal>【えるうっど】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Elwood"
-<alphonse>またリフトが止まってるね。|先に進むには、ここを上がらなきゃ|ダメみたいだけど……。=<alphonse>Another stopped lift.|We need to get up there but...|There's nothing we can do.
-<edward>——しょうがない。|ここは、いったん引き返すしか|ないみたいだな。=<edward>Right.|Guess we have to head back for now.
+<alphonse>またリフトが止まってるね。|先に進むには、ここを上がらなきゃ|ダメみたいだけど……。=<alphonse>Another stopped lift.|Looks like we need to get up there to continue, though...
+<edward>——しょうがない。|ここは、いったん引き返すしか|ないみたいだな。=<edward>Well, what can ya do?|We'll just have to head back and look for another way.
 
 !FILE:0053_003/004.txt
 はい=Yes
 いいえ=No
 マンホールに入りますか？=Enter the manhole?
 <blackbold>アイテム<normal>【秘密の史書（２）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Secret Book (2)"
-<man>ここで働いてるんです、僕。|で、ちょっとトイレ行ったスキに、|あの人たちが職場を占拠してて……。=<man>I work here, y'know. But when I came back from the can, the place was crawling with those...
+<man>ここで働いてるんです、僕。|で、ちょっとトイレ行ったスキに、|あの人たちが職場を占拠してて……。=<man>I work here, y'know. But when I got back from the can, the place was crawling with those monsters...
 <man>仲間はみんな逃げた後で、|残った職員は、僕１人……。|もう、笑うっきゃないっすよ……。=<man>All my co-workers ran away, so I'm the only employee left.|If I didn't laugh I'd cry...
 <oldman>護るべき者たちが、|なぜ、破壊を導こうとする……？=<oldman>Why are those so-called protectors so intent on destruction?
 <oldman>……何があったというのだ、|ヴェルザの一族よ……。=<oldman>What did they call themselves...|The Velza Clan?
