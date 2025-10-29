@@ -2695,7 +2695,7 @@
 <roy>君たちは、もう面識があるようだが——|こちらがクレイギン中将、|となりがローズマリア中佐だ。=<roy>It seems you're already acquainted. This is Lieutenant General Craigin, and next to him is Lieutenant Colonel Rosemaria.
 <craigin>君たちのおかげで、|敵を撃退することができた。|礼を言う。=<craigin>Thanks to you, we were able to defeat|the enemy.|You have my gratitude.
 <venus>また会ったわね、ボウヤ。|——へーぇ、近くで見るとなかなか……。|惜しいわねぇ……。=<venus>We meet again, boy...|Huh!? Looking at you up close, you're rather... disappointing.
-<edward>え？ えっ？=<edward>Eh? What was that?
+<edward>え？ えっ？=<edward>Huh? What was that?
 <venus>あと１０年、早く生まれてくれば、|アタシのぺットとして、|一生可愛がってあげたんだけどねぇ……。=<venus>If you were ten years older, I'd take you as my pet and love you my entire life.
 <edward>な……！？|なに言ってんだよッ……！？=<edward>Wha...!?|What are you talking about!?
 <craigin>——やめんか。ローズマリア中佐。=<craigin>That's enough, Lieutenant Colonel Rosemaria.
@@ -2723,7 +2723,7 @@
 <craigin>そして、エドワード君。|君たちには、もう一度、|協力を頼みたい。=<craigin>Well then, Edward. I'd like to request your cooperation one more time.
 <edward>協力、ですか？=<edward>What kind of cooperation?
 <craigin>うむ。四神官と称する|奴らのリーダーたちは、|恐ろしい力を持っていると聞く。=<craigin>Well, I've heard that their leaders, who call themselves the Four Priests, hold dreadful powers.
-<craigin>イシュヴァールの英雄として名高い、|このマスタング大佐も、|危うく命を落とす所だったらしいな。=<craigin>Even the hero of Ishval, the renowned Colonel Mustang, nearly lost his life.
+<craigin>イシュヴァールの英雄として名高い、|このマスタング大佐も、|危うく命を落とす所だったらしいな。=<craigin>Even the hero of Ishbal, the renowned Colonel Mustang, nearly lost his life.
 <roy>……………。=<roy>........................
 <craigin>君の話をすべて信じたわけではないが、|奴ら四神官と対等に戦えるのは、|君たちだけのようだ。=<craigin>I don't believe everything in your story, but it seems you're the only ones who can fight against the Four Priests on equal footing.
 <craigin>我が軍が敵を突破し、道を確保する。|その間に、君たちは城に乗りこみ、|四神官と戦ってほしい。=<craigin>Our troops will break through enemy lines and clear the way. Then you're to go to the castle and fight the Four Priests.
@@ -2786,14 +2786,14 @@
 <edward>ん……？=<edward>Huh?
 <janice>このゴミクズ野郎ども！！|人が手を抜いてやってりゃ、|イイ気になりやがって！！=<janice>You ugly pieces of trash! Just because I was going easy on you, you got all cocky!?
 <edward>なっ、なんだぁ……？=<edward>Wh...What?
-<janice>テメーら、ブチ殺す！！|カケラ１つ残せねぇほど|刻んでやんぞ！ オラァ！！=<janice>I'm gonna kill you #@$&ing bastards! I'll chop you up until not a single piece remains!|Right now!!
+<janice>テメーら、ブチ殺す！！|カケラ１つ残せねぇほど|刻んでやんぞ！ オラァ！！=<janice>I'm gonna kill you ^@$&ing bastards! I'll chop you up until not a single piece remains! Right now!!
 <alphonse>あわわわ……。=<alphonse>Aaaahhhh!
 <janice>この、クソ生意気なチビカスがッ！！|ガキはおとなしく、お家でママのオッパイ|しゃぶっときゃいーんだよっ！！=<janice>Damn cheeky little brats! Good little babies should stay home, suckling on their mommy's tits!!
-<alphonse>お、女の子が|そんな言葉使っちゃダメだよぅ……。=<alphonse>Gi...Girls shouldn't use language like that...
+<alphonse>お、女の子が|そんな言葉使っちゃダメだよぅ……。=<alphonse>G-girls shouldn't use language like that...
 <janice>うっせーんだよ！|黙ってろ、この頭カラッポの、|カマトト・マザコン・フンドシ野郎が！！=<janice>Shut up! Shut up, you empty-headed, naive momma's boy, loincloth-wearing asshole!!
 <alphonse><bigtext>うわあぁぁぁ……！=<alphonse>UWAAAAAHH!
 <edward>な、なんだ……！？=<edward>What...What was that?
-<janice>あぁ……？=<janice>Eeeh?
+<janice>あぁ……？=<janice>Huh?
 <???>このアタシがいない間に、|ずいぶんと好き放題|やってくれたみたいだねぇ……。=<???>You certainly indulged quite a lot while I was away...
 <janice>あぁ……？|なんだぁ、テメーらは……？|ウゼェんだよ……！=<janice>Huh? Who are these idiots?|Get outta my way!
 <venus>ハン、なかなか元気のいい、|ガキじゃないか！=<venus>Ha, aren't you quite the lively brat?
@@ -2816,7 +2816,7 @@
 <janice>——ッ、てっめぇ……！|いきなり、なにしやがんだ！！|痛ぇじゃねぇか、このブリキ野郎！！=<janice>Ugh, why you...! Attacking Janice all of a sudden...! That tin can hurts, y'know!?
 <edward>す……すげぇ……。=<edward>A...Amazing...
 <venus>そこの２人！|なにボサっと突っ立ってんだよ！=<venus>You two! What are you doing over there, staring into space!?
-<edward>——え？ オ、オレたちかよ？=<edward>Eh? You mean us?
+<edward>——え？ オ、オレたちかよ？=<edward>Huh? You mean us?
 <venus>クレイギン将軍から聞いてるよ。|ここは我々にまかせて、おまえたちは、|そのエレベーターで下に行きな！=<venus>General Craigin told me about you.|Leave this to us, and take that|elevator downstairs.
 <venus>今なら、１階のロックは解除されてる！|外に出られるはずだ！=<venus>The door on the first floor has been unlocked! You should be able to go outside!
 <alphonse>——兄さん！=<alphonse>Brother!
@@ -3013,7 +3013,7 @@
 <venus>クレイギン将軍……。|上官とはいえ、本当に今、|あの男に従うべきなのか……。=<venus>General Craigin... Should I keep obeying that man now? Even if he's my superior...
 <venus>神の復活……か。|鋼の錬金術師……|あのボウヤの目、真剣だったね……。=<venus>The resurrection of a goddess, huh?|And the Fullmetal Alchemist... The eyes of that boy seemed so earnest...
 <hammer>——ヴィーナス様。=<hammer>Lady Venus...
-<venus>……ん？|なんだい、ハンマー。=<venus>Eh? What's the matter, Hammer?
+<venus>……ん？|なんだい、ハンマー。=<venus>Huh? What's the matter, Hammer?
 <hammer>……どうしたんですか？|ここんとこ、様子が変ですぜ。|何か悩みでもあるんですかい？=<hammer>Is something wrong? You've been acting strange lately. Are you worried about something?
 <hammer>もしや、|恋わずらい、|ってぇ、ヤツですか——？=<hammer>Is it that you're lovesick?|That kind of thing?
 <venus>フフッ……バカだねぇ、|違うよ。|ちょっと、考えごとをね……。=<venus>Ho ho! Don't be stupid, it's nothing like that. Just thinking about something...
@@ -3022,7 +3022,7 @@
 <venus>ハンマー……。=<venus>Hammer...
 <venus>フッ……やっぱり、|アンタたちまで巻きこむ|ワケにはいかないね……。=<venus>Hmph...|I don't like dragging you two into this, after all.
 <trigger>コラコラコラ、ハンマー！|我が愛しのヴィーナス様に、|それ以上、近づくんじゃない！！=<trigger>Hey hey hey, Hammer! Don't get so close to my beloved Lady Venus!!
-<venus>ん？ どうしたんだい、トリガー？=<venus>Eh? What's that, Trigger?
+<venus>ん？ どうしたんだい、トリガー？=<venus>Huh? What's that, Trigger?
 <trigger>ああ、今日も美しきヴィーナス様！|クレイギン将軍が、|お呼びになっていますです、ハイ。=<trigger>Aah, you're also beautiful today, Lady Venus!|General Graigin has called for you, yes.
 <venus>そうか——！|来たね……。=<venus>Is that so!? Then he really came...
 
@@ -3165,7 +3165,7 @@
 <alphonse>こんなもの無くても、戦ってやるさ！|ソフィの命を削るくらいなら、自分の命を|危険にさらす方が、よっぽどマシだよ！=<alphonse>I'll fight even without this! I'd much rather risk my own life than yours!
 <sophie>アル……。=<sophie>Al...
 <sophie>……分かった。|そこまで言うなら、聖印は消すわ。=<sophie>I understand...|Since you insist, I'll remove the Holy Seals.
-<sophie>今まで、本当にありがとう。|聖印を消したら、|すぐにここから逃げてね。=<sophie>Thank you so much for everything thus far. Now, as soon as I remove it, you must escape from here, quickly.
+<sophie>今まで、本当にありがとう。|聖印を消したら、|すぐにここから逃げてね。=<sophie>Thank you so much for everything thus far. Now, after I remove them, you must escape from here, quickly.
 <alphonse>え……？=<alphonse>Huh...?
 <sophie>聖印がない普通の人を、|この先の戦いには巻き込めない。|ここからは、私１人で行くわ。=<sophie>I can't involve normal people without a seal in the upcoming battle.|From this point onward, I'll proceed alone.
 <alphonse>ちょっと待ってよ！|なんで、そんなふうになるんだよ！=<alphonse>Wait a minute! Why does it have to be like that!?
@@ -3185,8 +3185,8 @@
 <alphonse>う、うん……そう、だよね……。=<alphonse>Ye-Yeah... I see what you mean...
 <alphonse>——分かったよ、兄さん。|ボクも、ソフィと一緒に行くよ。=<alphonse>Alright, Brother.|I'll go with Sophie too.
 <sophie>エド……！ アル……！=<sophie>Ed! Al!
-<edward>ソフィ。オレたちは、|お前を、絶対に死なせたりはしない。=<edward>Sophie, we won't let you die, that's for sure.
-<edward>この聖印が、お前の命を|削るというのなら……|その前に、すべてを終わらせてやる……！=<edward>The Holy Seal won't take your life, I'll finish this before that happens!
+<edward>ソフィ。オレたちは、|お前を、絶対に死なせたりはしない。=<edward>Sophie, we're not going to let anything bad happen to you.
+<edward>この聖印が、お前の命を|削るというのなら……|その前に、すべてを終わらせてやる……！=<edward>The Holy Seals won't take your life—we'll finish this before that happens!
 <sophie>あ、ありがとう……。|２人とも本当に……ありがとう……！=<sophie>Th-Thank you...|Thank you so much, both of you!
 
 !FILE:0131_003/004.txt
@@ -3370,7 +3370,7 @@
 <trigger>当然だ！ このボクのメカなのだよ？|時代遅れの手動装置など存在しない！|すべてが自動化されている！=<trigger>Of course, this is my mecha after all! It has nothing like outdated manual mechanisms! Everything's automated!
 <trigger>エンジンが動かないのに、|ドアが開くワケないだろう！！=<trigger>If the engine doesn't work, then the door won't open!
 <hammer>——だそうです。=<hammer>Makes sense.
-<venus>えーい、このアンポンタン！|どうにかして|外に出る方法はないのかい！？=<venus>Whaaat, you idiot!|Then there's no way to get out!?
+<venus>えーい、このアンポンタン！|どうにかして|外に出る方法はないのかい！？=<venus>Whaaat—you idiot!|Then there's no way to get out!?
 <hammer>ボーズー、助けてくれ——！=<hammer>Boy, please help us!
 <trigger>開けてくれー！|ヨロイちゃ——ん！=<trigger>Open the door! Armor booooy!
 <venus>バカ！|敵に助けを求めてんじゃないよ！！=<venus>Fools! Don't ask the enemy for help!!
@@ -3686,10 +3686,10 @@
 <zelgius>ハッハッハ……！|これで、すべてがそろった！|我らが神、復活の時が来たのだ！！=<zelgius>Ha ha ha ha! Now I have everything!|The time for the resurrection has come!!
 <sophie>助けて！ エド！ アル！=<sophie>Help me! Ed! Al!
 <edward>——くっ！|待てッ！ ゼルギウスッ！！=<edward>Dammit!|Get back here, Zelgius!!
-<alphonse>ソフィ！ ソフィーッ！！=<alphonse>Sophie! Sophiiiiee!!
+<alphonse>ソフィ！ ソフィーッ！！=<alphonse>Sophie! SOPHIIIIEEE!!
 <zelgius>ハッハッハ……！|ハーッハッハッハッハッハ……！！=<zelgius>Ha ha ha!|Ha ha ha ha ha ha!!
 <alphonse>ああっ……。|ソ、ソフィが|連れていかれちゃった……。=<alphonse>Oh no...|He took Sophie away...
-<edward>——クソッ……チクショウッ……。|ソフィ————ッ！！=<edward>Damn... Damn it all...|Sophiiiiieee!!
+<edward>——クソッ……チクショウッ……。|ソフィ————ッ！！=<edward>Damn... Damn it all...|SOPHIIIIIEEE!!
 
 !FILE:0179_003/004.txt
 <riza>エドワード君……。=<riza>Edward...
@@ -4215,7 +4215,7 @@
 <edward>——オレたち、今から、|この街の中心にある|城に行ってくる。=<edward>We're going to the castle at the center of the city.
 <alphonse>そのリーダーみたいな人、|「復活を止めたければ城へ来い」って|言ってたんだ。罠かもしれないけど……。=<alphonse>The leader told us to go to the castle,|if we wanted to stop the resurrection.|It may be a trap, though.
 <sophie>——待って！ 私も行くわ！=<sophie>Wait! I'm going too!
-<alphonse>え！？ ソフィ！？=<alphonse>Eeeh? Sophie!?
+<alphonse>え！？ ソフィ！？=<alphonse>Huuh? Sophie!?
 <sophie>エネルギーが集まったとしても、|実際にヴェルザが復活するまでは、|少し時間がかかるはず……。=<sophie>Even if they've gathered the energy, the actual resurrection of Velza should still take a little time.
 <sophie>その前に、もう一度ヴェルザを|封印しなおして、|眠りにつかせることができれば……。=<sophie>If we could seal Velza again, and put her to sleep before that happens...
 <sophie>——私も城に行くわ！|ヴェルザの復活を防ぐには、|もうこれしか方法がない……。=<sophie>I'll go to the castle too!|This is the only way to prevent Velza's return.
@@ -4354,7 +4354,7 @@
 <edward>そっか……。=<edward>I see...
 <winry>……聖印って、パッとケガを治したり、|便利でいいなって思ってたけど……。|けっこう、危ないものだったのね。=<winry>I thought the Holy Seal was useful to quickly heal injuries... But I guess it's actually quite dangerous.
 <winry>この際だから、|ソフィ自身の聖印も|消しちゃった方がいいんじゃないの？=<winry>Maybe you should erase your own seal while you're at it, Sophie.
-<sophie>えっ？ 私の聖印を——？=<sophie>Eh? My Holy Seal?
+<sophie>えっ？ 私の聖印を——？=<sophie>Huh? My Holy Seal?
 <sophie>——ううん、|私は、このままがいい。=<sophie>No. It's okay the way it is.
 <sophie>この力は、ヴェルザが持つ本来の力——。|多くの人を癒すことができる、|慈愛の力だもの——。=<sophie>This power is the original one that Velza possessed. The power of love, able to heal many people.
 <sophie>聖印のおかげで、|ノルンのケガを治すことができた。|——エドたちとも出会えた……。=<sophie>Thanks to that power, I could cure Norn's injuries. And I could also meet all of you.
@@ -4458,7 +4458,7 @@
 <alphonse>いいね、記念写真だ。|自分たちの写真を撮るのなんて|ひさしぶりだね、兄さん。=<alphonse>That'd be nice: a commemorative photo.|It's been a long time since we took a photo of ourselves, Brother.
 <winry>——ふぅ、直ったよ、ソフィ。|自動でシャッターが下りるから、|これなら、４人でも写せるよ。=<winry>Phew! It's fixed, Sophie. The shutter will go down automatically, so we can take a photo of all four of us.
 <alphonse>ボク、大きいから後ろにいくね。|——兄さんは、いちばん前だよ。=<alphonse>I'll stay in the back, since I'm so big. Brother, you stay at the front.
-<edward>ん？|——何かひっかかる|言い方だな……。=<edward>Eh? There's something about the way you say that...
+<edward>ん？|——何かひっかかる|言い方だな……。=<edward>Huh? There's something about the way you say that...
 <sophie>……もう、ノルンったら、|あばれないで……！=<sophie>Come on, Norn, don't mess around!
 <norn>ニャ～！！=<norn>Meeeowww!!
 <winry>いっくよー……。|はい、チーズ！！=<winry>Here we go! Say “cheese"!!
@@ -4542,7 +4542,7 @@
 <alphonse>ソフィ、見て！！|ボクたち、とんでもない薬を|手に入れたんだ！！=<alphonse>Look, Sophie!! We found an incredible potion!!
 <edward><bigtext>ボ———ン！！=<edward>Cuuuur-!!
 <alphonse>キュッ！=<alphonse>-vyyy!
-<edward><bigtext>ボオオオォォン！！=<edward><bigtext>Cuuuurvvvy-!!
+<edward><bigtext>ボオオオォォン！！=<edward><bigtext>Cuuuurvvvy!!
 <alphonse>——に、なる薬だよ！！|さぁ、早く飲んで！|ウィンリィに気づかれる前に！！=<alphonse>This potion will make you so!|Come on, drink it quickly, before Winry spots us!!
 <edward>何してんだ！ 急げよソフィ！！|幼児体型にオサラバできる|チャンスなんだぞ！？=<edward>What are you doing!? Hurry up, Sophie!! This is your chance to say goodbye to your childlike figure!
 <alphonse><bigtext>ボンキュッボン！！=<alphonse><bigtext>Curvy body!!
@@ -4562,7 +4562,7 @@
 <sophie>焼くべきか、煮るべきか、|それが問題ね……。|ごはん、楽しみに待ってて！=<sophie>To grill or to boil?|That is the question...|Just wait and see my meal!
 <sophie>——クサッ！ なんなの、この匂い！！|……って、このお肉、|腐ってるじゃない！=<sophie>Uuurgh! What's that stench!?|This meat is rotten!
 <sophie>……せっかくだけど、|こんな物もらっても困るよ……。|教会の裏に、埋葬しておくね……。=<sophie>I thank you for your troubles, but I can't accept something like this.|I'm going to bury it behind the church.
-<winry><bigtext>ちょっと、待ったぁあ！！=<winry><bigtext>Wait a momeeeent!!
+<winry><bigtext>ちょっと、待ったぁあ！！=<winry><bigtext>WAIT A MOMEEEENT!!
 <edward>げっ、ウィンリィ——！？=<edward>Wha... Winry!?
 <winry>ソフィ、受け取っちゃダメよ。|コイツは、飲めない牛乳を|押しつけたいだけなんだから！！=<winry>Sophie, don't take that. He just wants to burden you with his unwanted milk!!
 <edward>なっ——ウィンリィ！|テメェ、人聞きのワリィこと|言ってんじゃねーよ！=<edward>Hey, Winry! Damn you, stop slandering me!
