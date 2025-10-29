@@ -2114,7 +2114,7 @@
 一度錬成した武器を、さらに錬成できる|場合もあります。（再錬成）=Even once a weapon has been transmuted, you may be able to transmute it again (re-transmutation).
 <smalltext>サークル内で<circle>＝オブジェ錬成=<smalltext>Press <circle> inside the circle: Object transmutation
 <smalltext>「ネズミ爆弾」が錬成された！=<smalltext>Transmuted “Mouse Bomb"!
-<alphonse>せっかく錬成できるものが|あるんだから使おうよ。=<alphonse>Since we can transmute it, we may as well use it.
+<alphonse>せっかく錬成できるものが|あるんだから使おうよ。=<alphonse>If there's something we can transmute, we better use it.
 
 !FILE:0035_003/004.txt
 <alphonse>女の子を助けないと！=<alphonse>We must help that girl!
@@ -5525,7 +5525,7 @@
 <edward>……ったく、しょーがねぇな。=<edward>Geez, don't think we have much choice...
 <edward>なぁ、ソフィ。|そのヴェルザの復活とやらを防ぐには|どうしたらいいんだ？=<edward>Alright, Sophie. What can we do to stop the resurrection of this Velza person?
 <sophie>え……。=<sophie>Huh...?
-<edward>アンタの話を全部信じた|わけじゃないが——今、ヴァルドラで、|大変なことが起こっているのは確かだ。=<edward>I don't believe everything you said, but the Clan has made themselves undeniable.
+<edward>アンタの話を全部信じた|わけじゃないが——今、ヴァルドラで、|大変なことが起こっているのは確かだ。=<edward>I don't believe everything you said, but the Clan has made itself undeniable.
 <edward>それに、アンタが|心の底から真剣なのは、|オレにも分かる。=<edward>And besides, I can tell you sincerely believe all of it.
 <edward>だから——、|アンタの代わりにやってやるよ。|……オレたちがさ。=<edward>So I'll do this for you...|We all will.
 <sophie>な、なに言ってるの……！？|あなたたちには関係ないことよ！=<sophie>Wha-what are you talking about!?|This has nothing to do with you!
@@ -5535,7 +5535,7 @@
 <alphonse>ねぇ、ソフィ。そんなに大変なことなら、|１人じゃなくて、仲間と協力した方が|うまくいくんじゃないかな？=<alphonse>Come on, Sophie. If it's such a terrible thing, it would be better if we cooperated as friends, instead of doing it alone, right?
 <sophie>な、仲間……？=<sophie>Fr-friends...?
 <edward>別に、アンタのためだけに動こうって|言ってるわけじゃない。ただ、オレは、|指をくわえて見ているのはイヤなんだ。=<edward>I'm not doing this for your sake. I just hate sitting around twiddling my thumbs is all.
-<alphonse>ボクたちに何かできることがあるのなら、|自分の手で、どうにかしてやりたい。|自分の足で、少しでも前に進みたい。=<alphonse>If something needs done, we want to do it with our own hands—keep moving on our own two feet, even if just a little.
+<alphonse>ボクたちに何かできることがあるのなら、|自分の手で、どうにかしてやりたい。|自分の足で、少しでも前に進みたい。=<alphonse>If something needs doing, we want to do it with our own hands—keep moving on our own two feet, even if just a little.
 <edward>それに——、|オレも少し興味が出てきたんだ。|そのヴェルザという存在に……。=<edward>Apart from that, it's caught my interest...|This being called Velza...
 <edward>ずっとオレたちが探している|「賢者の石」と、|何か関係があるかもしれない。=<edward>She may have some relation to the Philosopher's Stone we're searching for.
 <sophie>……………。=<sophie>..............................
@@ -5644,3 +5644,4 @@
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
 <smalltext>次エリアフロアへ進めます！=<smalltext>Go to the next area floor!
 <smalltext><bigtext><yellow>ハガレンタッグマッチ<white>クリア！！|||<8006><green> ＹＯＵ　ＡＲＥ　ＴＨＥ　ＣＨＡＭＰＩＯＮ！！<white>|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<smalltext><bigtext><yellow>Fullmetal Tag Match <white>cleared!!|||<8006><green>YOU ARE THE CHAMPION!!<white>|||<smalltext>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the|main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
+
