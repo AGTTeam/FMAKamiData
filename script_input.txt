@@ -2295,9 +2295,9 @@
 <normal>【迷い犬】|<blackbold>を手に入れた！！=<blackbold>Found <normal>“Lost Dog"
 <alphonse>西の倉庫街って|このあたりだよね……。=<alphonse>The western industrial area should be right around here...
 <edward>ソフィの話だと、この先にオベリスク|という塔があるハズなんだが……。|——ん？ どうした、アル。=<edward>According to Sophie's story, there's supposed to be a tower called an “obelisk" up ahead. ...Huh? What's up, Al?
-<alphonse>ソフィがくれた、この「聖印」……。|本当に、そんな|すごい力があるのかなぁ？=<alphonse>These Holy Seals that Sophie gave us...|Do they really hold such amazing power?
+<alphonse>ソフィがくれた、この「聖印」……。|本当に、そんな|すごい力があるのかなぁ？=<alphonse>These Holy Seal that Sophie marked us with...|Does it really hold such amazing power?
 <edward>うーん……。|確かに、特に何かが変わったって|感じはしないんだよな。=<edward>Hmmm... I don't really feel like anything's changed at all.
-<edward>ま、でも、妙な|副作用もなさそうだし、|やるだけやってみようぜ。=<edward>Well, so long as there aren't any strange side effects we may as well give 'em a spin.
+<edward>ま、でも、妙な|副作用もなさそうだし、|やるだけやってみようぜ。=<edward>Well, so long as there aren't any strange side effects, we may as well give it a spin.
 
 !FILE:0046_003/004.txt
 <smalltext><square>/<circle>＝レバースイッチを動かす=<smalltext><square>/<circle>: Move lever switch
@@ -2434,14 +2434,14 @@
 <edward>あ、ああ、ごめん。|中尉には全部、説明しておくよ。=<edward>Ah, yeah... sorry.|I'll explain everything, Lieutenant.
 <edward>オレたちが|ソフィと出会ったのが|始まりだったんだ……。=<edward>It all started when we met Sophie...
 <edward>——と、オレたちが知ってることは|これで全部だよ。|とても、信じられない話だろうけど。=<edward>And that's the full story.|I know it's hard to believe.
-<alphonse>ボクたちも正直、今でも半信半疑なんです。|だけど、ソフィに渡された聖印の力や|オベリスクのことは本当でした。=<alphonse>Frankly, we still have our doubts. However, the power of the Holy Seals that Sophie gave us, and the obelisks, were true.
+<alphonse>ボクたちも正直、今でも半信半疑なんです。|だけど、ソフィに渡された聖印の力や|オベリスクのことは本当でした。=<alphonse>Frankly, we still have our doubts. However, the power of the Holy Seal that Sophie gave us, and the obelisks, were true.
 <riza>「ヴェルザが復活すると世界が滅ぶ」|……確かに、とても信じられない話ね。=<riza>“Velza's resurrection will bring about the end of the world"... Certainly, it's quite the unbelievable story.
 <riza>だけど、さっきの変な男の力といい、|この塔の存在といい、あなたたちの話を|信じないと説明がつかないのも事実だわ。=<riza>However I can't explain the power of that strange man before, or the existence of this tower otherwise.
 <riza>ふぅ……。|大佐が聞いたら、なんて言うかしら……。=<riza>Oof... I wonder what the colonel's going to say when he hears about this...
 <alphonse>中尉はこれからどうするんですか？=<alphonse>What are you going to do now, Lieutenant?
 <riza>私はこの街の司令部に戻って、|事の次第を大佐に報告するつもりよ。|だから、エドワード君たちも一緒に——。=<riza>I'll return to HQ here and give the colonel a report of the situation. That's why you two are coming with me.
 <edward>いや、オレたちはオレたちで行動するよ。|今は一刻も早く、すべてのオベリスクを|封印しなきゃならないしな。=<edward>No way, we've got our own stuff to deal with. We have to seal all the obelisks as soon as possible.#Looks like a newline before "We" would come right after the second line starts, but I haven't checked in-game. It's an awkwardness best avoided.
-<alphonse>オベリスクのことは、ボクたちに|任せてください。というか、ボクたちにしか|どうにもできないみたいですから。=<alphonse>Please, leave this to us. I mean, with the Holy Seals we're the only ones who can do anything about them.
+<alphonse>オベリスクのことは、ボクたちに|任せてください。というか、ボクたちにしか|どうにもできないみたいですから。=<alphonse>Please, leave this to us. I mean, with the Holy Seal we're the only ones who can do anything about them.
 <riza>……そう、分かったわ。|君たちなら大丈夫とは思うけど、|くれぐれも無茶はしないようにね。=<riza>...I see. Guess you'll be alright.|But nonetheless, don't do anything reckless.
 <edward>さ、早く教会に戻ろうぜ。|ソフィとウィンリィも心配だしな。=<edward>Well, let's head back to the church for now. Sophie and Winry must be worried.
 <edward>——って、何やってんだ、アル？=<edward>Huh? What are you doing, Al?
@@ -3146,7 +3146,7 @@
 <edward>いや……待て、アル。|オレたちの命が削られないんなら、|聖印の力は、どこから来てるんだ？=<edward>No... Wait, Al. If it's not using up our lives, where does the Holy Seal draw its power from?
 <alphonse>えっ？=<alphonse>Huh?
 <edward>ヴェルザの一族の印が|命を代償にしているなら、聖印も、|何かの代償を必要としているはずだ。=<edward>If the seals of the clan cost one's life, then the Holy Seal must also have some kind of cost.
-<edward>——なぁ、ソフィ。|この聖印……お前の命を|代償にしてるんじゃないのか？=<edward>Be honest, Sophie. These Holy Seals...|They're using up your life, right?
+<edward>——なぁ、ソフィ。|この聖印……お前の命を|代償にしてるんじゃないのか？=<edward>Be honest, Sophie. The Holy Seal...|It's using up your life, right?
 <sophie>……………………。=<sophie>........................
 <alphonse>そ、そんな……！？=<alphonse>Wh-What!?
 <edward>思い出してみろよ、アル。|ソフィと最初に出会った時のこと、|ノルンのケガを治した時のこと……。=<edward>Remember, Al. When we first met Sophie and when she cured Norn's injuries...
@@ -3164,14 +3164,14 @@
 <sophie>そんなこと言わないで、アル……。|それがないと、|ヴェルザの一族とは戦えないのよ。=<sophie>Don't say that, Al. You can't fight against the Velza Clan without the seals.
 <alphonse>こんなもの無くても、戦ってやるさ！|ソフィの命を削るくらいなら、自分の命を|危険にさらす方が、よっぽどマシだよ！=<alphonse>I'll fight even without this! I'd much rather risk my own life than yours!
 <sophie>アル……。=<sophie>Al...
-<sophie>……分かった。|そこまで言うなら、聖印は消すわ。=<sophie>I understand...|Since you insist, I'll remove the Holy Seals.
+<sophie>……分かった。|そこまで言うなら、聖印は消すわ。=<sophie>I understand...|Since you insist, I'll remove the Holy Seal.
 <sophie>今まで、本当にありがとう。|聖印を消したら、|すぐにここから逃げてね。=<sophie>Thank you so much for everything thus far. Now, after I remove them, you must escape from here, quickly.
 <alphonse>え……？=<alphonse>Huh...?
 <sophie>聖印がない普通の人を、|この先の戦いには巻き込めない。|ここからは、私１人で行くわ。=<sophie>I can't involve normal people without a seal in the upcoming battle.|From this point onward, I'll proceed alone.
 <alphonse>ちょっと待ってよ！|なんで、そんなふうになるんだよ！=<alphonse>Wait a minute! Why does it have to be like that!?
 <edward>オレたちに……選ばせる気か、ソフィ。=<edward>Are you going to make us... choose, Sophie?
-<sophie>そんなつもりはないわ。|私は２人のことを信じた。|だから、聖印を渡してもいいと思ったの。=<sophie>That's not my intention. I believed in both of you. So I thought it would be a good idea to give you the Holy Seals.
-<sophie>私に力を貸してほしい。|でも——どうしても聖印を使えないと|言うのなら、私は１人で戦うわ。=<sophie>I wanted us to work together.|But if you refuse to use the seals, then I'll fight alone.
+<sophie>そんなつもりはないわ。|私は２人のことを信じた。|だから、聖印を渡してもいいと思ったの。=<sophie>That's not my intention. I believed in both of you. So I thought it would be a good idea to give you the Holy Seal.
+<sophie>私に力を貸してほしい。|でも——どうしても聖印を使えないと|言うのなら、私は１人で戦うわ。=<sophie>I wanted us to work together.|But if you refuse to use the seal, then I'll fight alone.
 <alphonse>ソフィ……。=<alphonse>Sophie...
 <edward>勝手な……ことをっ……。=<edward>That's so... selfish of you...
 <sophie>……ごめんね……エド……アル……。=<sophie>I'm sorry... Ed, Al...
@@ -3186,7 +3186,7 @@
 <alphonse>——分かったよ、兄さん。|ボクも、ソフィと一緒に行くよ。=<alphonse>Alright, Brother.|I'll go with Sophie too.
 <sophie>エド……！ アル……！=<sophie>Ed! Al!
 <edward>ソフィ。オレたちは、|お前を、絶対に死なせたりはしない。=<edward>Sophie, we're not going to let anything bad happen to you.
-<edward>この聖印が、お前の命を|削るというのなら……|その前に、すべてを終わらせてやる……！=<edward>The Holy Seals won't take your life—we'll finish this before that happens!
+<edward>この聖印が、お前の命を|削るというのなら……|その前に、すべてを終わらせてやる……！=<edward>The Holy Seal won't take your life—we'll finish this before that happens!
 <sophie>あ、ありがとう……。|２人とも本当に……ありがとう……！=<sophie>Th-Thank you...|Thank you so much, both of you!
 
 !FILE:0131_003/004.txt
@@ -4341,7 +4341,7 @@
 <sophie>ウィンリィ……！=<sophie>Winry...
 <norn>ニャ～ン！ ニャ～ン！=<norn>Meow, meow!
 <edward>………………。=<edward>........................
-<sophie>——聖印を消したわ。=<sophie>Your Holy Seals are gone.
+<sophie>——聖印を消したわ。=<sophie>You no longer bear the Holy Seal.
 <edward>……これで、|ソフィの命を代価に|拳を振らなくても済むんだな。=<edward>Now you don't have to pay with your life every time I shake my fist, Sophie.
 <sophie>……ゴメンね。|ヒドイことしたと思ってる……。=<sophie>I'm sorry. I know I did a terrible thing.
 <alphonse>ううん、|あやまらなくていいよ、ソフィ……！=<alphonse>No, there's no need to apologize.
@@ -4994,7 +4994,7 @@
 <sophie>——ううん、ダメ！|これは私が、大切に使うもの！=<sophie>No, that's not right! This is something I should treasure myself!
 <sophie>——そうだ、いつも|もらってばかりじゃ悪いと思って、|私も２人に、プレゼントを用意したの。=<sophie>Well, I feel bad always being the one who receives presents. So here's a little something for you two.
 <sophie>はい、聖印の力を宿したチョーカーよ。|身に着けるだけでいいの、|２人の力になってくれるわ。=<sophie>Yeah, this choker contains the power of the Holy Seal. Just wearing it will give strength to you two.
-<sophie>……心配ないよ、その聖印は、|私の力を代価にはしない……。|——安心して使ってね。=<sophie>Don't worry, this Holy Seal won't drain my power. Use it with confidence.
+<sophie>……心配ないよ、その聖印は、|私の力を代価にはしない……。|——安心して使ってね。=<sophie>Don't worry, it won't drain my power. Use it with confidence.
 <sophie>かわいいブローチね……。|どう？ どの街にもいるような、|普通の女の子に見えるかな……？=<sophie>A cute brooch...|What do you think? Do I look like a normal girl, just as you could find anywhere?
 <sophie>って……、変な話だよね、|普通の女の子に|憧れるなんて……。=<sophie>Maybe it's strange, but I want to be more like an ordinary girl.
 <sophie>——そうそう、|もらってばかりじゃ悪いから、|私も２人に、プレゼントを用意したの。=<sophie>Well, I feel bad always being the one who receives presents. So here's a little something for you two.
