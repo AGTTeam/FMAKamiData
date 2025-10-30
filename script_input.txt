@@ -3146,7 +3146,7 @@
 <edward>いや……待て、アル。|オレたちの命が削られないんなら、|聖印の力は、どこから来てるんだ？=<edward>No... Wait, Al. If it's not using up our lives, where does the Holy Seal draw its power from?
 <alphonse>えっ？=<alphonse>Huh?
 <edward>ヴェルザの一族の印が|命を代償にしているなら、聖印も、|何かの代償を必要としているはずだ。=<edward>If the seals of the clan cost one's life, then the Holy Seal must also have some kind of cost.
-<edward>——なぁ、ソフィ。|この聖印……お前の命を|代償にしてるんじゃないのか？=<edward>Be honest, Sophie. These Holy Seals...|They're taking away your life, right?
+<edward>——なぁ、ソフィ。|この聖印……お前の命を|代償にしてるんじゃないのか？=<edward>Be honest, Sophie. These Holy Seals...|They're using up your life, right?
 <sophie>……………………。=<sophie>........................
 <alphonse>そ、そんな……！？=<alphonse>Wh-What!?
 <edward>思い出してみろよ、アル。|ソフィと最初に出会った時のこと、|ノルンのケガを治した時のこと……。=<edward>Remember, Al. When we first met Sophie and when she cured Norn's injuries...
@@ -4311,7 +4311,7 @@
 <winry>アンタたちも、|なかなか帰ってこないし……。|もう、どうなることかと——。=<winry>You guys didn't return for a while either...|I was wondering what happened to you.
 <winry>——あれ？|そういえば、ソフィは？|ねぇ、ソフィは一緒じゃないの？=<winry>Huh? By the way, where's Sophie?|Isn't she with you?
 <alphonse>……………………。=<alphonse>.............................
-<edward>……ソフィは……|敵に連れていかれちまった……。=<edward>Sophie... was captured....
+<edward>……ソフィは……|敵に連れていかれちまった……。=<edward>Sophie...was captured....
 <winry>ええっ！？ そ、そんな！？|——どうしてっ！？|どうして、ソフィが！？=<winry>What!? No... No way!?|Why!? Why Sophie!?
 <alphonse>——おちついて、ウィンリィ。|大丈夫だから……。=<alphonse>Calm down, Winry. She's okay.
 <edward>……詳しいことを話してる時間はねぇが、|街に現れた大きな塔、|ソフィはたぶん、あそこにいると思う。=<edward>I don't have time to explain the details, but I think Sophie's probably inside that big tower that appeared in the city.
@@ -4519,7 +4519,7 @@
 <sophie>「心がマッタリする薬」……？=<sophie>“Relaxed Heart"?
 <sophie>マッタリ、か……。|これを飲めば、|安心できるのかな……。=<sophie>Relaxed, huh?|I wonder if drinking this will make me feel|at ease...
 <sophie>……本当は不安なの。|エドやアルに、|何かあったらどうしよう、って……。=<sophie>Actually, I'm worried. What if something happened to Ed and Al?
-<sophie>私にとって一番の安心は、|みんなが無事でいてくれること——。|……信じてるよ、２人とも。=<sophie>The best way for me to feel relaxed,|is knowing that everyone's safe.|I trust you, both of you.
+<sophie>私にとって一番の安心は、|みんなが無事でいてくれること——。|……信じてるよ、２人とも。=<sophie>The best way for me to feel relaxed is knowing that everyone's safe.|I trust you, both of you.
 <sophie>ねぇ、今、気づいたんだけど……。|……こういう薬って、|アルは、どうやって使ってるの？=<sophie>Hey, I just realized something...|How does Al take these medicines?
 <alphonse>——ッ！！ うわああああああぁぁ！！！|聞こえない！ 聞こえないよ！！|ボク、何も聞こえないからね！！=<alphonse>Huh!? Aaaaaaaahhhh!!|I can't hear you! I can't hear you!!|I can't hear anything!!
 <sophie>——えっ、ちょっと待って！|どうしたの？|急に逃げないでよ——！！=<sophie>Hey, wait a minute! What's wrong?|Don't run away all of a sudden!!
@@ -4527,17 +4527,17 @@
 <edward>いや、そーでもないぜ。|ドアを開くため、隠されたスイッチを|わざわざ探したり……。=<edward>No, not really. You may have to go through the trouble of finding a hidden switch to open a door.
 <alphonse>通れないからって、|ずいぶんな距離を遠回りしたり……。=<alphonse>Or you may be forced to take a huge detour because you can't get through|a certain path.
 <edward>なにかと苦労は絶えねえよ。=<edward>It's a constant struggle.
-<sophie>———どうして？|そういう困った時のために、|錬金術があるんでしょ……？=<sophie>But why? Those are the kind of difficulties that alchemy is for, right?
+<sophie>———どうして？|そういう困った時のために、|錬金術があるんでしょ……？=<sophie>But why? Those are the kinds of difficulties that alchemy is for, right?
 <alphonse>それが…なんというか……。|そんな時に限って、|錬金術が使えないんだ……。=<alphonse>Well... How can I put this...?|It's precisely at times like that when we can't use alchemy.
-<edward><bigtext>一身上の都合<8006>ってヤツでな……。=<edward>It's<bigtext> personal.<8006>#Ed is basically dodging the q
+<edward><bigtext>一身上の都合<8006>ってヤツでな……。=<edward>For<bigtext> reasons.<8006>
 <sophie>………？？？=<sophie>...............???
 <sophie>——ふぅーん。|鎧の身体も、そう悪いこと|ばかりじゃないのね……。=<sophie>Hmmm... I guess having a body made of armor isn't all bad...
 <alphonse>そうだね、この身体だと|痛みも感じないし、炎の中へ入っても、|燃えるようなこともないし……。=<alphonse>Yeah, with this body I can't feel pain, and I can even walk through fire without being burned.
-<sophie>……でも、鎧の部分は燃えなくても、|頭についてるフサフサや、|皮や布の部分は燃えちゃうんでしょ？=<sophie>But... even if the armor doesn't burn, the plumes at the head, and the leather and cloth parts burn, don't they?
+<sophie>……でも、鎧の部分は燃えなくても、|頭についてるフサフサや、|皮や布の部分は燃えちゃうんでしょ？=<sophie>But...even if the armor doesn't burn, the plumes at the head, and the leather and cloth parts burn, don't they?
 <alphonse>——ッ！|ソフィ、君って相当、|目ざといね……！！=<alphonse>Huh!?|Sophie, that's very observant of you!!
-<sophie><bigtext>めっ、目ざとい……？=<sophie><bigtext>O... Observant?
-<alphonse>心頭滅却すれば火もまた涼し！！|細かいことに、こだわるなかれだよ、|プンプン！！=<alphonse>If you clear your mind, even fire can become cool! Don't get so obsessed|with the little details, humph!
-<sophie>プンプン、て……。|何を怒ってるのよ……？=<sophie>“Humph"...? What are you so angry about?
+<sophie><bigtext>めっ、目ざとい……？=<sophie><bigtext>O-observant...?
+<alphonse>心頭滅却すれば火もまた涼し！！|細かいことに、こだわるなかれだよ、|プンプン！！=<alphonse>If you clear your mind, even fire can become cool! Don't get so obsessed|with the little details, hmph!
+<sophie>プンプン、て……。|何を怒ってるのよ……？=<sophie>“Hmph!"...? What are you so angry about?
 <sophie>——２人とも、|そんなに慌ててどうしたの……？=<sophie>What's got you two so worked up...?
 <alphonse>ソフィ、見て！！|ボクたち、とんでもない薬を|手に入れたんだ！！=<alphonse>Look, Sophie!! We found an incredible potion!!
 <edward><bigtext>ボ———ン！！=<edward>Cuuuur-!!
@@ -5341,8 +5341,8 @@
 <sophie>——やったぁ！！|よろしくね、ハヤチン！！=<sophie>Alright! Nice to meet you, Hayachin!!
 <riza><bigtext>……ハヤテ号よ。=<riza><bigtext>It's Hayate.
 <sophie>——パッ、パンダ！？|どうして、北方に|パンダがいるの……！？=<sophie>A... A panda!?|Why is there a panda in the north!?
-<edward>行きだおれ、ってやつだな。|飼って世話してやろうぜ、|ネコもパンダも変わらねーだろ？=<edward>It had collapsed in the street.|Let's take care of it, cats and pandas are the same right?
-<sophie>えっ、でも……。=<sophie>Uh... but...
+<edward>行きだおれ、ってやつだな。|飼って世話してやろうぜ、|ネコもパンダも変わらねーだろ？=<edward>It had collapsed in the street.|Let's take care of it, cats and pandas are similar right?
+<sophie>えっ、でも……。=<sophie>Uh...but...
 <edward>腹減ってるみてーだし、|オレ、餌やってくるよ。=<edward>It looks hungry. I'll go and get some food.
 <alphonse>……あの兄さんが、|動物に餌だなんて……。|よほど、パンダが珍しいんだろうね。=<alphonse>My brother feeding an animal?|Pandas sure must be rare.
 <sophie>……ねぇ、アル。|もしかして、あのパンダ、|ここで面倒みるの……？=<sophie>Hey, Al. Are we going to take care of that panda here?
@@ -5350,9 +5350,9 @@
 <sophie>だって、パンダも一応、猛獣でしょ？|北方には竹なんてないし、代わりに、|ニャンコを襲わないか心配で……。=<sophie>But pandas are wild animals after all, right? There's no bamboo in the north, so I'm afraid it'll attack the kitties instead...
 <alphonse>あ、確かに、そうだね。|パンダは、小動物も|食べるっていうし……。=<alphonse>Ah, you're right. They say that pandas eat small animals too...
 <sophie>そう、小動物……。=<sophie>Right, small animals...
-<alphonse>………<bigtext>小動物？=<alphonse>.................. <bigtext>Small animals?
-<alphonse><bigtext>——ッ、兄さん！！=<alphonse><bigtext>Brother!!
-<edward><bigtext>ギャ————ッ！！=<edward><bigtext>Aaaaargh!!
+<alphonse>………<bigtext>小動物？=<alphonse>.................. <bigtext>SMALL ANIMALS?
+<alphonse><bigtext>——ッ、兄さん！！=<alphonse><bigtext>EDWARD!!
+<edward><bigtext>ギャ————ッ！！=<edward><bigtext>AAAARGH!!
 <alphonse>……あ、やっぱり。=<alphonse>Ah, just as I thought...
 
 !FILE:0222_002/004.txt
