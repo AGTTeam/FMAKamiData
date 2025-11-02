@@ -631,7 +631,7 @@
 <yellow>突起錬成の溜め時間がなくなる<white>|聖印の力が込められたヴィーナスのムチ=<yellow>No waiting time for stonespike transmutations.<white>|Venus' whip, imbued with the power of the Holy Seal.
 <yellow>すべての能力値、通常取得経験値が５％上昇する<white>|黒い靴下が白い靴下に！ ハッピーでラッキー！=<yellow>All stats & EXP earned in battle increase by 5%.|<white>Black socks became white socks! Happy and lucky!
 <yellow>必ずジャストアタックになる<white>|ウィンリィが作った、サイコメガネの強化版=<yellow>Automates accu-strikes.<white>|The Psycho Glasses, enhanced by Winry.
-<yellow>必ずジャストアタックになる|また、敵がアイテムを落とす確率が、ちょっぴり上がる=<yellow>Automates accu-strikes.|<white>The chance of enemies dropping items also increases slightly.
+<yellow>必ずジャストアタックになる|また、敵がアイテムを落とす確率が、ちょっぴり上がる=<yellow>Automates accu-strikes.|The chance of enemies dropping items slightly increases.
 <yellow>必ずジャストアタックになり、錬成力が２倍に上昇する<white>|地味にブランド物らしい……=<yellow>Automates accu-strikes. ALC is doubled.<white>|They look just like a brand-name item...
 <yellow>凍結状態にならない<white>|ヴァルドラでは一般的に使われるカイロ とてもＨＯＴ！=<yellow>Protects against freezing.<white>|A warmer commonly used in Valdolla. Really hot!
 <yellow>錬成力が２倍になり、攻撃力と防御力が激減する<white>|神兵の錬金術師が被っている、ハイセンスな尖った帽子=<yellow>ALC doubles, but ATK and DEF decrease greatly.<white>|A stylish pointy hat, worn by a holy alchemist.
