@@ -648,7 +648,7 @@
 <yellow>すべての能力値が少し上がる、ニャンコの鳴き声が……<white>|トラネコ、イケイケどんどんの性格で、敵も多い=<yellow>Increases all stats a little. And the cat's meow...<white>|A tabby cat with an intense personality and many enemies.
 <yellow>すべての能力値が少し上がる、ニャンコの鳴き声が……<white>|ジャニスの愛猫、セクシー路線を爆走中=<yellow>Increases all stats a little. And the cat's meow...<white>|Janice's beloved cat; she has a sexy attitude.
 <yellow>すべての能力値が少し上がる、ニャンコの鳴き声が……<white>|ゴドーの愛猫、優しい主人の帰りを待ち続ける=<yellow>Increases all stats a little. And the cat's meow...<white>|Godot's beloved cat, waiting for the return of his kind master.
-<yellow>すべての能力値が少し上がる、ニャンコの鳴き声が……<white>|ヴィーナスの愛猫、配下が２匹いるらしい=<yellow>Increases all stats a little. And the cat's meow...<white>|Venus' beloved cat. she seems to have two pets under her spell.
+<yellow>すべての能力値が少し上がる、ニャンコの鳴き声が……<white>|ヴィーナスの愛猫、配下が２匹いるらしい=<yellow>Increases all stats a little. And the cat's meow...<white>|Venus' beloved cat. She seems to have two pets under her spell.
 <yellow>すべての能力値が少し上がる、ニャンコの鳴き声が……<white>|チャネコ、有名な役者猫、１０００の顏を持つという=<yellow>Increases all stats a little. And the cat's meow...<white>|A famous brown cat actor, said to have 1000 faces.
 <yellow>すべての能力値が少し上がる、ニャンコの鳴き声が……<white>|ゼルギウスの愛猫、一族を束ねる正義のヒーロー=<yellow>Increases all stats a little. And the cat's meow...<white>|Zelgius' beloved cat, a hero that brings the clan together.#"hero of justice" too long
 <yellow>すべての能力値が少し上がる、ニャンコの鳴き声が……<white>|ヴェルザの愛猫、永遠の命を受け、悠久の時を生きてきた=<yellow>Increases all stats a little. And the cat's meow...<white>|Velza's beloved cat, who received eternal life.
