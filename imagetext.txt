@@ -611,7 +611,30 @@ EDITED
 第 章=Chapter 5
 
 0020_000
-復活の鼓動
+
+95 - 99, 9a - 9e, 9f - a3 are moving from the center outwards animation
+96 is closest to the screen center, then 9a, then af
+
+17a - 17e, 17f - 183 moving from their places outwards animation
+17f is further out
+
+0019_000
+ORIGINAL POS:
+復 a4={"x": 2, "y": 0, "width": 57, "height": 54, "screenx": -140, "screeny": -47}
+活 a5={"x": 60, "y": 0, "width": 55, "height": 54, "screenx": -81, "screeny": -47}
+の a6={"x": 120, "y": 0, "width": 49, "height": 54, "screenx": -23, "screeny": -47}
+鼓 a7={"x": 174, "y": 0, "width": 58, "height": 54, "screenx": 30, "screeny": -47}
+動 a8={"x": 1, "y": 57, "width": 55, "height": 54, "screenx": 89, "screeny": -47}
+
+"screeny": -59 are the centered blurs 
+
+BLUR starts from c3
+復={"x": 2, "y": 179, "width": 56, "height": 76, 
+活={"x": 2, "y": 179, "width": 56, "height": 76,
+の={"x": 60, "y": 179, "width": 55, "height": 76, 
+鼓={"x": 60, "y": 179, "width": 55, "height": 76,
+動={"x": 120, "y": 179, "width": 49, "height": 76, 
+
 Revival Beat
 
 0021_000\001_04.png
