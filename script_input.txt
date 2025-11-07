@@ -284,7 +284,7 @@
 ※アクセサリ予備用６１=Accessory Slot 61
 ※アクセサリ予備用６２=Accessory Slot 62
 ※アクセサリ予備用６３=Accessory Slot 63
-無限の砥石=Whetstone of Ages
+無限の砥石=Infinity Whetstone
 無限の弾丸=Infinity Bullet
 復活のお守り=Charm of Renewal
 ※アクセサリ予備用６４=Accessory Slot 64
@@ -382,18 +382,18 @@
 <yellow>ＨＰを１５０回復する<white>|広く一般的に使われる回復薬=<yellow>Restores 150 HP.|<white>A widely used medicine.
 <yellow>ＨＰを４００回復する<white>|大ケガにも効果的、ビッグサイズの回復薬=<yellow>Restores 400 HP.|<white>A potent medicine, effective even for serious injuries.
 <yellow>ＨＰを全回復する<white>|どんな大ケガも一瞬で治す特効薬=<yellow>Restores full HP.|<white>A magical medicine that heals any injury instantly.
-<yellow>体力を１ポイント上昇させる<white>|栄養剤 「タフネスドリンク」=<yellow>Increases Vitality by 1 point.|<white>Nutritional supplement “Toughness Drink".
-<yellow>体力を２ポイント上昇させる<white>|栄養剤 「ビューティードリンク」=<yellow>Increases Vitality by 2 points.|<white>Nutritional supplement “Beauty Drink".
-<yellow>体力を３ポイント上昇させる<white>|栄養剤 「猛牛ドリンク」=<yellow>Increases Vitality by 3 points.|<white>Nutritional supplement “Raging Bull".
-<yellow>攻撃力を１ポイント上昇させる<white>|栄養剤 「マッチョ専用ドリンク」=<yellow>Increases Attack by 1 point.|<white>Nutritional supplement “Only Machos".
-<yellow>攻撃力を２ポイント上昇させる<white>|栄養剤 「空前絶後の上・腕・筋！」=<yellow>Increases Attack by 2 points.|<white>Nutritional supplement “Unmatched Arms and Muscles!".
-<yellow>攻撃力を３ポイント上昇させる<white>|栄養剤 「ムキムキブラザーズ」=<yellow>Increases Attack by 3 points.|<white>Nutritional supplement “Muscle Brothers".
-<yellow>防御力を１ポイント上昇させる<white>|栄養剤 「カチコチドリンク」=<yellow>Increases Defense by 1 point.|<white>Nutritional supplement “Frozen Drink".
-<yellow>防御力を２ポイント上昇させる<white>|栄養剤 「ワニワニドリンク」=<yellow>Increases Defense by 2 points.|<white>Nutritional supplement “Crocodile Drink".
-<yellow>防御力を３ポイント上昇させる<white>|栄養剤 「フルメタルドリンク」=<yellow>Increases Defense by 3 points.|<white>Nutritional supplement “Fullmetal Drink".
-<yellow>錬成力を１ポイント上昇させる<white>|栄養剤 「心がシャキッとする薬」=<yellow>Increases Alchemy by 1 point.|<white>Nutritional supplement “Refreshed Heart".
-<yellow>錬成力を２ポイント上昇させる<white>|栄養剤 「心にビビッとくる薬」=<yellow>Increases Alchemy by 2 points.|<white>Nutritional supplement “Fluttering Heart".
-<yellow>錬成力を３ポイント上昇させる<white>|栄養剤 「心がマッタリする薬」=<yellow>Increases Alchemy by 3 points.|<white>Nutritional supplement “Relaxed Heart".
+<yellow>体力を１ポイント上昇させる<white>|栄養剤 「タフネスドリンク」=<yellow>Increases VIT by 1 point.|<white>Nutritional supplement “Toughness Drink".
+<yellow>体力を２ポイント上昇させる<white>|栄養剤 「ビューティードリンク」=<yellow>Increases VIT by 2 points.|<white>Nutritional supplement “Beauty Drink".
+<yellow>体力を３ポイント上昇させる<white>|栄養剤 「猛牛ドリンク」=<yellow>Increases VIT by 3 points.|<white>Nutritional supplement “Raging Bull".
+<yellow>攻撃力を１ポイント上昇させる<white>|栄養剤 「マッチョ専用ドリンク」=<yellow>Increases ATK by 1 point.|<white>Nutritional supplement “Only Machos".
+<yellow>攻撃力を２ポイント上昇させる<white>|栄養剤 「空前絶後の上・腕・筋！」=<yellow>Increases ATK by 2 points.|<white>Nutritional supplement “Unmatched Arms and Muscles!".
+<yellow>攻撃力を３ポイント上昇させる<white>|栄養剤 「ムキムキブラザーズ」=<yellow>Increases ATK by 3 points.|<white>Nutritional supplement “Muscle Brothers".
+<yellow>防御力を１ポイント上昇させる<white>|栄養剤 「カチコチドリンク」=<yellow>Increases DEF by 1 point.|<white>Nutritional supplement “Frozen Drink".
+<yellow>防御力を２ポイント上昇させる<white>|栄養剤 「ワニワニドリンク」=<yellow>Increases DEF by 2 points.|<white>Nutritional supplement “Crocodile Drink".
+<yellow>防御力を３ポイント上昇させる<white>|栄養剤 「フルメタルドリンク」=<yellow>Increases DEF by 3 points.|<white>Nutritional supplement “Fullmetal Drink".
+<yellow>錬成力を１ポイント上昇させる<white>|栄養剤 「心がシャキッとする薬」=<yellow>Increases ALC by 1 point.|<white>Nutritional supplement “Refreshed Heart".
+<yellow>錬成力を２ポイント上昇させる<white>|栄養剤 「心にビビッとくる薬」=<yellow>Increases ALC by 2 points.|<white>Nutritional supplement “Fluttering Heart".
+<yellow>錬成力を３ポイント上昇させる<white>|栄養剤 「心がマッタリする薬」=<yellow>Increases ALC by 3 points.|<white>Nutritional supplement “Relaxed Heart".
 <yellow>すべてのパラメータを１ポイント上昇させる<white>|真理を知ることができる、超栄養ドリンク=<yellow>Increases all stats by 1 point.|<white>Special drink that shows you the truth.
 <yellow>すべてのパラメータを２ポイント上昇させる<white>|真理を知ることができる、超栄養ドリンク=<yellow>Increases all stats by 2 points.|<white>Special drink that shows you the truth.
 <yellow>すべてのパラメータを３ポイント上昇させる<white>|真理を知ることができる、超栄養ドリンク=<yellow>Increases all stats by 3 points.|<white>Special drink that shows you the truth.
@@ -407,21 +407,21 @@
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
-<yellow>ＨＰを２９回復する（エド専用）<white>|１００ｇ１０円の安肉=<yellow>Restores 29 HP (Ed only).<white>|Cheap meat for 10 cens per 100 grams.
-<yellow>ＨＰを２９０回復する（エド専用）<white>|１００ｇ１０万円の最高級牛肉=<yellow>Restores 290 HP (Ed only).<white>|Premium beef for 100,000 cens per 100 grams.
-<yellow>２９のダメージを受ける！（エド専用）<white>|危険な香りがする……！=<yellow>Causes 29 points of damage! (Ed only).<white>|It smells of danger!
-<yellow>体力を１ポイント上昇させＨＰを５回復する（エド専用）<white>|エド最大の敵、新鮮な牛乳！=<yellow>Increases Vitality by 1 point and restores 5 HP (Ed only).<white>|Ed's greatest enemy: fresh milk!
-<yellow>ＨＰを３０回復する（エド専用）<white>|一流の料理人ですら涙するタマネギ=<yellow>Restores 30 HP (Ed only).<white>|Onions make even the best chefs cry.
-<yellow>ＨＰを５０回復する（エド専用）<white>|ジャガイモ、生で食べるのはチョット……=<yellow>Restores 50 HP (Ed only).<white>|It's a little hard to eat them raw...
-<yellow>ＨＰを４０回復する（エド専用）<white>|変わった形のニンジン、体によさそう……=<yellow>Restores 40 HP (Ed only).<white>|Unusually shaped carrots; they look good for you.
-<yellow>ＨＰを２０回復する（エド専用）<white>|とれたてホカホカのタマゴ、でもニワトリのタマゴ……？=<yellow>Restores 20 HP (Ed only).<white>|A fresh, warm egg... But is it from a chicken?
-<yellow>ＨＰを６０回復する（エド専用）<white>|お菓子作りには欠かせない=<yellow>Restores 60 HP (Ed only).<white>|Essential for confectionery making.
-<yellow>ＨＰを１５回復する（エド専用）<white>|甘くておいし～いイチゴ=<yellow>Restores 15 HP (Ed only).<white>|Sweet and delicious strawberries.
-<yellow>ＨＰを１５０回復する（エド専用）<white>|軍人さんの携帯食料、種類も豊富=<yellow>Restores 150 HP (Ed only).<white>|Food that soldiers carry on themselves.
-<yellow>攻撃力を１ポイント上昇させＨＰを５回復する（エド専用）<white>|ニャンコも悶える高級フード=<yellow>Increases Attack by 1 point and restores 5 HP (Ed only ).<white>|Premium food that makes cats go crazy.
-<yellow>防御力を１ポイント上昇させＨＰを５回復する（エド専用）<white>|巨大な煮干し、いいダシが取れそう=<yellow>Increases Defense by 1 point and restores 5 HP .<white>|Huge dried sardines, good for making soup.
-<yellow>錬成力を１ポイント上昇させＨＰを５回復する（エド専用）|<white>雪のように真っ白なミルクキャンディ=<yellow>Increases Alchemy by 1 point and restores 5 HP (Ed only).<white>|A snow-white milk candy.
-<yellow>ＨＰを１５０回復する（アル専用）<white>|鎧を拭くためのオイル、アルの必需品=<yellow>Restores 150 HP (Al only).<white>|Oil for cleaning armor; essential for Al.
+<yellow>ＨＰを２９回復する（エド専用）<white>|１００ｇ１０円の安肉=<yellow>Restores 29 HP. <orange>(Ed only)<white>|Cheap meat for 10 cens per 100 grams.
+<yellow>ＨＰを２９０回復する（エド専用）<white>|１００ｇ１０万円の最高級牛肉=<yellow>Restores 290 HP. <orange>(Ed only)<white>|Premium beef for 100,000 cens per 100 grams.
+<yellow>２９のダメージを受ける！（エド専用）<white>|危険な香りがする……！=<yellow>Causes 29 points of damage! <orange>(Ed only)<white>|It smells of danger!
+<yellow>体力を１ポイント上昇させＨＰを５回復する（エド専用）<white>|エド最大の敵、新鮮な牛乳！=<yellow>Increases VIT by 1 point and restores 5 HP. <orange>(Ed only)<white>|Ed's greatest enemy: fresh milk!
+<yellow>ＨＰを３０回復する（エド専用）<white>|一流の料理人ですら涙するタマネギ=<yellow>Restores 30 HP. <orange>(Ed only)<white>|Onions make even the best chefs cry.
+<yellow>ＨＰを５０回復する（エド専用）<white>|ジャガイモ、生で食べるのはチョット……=<yellow>Restores 50 HP. <orange>(Ed only)<white>|It's a little hard to eat them raw...
+<yellow>ＨＰを４０回復する（エド専用）<white>|変わった形のニンジン、体によさそう……=<yellow>Restores 40 HP. <orange>(Ed only)<white>|Unusually shaped carrots. They look good for you.
+<yellow>ＨＰを２０回復する（エド専用）<white>|とれたてホカホカのタマゴ、でもニワトリのタマゴ……？=<yellow>Restores 20 HP. <orange>(Ed only)<white>|A fresh, warm egg... But is it from a chicken?
+<yellow>ＨＰを６０回復する（エド専用）<white>|お菓子作りには欠かせない=<yellow>Restores 60 HP. <orange>(Ed only)<white>|Essential for confectionery making.
+<yellow>ＨＰを１５回復する（エド専用）<white>|甘くておいし～いイチゴ=<yellow>Restores 15 HP. <orange>(Ed only)<white>|Sweet and delicious strawberries.
+<yellow>ＨＰを１５０回復する（エド専用）<white>|軍人さんの携帯食料、種類も豊富=<yellow>Restores 150 HP. <orange>(Ed only)<white>|Food that soldiers carry on themselves.
+<yellow>攻撃力を１ポイント上昇させＨＰを５回復する（エド専用）<white>|ニャンコも悶える高級フード=<yellow>Increases ATK by 1 point and restores 5 HP. <orange>(Ed only)<white>|Premium food that makes cats go crazy.
+<yellow>防御力を１ポイント上昇させＨＰを５回復する（エド専用）<white>|巨大な煮干し、いいダシが取れそう=<yellow>Increases DEF by 1 point and restores 5 HP. <orange>(Ed only)<white>|Huge dried sardines, good for making soup.
+<yellow>錬成力を１ポイント上昇させＨＰを５回復する（エド専用）|<white>雪のように真っ白なミルクキャンディ=<yellow>Increases ALC by 1 point and restores 5 HP. <orange>(Ed only)<white>|A snow-white milk candy.
+<yellow>ＨＰを１５０回復する（アル専用）<white>|鎧を拭くためのオイル、アルの必需品=<yellow>Restores 150 HP. <orange>(Al only)<white>|Oil for cleaning armor, an essential item for Al.
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
@@ -528,10 +528,10 @@
 <yellow>攻撃力、防御力が１０％上昇する<white>|太陽をモチーフに作られた黄金のメダル=<yellow>ATK and DEF increase by 10%.<white>|A golden medal with a sun motif.
 <yellow>防御力、錬成力が１０％上昇する<white>|月をモチーフに作られた聖銀のメダル=<yellow>DEF and ALC increase by 10%.<white>|A silver medal with a moon motif.
 <yellow>攻撃力、錬成力が１０％上昇する<white>|星をモチーフに作られた白金のメダル=<yellow>ATK and ALC increase by 10%.<white>|A platinum medal with a star motif.
-<yellow>すべての能力値が３％上昇する<white>|秘められた力を引きだす、不思譲な石=<yellow>All stats increase by 3%.<white>|A miraculous stone that brings forth hidden power.
+<yellow>すべての能力値が３％上昇する<white>|秘められた力を引きだす、不思譲な石=<yellow>All stats increase by 3%.<white>|An incredible stone that brings forth hidden power.#thought miraculous might get it confused with the miracle stone
 <yellow>すべての能力値が１０％上昇する|また、敵がアイテムを落とす確率が、ちょっぴり上がる=<yellow>All stats increase by 10%.|The chance of enemies dropping items increases slightly.
-<yellow>すべての能力値が２０％上昇する<white>|不完全な賢者の石、液体にも固体にも変化する=<yellow>All stats increase by 20%.<white>|An imperfect Philosopher's Stone; its state is unstable. #"it can change into liquid or solid." was too long
-<yellow>すべての能力値が５０％上昇する<white>|不完全な賢者の石、ただし絶大な力を持っている=<yellow>All stats increase by 50%.<white>|An imperfect Philosopher's Stone, but it holds great power.
+<yellow>すべての能力値が２０％上昇する<white>|不完全な賢者の石、液体にも固体にも変化する=<yellow>All stats increase by 20%.<white>|A flawed Philosopher's Stone; shifts between liquid and solid.
+<yellow>すべての能力値が５０％上昇する<white>|不完全な賢者の石、ただし絶大な力を持っている=<yellow>All stats increase by 50%.<white>|A flawed Philosopher's Stone; still holds great power.
 <yellow>攻撃力が２０％上昇する|<yellow>また、炎・爆発属性の攻撃力が２０％上昇する=<yellow>ATK increases by 20%.|<yellow>Increases fire and explosion damage dealt by 20%.
 <yellow>防御力が２０％上昇する|<yellow>また、炎・爆発属性のダメージを２０％軽減する=<yellow>DEF increases by 20%.|<yellow>Reduces fire and explosion damage by 20%.
 <yellow>錬成力が２０％上昇する|<yellow>また、射撃属性の攻撃力が２０％上昇する=<yellow>ALC increases by 20%.|<yellow>Increases firearm damage dealt by 20%.
@@ -558,7 +558,7 @@
 <yellow>防御力が１上がる<white>|エドが普段から愛用しているパンツ=<yellow>DEF increases by 1.<white>|Ed's regular, favorite briefs.
 <yellow>ＳＰゲージの溜まる速度が３倍に増加する<white>|ソフィが繕ってくれた、純白に輝くふんどし=<yellow>The SP gauge fills three times as fast.<white>|The loincloth mended by Sophie. It shines pure white.
 <yellow>防御力が１０下がる<white>|穴の開いたふんどし、やっぱりアルでも恥ずかしい……=<yellow>DEF decreases by 10.<white>|A loincloth with holes. Even Al is embarrassed...
-<yellow>攻撃力が５０上がり、通常の走りができなくなる<white>|オシリにくいこむタイプのふんどし、上級者用=<yellow>ATK increases by 50.|Makes it impossible to run. <white>A tight-fitting loincloth.
+<yellow>攻撃力が５０上がり、通常の走りができなくなる<white>|オシリにくいこむタイプのふんどし、上級者用=<yellow>ATK increases by 50. Makes it impossible to run.|<white>A skin-tight loincloth. For advanced users.
 <yellow>ＨＰの最大値と攻撃力が２０上がり、錬成力が１０下がる<white>|ゴドー愛用のふんどし、とにかくデカイ=<yellow>Max HP and ATK increase by 20. ALC decreases by 10.<white>|Godot's favorite loincloth. It's simply huge.
 <yellow>通常取得経験値が１０％増加する<white>|たまの恩返し、荒川先生が微笑んでいる……=<yellow>EXP earned in battle increases by 10%.<white>|A gift from Tama; Arakawa-sensei is smiling.
 <yellow>通常取得経験値が１０％増加する<white>|えるうっどの恩返し、ニャンコの集団が微笑んでいる……=<yellow>EXP earned in battle increases by 10%.<white>|A gift from Elwood; a group of cats is smiling.
@@ -568,7 +568,7 @@
 <yellow>すべての能力値が１下がる、あるものと装備すると…？<white>|やる気のないももひき、伝説の修行具という噂も……=<yellow>All stats increase by 1 when equipped together with...!?<white>|Rumor has it that these are a legendary training tool...#"Rumor has it that these unmotivating pants are a legendary training tool..."
 <yellow>通常取得経験値が５％増加する<white>|鉄ゲタ、精神鍛錬にもなる…かもしれない=<yellow>EXP earned in battle increases by 5%.<white>|They may be a tool for mental discipline...
 <yellow>通常取得経験値が１０％増加する<white>|ウィンリィの作った、重量が２倍に強化された鉄ゲタ=<yellow>EXP earned in battle increases by 10%.<white>|Iron sandals, but twice as heavy. Reinforced by Winry.
-<yellow>コンボボーナス経験値が２倍に増加する（エドアル共に）<white>|ソフィが作った、腕の筋肉を鍛えるおもり=<yellow>EXP earned from combos are doubled. (Ed & Al)|<white>Weights made by Sophie, to train arm muscles.
+<yellow>コンボボーナス経験値が２倍に増加する（エドアル共に）<white>|ソフィが作った、腕の筋肉を鍛えるおもり=<yellow>EXP earned from combos are doubled. <orange>(Ed & Al)|<white>Weights made by Sophie, to train arm muscles.
 <yellow>カウンター成功時の取得経験値が５倍に増加する<white>|ソフィが作った、足の筋肉を鍛えるおもり=<yellow>EXP earned from successful counters is multiplied by 5.|<white>Weights made by Sophie to train leg muscles.
 <yellow>ＨＰの最大値が５％上昇する<white>|ハート形のぺンダント、女の子は喜ぶかも……=<yellow>Max HP increases by 5%.<white>|A heart-shaped pendant that girls may like.
 <yellow>ＨＰの最大値が１０％上昇する<white>|星形のぺンダント、淡い光で輝き続ける=<yellow>Max HP increases by 10%.<white>|A star-shaped pendant that glows in faint light.
@@ -599,9 +599,9 @@
 <yellow>槍属性の攻撃にふっとばし効果がつく（一部対象外あり）<white>|ソフィが作った、グリズリーの爪を素材とする腕輪=<yellow>Adds a knock-back effect to lance attacks.|<white>An armlet made by Sophie from a grizzly's claw.
 <yellow>打撃攻撃で与えたダメージの２０％分、ＨＰが回復する<white>|ソフィが作った、コウモリの牙を素材とする腕輪=<yellow>20% of punch damage dealt is recovered as HP.<white>|An armlet made by Sophie from a bat's fangs.
 <yellow>現在のＨＰが１００未満になると攻撃力が２倍に上昇する<white>|ソフィが作った、キメラの牙を素材とする腕輪=<yellow>When HP drops below 100, Attack doubles.<white>|An armlet made by Sophie from a chimera's fangs.
-<yellow>手持ちの錬成武器が、無限に使える<white>|使っても減らない砥石、主婦の間で評判=<yellow>Transmuted hand weapons can be used indefinitely.<white>|A whetstone that doesn't wear out with use.#"popular among housewives." too long
-<yellow>弾数に制限のある武器が、無限に使える<white>|使ってもなくならない弾丸、銃マニアの間で評判=<yellow>Weapons with limited ammunition can be used indefinitely.<white>|Bullets that don't disappear with use.#"popular with gun fanatics." too long
-<yellow>ＨＰが０になった時、自動的に復活する（発動後消滅）<white>|奇跡を呼ぶお守り、所持者の危機を救う=<yellow>Automatically revives its wearer when HP drops to 0. (Single use)|<white>A charm that works miracles.
+<yellow>手持ちの錬成武器が、無限に使える<white>|使っても減らない砥石、主婦の間で評判=<yellow>Transmuted hand weapons can be used indefinitely.<white>|A whetstone that never wears out. Popular with housewives.
+<yellow>弾数に制限のある武器が、無限に使える<white>|使ってもなくならない弾丸、銃マニアの間で評判=<yellow>Weapons with limited ammunition can be used indefinitely.<white>|Bullets that don't stop! Popular with gun fanatics.
+<yellow>ＨＰが０になった時、自動的に復活する（発動後消滅）<white>|奇跡を呼ぶお守り、所持者の危機を救う=<yellow>Automatically revives its wearer when HP drops to 0.|<white>A charm that works miracles. <orange>(Single use)
 <yellow>錬成力が５％上昇する<white>|国家錬金術師の証、内側にはエドの決意が刻まれている=<yellow>ALC increases by 5%.|<white>Proof of a State Alchemist. Ed's promise is engraved inside.
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、攻撃力が５上がる<white>|エドの全長を伸ばす必須アイテム=<yellow>The SP gauge fills twice as fast. ATK increases by 5.<white>|Essential for Ed to seem taller.
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、防御力が５上がる<white>|ソフィの手作り、エドとウィンリィにえらく不評=<yellow>The SP gauge fills twice as fast. DEF increases by 5.<white>|Sophie's handiwork, disliked by Ed and Winry.
@@ -792,7 +792,7 @@
 持っているアイテムを使用します=Use items
 持っているアクセサリを装備します=Equip accessories
 現在のステータス、修得している錬金術を確認します=Check current status and learned alchemy
-獲得したボーナスポイントを各パラメータに振り分けます=Distribute bonus points to character stats
+獲得したボーナスポイントを各パラメータに振り分けます=Distribute Bonus points to character stats
 操作方法を確認できます=Check the tutorial
 システムの設定を変更できます=Change system settings
 現在いるエリアのマップを表示します=View a map of the current area
@@ -803,7 +803,7 @@
 選択しているキャラクターの能力を表示しています=Select a character to view their skills
 キャラクターを選択してください=Please select a character
 強化したいキャラクター、能力を選んでください=Please select the character stat to strengthen
-ボーナスポイントを振り分けてください=Please distribute bonus points
+ボーナスポイントを振り分けてください=Please distribute Bonus points
 ゲーム中のメッセージ表示速度を変更します=Change in-game message speed
 ゲーム中のイベント時のボイスをＯＮ/ＯＦＦします=Toggle event voices ON and OFF 
 サウンド設定を変更します=Adjust sound settings
@@ -1928,7 +1928,7 @@
 |<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<cross>|  ＝<yellow>「石柱ジャンプ」<white>||足元に石柱を錬成して、|通常より高いジャンプができる|スキルです。=|<smalltext>(While controlling Al)|Press <cross> while holding <L2a><L2b>| ＝<yellow> Stone pillar jump<white>||This skill creates a stone pillar |under your feet that allows you |to jump higher than usual.
 |<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<triangle>|  ＝<yellow>「アル地雷」<white>を錬成||錬成した地雷を攻撃するか、|敵が近づいてくると爆発します。||攻撃するだけでなく、木箱など|<orange>物を壊す<white>のにも使えます。=|<smalltext>(While controlling Al)|Press <triangle> while holding <L2a><L2b>| ＝ <yellow>Create an Al land mine||<white>This land mine will explode if you |attack it, or if enemies approach it.||It's useful not just for attacking, |but also to <orange>destroy objects <white>like |wooden boxes.
 |<smalltext>（オブジェ錬成武器の近くで）|　<triangle>　＝　<yellow>武器を装備<white>|  ＝　<yellow>武器に乗る<white>||（武器を装備/乗っている時）|　<triangle>　＝　<yellow>装備解除/降りる<white>||装備して使うオブジェ錬成武器|には<orange>使用回数制限<white>があります。||弾を発射する武器にも<orange>弾数制限<white>|がありますが、再錬成すれば、|再び使用できます。|（<orange>リローダー<white>を消費します）=<smalltext>(Near a transmuted weapon)| <triangle> ＝ <yellow>Equip weapon<white>|      ＝ <yellow>Ride vehicle<white>||(While equipped/riding)| <triangle> ＝ <yellow>Unequip/Get off<white>||Weapons transmuted from objects |can only be used a <orange>limited number |of times.<white>||Weapons that use bullets also have |an <orange>ammo limit, <white>but can be used |again if re-transmuted.|(Consumes one <orange>Reloader<white>)
-|<smalltext>（その場に止まって）|　<R2a><R2b>＝　<yellow>ガード<white>||（移動しながら）|　<R2a><R2b>＝　<yellow>回避行動[エドのみ]<white>||（敵の攻撃にあわせて）|　<R2a><R2b>＝　<yellow>カウンター<white>||（吹き飛ばされた時）|　<cross>　＝　<yellow>受け身[エドのみ]<white>=||<smalltext>(While standing in place)| <R2a><R2b> ＝ <yellow>Block<white>||(While moving)| <R2a><R2b> ＝ <yellow>Dodge (Ed only)<white>||(While attacked by enemy)| <R2a><R2b> ＝ <yellow>Counter<white>||(When blown away)| <cross> ＝ <yellow>Breakfall (Ed only)<white>
+|<smalltext>（その場に止まって）|　<R2a><R2b>＝　<yellow>ガード<white>||（移動しながら）|　<R2a><R2b>＝　<yellow>回避行動[エドのみ]<white>||（敵の攻撃にあわせて）|　<R2a><R2b>＝　<yellow>カウンター<white>||（吹き飛ばされた時）|　<cross>　＝　<yellow>受け身[エドのみ]<white>=||<smalltext>(While standing in place)| <R2a><R2b> ＝ <yellow>Block<white>||(While moving)| <R2a><R2b> ＝ <yellow>Dodge <orange>(Ed only)<white>||(While attacked by enemy)| <R2a><R2b> ＝ <yellow>Counter<white>||(When blown away)| <cross> ＝ <yellow>Breakfall <orange>(Ed only)<white>
 |<smalltext>（敵の方を向いて）|　<L1a><L1b>押し続け　＝　<yellow>ロックオン<white>||（ロックオン中）|　Ｒ３ボタン|  ＝　<yellow>ターゲット切り替え<white>||ロックオン中、その敵が正面に|来るようにカメラが移動します。||Ｒ３ボタン（右スティック押し|こみ）でターゲットを切り替え|ることもできます。=|<smalltext>(Facing the enemy)|Hold <L1a><L1b> ＝ <yellow>Lock-on<white>||(While locked on)|R3 button ＝ <yellow>Switch target<white>||While locked on, the camera moves |so the enemy is in front of you.||You can also switch targets |with the R3 button |(pressing the right stick).
 |<smalltext>（コンボ中に）|ひとつ前の攻撃を出しきった|瞬間、次の攻撃のボタンを押す|  ＝　<yellow>ジャストアタック<white>||ジャストアタックが成立すると|手が斉く光り、通常より大きな|ダメージを敵に与えます。=||<smalltext>(During a combo)|Precisely after finishing an attack, |press the button for the next |attack| ＝ <yellow>Accu-Strike<white>||If an accu-strike is successful,| your hand will glow and you will| deal greater damage than usual.
 |<smalltext>（ＳＰゲージＭＡＸ時に）|　<circle>＋<triangle>同時押し|  ＝　<yellow>スぺシャルアタック<white>||エドとアル、それぞれ別の|スぺシャルアタックが使えます。||<orange>ＳＰゲージ<white>は、敵にダメージを|与えたり、敵からダメージを|受けた時に上昇します。=||<smalltext>(When the SP gauge is full)|Press <circle>＋<triangle> simultaneously| ＝ <yellow>Special Attack<white>||Ed and Al can each use different |Special Attacks.||<orange>The SP gauge<white> fills when you |deal damage to enemies, |or receive damage from them.
@@ -2090,12 +2090,12 @@
 <8006><white><square>　＝　<yellow>打撃攻撃=<8006><white><square>: <yellow>Punch attack
  <square>→<square>→<square>のようにボタンを押すと、| コンボ（連続攻撃）を出せます。=Press <square>→<square>→<square> to perform a combo (continuous attack).
 <bigtext><blackbold> レベルアップ=<bigtext><blackbold> Level Up
-<8006><orange>ボーナスポイント<white>が手に入ります。|ポイントを割り振って、エドとアルの|好きな能力を強化してください。=<8006>You got <orange>bonus points. <white>Distribute the points to improve Ed and Al's desired stats.
+<8006><orange>ボーナスポイント<white>が手に入ります。|ポイントを割り振って、エドとアルの|好きな能力を強化してください。=<8006>You got <orange>Bonus points. <white>Distribute the points to improve Ed and Al's desired stats.
 <smalltext><yellow>攻撃力　—　<white>素手/スキル錬成武器の攻撃値=<smalltext><yellow>Attack —　<white>Determines the strength of unarmed|attacks and Skill transmutations
 <smalltext><yellow>防御力　—　<white>ダメージを減少させる値=<smalltext><yellow>|Defense —　<white>Reduces the damage received
 <smalltext><yellow>体 力　—　<white>最大ＨＰと連動する値=<smalltext><yellow>|Vitality —　<white>Determines the maximum amount of HP
 <smalltext><yellow>錬成力　—　<white>オブジェ錬成武器の攻撃値|     突起錬成の攻撃値=<smalltext><yellow>|Alchemy —　<white>Determines the attack strength of|transmuted weapons and Stonespikes
-<smalltext>ボーナスポイント使用：キャンプ画面=<smalltext>Use bonus points: Main Menu
+<smalltext>ボーナスポイント使用：キャンプ画面=<smalltext>Use Bonus points: Main Menu
 <smalltext><circle>＝突起錬成=<smalltext><circle>: Stonespikes transmutation
 <smalltext><triangle>＝上昇攻撃（強攻撃）=<smalltext><triangle>: Upwards attack (heavy attack)
 <smalltext>走りながら<triangle>＝突進攻撃（強攻撃）=<smalltext>While running, press <triangle>: Rush attack (heavy attack)
@@ -2207,11 +2207,11 @@
 !FILE:0040_003/004.txt
 <bigtext><blackbold> 防御とカウンター=<bigtext><blackbold> Defense and Counters
 <8006><white><R2a><R2b>　＝　<yellow>ガード=<8006><white><R2a><R2b>: <yellow>Block
-<8006><white>（移動しながら）|<8006><R2a><R2b>　＝　<yellow>回避行動[エドのみ]=<8006><white>(While moving)|<8006><R2a><R2b>: <yellow>Dodge (Ed only)
+<8006><white>（移動しながら）|<8006><R2a><R2b>　＝　<yellow>回避行動[エドのみ]=<8006><white>(While moving)|<8006><R2a><R2b>: <yellow>Dodge <orange>(Ed only)
 <8006><white>（敵の攻撃に合わせて）|<8006><R2a><R2b>　＝　<yellow>カウンター=<8006><white>(When attacked by an enemy)|<8006><R2a><R2b>: <yellow>Counter
 敵の攻撃に合わせ、タイミングよく<R2a><R2b>で|強力な<orange>カウンター攻撃<white>を出せます。=Press <R2a><R2b> when an enemy attacks to unleash|a powerful <orange>counterattack.
 <bigtext><blackbold> 受け身=<bigtext><blackbold> Breakfall
-<8006><white>（吹き飛ばされた時）|<8006><cross>　＝　<yellow>受け身[エドのみ]=<8006><white>(When blown away)|<8006><cross>: <yellow>Breakfall (Ed only)
+<8006><white>（吹き飛ばされた時）|<8006><cross>　＝　<yellow>受け身[エドのみ]=<8006><white>(When blown away)|<8006><cross>: <yellow>Breakfall <orange>(Ed only)
 エドは、敵の攻撃で吹き飛ばされた時、|すばやく<cross>で<orange>受け身<white>を取れます。=When Ed is knocked into the air by an enemy attack, he can perform a <orange>breakfall <white>by quickly pressing <cross>.
 <smalltext><white>敵の攻撃に合わせて<R2a><R2b>＝カウンター=<smalltext><white>Press <R2a><R2b> when an enemy attacks: Counter
 <smalltext><white>（吹き飛ばされた時）<cross>＝受け身[エド操作時]=<smalltext><white>Press <cross> when blown away: Breakfall (while controlling Ed)
@@ -2353,12 +2353,12 @@
 !FILE:0055_002/004.txt
 <blackbold>アクセサリ<normal>【ドッグタグ】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Dog Tag"
 <alphonse>兄さん、兵隊さんたちが……！=<alphonse>Edward, look, those are military men!
-<edward>ああ。どうやら、このあたりに|ヤバいヤツがいるみてーだな。|——気をつけろよ、アル。=<edward>Yeah. There must be someone dangerous in the area. Watch out, Al.
-<guard>すさまじい冷気で……、|あっという間に部隊が……！=<guard>That terrible cold snap...|In the blink of an eye, our unit was...!
-<guard>うう……気をつけろ……。|この先に……、|変なオカマがいる……。=<guard>Ugh... You two, be on guard.|That freak has some strange powers and...he's just up ahead...
+<edward>ああ。どうやら、このあたりに|ヤバいヤツがいるみてーだな。|——気をつけろよ、アル。=<edward>Yeah. Someone dangerous is nearby. Watch out, Al.
+<guard>すさまじい冷気で……、|あっという間に部隊が……！=<guard>That terrible cold snap...|In the blink of an eye, our unit was...
+<guard>うう……気をつけろ……。|この先に……、|変なオカマがいる……。=<guard>Ugh...you two...be on guard.|That freak has some strange powers and...they're just up ahead...
 <guard>…………………。|（返事がない、気を失っているようだ）=<guard>.........................|(No reaction. He only seems to be unconscious, though.)
-<guard>くっ……なんて奴だ……、|銃が効かないなんて……。|……中尉……危険です……。=<guard>Gahh... That monster...|Our guns were totally useless...|The lieutenant...she's in danger...
-<guard>中尉が危ない……、|この先に１人で……。|君たち、中尉を頼む……！=<guard>The lieutenant's in danger...|She's all alone over there...|You guys have gotta help her!
+<guard>くっ……なんて奴だ……、|銃が効かないなんて……。|……中尉……危険です……。=<guard>Gahh...that monster...|Our guns were totally useless...|The lieutenant...she's in danger...
+<guard>中尉が危ない……、|この先に１人で……。|君たち、中尉を頼む……！=<guard>The lieutenant's in trouble...|She's all alone over there...|You guys have gotta help her!
 
 !FILE:0056_002/004.txt
 <bigtext><blackbold> スキル錬成「槍」=<bigtext><blackbold> “Lance" Transmutation
@@ -2446,12 +2446,12 @@
 <edward>さ、早く教会に戻ろうぜ。|ソフィとウィンリィも心配だしな。=<edward>Well, let's head back to the church for now. Sophie and Winry must be worried.
 <edward>——って、何やってんだ、アル？=<edward>Huh? What are you doing, Al?
 <alphonse>………………。=<alphonse>.............................
-<edward>……お前がそうやってる時って、|たいがい、ネコか何かを|見つけた時なんだよな……。=<edward>When you act like this, it's usually because you've found a cat or something...
+<edward>……お前がそうやってる時って、|たいがい、ネコか何かを|見つけた時なんだよな……。=<edward>You're acting like you do when you see a kitten, you find a stray or something?
 <cat>ニャ～ン……。=<cat>Meooow!
-<edward>はぁ……。ダメだぞ、アル。|分かってるだろ。|今はそれどころじゃないんだからな。=<edward>Gah... Stop it, Al. You already know that we don't have time for that.
-<alphonse>でも兄さん……。|この子、ケガしてるよ……。=<alphonse>But Edward...|This little one is injured...
+<edward>はぁ……。ダメだぞ、アル。|分かってるだろ。|今はそれどころじゃないんだからな。=<edward>Gah... Stop it, Al. You already know we don't have time for that.
+<alphonse>でも兄さん……。|この子、ケガしてるよ……。=<alphonse>But Edward...|This kitten is injured...
 <edward>えっ……ケガ？=<edward>Huh... Injured?
-<alphonse>かわいそうに……。|１人じゃ歩けないんだね……。|このままじゃ、きっと死んじゃうね……。=<alphonse>Poor thing... It can't walk alone...|Left like this, it's going to die.#Keeping "it" here because it doesn't seem out of place to me
+<alphonse>かわいそうに……。|１人じゃ歩けないんだね……。|このままじゃ、きっと死んじゃうね……。=<alphonse>Poor thing...it can't walk alone...|Left like this, it's going to die.#Keeping "it" here because it doesn't seem out of place to me
 <edward>う……。=<edward>Ugh...
 
 !FILE:0061_003/004.txt
@@ -2485,11 +2485,11 @@
 <man>もしもの時は、|この命に代えても、|彼らを守らなければ……。=<man>If something were to happen, I must protect them, even at the cost of my own life.
 <boy>戦争するのは大人の勝手さ。|けど、奴らが攻めて来たのは、|俺たちの街なんだ。=<boy>Going to war is for adults. But it's our city that they're attacking.
 <boy>……この街を守るためなら、|俺だって戦うよ。=<boy>If it's to protect this city, then I'll fight too!
-<girl>——あっ！|変なヨロイの人だ！！=<girl>Ah! It's the weird armor guy!
+<girl>——あっ！|変なヨロイの人だ！！=<girl>Ah! It's the creepy armor guy!
 <mother>まぁ、あなた方は……。|いつぞやは、娘を助けてもらい、|ありがとうございます。=<mother>Oh, it's you two...|Thank you very much for saving my daughter before.
-<girl>私たち、ここに隠れてるの。|お兄ちゃんたちも、|かくれんぼしに来たんでしょ？=<girl>We're hiding here. Did you come to play hide-and-seek too?
+<girl>私たち、ここに隠れてるの。|お兄ちゃんたちも、|かくれんぼしに来たんでしょ？=<girl>We're hiding here. Did you come to play hide-and-seek, too?
 <girl>ねぇ、お母さん。|私かくれんぼ飽きちゃった、|早くお外に出たいよー。=<girl>Hey, mom.|I'm tired of playing hide-and-seek,|I want to go outside soon!
-<mother>もうちょっと、ガマンしましょうね……。|鬼さんに見つからないように……、|ここならきっと、大丈夫だからね……。=<mother>Let's have a little more patience...|That way the monsters won't find us;|I'm sure we'll be alright here.
+<mother>もうちょっと、ガマンしましょうね……。|鬼さんに見つからないように……、|ここならきっと、大丈夫だからね……。=<mother>Let's have a little more patience...|That way the monsters won't find us.|I'm sure we'll be alright here.
 
 !FILE:0071_003/004.txt
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
@@ -3215,7 +3215,7 @@
 <edward>そっか……へへ……|そりゃ良かった……。=<edward>I see... Heh heh! That's good...
 <hammer>ぐへへ、やっと笑ったな。=<hammer>Heh heh! You finally smiled.
 <edward>……なぁ、おっちゃん。|オレの弟、アルはどうしてる？|この司令部の、どこかにいるのか？=<edward>Tell me, old man, how's my little brother doing?|Is he somewhere in these headquarters?
-<hammer>ああ、あのヨロイッ子なら、|トリガーが研究室に運んでったぞォ。|中身カラッポで、変わった弟だなァ。=<hammer>Ah, yes, Trigger brought the armor kid to his laboratory. His body was empty; what a strange little brother you have!
+<hammer>ああ、あのヨロイッ子なら、|トリガーが研究室に運んでったぞォ。|中身カラッポで、変わった弟だなァ。=<hammer>Ah, yes, Trigger brought the armor kid to his laboratory. His body was empty. What a strange little brother you have!
 <edward>研究室……？=<edward>His laboratory?
 <hammer>それより、ボーズ。|オメェ、パンツ一丁で寒くねーだか？=<hammer>By the way, boy, aren't you cold in just your underwear?
 <edward>さみぃーよ！！|そう思ってんなら、|服だけでも返してくれよ。=<edward>I'm freezing! If you knew that, you could at least give me back my clothes!
@@ -4117,7 +4117,7 @@
 <winry>そ、そんなことないわよ！|——それより、アルはどうしたの？|さっきからずっと黙りこんでるけど……。=<winry>Th-that's not true!|Changing the subject... What's wrong, Al? You've been quiet for a while now...
 <cat>ニャ～ン……。=<cat>Meeow!
 <sophie>えっ……！？=<sophie>Huh...!?
-<alphonse>ウィンリィッ……！|この子、ケガしてるんだ！|早く……早く診てあげて！！=<alphonse>Winry! This little one is injured! Quickly...you gotta heal it, quickly!!
+<alphonse>ウィンリィッ……！|この子、ケガしてるんだ！|早く……早く診てあげて！！=<alphonse>Winry! This kitten is injured! Quickly...you gotta heal it, quickly!!
 <sophie>——ケ、ケガ！？=<sophie>In-injured!?
 <winry>ちょ、ちょっと待ってよ。|診てあげてって、|私は獣医じゃないのよ！？=<winry>Wa-wait a minute...|What's this about healing it!?|I'm not a vet, y'know!
 <alphonse>だけど、医学の知識はあるでしょ！|人間もネコも似たようなものだよ！|早くケガを治してあげて！！=<alphonse>But you have some medical knowledge!|Humans and cats are similar!|Please hurry up and heal it!!
@@ -4134,7 +4134,7 @@
 <sophie>うん……。ちょっと力を|使いすぎただけだから……。|本当に……心配しないで……。=<sophie>Yes... I simply used a bit too much power...|Really... There's no need to worry.
 <edward>そっか……。|まぁ、大丈夫なら|いいんだけどよ……。=<edward>Okay...|Well, as long as you're fine...
 <cat>ニャ～ン、ニャ～ン、ニャ～ン……。=<cat>Meeow, meeow, meeow!
-<sophie>……ねぇ、アル。|この子、私が|引き取ってもいいかな……？=<sophie>Hey, Al... Could I keep this little one?
+<sophie>……ねぇ、アル。|この子、私が|引き取ってもいいかな……？=<sophie>Hey, Al...could I keep this little one?
 <alphonse>え？ ソフィが？=<alphonse>Huh? You want to, Sophie?
 <sophie>私……この子と、|ずっと一緒にいたいの。|だから……だめ？=<sophie>I'd like...to be with this kitten forever.|So...is it alright with you?
 <edward>そりゃ、いい考えだな。|どうせオレたちじゃ飼えないんだし、|ソフィが面倒みてくれるなら安心だ。=<edward>That's a good idea. We can't take care of it, so it'd be a relief if you would, Sophie.
@@ -4145,15 +4145,15 @@
 <alphonse>——ん？=<alphonse>Huh?
 <sophie>キャーッ！ カワイイ！|ネコちゃん、カッワイイィィッ！！=<sophie>Yaaayyy! It's soooo cute!|Such a cute kitty!!
 <winry>ソ、ソフィ……。=<winry>So-Sophie...
-<alphonse>あ……ね、ねぇ、ソフィ。|この子に、名前をつけてあげようよ。=<alphonse>Ah... He-hey, Sophie, you gotta give it a name.
+<alphonse>あ……ね、ねぇ、ソフィ。|この子に、名前をつけてあげようよ。=<alphonse>Ah... H-hey, Sophie, you gotta give it a name.
 <sophie>——うん。|名前ならもう考えてあるの。|この子の名前は——『ノルン』よ。=<sophie>Yes. I've already thought of the name. This little one will be called... “Norn".
 <alphonse>ノルン、かぁ……。|いい名前だね！=<alphonse>Norn?|That's a great name!
 <sophie>北方の国の言葉で、|『運命』って意味なんだけどね……。=<sophie>It means “fate" in the language of the northern country.
 <sophie>今日からあなたはノルンよ。|よろしくね、ノルン。=<sophie>From today you'll be Norn.|Nice to meet you, Norn.
 <norn>ニャ～ン……。=<norn>Meeoow!
 <winry>だけど、ビックリよねぇ。|一瞬でケガを治しちゃうなんて。|それもその、聖印の力なんでしょ？=<winry>But it's surprising that you can heal injuries in an instant. That must be the power of the Holy Seal, right?
-<edward>——なぁ、ソフィ。|聖印のこと、|もう少し、詳しく教えてくれないか。=<edward>Hey, Sophie. Could you tell us more about the Holy Seal?
-<sophie>え、ええ……いいわ。=<sophie>Oh, yeah... Sure thing.
+<edward>——なぁ、ソフィ。|聖印のこと、|もう少し、詳しく教えてくれないか。=<edward>Oh yeah, Sophie, could you tell us more about the Holy Seal?
+<sophie>え、ええ……いいわ。=<sophie>Ah, uhh...that's fine.
 <sophie>この聖印は、|父が私に与えてくれた物なの。|ヴェルザの一族と戦うために。=<sophie>It was my father who gave me this seal.|To fight against the Velza Clan.
 <alphonse>ソフィのお父さんが？=<alphonse>Your father?
 <sophie>……うん。|実はね、私の父も、|ヴェルザの一族の人間だったの……。=<sophie>Yes. To be honest, my father had a dark past.
@@ -4256,15 +4256,15 @@
 <edward>く～～～～っ！=<edward>Hmph!
 <roy>「神の力」を手に入れる……。|クレイギン将軍の狙いが、|そんなところにあったとは……。=<roy>Achieving the power of the goddess... I never thought that General Craigin would be after something like that...
 <edward>ああ。将軍も、|ヴェルザの一族のヤツらと、|同じものを求めているわけだ。=<edward>Yeah. The General and the Velza Clan are after the same thing.
-<edward>——大佐はどうすんだ？|……大佐も、「神の力」を手に入れれば、|出世できるかもしれないぜ。=<edward>What about you, Colonel? With that kind of power, you'd be guaranteed a promotion.
+<edward>——大佐はどうすんだ？|……大佐も、「神の力」を手に入れれば、|出世できるかもしれないぜ。=<edward>What about you, Colonel? With that kind of power, you'd have no problem rising through the ranks.
 <alphonse>兄さん……！=<alphonse>Brother!
 <roy>ふむ。たしかにそうだな。|私も、その力に興味はある。=<roy>Hmm... Actually, that's a good point. I am also interested in that kind of power.
 <alphonse>えっ、大佐！？=<alphonse>Huh? Colonel!?
-<roy>だが、私の好みではないな。=<roy>However, this is just not my cup of tea.
-<roy>今回の件で、|多くの者が傷つき、|命を落としている。=<roy>Too many people have been injured or killed over this.
+<roy>だが、私の好みではないな。=<roy>However, this just isn't my style.
+<roy>今回の件で、|多くの者が傷つき、|命を落としている。=<roy>Too many people are suffering because of that power.
 <roy>我ら軍人も、|敵であるヴェルザの一族も、|そしてヴァルドラの市民たちも……。=<roy>Our own troops, the members of the Velza Clan, and also the citizens of Valdolla...
-<roy>その力とやらが、そこまでして|得る価値があるものだとは、|私には思えん。=<roy>That's too high a price to pay, in order to obtain that power.
-<edward>そうか……。=<edward>I see...
+<roy>その力とやらが、そこまでして|得る価値があるものだとは、|私には思えん。=<roy>I'm not going to kick people down for my own gain.
+<edward>そうか……。=<edward>Well said...
 <sophie>ヴェルザの力は、ただすべてを殺し、|破壊するだけ……。|人が操れるようなものじゃないわ。=<sophie>The power of Velza will just kill and destroy everything... It's not something that people can control.
 <sophie>もう、いつ復活しても|おかしくない。|早く行って封印しないと……！=<sophie>And she could return any moment now, if we don't seal her away quickly!
 <alphonse>うん、そうだね。|兄さん。もう一度、城に行こう！=<alphonse>Yeah, she's right.|Brother, let's go to the castle again!
@@ -4492,7 +4492,7 @@
 <sophie>「ビューティードリンク」……？=<sophie>“Beauty Drink"?
 <sophie>この栄養ドリンク、|健康よりも、美容に|効果があるようね……。=<sophie>This energy drink seems more effective for beauty than health.
 <winry>——ちょおっと、待ったあ！！|美容ですってぇ～～ッ！？=<winry>Waaait a minute!! Did you say “beauty"!?
-<winry>さいきんー、|お肌が荒れ気味でぇー、|悩んでたとこなのぉ～～～！！=<winry>My skin feels chapped as of late;|I'm worried about it!
+<winry>さいきんー、|お肌が荒れ気味でぇー、|悩んでたとこなのぉ～～～！！=<winry>My skin feels chapped as of late.|I'm worried about it!
 <winry>ご苦労だったわね、エド。|ソフィと一緒に、|大切に使うわぁ～～ん☆=<winry>You took much trouble to get this, Ed. Sophie and I will use it with great care. ☆
 <edward>——待て。|いつ、誰がお前にやると言った……。=<edward>Wait... Who said I was giving it to you?
 <sophie>「猛牛ドリンク」……。=<sophie>“Raging Bull"...
@@ -4710,7 +4710,7 @@
 <sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>For me, she's like the Virgin Mary, so I'll go with her second name: Maria.|Yes, I choose to do so now.
 <sophie>マリア、嗚呼、我が愛しのマリア！|この想い、どうしたら気づいてくれるのか|そうだ、彼女に詩を贈ろう=<sophie>Oh, Maria, my beloved Maria!|How could I convey my feelings to you?|I know! I'll write her a poem.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
-<sophie>ついに詩ができた|マリアは心を打たれ|私を愛してやまずにいられない=<sophie>The poem is finished at last. Maria's heart will be touched; she won't be able to help but love me.
+<sophie>ついに詩ができた|マリアは心を打たれ|私を愛してやまずにいられない=<sophie>The poem is finished at last. Maria's heart will be touched—she won't be able to help but love me.
 <sophie><yellow>ラヴ ラヴ ラヴ ラヴ マリア様|ボクの心をワシ掴み|いつもあなたはボンキュッボン！=<sophie><yellow>Love you-love you-love you Lady Maria!|You have my heart in a tight hold.|The ever sensual you!
 <sophie><yellow>ズバンとハートにロックオン|トリガーのラヴが火を吹くぜ|ファイアー ラヴリー ボンキュッボン！=<sophie><yellow>You locked on to my heart with a bang. You blow fire into my love.|Fiery, lovely, voluptuous goddess!
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
@@ -4965,7 +4965,7 @@
 <sophie>大切な人、かぁ……。|前は、お父さんだけだったけど、|今は……——。=<sophie>An important person...|In the past it would have been just my father. But now...
 <sophie>——あっ、そうそう。|私も、２人にプレゼントがあるの。=<sophie>Ah, that's right.|I have a present for you two.
 <sophie>はい、リストウエイトよ♪|腕にするだけで、筋肉がつくんだって。|きっと、２人の役に立つはずよ。=<sophie>Here, wrist weights! ♪ Just wearing them on your arms will build your muscles. I'm sure they'll be useful for you two.
-<sophie>星形のぺンダント……？|不思譲ね、本物の星みたいに、|ほのかに光ってる……。=<sophie>A star-shaped pendant?|It's mysterious; it shines faintly like a|real star.
+<sophie>星形のぺンダント……？|不思譲ね、本物の星みたいに、|ほのかに光ってる……。=<sophie>A star-shaped pendant?|It's mysterious—it shines faintly like a|real star.
 <sophie>……どう？|似合ってるかな……？=<sophie>What do you think?|Does it look good on me?
 <sophie>……えへ、ありがとう。|すごく、すごく嬉しいよ……！=<sophie>Heh heh! Thank you. I'm so, soooo happy!
 <sophie>——指を出して。|はい、これは、私からのプレゼント。|ふつうの指輪に、聖印の力を与えたの。=<sophie>Hold out your finger.|Here, this is a present from me. I put the power of the Holy Seal into a normal ring.
@@ -4989,7 +4989,7 @@
 <sophie>——そうだ、いつも|もらってばかりじゃ悪いと思って、|私も２人に、プレゼントを用意したの。=<sophie>Well, I feel bad always being the one who receives presents. So here's a little something for you two.
 <sophie>はい、象さんの耳をモチーフにした、|プリティなかぶりものよ！=<sophie>This is a pretty piece of headgear with an elephant ears design!
 <sophie>ごめんね、エド。|これは、アルのために作ったの。|大切に使ってね、アル。=<sophie>I'm sorry, Ed. I made this for Al.|Take good care of it.
-<sophie>虹色のリボン……。|キレイな色ね、オーロラみたいに、|何色にも輝いて……！=<sophie>A rainbow-colored ribbon!|So many beautiful colors; they shine like an aurora!
+<sophie>虹色のリボン……。|キレイな色ね、オーロラみたいに、|何色にも輝いて……！=<sophie>A rainbow-colored ribbon!|So many beautiful colors—they shine like an aurora!
 <sophie>……一瞬、ノルンに|似合うかも、って考えちゃった……。=<sophie>For a moment, I thought it would look nice on Norn...
 <sophie>——ううん、ダメ！|これは私が、大切に使うもの！=<sophie>No, that's not right! This is something I should treasure myself!
 <sophie>——そうだ、いつも|もらってばかりじゃ悪いと思って、|私も２人に、プレゼントを用意したの。=<sophie>Well, I feel bad always being the one who receives presents. So here's a little something for you two.
@@ -5193,7 +5193,7 @@
 <sophie>靴下……？|これ、靴下の匂いなの……！？|そんなッ！ ありえない——！！=<sophie>Socks? Is this the smell of socks?|No, that's impossible!
 <sophie>——分かったわ……。|洗う……洗ってみせる……！|これは私への挑戦ねッ！！=<sophie>Alright... I'll wash them.|This is gonna be a challenge for me!
 <sophie>……辛い戦いだったわ。|水が見る見る間に|黒く濁っていくんですもの……。=<sophie>It was a tough battle.|And the water turned black and murky in the blink of an eye.
-<sophie>でも、ほら……、頑張ったから、|こんなに白くキレイになったよ……！|新品同然、頑張った甲斐があるね♪=<sophie>But look at them. I did my best, and now they're white and clean. Just as good as new; it was worth the effort. ♪
+<sophie>でも、ほら……、頑張ったから、|こんなに白くキレイになったよ……！|新品同然、頑張った甲斐があるね♪=<sophie>But look at them. I did my best, and now they're white and clean. Just as good as new. It was worth the effort. ♪
 <sophie>——それは災難だったわね。|アルはメカじゃないのに、|最強のマッスィ～ンだなんて……。=<sophie>That was so awful. Al isn't a robot, and yet they tried to turn him into the strongest machine...
 <alphonse>ほんと、失礼な話だよ。|兄さんが助けに来なかったら、ボク、|今頃、巨大アルフォンスロボかもよ……？=<alphonse>Really, it was so rude... If my brother hadn't come to rescue me, I'd be a giant Alphonse robot right now.
 <sophie>まあ、アルったら……。|——で、このメカニカルなメガネが、|そのトリガーって人の物なのね。=<sophie>Oh, Al...|Then, these mechanical glasses belonged to that Trigger guy, right?
@@ -5352,7 +5352,7 @@
 <sophie>そう、小動物……。=<sophie>Right, small animals...
 <alphonse>………<bigtext>小動物？=<alphonse>..................<bigtext>SMALL ANIMALS?
 <alphonse><bigtext>——ッ、兄さん！！=<alphonse><bigtext>EDWARD!!
-<edward><bigtext>ギャ————ッ！！=<edward><bigtext>AAAARGH!!
+<edward><bigtext>ギャ————ッ！！=<edward><bigtext>@$^&!!
 <alphonse>……あ、やっぱり。=<alphonse>...I knew it...
 
 !FILE:0222_002/004.txt
