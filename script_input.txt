@@ -84,7 +84,7 @@
 コンプ証明書・金=Gold Certificate
 コンプ証明書・銀=Silver Certificate
 黄金の牛像=Golden Cow
-悲しみのキズ=Wounds of Sadness
+悲しみのキズ=Scars of Sadness
 ※アイテム予備用２３=Item Slot 23
 ※アイテム予備用２４=Item Slot 24
 ※アイテム予備用２５=Item Slot 25
@@ -292,7 +292,7 @@
 銀時計=Silver Watch
 厚底ブーツ=Thick-Soled Boots
 象耳のかぶりもの=Elephant Ears
-兄弟の絆=Brother's Bond
+兄弟の絆=Bond of Brothers
 キャットベル=Cat Bell
 猛女のスパナ=Amazon Wrench
 ※アクセサリ予備用６６=Accessory Slot 66
@@ -462,7 +462,7 @@
 すべての画像マテリアルをコンプリート！<white>|汝こそ、真の「鋼の錬金術師」マニアなり！！=All bonus art obtained!|<white>You're a true “Fullmetal Alchemist" fan!!
 すべてのアニメムービーをコンプリート！<white>|「ありえない」なんてことは、ありえない=All anime movies obtained!|<white>There's no such thing as “impossible".
 鋼の錬金術師３を極めし者よ……|黄金の荒川牛をプレゼント！！=You've mastered Fullmetal Alchemist 3...|Take this Arakawa golden cow as a gift!!
-北出菜奈ちゃんの「悲しみのキズ」|絶賛発売中！ よろしくね！=Nana Kitade's “Wounds of Sadness".|Another hit single, now on sale!
+北出菜奈ちゃんの「悲しみのキズ」|絶賛発売中！ よろしくね！=Nana Kitade's “Scars of Sadness".|Another hit single, now on sale!
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
@@ -1513,7 +1513,7 @@
 山内　真治=Masaharu Yamanouchi
 ———————————————————=———————————————————
 <yellow><yellow>テーマソング=<yellow><yellow>Theme Song
-『悲しみのキズ』=“Wounds of Sadness"
+『悲しみのキズ』=“Scars of Sadness"
 <smalltext><smalltext>（ＳＭＥ Ｒｅｃｏｒｄｓ Ｉｎｃ.）<8006>=<smalltext><smalltext>(SME Records Inc.)<8006>
  歌 　：北出菜奈=Singer: Nana Kitade
  作詞　：北出菜奈=Lyrics: Nana Kitade
@@ -1612,7 +1612,7 @@
 
 !FILE:1211_003.txt
 オープニング=Opening
-映像特典その１|北出菜奈「悲しみのキズ」|スぺシャルＰＶ=Bonus video 1|Nana Kitade:|“Wounds of Sadness"|Special promo video
+映像特典その１|北出菜奈「悲しみのキズ」|スぺシャルＰＶ=Bonus video 1|Nana Kitade:|“Scars of Sadness"|Special promo video
 映像特典その２|コミカル３０秒ＣＭ『裏鋼』=Bonus video 2|30 second mock commercial:|“Reverse Fullmetal"
 ヴァルドラ陥落=The Fall of Valdolla
 聖印の少女=Girl with the Holy Seal
@@ -2661,7 +2661,7 @@
 !FILE:0101_003/004.txt
 <smalltext><blackbold>アイテム<normal>【秘密指令書】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Secret Orders"
 <blackbold>にゃんこ<normal>【ばーにー】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Bunny"
-<smalltext><blackbold>アイテム<normal>【悲しみのキズ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Wounds of Sadness"
+<smalltext><blackbold>アイテム<normal>【悲しみのキズ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Scars of Sadness"
 <alphonse>この部屋……。|なんか、ここが司令室っぽいね。=<alphonse>This room is...|It seems to be the command room.
 <edward>司令室の隣に、ドアのロックを解除する|スイッチがあるって言ってたよな。|行ってみようぜ。=<edward>That guy said the switch to unlock the door was next to the command room.|Let's check it out.
 <alphonse>これが、ロックを解除する|装置みたいだね。=<alphonse>This looks like the unlock device.
@@ -2842,15 +2842,15 @@
 <edward>アル、気をつけろよ……。|コイツ、今までの相手とは、|レベルが違う……。=<edward>Watch out, Al... I think he's in a different league from those other guys.
 <alphonse>うん、分かってる……。=<alphonse>Yeah, I think so too...
 <zelgius>俺は、四神官の長、煉獄のゼルギウス。|すべてを焼きつくす我が炎、|その身をもって味わうがいい！！=<zelgius>I am Zelgius of Hell, the leader of the Four Priests. You can have a taste of the flames that consume all, with your whole bodies!
-<zelgius>クックック……なるほど。|なかなかやるな。|それが聖印の力というわけか。=<zelgius>Mwa ha ha... I see now. That wasn't half bad.|So that's the power of the Holy Seal...
+<zelgius>クックック……なるほど。|なかなかやるな。|それが聖印の力というわけか。=<zelgius>Ho ho ho... I see now. That wasn't half bad.|So that's the power of the Holy Seal...
 <edward>くそッ……。|コイツ、まだ余裕を|持ってやがる……。=<edward>Damn! This guy isn't even taking this seriously...
 <zelgius>フッ……お前たち、|オベリスクを封印するために|ここまで来たのだろう？=<zelgius>Hmph! You came all the way here to seal the obelisk, right?
-<zelgius>だが……。|クックック……、|一歩遅かったな。=<zelgius>However...|Mwa ha ha...|No point in doing that now.
+<zelgius>だが……。|クックック……、|一歩遅かったな。=<zelgius>However...|Ho ho ho...|No point in doing that now.
 <edward>——なんだと！？=<edward>What!?
 <zelgius>必要な魂は、すでに集まった。|いまさら、オベリスクを封印したとて、|もう手遅れだ……。=<zelgius>All the necessary souls have already been collected. Even if you sealed the obelisk, it would be much too late.
 <zelgius>我らが神、|ヴェルザ復活の時が来たのだ……！=<zelgius>The time has come for the resurrection of our goddess, Velza!
 <alphonse>そ、そんな……！？=<alphonse>That... That can't be!
-<zelgius>クックック……。|なかなか楽しかったぞ。|だが、そろそろ行かねばならん。=<zelgius>Mwa ha ha! It's been pretty fun. But I must take my exit now.
+<zelgius>クックック……。|なかなか楽しかったぞ。|だが、そろそろ行かねばならん。=<zelgius>Ho ho ho! It's been pretty fun. But I must take my exit now.
 <zelgius>——さらばだ！|錬金術師の兄弟よ！！=<zelgius>Farewell, alchemist brothers!
 <edward>——なにっ！？=<edward>What!?
 <zelgius>——神の復活を止めたくば、|ヴァルドラの中心にある城まで|来るがいい……。=<zelgius>If you wish to stop the resurrection of our goddess, come to the castle at the center of Valdolla.
@@ -3187,7 +3187,7 @@
 <sophie>エド……！ アル……！=<sophie>Ed! Al!
 <edward>ソフィ。オレたちは、|お前を、絶対に死なせたりはしない。=<edward>Sophie, we're not going to let anything bad happen to you.
 <edward>この聖印が、お前の命を|削るというのなら……|その前に、すべてを終わらせてやる……！=<edward>The Holy Seal won't take your life—we'll finish this before that happens!
-<sophie>あ、ありがとう……。|２人とも本当に……ありがとう……！=<sophie>Th-Thank you...|Thank you so much, both of you!
+<sophie>あ、ありがとう……。|２人とも本当に……ありがとう……！=<sophie>Th-thank you...|Thank you so much, both of you!
 
 !FILE:0131_003/004.txt
 <bigtext><blackbold> スキル錬成「ハンマー」=<bigtext><blackbold> “Hammer" Transmutation
@@ -3320,7 +3320,7 @@
 !FILE:0140_003/004.txt
 <smalltext>アイテム・アクセサリが使用可能になりました=<smalltext>Items and accessories are now available.
 <smalltext><blackbold>アイテム<normal>【クレイギン手記】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Craigin's Memo"
-<smalltext><blackbold>アイテム<normal>【悲しみのキズ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Wounds of Sadness"
+<smalltext><blackbold>アイテム<normal>【悲しみのキズ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Scars of Sadness"
 <smalltext><blackbold>奪われた荷物を探そう！=<smalltext><blackbold>Find your stolen belongings!
 <alphonse>司令室に着いたけど……。|クレイギン将軍は、|いないみたいだね。=<alphonse>We made it to the command room but... General Craigin doesn't seem to be here.
 <edward>ちっ、残念。|いたら、ぶっとばしてやる|つもりだったのによ！=<edward>Tch, that sucks! I was hoping to give him a whooping!
@@ -3569,7 +3569,7 @@
 <sophie>——ウソよっ……！|そんなのウソよっ……！！=<sophie>Lies!|It's all lies!
 <sophie>お父さんは優しかった！|娘として、|最後まで私を愛してくれた！！=<sophie>My father was kind! He loved me as his daughter to the very end!!
 <sophie>私が、お父さんの娘じゃないなんて！|私が造られた道具だなんて！|そんなこと、あるワケがない！！=<sophie>Saying that I'm not my father's daughter! That I'm a fabricated tool!|There's no way that can be true!
-<zelgius>クックック……。|誰を父と呼んでいるのだ、お前は？=<zelgius>Mwa ha ha...! Who are you calling father?
+<zelgius>クックック……。|誰を父と呼んでいるのだ、お前は？=<zelgius>Ho ho ho...! Who are you calling father?
 <zelgius>ギルベルトか？|それとも、|名も知らぬヴェルザの父のことか？=<zelgius>Gilbert?|Or the unknown father of Velza?
 <zelgius>お前には、父などおらぬ。|愛情など偽りだ。=<zelgius>You have no such thing as a father.|That affection was a lie.
 <zelgius>ギルベルトにとって大事な道具、|「神の器」だから大切にされてきた。|ただ、それだけにすぎん。=<zelgius>You were an important tool for Gilbert, and he cherished you as a vessel.|But that's all there is to it.
@@ -3608,7 +3608,7 @@
 <edward>なんだと……。=<edward>What the hell are you...
 <venus>さぁ、おしゃべりはここまでだ！|遠慮なく行くよ、ボウヤ！！=<venus>Well, enough chatter! Time for a lashing, boy!!
 <edward>くそっ！ この分からず屋が……！|やるぞ、アル！！=<edward>Damn! These blockheads... Let's do it, Al!!
-<trigger>こ、こんな……？|こんなことが……。=<trigger>Th-This...? This isn't possible!
+<trigger>こ、こんな……？|こんなことが……。=<trigger>Th-this...? This isn't possible!
 <trigger>このボクの、全身全霊全知能を|注ぎこんで造りあげたメカが|敗北するなんて……。=<trigger>This mecha that I poured my whole body, soul, and wisdom into...|It's been defeated!
 <trigger>ウソだ……ウソだ……！|ウソだァァァァァァァァァッッ！！！=<trigger>It can't be... It can't be...!|It can't beeeeeee!!
 <venus>フッ……どうやら、|また負けちまったようだね。=<venus>Hmm... It seems we've been defeated again.
@@ -3663,9 +3663,9 @@
 <???>フッ……愚か者は、お前だ。=<???>Heh... You're the only fool here.
 <alphonse>あなたは！？=<alphonse>You!?
 <edward>ゼルギウス！=<edward>Zelgius!
-<sophie>あ、あの男は……お父さんを……！=<sophie>Th-That man... You killed my father!
+<sophie>あ、あの男は……お父さんを……！=<sophie>Th-that man... You killed my father!
 <craigin>きっ、き、貴様ァァッ！！=<craigin>Y-you...bastard!!
-<zelgius>クックックッ……ご苦労だったな。|お前のくだらぬ考えに、|この俺が気づかないとでも思ったか？=<zelgius>Mwa ha ha! You've gotten into some trouble.|Did you think I wouldn't notice your idiotic plans?
+<zelgius>クックックッ……ご苦労だったな。|お前のくだらぬ考えに、|この俺が気づかないとでも思ったか？=<zelgius>Ho ho ho! You've gotten into some trouble.|Did you think I wouldn't notice your idiotic plans?
 <zelgius>お前は、肝心なことを知らぬ。|それでは、|「神の力」を扱うことはできん。=<zelgius>You don't even know the essentials. One can't handle the power of the goddess like that.
 <craigin>な、なんだと……！？=<craigin>Wh-what!?
 <zelgius>我らが神を復活させるには、|２つの物がいる。=<zelgius>To resurrect her, two things are needed.
@@ -3811,7 +3811,7 @@
 <zelgius>来るがいい、|錬金術師の兄弟よ——！！=<zelgius>Come at me, alchemist brothers!
 <zelgius>クッ——！|お前たちに、これほどの力が……。=<zelgius>Ugh...!|How can you have so much power...?
 <edward>観念しろ。|お前の負けだ、ゼルギウス……！=<edward>Accept it.|You lost, Zelgius!
-<zelgius>——クックック……。=<zelgius>Mwa ha ha...!
+<zelgius>——クックック……。=<zelgius>Ho ho ho...!
 <edward>——何がおかしい？=<edward>What's so funny?
 <zelgius>……今、ヴェルザは|終末の祈りをささげている。|俺の勝敗など、大した問題ではない。=<zelgius>Right now, Velza is starting the Prayer of the End. It doesn't matter whether I win or lose.
 <alphonse>終末の祈り……？=<alphonse>The Prayer of the End?
@@ -4096,7 +4096,7 @@
 <sophie>今作限りの登場だけど、|機会があれば、またみんなと会いたいな！|——遊んでくれて、ありがとう！=<sophie>I only appear in this game, but if I have the chance, I'd like to meet you all again!|Thank you for playing!
 <normal>【迷いパンダ】|<blackbold>を手に入れた！！=<blackbold>Found <normal>“Lost Panda"
 <blackbold>アイテム<normal>【黄金の牛像】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Golden Cow"
-<sophie><8006><8023><bluebold>♪悲しみのキズ 北出菜奈|=<sophie><8006><8023><bluebold>♪ “Wounds of Sadness" by Nana Kitade|
+<sophie><8006><8023><bluebold>♪悲しみのキズ 北出菜奈|=<sophie><8006><8023><bluebold>♪ “Scars of Sadness" by Nana Kitade|
 <sophie><8023><circle>を押すと再生を終了します。|=<sophie><8023>Press <circle> to stop playback.
 セーブする=Save game
 タイトル画面へ戻る=Return to title screen
@@ -4503,7 +4503,7 @@
 <sophie>「空前絶後の上・腕・筋！」……？=<sophie>“Unmatched Arms and Muscles!"?
 <sophie>……栄養ドリンクのネーミングって、|おかしなものばかりね……。|本当に、飲むだけで効くのかしら……。=<sophie>These energy drinks sure have some strange names... I wonder if it works just by drinking it.
 <sophie>「ムキムキブラザーズ」……？=<sophie>“Muscle Brothers"?
-<sophie>……………。|ねぇ、私に何を求めてるの……？=<sophie>..........|Hey, what do you want from me?
+<sophie>……………。|ねぇ、私に何を求めてるの……？=<sophie>..........|Hey, what do you expect me to do with this?
 <sophie>「カチコチドリンク」|……これを飲んだら、|防御力が上がります、だって。=<sophie>“Rock-Hard Drink"... It says that if you drink this, your Defense will increase.
 <sophie><bigtext>……防御力って、何？=<sophie><bigtext>BUT WHAT DO THEY|MEAN BY “DEFENSE"?
 <sophie>「ワニワニドリンク」|……皮膚が、ワニ皮のように|頑丈になります、だって。=<sophie>“Crocodile Drink"...|It says your skin will become as tough as that of a crocodile.
@@ -4719,13 +4719,13 @@
 <sophie>もし、マリアに危機が迫った時は|私が彼女の盾になろう|君のためなら死ぬ事だって怖くない=<sophie>If danger ever comes to you, Maria,|I'll become your shield.|I'm not afraid to die for your sake.
 <sophie>君の白い肌、傷一つ付けるもんか=<sophie>Not a single scratch will mar your white skin.
 <sophie>❌月 ❌日=<sophie>XX month, XX day.
-<sophie>オラはボリス・ハンマー|トリガーにすすめられて|日記を書いてみるだ=<sophie>I'm Boris Hammer. Trigger recommended that I try writing a diary.
-<sophie>どうせ三日坊主だけど|たまにはこういうのも悪くねぇ=<sophie>I'll probably give up in no time, but it can't hurt doing it for now.
-<sophie>で、いきなり、だ|なんとヴァルドラが襲われちまっただ|施設の広場にでっけえ塔まで出てきただ=<sophie>So, all of a sudden Valdolla was attacked, and a huge tower appeared right in front of headquarters.
+<sophie>オラはボリス・ハンマー|トリガーにすすめられて|日記を書いてみるだ=<sophie>I'm Boris Hammer. Trigger said that I should try writing a diary.
+<sophie>どうせ三日坊主だけど|たまにはこういうのも悪くねぇ=<sophie>I'll probably give up in no time, but it can't hurt doin' it fer now.
+<sophie>で、いきなり、だ|なんとヴァルドラが襲われちまっただ|施設の広場にでっけえ塔まで出てきただ=<sophie>So, all of a sudden Valdolla was attacked, and a huge tower appeared right in front of HQ.
 <sophie>オラが思うに|あれは塔じゃなくてタケノコだ|煮て食ったらウメェだど、間違いねぇ=<sophie>Though I don't think it's really a tower, but actually bamboo shoots, which are delicious if you eat them boiled. I'm sure of it.
 <sophie>❌月 ❌日=<sophie>XX month, XX day.
 <sophie>空を飛ぶ娘ッ子と戦っただ|ヴィーナス様はカンカンで|ちょっと大人げない気がしただ=<sophie>We fought against a flying girl.|She was very childish and Lady Venus got really angry.
-<sophie>ババァにババァって言っちゃいけねぇ|オラのじいさんの遺言だ=<sophie>You should never call an old woman “old". Those were my grandad's last words.
+<sophie>ババァにババァって言っちゃいけねぇ|オラのじいさんの遺言だ=<sophie>Ya should never call an old woman “old". Those were my grandad's last words.
 <sophie>❌月 ❌日=<sophie>XX month, XX day.
 <sophie>オラが軍に入ったのは|誰かを傷つけるためじゃねぇ|この街を守りたかったからなんだ=<sophie>I didn't join the army to hurt anyone, but because I wanted to protect this city.
 <sophie>その気持ちは変わってねぇし|きっとこれからも変わらねぇ=<sophie>That feeling hasn't changed, and I'm sure it won't be any different in the future.
@@ -4742,27 +4742,27 @@
 <sophie>——読んで欲しいな……。|エドとアルの事を想って|書いたんだよ……。=<sophie>I hope you'll read this... I wrote it thinking about you, Ed and Al.
 <sophie>私の気持ち……、受け取ってね。=<sophie>Please accept my feelings...
 <sophie>——銀色に輝く円盤……？|これは、いったい……？=<sophie>A shiny silver disk?|What is this?
-<sophie>……あら、何か書いてあるわ。|「悲しみのキズ」……？？=<sophie>Hey, there's something written on it.|“Wounds of Sadness"?
-<edward>——なッ、なんだ！？|どこからともなく音楽が……！？|これは、歌か……？=<edward>What's going on?|There's music coming out of somewhere...|Is this a song?
-<roy>——ふむ、懐かしくも|勇ましい歌声だな、鋼の。=<roy>Yeah, it's a nostalgic yet stirring voice, isn't it, Fullmetal?
+<sophie>……あら、何か書いてあるわ。|「悲しみのキズ」……？？=<sophie>Hey, there's something written on it.|“Scars of Sadness"?
+<edward>——なッ、なんだ！？|どこからともなく音楽が……！？|これは、歌か……？=<edward>What's going on?|There's music playing from somewhere...|This singing...?
+<roy>——ふむ、懐かしくも|勇ましい歌声だな、鋼の。=<roy>Hmm, it's a nostalgic and stirring voice, isn't it, Fullmetal?
 <edward>……おいおい、突然の登場だな。|大佐は、この歌のこと|知ってんのか……？=<edward>Whoa, talk about a sudden entrance!|Do you know this song, Colonel?
-<roy>馬鹿者、私を誰だと思っている！？|この歌は「悲しみのキズ」、|北出菜奈の新曲だ！=<roy>Idiot, what do you take me for!?|This song is “Wounds of Sadness,"|the new hit by Nana Kitade!
+<roy>馬鹿者、私を誰だと思っている！？|この歌は「悲しみのキズ」、|北出菜奈の新曲だ！=<roy>Idiot, what do you take me for!?|This song is “Scars of Sadness,"|the new hit by Nana Kitade!
 <edward><bigtext>北出菜奈……！？=<edward><bigtext>NANA KITADE!?
-<roy>本名、北出菜奈！|１９８７年５月２日生まれ！|ピッチピチの１８歳！（２００５年現在）=<roy>Full name: Nana Kitade! Born on May 2, 1987! A young 18-year-old lady (as of 2005)!
-<roy>荒川先生と同郷の|北海道出身、Ｏ型だ！！|（ドド———ン！！）=<roy>She's from Hokkaido, just like Arakawa-sensei, and her blood type is O!!|Ta-daaaaa!
+<roy>本名、北出菜奈！|１９８７年５月２日生まれ！|ピッチピチの１８歳！（２００５年現在）=<roy>Full name: Nana Kitade! Born on May 2, 1987! A fresh faced 18 year-old! (As of 2005.)
+<roy>荒川先生と同郷の|北海道出身、Ｏ型だ！！|（ドド———ン！！）=<roy>She's from Hokkaido, just like Arakawa-sensei, and her blood type is O!!
 <edward><bigtext>北海道となッ！？=<edward><bigtext>HOKKAIDO!?
-<roy>好きな言葉は|「幸せか不幸かは自分次第」=<roy>Her favorite sayings are “Both happiness and unhappiness are up to you".
-<roy>「人生の最終目標は、| 良い女になり死んでいくことです。」=<roy>“My end goal is to die as a good woman".
+<roy>好きな言葉は|「幸せか不幸かは自分次第」=<roy>Her favorite sayings are “Whether you're happy or unhappy is up to you”.
+<roy>「人生の最終目標は、| 良い女になり死んでいくことです。」=<roy>“My ultimate goal is to die as a good woman".
 <sophie><bigtext>カッコイ——ッ！！=<sophie><bigtext>SOOO COOL!!
 <roy>とある詩人が|詩は「言葉の錬金術」と言った。=<roy>A certain writer once said that poetry is “the alchemy of words".
-<roy>だとすれば、菜奈ちゃんの歌は|「激情の錬金術」|といったところか……！！=<roy>If that's the case, then Nana-chan's songs are “the alchemy of passion"!
+<roy>だとすれば、菜奈ちゃんの歌は|「激情の錬金術」|といったところか……！！=<roy>In that case, Nana-chan's songs are “the alchemy of passion"!
 <edward><bigtext>「ちゃん」<8006>付け……。=<edward><8006>Why did you add <bigtext>“CHAN"...?
 <roy>——フッ、忘れたとは言わせんぞ。=<roy>Hmph! Don't tell me you've forgotten our climactic battle at the end of Broken Angel already, Fullmetal.
-<roy>鋼１では、ファーストシングル|「消せない罪」をバックに、|私と死闘を繰り広げたろう？=<roy>We duked it out while her first single|“Inerasable Sin" played as background music, right? Well, not in the NA version...
+<roy>鋼１では、ファーストシングル|「消せない罪」をバックに、|私と死闘を繰り広げたろう？=<roy>We duked it out while her first single|“Inerasable Sin" played in the background, right? (Well, not in the NA version...)
 <edward><bigtext>身もフタもねえ——！！=<edward><bigtext>THAT'S BREAKING THE|FOURTH WALL!
-<roy>このＣＤはこの教会に置いておこう、|良い子のみんな！|くれぐれも本物を買うように！！=<roy>Let's leave this CD in the church.|And good kids, make sure to buy|the real one, okay?
+<roy>このＣＤはこの教会に置いておこう、|良い子のみんな！|くれぐれも本物を買うように！！=<roy>Let's leave this CD in the church.|And good kids, make sure to buy the real one, okay?
 <edward><bigtext>ＣＤ<8006>とか言うな——ッ！=<edward><8006>Don't call it a <bigtext>CD!
-<sophie>以上、北出菜奈ちゃんの|「悲しみのキズ」でした♪=<sophie>And that's the end of this bit about Nana Kitade-chan's “Wounds of Sadness". ♪
+<sophie>以上、北出菜奈ちゃんの|「悲しみのキズ」でした♪=<sophie>And that's the end of this bit about Nana Kitade-chan's “Scars of Sadness". ♪
 <sophie>鉛の指輪……？|変わってるわね、指輪なのに|重いし、ゴツゴツしてるし……。=<sophie>A lead ring?|How weird, even though it's a ring, it's heavy and rough...
 <sophie>まるで武器ね。|オシャレより、護身用に|いいかもしれないね。=<sophie>It's almost like a weapon. Might be better for self-defense, rather than fashion.
 <sophie>スッゴーイ、純金の指輪ね……！|こんなゴージャスな物、本当に、|もらっちゃっていいの……？=<sophie>Oh wow, a pure gold ring!|Can I really keep something so gorgeous?
@@ -4853,8 +4853,8 @@
 <winry>ここは、私に任せて。|もっと強靭に、カッコよく|作り直してあげるわ♪=<winry>Leave it to me. I'll reinforce it to be stronger and cooler! ♪
 <sophie>——だめよ！|せっかく、ウィンリィが|作ってくれたんじゃない！=<sophie>No! Winry put her whole heart into making this!
 <sophie>そのベストは、|きっと２人を守ってくれるわ……。|大切にしてあげてね。=<sophie>This vest will surely protect you two.|Take good care of it.
-<sophie>せっかく、私とウィンリィが|力を合わせて作ったのに……。|もーっ、大事にしてよ！=<sophie>Winry and I put our strength together to make this.|Please, take good care of it!
-<sophie>そのベストって、ものすっごく|貴重な素材を使ってるんでしょ……？|役立つ物は、持っておいた方がいいよ。=<sophie>That vest is made of extremely valuable materials, right?|It might be useful, so you should hang onto it.
+<sophie>せっかく、私とウィンリィが|力を合わせて作ったのに……。|もーっ、大事にしてよ！=<sophie>After all the effort Winry and I put into making this together...|Seriously, take care of it!
+<sophie>そのベストって、ものすっごく|貴重な素材を使ってるんでしょ……？|役立つ物は、持っておいた方がいいよ。=<sophie>This vest is made of extremely valuable materials, right? It might be useful, so you should hang onto it.
 <sophie>防弾チョッキ……。|……心配してくれるのは嬉しいけど、|これがなくて２人は平気なの？=<sophie>A bulletproof vest...|I'm glad you're worried about me, but|will you two be okay without this?
 <alphonse>大丈夫だよ。ボクの身体は、|銃弾なんか効かないし、兄さんは、|弾が当たるほど大きくないしね。=<alphonse>It's fine. Bullets can't damage my body, and my brother is too small to be hit by them.
 <sophie>ふふっ……。|エドが聞いたら怒るわよ……。=<sophie>Heh heh!|Ed would be furious if he heard that.
@@ -4872,11 +4872,11 @@
 <edward><bigtext>しっ、身長——！？=<edward><bigtext>MY... MY HEIGHT!? 
 <edward><bigtext>イヤアアァァァ！！=<edward><bigtext>NOOOOO!! 
 <sophie>……………エド？=<sophie>....................Ed?
-<sophie>「耐熱マントＳ」のＳは、|ＳＵＰＥＲ（スーパー）のＳじゃないの。|さて、何のＳでしょう……？=<sophie>The plus in “Fireguard Cloak+" doesn't mean “extra long," you know.#Changed the (S) in the name to prevent confusion with the Elixirs, which meant changing this conversation to match. "The S in this “Fireguard Cloak (S)"|doesn't stand for “Super".|Then, what does the S mean?"
+<sophie>「耐熱マントＳ」のＳは、|ＳＵＰＥＲ（スーパー）のＳじゃないの。|さて、何のＳでしょう……？=<sophie>The plus in “Fireguard Cloak +" doesn't mean “extra long," you know.#Changed the (S) in the name to prevent confusion with the Elixirs, which meant changing this conversation to match. "The S in this “Fireguard Cloak (S)"|doesn't stand for “Super".|Then, what does the S mean?"
 <edward>ＳＭＡＬＬ（スモール）のＳだって|言いたいのかヨ……。=<edward>Are you saying it stands for “extra small"!?#"Are you saying the S stands for “Small"?"
 <sophie>ブッブー、違いまーす！=<sophie>No, no, not at all!
 <sophie>答えは、|ＳＨＯＲＴ（ショート）のＳでした♪=<sophie>It actually stands for “extra short"! ♪#"The answer is, the S is for “Short". ♪"
-<edward><bigtext>同じじゃああああッ！！=<edward><bigtext>THAT'S THE SAME|THIIIING!!
+<edward><bigtext>同じじゃああああッ！！=<edward><bigtext>THAT'S THE SAME|THING!!#multiple I's in a row just looks weird to me
 <sophie>エドもアルも着れるサイズってことは、|エドには大きすぎて、アルには|小さすぎるってことなのよね。=<sophie>If both Ed and Al wear this size, then it must be too big for Ed and too small for Al.
 <sophie>身長も横幅も全然違うのに……。|いったい、どうやって共有してるの？|結構なミステリーなんだけど……。=<sophie>Their height and width are completely different... Then, how exactly can they share it? It's quite a mystery...
 <sophie>確かに、今の季節に防寒コートなんて、|必要ないかもしれないわ……。|けど、万が一ってこともあるじゃない。=<sophie>Certainly, you don't need a winter coat at this time of year.|But you never know what might happen...
@@ -4919,7 +4919,7 @@
 <alphonse>今、ふんどしって言いかけたよね？|ポロッと本音が出なかった、今？=<alphonse>You were about to say “loincloth," right? You just let out your real opinion, didn't you?
 <sophie>これってアルの下着……よね？|——ああ、破れた部分を|直してほしいのね。=<sophie>This is your underwear, right Al?|Ah, you want me to fix this torn part.
 <alphonse>——ちっ、違うよ！|下着じゃないよ、|ただの前掛けだよ！|=<alphonse>It's... It's not like that!|This isn't underwear, it's just an apron!
-<sophie>あら、そうなの……？|ごめんなさい……。|（誰が見たって、ふんどしよ……？）=<sophie>Oh, is that so? I'm sorry...|(but anyone can see it's a loincloth).
+<sophie>あら、そうなの……？|ごめんなさい……。|（誰が見たって、ふんどしよ……？）=<sophie>Oh, is that so? I'm sorry...|(but anyone can see it's a loincloth.)
 <winry>ちょっと、アル——ッ！|なによ、そのＴバック型の|ふんどしは——ッ！！=<winry>Wait a moment, Al!|What are you doing with that thong-type loincloth!?
 <winry>鎧の姿でもアルは男の子なのよっ！？|レディの前で、そんな|せくすぃ～な物、穿かないでよーっ！！=<winry>Even in armor form, you're still a boy!|You shouldn't wear such provocative stuff in|front of a lady!!
 <winry>きっと、ソフィが見たら、|ビックリして失神しちゃうわ！=<winry>Really, if Sophie sees this, she'll faint in shock!
@@ -5163,8 +5163,8 @@
 <edward>……………？|オレ専用のブーツ……？=<edward>.................?|Boots just for me?
 <sophie>ねぇ、見て見てウィンリィ！|真っ赤な軍服よ、珍しいでしょ。|これ、エドとアルからもらった物なの！=<sophie>Hey, Winry, come look at this!|A bright red military uniform, isn't it curious? I got it from Ed and Al!
 <winry>ホントだ、ドハデな軍服ねぇ！|いったい、どんな人が|着てたのかしら……？=<winry>It's a really flashy uniform! I wonder what kind of person wore it...
-<sophie>今から、これを裁断し直して、|エドとアルが着れるような|服にするの♪=<sophie>Now I'm gonna cut this up and make clothes that Ed and Al can wear. ♪
-<winry>——ええっ！？|この軍服、切っちゃうの……！？=<winry>Huh!? Are you gonna cut this uniform!?
+<sophie>今から、これを裁断し直して、|エドとアルが着れるような|服にするの♪=<sophie>Now I'm going to cut this up and make clothes that Ed and Al can wear. ♪
+<winry>——ええっ！？|この軍服、切っちゃうの……！？=<winry>Huh!? You're gonna cut this uniform up!?
 <sophie>うん、私だって、|２人の役に立ちたいもの。|いい素材は活用しなきゃね！=<sophie>Yeah, I want it to be useful for them.|Good materials must be put to good use!
 <winry>うう……確かにそうだけど、|ちょっと、もったいないわね……。=<winry>Well, that's true but... It's a bit of a waste.
 <winry>——わかったわ。|そういうことなら、私も協力してあげる。|ジョーブな服を作りましょ！=<winry>Alright. In that case, I'll help you too.|Let's make some useful clothes!
@@ -5284,27 +5284,27 @@
 <alphonse>た、確かにカワイイね……。|はは……。=<alphonse>It's... It's really cute... Ha ha!
 <sophie>特に、このマユゲ！！|ぶっといマユゲが|超プリティ～～ッ！！=<sophie>Especially those eyebrows!! Those thick eyebrows are extra pretty!!
 <alphonse>（ニャンコにマユゲはない……！）=<alphonse>(Kitties don't have eyebrows!)
-<sophie>………あら？ この子、|口に何かくわえてるわ……。|これは——。=<sophie>Oh? This one has something in his mouth... What's this?
+<sophie>………あら？ この子、|口に何かくわえてるわ……。|これは——。=<sophie>Oh? This kitty has something in his mouth... What's this?
 <alphonse>メダルかな……？=<alphonse>A medal?
 <sophie>カワイイ——ッ！！|女の子ニャンコね……！=<sophie>Cuuuute!! A girl kitty!
 <alphonse>最近のニャンコは、|水着も着るんだね……。|しかも、ビキニ……。=<alphonse>So kitties these days wear swimsuits too...|Even bikinis...
 <sophie>女の子だもん。|水浴びの時だって、|オシャレしたいのよ、きっと。=<sophie>She's a girl, after all. Of course she'd like to be fashionable while swimming.
 <alphonse>（そういう問題じゃ……）=<alphonse>(That's not the problem...)
-<sophie>………あら？ この子、|口に何かくわえてるわ……。|これは——。=<sophie>Oh? This one has something in her mouth... What's this?
+<sophie>………あら？ この子、|口に何かくわえてるわ……。|これは——。=<sophie>Oh? This kitty has something in her mouth... What's this?
 <alphonse>メダルかな……？=<alphonse>A medal?
 <sophie>カ—ワ—イ—ッ！！|私ね、マスクのニャンコも|守備範囲なの！=<sophie>C-U-T-E!!|Kitties with masks are also my type!
 <alphonse>そ、そうなんだぁ……。|ストライクゾーン、|広いんだねぇ……。=<alphonse>I... I see...|You have broad tastes...
-<sophie>この子、ずいぶんと汚れてるわ……。|——はいはい、ちょっとクチャイから、|あとで身体を洗いまちょうね～～♪=<sophie>This one is quite dirty.|Okay, okay, since you're a bit smelly,|I'll bathe you later. ♪
+<sophie>この子、ずいぶんと汚れてるわ……。|——はいはい、ちょっとクチャイから、|あとで身体を洗いまちょうね～～♪=<sophie>This kitty is quite dirty.|Okay, okay, since you're a bit smelly,|I'll bathe you later. ♪
 <alphonse>（赤ちゃん言葉だよ……！）=<alphonse>(You talk as if he was a baby!)
-<sophie>………あら？|何かくわえてるわ……。|これは——。=<sophie>Oh? He has something in his mouth... What's this?
+<sophie>………あら？|何かくわえてるわ……。|これは——。=<sophie>Oh? This kitty has something in his mouth... What's this?
 <alphonse>メダルかな……？=<alphonse>A medal?
 <sophie>キャ——ッ！|カワイ——ッ！|クロニャンニャーン！！=<sophie>Ahh! Cuuuute!|A blackitty!!
 <alphonse>——クロニャンニャーン……！？|何それ、新種のニャンコ？|初めて聞いたよ！=<alphonse>Blackitty? Is that a new type of kitty? First time I've heard about it!
 <sophie>「黒猫」だと不吉な感じがするでしょ？|でも、「クロニャンニャーン」なら、|別に、不吉な感じはしないわ。=<sophie>“Black cat" sounds sinister, right?|But on the other hand, “blackitty" doesn't give that impression.
 <alphonse>（どんな理論だよ……）=<alphonse>(What kind of reasoning is that?)
 <sophie>真っ赤な帽子は、まさに|「女帝」ってカンジね……。|ふふ、みんなをイジメちゃダメよ♪=<sophie>That red hat makes her look just|like an empress, doesn't it?|Heh heh! Don't bully the others! ♪
-<sophie>——あっ！|私、知ってるわ、このニャンちゃん！|この子、有名な役者猫「まろん」よ！=<sophie>Ah! I know this kitty!|He's the famous cat actor, Chestnut!
-<alphonse>役者猫……？|ああ、映画や舞台に出る|訓練されたニャンコのことだね。=<alphonse>A cat actor?|Oh, you mean a trained cat that appears in movies and plays, right?
+<sophie>——あっ！|私、知ってるわ、このニャンちゃん！|この子、有名な役者猫「まろん」よ！=<sophie>Ah! I know this kitty!|He's the famous actor cat, Chestnut!
+<alphonse>役者猫……？|ああ、映画や舞台に出る|訓練されたニャンコのことだね。=<alphonse>An actor cat?|Oh, you mean a trained cat that appears in movies and plays, right?
 <sophie>——ねぇ、アル！|色紙持ってない！？|私、実は、大ファンなの！=<sophie>Hey, Al!|Do you have some autograph paper?|I'm actually a big fan of his!
 <alphonse>（ニャンコにサインだよ……！）=<alphonse>(You want a cat's autograph!?)
 <sophie><bigtext>イケニャーンッ！！=<sophie><bigtext>TREND-KITTY!!
@@ -5322,7 +5322,7 @@
 <sophie>——はッ！！|ごめんなさい……！|私、なんてヒドイことを……！=<sophie>Ah! I'm sorry...|I said such a terrible thing...
 <alphonse>こんなに優しい睦なのに！|こんなに可愛いシッポなのに！|この子が、敵のハズないんだッ！！=<alphonse>Look at that kind warmth!|Look at that cute tail!|There's no way she's an enemy!
 <sophie>——そうよね！|私、間違ってた！！|自分を見失ってた……！！=<sophie>That's right! I made a mistake and lost sight of myself...
-<alphonse>こんなに素敵なオヒゲなんだよ！？|こんなに柔らかなニクキュウなんだよ！？|この子は、ニャンコだよぉぉぉっ！！=<alphonse>Look at those lovely whiskers!|Look at those soft pads!|This little one is a kittyyyyy!!
+<alphonse>こんなに素敵なオヒゲなんだよ！？|こんなに柔らかなニクキュウなんだよ！？|この子は、ニャンコだよぉぉぉっ！！=<alphonse>Look at those lovely whiskers!|Look at those soft pads!|This little one is a kittyyyy!!
 <edward><bigtext>（見た目じゃん…！！）=<edward><bigtext>(IT DOESN'T LOOK LIKE|ONE...)
 <sophie>——まぁ、かわいい|ワンちゃんね……！=<sophie>Oh, what a cute doggie!
 <alphonse>……あ、ワンコには、|普通のリアクションなんだ……。=<alphonse>Wow, you react like a normal person to doggies...
@@ -5341,7 +5341,7 @@
 <sophie>——やったぁ！！|よろしくね、ハヤチン！！=<sophie>Alright! Nice to meet you, Hayachin!!
 <riza><bigtext>……ハヤテ号よ。=<riza><bigtext>IT'S HAYATE.
 <sophie>——パッ、パンダ！？|どうして、北方に|パンダがいるの……！？=<sophie>A...a panda!?|Why is there a panda all the way up here in the north!?
-<edward>行きだおれ、ってやつだな。|飼って世話してやろうぜ、|ネコもパンダも変わらねーだろ？=<edward>It had collapsed in the street.|Let's take care of it. Cats and pandas are similar, right?
+<edward>行きだおれ、ってやつだな。|飼って世話してやろうぜ、|ネコもパンダも変わらねーだろ？=<edward>This one's a wanderer, huh?|Let's take care of it. Cats and pandas are similar, right?
 <sophie>えっ、でも……。=<sophie>Uh...but...
 <edward>腹減ってるみてーだし、|オレ、餌やってくるよ。=<edward>It looks hungry. I'll go and get some food.
 <alphonse>……あの兄さんが、|動物に餌だなんて……。|よほど、パンダが珍しいんだろうね。=<alphonse>My brother feeding an animal?|Pandas sure must be rare.
