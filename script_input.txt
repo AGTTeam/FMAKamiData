@@ -2527,28 +2527,28 @@
 <edward>オベリスクは、この先か……。|行くぞ、アル。=<edward>We're close to the obelisk now...|C'mon, Al.
 
 !FILE:0079_002/004.txt
-<smalltext><blackbold>アクセサリ<normal>【豪腕の手甲】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Strong-Arm Gauntlet"
-<blackbold>アクセサリ<normal>【我輩の愛】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“My Love"
+<smalltext><blackbold>アクセサリ<normal>【豪腕の手甲】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Strong-Arm Steel"
+<blackbold>アクセサリ<normal>【我輩の愛】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Camaraderie Crest"
 <smalltext>錬成壁で跳ね返せ！=<smalltext>Counterattack with a transmuted rockblocker!
-<armstrong>その身一つで、|我が軍の部隊を一蹴するとは……！|まさに、恐るべき力よ……。=<armstrong>This man defeated our troops with just his body...!|What incredible power...
-<godot>ウウウウゥゥ……。=<godot>Uuuuuhh....
-<armstrong>だが！ 我輩にも使命がある。|ここで倒れるわけにはいかん。|——ゆくぞっ！=<armstrong>However, I have a duty!|I have to take you down.|Let's go!
-<godot><bigtext>ウガアァァッ！！=<godot><bigtext>UGAAAAAAHH!!
+<armstrong>その身一つで、|我が軍の部隊を一蹴するとは……！|まさに、恐るべき力よ……。=<armstrong>This man defeated our troops with just his body...! What incredible power...
+<godot>ウウウウゥゥ……。=<godot>Uuuuuuhhhh....
+<armstrong>だが！ 我輩にも使命がある。|ここで倒れるわけにはいかん。|——ゆくぞっ！=<armstrong>However, I have a duty!|I must take you down here and now.|Let's go!
+<godot><bigtext>ウガアァァッ！！=<godot><bigtext>UGAAAAAAHHHH!!
 <armstrong><bigtext>ぬおおお——っ！！=<armstrong><bigtext>NNNNNNGHH!!
 <godot><bigtext>グワアアア——ッ！！=<godot><bigtext>GWAAAAH!!
-<armstrong><bigtext>ふんぬりゃあぁぁっ！！=<armstrong><bigtext>HNNNNGAAAAHH!!
+<armstrong><bigtext>ふんぬりゃあぁぁっ！！=<armstrong><bigtext>HNNNNGAAAAHHH!!
 <alphonse>——兄さん！|あれは——！？=<alphonse>Brother! Isn't that—!?
 <edward>アームストロング少佐！！=<edward>Major Armstrong!!
 <armstrong>む……ま、まさか……！？|エドワード・エルリック、か……！=<armstrong>Hmh... Could it be...?|Edward Elric!
 <edward>——おい！|今度は、オレたちが相手だ！！=<edward>Hey, you! This time you're fighting us!
-<godot>グウウウウウゥゥ……！=<godot>GUUUUH!
-<armstrong>い、いかん、来てはならぬッ……！|早く逃げるのだ、|エドワード・エルリック……！=<armstrong>Y-you can't, don't get closer!|Get away quickly, Edward Elric!
+<godot>グウウウウウゥゥ……！=<godot>GUUUUHH!
+<armstrong>い、いかん、来てはならぬッ……！|早く逃げるのだ、|エドワード・エルリック……！=<armstrong>Y-you can't—don't get any closer!|Get away quickly, Edward Elric!
 <edward>少佐は下がっててくれ！|——さぁ、かかってきやがれ！|このデカブツ野郎ッ！！=<edward>Step back, Major!|Okay, you monstrous freak!|Bring it on!
-<godot><bigtext>ゴアアアアァァッ！！=<godot><bigtext>GOAAAAAAH!!
-<armstrong>ぬおおおおおおおおおおお！！|エドワード・エルリックゥゥッッ！！=<armstrong>Hnnnngwooooo!!|Edward Elriiiic!!
-<edward>ギャアアアアアアアアァァッ！！=<edward>Gaaaahh!!
+<godot><bigtext>ゴアアアアァァッ！！=<godot><bigtext>GOOOAAAAAAHHHH!!
+<armstrong>ぬおおおおおおおおおおお！！|エドワード・エルリックゥゥッッ！！=<armstrong>HNNNNGWOOOOOO!!|EDWARD ELRIIIIC!!
+<edward>ギャアアアアアアアアァァッ！！=<edward>GAAAAHHH!!
 <armstrong>身を呈して我輩を救ってくれた、|おぬしの勇気！ そして優しさ！！|我輩、心より感謝しておるぞッ！！=<armstrong>Such courage, risking your life to rescue me! And such kindness!|You have my most heartfelt gratitude!!
-<edward>ギャアアアアアアアアァァッ！！|か、か、感謝してるなら、|放してくれえええぇぇッッ……！！=<edward>Gaaaah!!|If you're really thankful, then let me goooo!!
+<edward>ギャアアアアアアアアァァッ！！|か、か、感謝してるなら、|放してくれえええぇぇッッ……！！=<edward>GAAAAAAHHHH!!|If you're really thankful, then LET ME GOOOO...!!
 <alphonse>しょ、少佐……。|さっきまで動けなかったハズじゃ……。=<alphonse>Ma-Major...|A moment ago you couldn't even move...
 <armstrong>むぅ……。|敵の襲来の裏に、|そのような事情があったとは……。=<armstrong>Hmh... There must be more to this invasion than we thought...
 <alphonse>はい。それでボクたち、|あのオベリスクを|封印しに来たんです。=<alphonse>Yes. That's why we came to seal that obelisk.
@@ -2560,13 +2560,13 @@
 <edward>え！？ 本当に！？=<edward>Huh? Really!?
 <alphonse>——あ。|生き返った。=<alphonse>Ah... You're alive again.
 <armstrong>うむ。敵の進攻と同時に、|ヴァルドラ軍司令部に、|突如として出現したのだ。=<armstrong>Hmh. It appeared suddenly at the Valdolla HQ, at the same time the enemy advanced.
-<edward>最後のオベリスクは、司令部か……。|よし、行こう、アル。=<edward>So the last obelisk is at the HQ...|Okay, let's go, Al.
+<edward>最後のオベリスクは、司令部か……。|よし、行こう、アル。=<edward>So the last obelisk is at HQ...|Okay, let's go, Al.
 <armstrong>む。待つのだ、２人とも。|今、司令部は敵に包囲されておる。|とても、中に入ることはできんぞ。=<armstrong>Hmh. Wait, you two. Right now, headquarters is surrounded by clan members. You'll never get inside.
 <armstrong>我輩は、援軍を連れてくるため、|敵の包囲を抜け、やっとのことで|司令部を脱出してきたのだ。=<armstrong>I barely managed to slip out of there. I need to call for reinforcements.
-<edward>その援軍が到着するまで、|司令部に行くなってんじゃねーだろうな。|そんな、ノンビリしてらんねーんだ。=<edward>We can't wait for those reinforcements to arrive before going to headquarters.|We're running short on time.
+<edward>その援軍が到着するまで、|司令部に行くなってんじゃねーだろうな。|そんな、ノンビリしてらんねーんだ。=<edward>We can't wait for those reinforcements to arrive before going to HQ.|We're running short on time.
 <armstrong>むうぅ……。=<armstrong>Hmh...
 <armstrong>——ならば、我輩が脱出する時に使った|下水道から司令部に潜入するが良い。|そのルートなら、まだ安全だろう。=<armstrong>In that case, you should infiltrate through the sewers I used to escape.|That route should still be safe.
-<edward>下水道から、|司令部の中に入れるんだな？|わかった、サンキュー、少佐。=<edward>Enter headquarters through the sewers?|Got it. Thank you, Major.
+<edward>下水道から、|司令部の中に入れるんだな？|わかった、サンキュー、少佐。=<edward>Enter through the sewers?|Got it. Thank you, Major.
 <armstrong>援軍を呼んだら、我輩もすぐに駆けつける。|それまで、くれぐれも無茶するでないぞ、|エドワード・エルリック。=<armstrong>As soon as I call for the reinforcements, I'll join you over there. Until then, please don't do anything dangerous, Edward Elric.
 
 !FILE:0080_003/004.txt
@@ -2659,7 +2659,7 @@
 <blackbold>アイテム<normal>【野戦レーション】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Field Ration"
 
 !FILE:0101_003/004.txt
-<smalltext><blackbold>アイテム<normal>【秘密指令書】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Secret Orders"
+<smalltext><blackbold>アイテム<normal>【秘密指令書】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Secret Directive"
 <blackbold>にゃんこ<normal>【ばーにー】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Bunny"
 <smalltext><blackbold>アイテム<normal>【悲しみのキズ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Scars of Sadness"
 <alphonse>この部屋……。|なんか、ここが司令室っぽいね。=<alphonse>This room is...|It seems to be the command room.
@@ -2827,7 +2827,7 @@
 <8006><L2a><L2b>押しながら<triangle>　＝　<yellow>「大剣」を錬成=<8006>Press <triangle> while holding <L2a><L2b>: <yellow> Transmute a|Large Sword
 エドは、地面から「大剣」を錬成できます。|攻撃範囲が広く、威力の高い武器です。=Ed can transmute a Large Sword from the ground. It's a powerful weapon with a wide attack range.
 <smalltext>  【「大剣」コンボの例】|  ・<square>→<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>=|<smalltext>Combo examples|  ・<square>→<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>
-<smalltext><blackbold>アクセサリ<normal>【焔の手袋】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory<normal> “Flame Gloves"
+<smalltext><blackbold>アクセサリ<normal>【焔の手袋】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory<normal>“Flame Gloves"
 <roy>鋼の……お前……。=<roy>Fullmetal... You...
 <edward>大佐、ここは任せてくれ。|アイツの相手はオレたちがやる。=<edward>Leave this to us, Colonel.|We'll deal with that guy.
 <roy>フム……お前に借りを作るのは|愉快ではないが、どうしてもと言うのなら、|ここはお前に預けてもいいぞ……。=<roy>Hmm... I don't enjoy owing you anything, but since you insist, I'll let you handle it.
@@ -3732,7 +3732,7 @@
 <godsoldier>皆、正気を失くしてしまった……。|話が違う……、|ヴェルザ様は、救世主のハズじゃ……！？=<godsoldier>Everyone has lost their minds... The story they told wasn't like this... Isn't Lady Velza supposed to be our savior!?
 
 !FILE:0194_003/004.txt
-<smalltext><blackbold>アクセサリ<normal>【無限の砥石】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Whetstone of Ages"
+<smalltext><blackbold>アクセサリ<normal>【無限の砥石】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Infinity Whetstone"
 <janice>——あらら～～。|アンタたち、ホントに|こんなトコまで来ちゃったんだ。=<janice>Tsk tsk! So you guys really came all the way here...
 <alphonse>君は、あの時の——。=<alphonse>You're the one with the potty mouth...
 <janice>ウフッ。|一族でいちばんラブリーな|ジャニスちゃんだよォ。=<janice>Uh, the name's Janice, the cutest member of the clan!
@@ -3863,7 +3863,7 @@
 <edward>よし。行こう……！=<edward>Okay, let's go!
 
 !FILE:0217_003/004.txt
-<smalltext><blackbold>アクセサリ<normal>【赤い石】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Red Stone"
+<smalltext><blackbold>アクセサリ<normal>【赤い石】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Crimson Stone"
 <smalltext><blackbold>すべての<normal>祈りのオベリスク<blackbold>を壊せ！！=<smalltext><blackbold>Destroy all the <normal>Prayer Obelisks!
 <sophie>……………………。=<sophie>...........................
 <edward>ソフィ——ッ！！=<edward>Sophie!!
@@ -4876,7 +4876,7 @@
 <edward>ＳＭＡＬＬ（スモール）のＳだって|言いたいのかヨ……。=<edward>Are you saying it stands for “extra small"!?#"Are you saying the S stands for “Small"?"
 <sophie>ブッブー、違いまーす！=<sophie>No, no, not at all!
 <sophie>答えは、|ＳＨＯＲＴ（ショート）のＳでした♪=<sophie>It actually stands for “extra short"! ♪#"The answer is, the S is for “Short". ♪"
-<edward><bigtext>同じじゃああああッ！！=<edward><bigtext>THAT'S THE SAME|THING!!#multiple I's in a row just looks weird to me
+<edward><bigtext>同じじゃああああッ！！=<edward><bigtext>THAT'S THE SAME|THIIIING!!
 <sophie>エドもアルも着れるサイズってことは、|エドには大きすぎて、アルには|小さすぎるってことなのよね。=<sophie>If this cloak fits both Ed and Al, that means it's too big for Ed and too small for Al, right?
 <sophie>身長も横幅も全然違うのに……。|いったい、どうやって共有してるの？|結構なミステリーなんだけど……。=<sophie>Their height and width are completely different... Then, how exactly can they share it? It's quite a mystery...
 <sophie>確かに、今の季節に防寒コートなんて、|必要ないかもしれないわ……。|けど、万が一ってこともあるじゃない。=<sophie>Certainly, you don't need a winter coat at this time of year.|But you never know what might happen...
