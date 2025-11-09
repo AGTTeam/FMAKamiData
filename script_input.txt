@@ -587,7 +587,7 @@
 <yellow>鈍器属性の攻撃力が５０％上昇する<white>|槌技の心得、歴代の戦士に受け継がれる=<yellow>Increases the power of blunt force attacks by 50%.<white>|The knowledge of hammers, passed down by generations.
 <yellow>ＨＰの最大値、攻撃力が５０％上昇する|防御力、錬成力は激減する <white>戦士の心はパンツに宿る！=<yellow>Max HP & ATK increase by 50%. DEF & ALC are reduced.|<white>A soldier's spirit resides in his pants!
 <yellow>錬成武器「日本刀」に１００％の即死効果がつく<white>|別名、サムライダマシイ=<yellow>Adds a 100% instant death effect to transmuted katanas.|<white>Also known as “Samurai Soul".
-<yellow>剣属性の攻撃に１００％の即死効果がつく（ボス無効）|ＨＰの最大値が９０％低下する=<yellow>Sword attacks insta-kill enemies. <orange>(Except bosses)|Max HP decreases by 90%.
+<yellow>剣属性の攻撃に１００％の即死効果がつく（ボス無効）|ＨＰの最大値が９０％低下する=<yellow>Sword attacks insta-kill enemies. <orange>(Except bosses)|<yellow>Max HP decreases by 90%.
 <yellow>すべての能力値、属性攻撃、属性防御力が上昇する<white>|ＴＨＥ・チャンピオンベルト！ 最強の証！！=<yellow>Increases all stats, attack types & defense types.|<white>The Champion Belt! Proof of the strongest!
 <yellow>攻撃力が５上がり、防御力、錬成力が５％低下する<white>|すべてを貫くパワーを持つ、サイの角=<yellow>Increases ATK by 5 & reduces DEF & ALC by 5%.|<white>A rhino horn that can pierce anything.
 <yellow>攻撃力が５上がり、防御力、錬成力が５％低下する<white>|鉄さえ切り裂く、トラの爪=<yellow>Increases ATK by 5 & reduces DEF & ALC by 5%.|<white>A tiger claw that can even cut through steel.
@@ -601,7 +601,7 @@
 <yellow>現在のＨＰが１００未満になると攻撃力が２倍に上昇する<white>|ソフィが作った、キメラの牙を素材とする腕輪=<yellow>When HP drops below 100, Attack doubles.<white>|An armlet made by Sophie from a chimera's fangs.
 <yellow>手持ちの錬成武器が、無限に使える<white>|使っても減らない砥石、主婦の間で評判=<yellow>Transmuted hand weapons can be used indefinitely.<white>|A whetstone that never wears out. Popular with housewives.
 <yellow>弾数に制限のある武器が、無限に使える<white>|使ってもなくならない弾丸、銃マニアの間で評判=<yellow>Weapons with limited ammunition can be used indefinitely.<white>|Bullets that don't stop! Popular with gun fanatics.
-<yellow>ＨＰが０になった時、自動的に復活する（発動後消滅）<white>|奇跡を呼ぶお守り、所持者の危機を救う=<yellow>Automatically revives its wearer when HP drops to 0.|<white>A charm that works miracles. <orange>(Single use)
+<yellow>ＨＰが０になった時、自動的に復活する（発動後消滅）<white>|奇跡を呼ぶお守り、所持者の危機を救う=<yellow>Automatically revives its wearer when HP drops to 0.|<orange>(Single use) <white>A charm that works miracles.
 <yellow>錬成力が５％上昇する<white>|国家錬金術師の証、内側にはエドの決意が刻まれている=<yellow>ALC increases by 5%.|<white>Proof of a State Alchemist. Ed's promise is engraved inside.
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、攻撃力が５上がる<white>|エドの全長を伸ばす必須アイテム=<yellow>The SP gauge fills twice as fast. ATK increases by 5.<white>|Essential for Ed to seem taller.
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、防御力が５上がる<white>|ソフィの手作り、エドとウィンリィにえらく不評=<yellow>The SP gauge fills twice as fast. DEF increases by 5.<white>|Sophie's handiwork, disliked by Ed and Winry.
@@ -3481,7 +3481,7 @@
 <???>許さない……絶対に……許さない……！=<???>I won't forgive... Definitely... I won't forgive!
 <???>滅ぼす……すべて……滅ぼしてやる……！=<???>Destroy... Everything... I'll destroy it!
 <edward>——おい、ソフィ。|どうしたんだ？=<edward>Hey, Sophie, what's the matter?
-<sophie>え……あ、うん。|なんでもないわ……。|……行きましょう。=<sophie>Eh... Ah, hmm...|It's nothing.|...Let's go.
+<sophie>え……あ、うん。|なんでもないわ……。|……行きましょう。=<sophie>Huh... Ah, hmm...|It's nothing.|...Let's go.
 <edward>城の中にも、|クレイギンの兵士がいるはずだ。|気をつけろよ。=<edward>Craigin's soldiers must be inside the castle too. Be careful.
 <sophie>（今の声は……|もしかして、ヴェルザの……）=<sophie>(That voice just now... Could it be Velza?)
 
@@ -3521,7 +3521,7 @@
 <alphonse>ソフィ！ ねぇ、ソフィってば！=<alphonse>Sophie! Hey, Sophie!
 <sophie>……ア、アル……。=<sophie>A... Al...
 <edward>どうしたんだ、ソフィ？|突然、ぼんやりして。|大丈夫か？=<edward>What's going on, Sophie? You seem dazed all of a sudden. Are you okay?
-<sophie>え……あ、ううん、大丈夫……。|なんでもないわ。|２人とも、行きましょう。=<sophie>Eh... Ah, yes, I'm fine... It's nothing.|Let's go, both of you.
+<sophie>え……あ、ううん、大丈夫……。|なんでもないわ。|２人とも、行きましょう。=<sophie>Huh... Ah, yes, I'm fine... It's nothing.|Let's go, both of you.
 <edward>あ、ああ。=<edward>Ah, yeah.
 <sophie>（今のは……やっぱり、ヴェルザの声……。|そして、さっきの大勢の人の声は……|ヴェルザの記憶……？）=<sophie>(That was...Velza's voice, for sure. And the voices of that bloodthirsty crowd... Are these Velza's memories?)
 <sophie>（でも、どうして……？|どうして、私にヴェルザの声が……？）=<sophie>(But why...? Why am I hearing Velza's voice?)
@@ -4192,10 +4192,10 @@
 <edward>プレゼントか……。|ソフィにあげられそうな物なんて、|何かあったかなぁ……。=<edward>presents? I guess I could probably find some stuff to give her...
 <winry>おかえり、エド、アル。|その顏だと、オベリスクの封印は|うまくいったみたいね。=<winry>Welcome back, you two.|I assume that means you successfully sealed the obelisk.
 <alphonse>うん、バッチリだよ。|ウィンリィの教えてくれた地下鉄で|ちゃんと行けたしね。=<alphonse>Yeah, it worked out just fine.|We got there quickly using the subway you told us about, Winry.
-<edward>だけど、ヒドイ目にあったぜー。|列車の中は敵だらけだし、|暑苦しい筋肉に捕まるし……。=<edward>But there was some trouble.|The train was full of clan members, and I was trapped between sweaty muscles.
+<edward>だけど、ヒドイ目にあったぜー。|列車の中は敵だらけだし、|暑苦しい筋肉に捕まるし……。=<edward>But there was some trouble.|The train was full of clan members, and I got trapped between sweaty muscles.
 <sophie>…………………………。=<sophie>...............................
 <alphonse>列車の件は、|兄さんが悪いんじゃないか。|——って、どうしたの、ソフィ？=<alphonse>Well, the issue with the train was your fault, Brother.|...Huh, what's wrong, Sophie?
-<sophie>え……。=<sophie>Eh...?
+<sophie>え……。=<sophie>Huh...?
 <edward>さっきから黙って、オレたちを|ジロジロ見てるけど、|……何かあったのか？=<edward>You've been silent and staring at us|this whole time...|Is something wrong?
 <sophie>あ、ううん、ごめん。なんでもないわ。|——ただ、さっきウィンリィから|２人のことを聞いたから……。=<sophie>Ah, well, sorry. It's nothing. Just that, while you were out Winry told me about you two...
 <edward>オレたちのこと？=<edward>About us?
