@@ -727,7 +727,7 @@
 <yellow>倉庫街<white>　第３区画=<smalltext><yellow>Industrial Area: <white>　3rd Sector
 <yellow>倉庫街<white>　最終区画=<smalltext><yellow>Industrial Area: <white>　Last Sector
 <yellow>倉庫街<white>　６号倉庫=<smalltext><yellow>Industrial Area: <white>　Warehouse No. 6
-<yellow>倉庫街<white>　地下水路・中央部=<smalltext><yellow>Industrial Area: <white> Waterways
+<yellow>倉庫街<white>　地下水路・中央部=<smalltext><yellow>Waterways: <white> Central Sector
 <yellow>地下鉄駅<white>　改札口=<smalltext><yellow>Subway: <white>　Ticket Gate
 <yellow>地下鉄駅<white>　到着Ｐホーム=<smalltext><yellow>Subway: <white>　Arrival Platform
 <yellow>地下鉄駅<white>　到着駅・出口=<smalltext><yellow>Subway: <white>　Arrival Station: Exit
@@ -737,7 +737,7 @@
 <yellow>司令部<white>　３Ｆ・兵員室Ａ=<smalltext><yellow>HQ: <white>　3F - Military Quarters A
 <yellow>司令部<white>　最上階=<smalltext><yellow>HQ: <white>　Top Floor
 <yellow>司令部<white>　閲兵場=<smalltext><yellow>HQ: <white>　Parade Ground
-<yellow>古城<white>　外郭エリア東=<smalltext><yellow>Old Castle: <white>　Outer Area - East
+<yellow>古城<white>　外郭エリア東=<smalltext><yellow>Old Castle: <white>　Exterior - East
 <yellow>古城<white>　北通路=<smalltext><yellow>Old Castle: <white>　North Passage
 <yellow>古城<white>　光封の間=<smalltext><yellow>Old Castle: <white>　Light Seals Room
 <yellow>古城<white>　屋上=<smalltext><yellow>Old Castle: <white>　Rooftop
@@ -865,7 +865,7 @@
 倉庫街・最終区画=Industrial Area: Last Sector
 ６号倉庫=Warehouse No. 6
 地下水路・入口=Waterways: Entrance
-地下水路・中央部=Waterways
+地下水路・中央部=Waterways: Central Sector
 地下水路・出口=Waterways: Exit
 西のオベリスク=West Obelisk
 
@@ -923,13 +923,13 @@
 !FILE:0014_095.txt
 古城・入口=Old Castle: Entrance
 古城・入口通路=Old Castle: Entrance Passage
-古城・外郭エリア南=Old Castle: Outer Area - South
+古城・外郭エリア南=Old Castle: Exterior - South
 南の隠し部屋=Secret Chamber - South
 古城・南通路=Old Castle: South Passage
-古城・外郭エリア東=Old Castle: Outer Area - East
+古城・外郭エリア東=Old Castle: Exterior - East
 東の隠し部屋=Secret Chamber - East
 古城・東通路=Old Castle: East Passage
-古城・外郭エリア北=Old Castle: Outer Area - North
+古城・外郭エリア北=Old Castle: Exterior - North
 北の隠し部屋=Secret Chamber - North
 古城・北通路=Old Castle: North Passage
 古城・中庭=Old Castle: Courtyard
@@ -938,11 +938,11 @@
 城内・通路Ｃ=Inner Castle: Passage C
 城内・バルコニー=Inner Castle: Balcony
 城内・通路Ｄ=Inner Castle: Passage D
-光封の間=Light Seals Room
-第一封の間=Room of the First Seal
-第二封の間=Room of the Second Seal
-第三封の間=Room of the Third Seal
-第四封の間=Room of the Fourth Seal
+光封の間=Light Seals Chamber
+第一封の間=Room of the 1st Seal
+第二封の間=Room of the 2nd Seal
+第三封の間=Room of the 3rd Seal
+第四封の間=Room of the 4th Seal
 古城・最上階=Old Castle: Top Floor
 古城・屋上=Old Castle: Rooftop
 ヴェルザの間=Velza's Chamber
@@ -981,15 +981,15 @@
 !FILE:0014_098.txt
 古城・裏口=Old Castle: Rear Entrance
 古城・裏口通路=Old Castle: Rear Passage
-古城・外郭エリア南=Old Castle: Outer Area - South
+古城・外郭エリア南=Old Castle: Exterior - South
 南の隠し部屋=Secret Chamber - South
 仕掛け部屋Ａ=Trap Room A
 古城・南通路=Old Castle: South Passage
-古城・外郭エリア西=Old Castle: Outer Area - West
+古城・外郭エリア西=Old Castle: Exterior - West
 西の隠し部屋=Secret Chamber - West
 貯蔵室Ａ=Storeroom A
 古城・西通路=Old Castle: West Passage
-古城・外郭エリア北=Old Castle: Outer Area - North
+古城・外郭エリア北=Old Castle: Exterior - North
 北の隠し部屋=Secret Chamber - North
 仕掛け部屋Ｂ=Trap Room B
 貯蔵室Ｂ=Storeroom B
@@ -1752,71 +1752,71 @@
 ソフィとの想い出・・・=Memories with Sophie...
 ソフィとの想い出・・・=Memories with Sophie...
 ソフィとの想い出・・・=Memories with Sophie...
-<orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・大通り=<orange>Material area| <yellow>City<white>　Valdolla - Main street
-<orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・４番街=<orange>Material area| <yellow>City<white>　Valdolla - 4th District
-<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　１号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Warehouse No. 1
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　改札口=<orange>Material area| <yellow>Subway<white>　Ticket Gate
-<orange>[マテリアル配置エリア]| <yellow>司令部<white>　１Ｆ・作戦室=<orange>Material area| <yellow>HQ<white>　1F - Operations Room
-<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　屋上=<orange>Material area| <yellow>HQ B<white>　Rooftop　
-<orange>[マテリアル配置エリア]| <yellow>古城<white>　入口=<orange>Material area| <yellow>Old Castle<white>　Entrance
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　ヴェルザ神殿・入口=<orange>Material area| <yellow>Temple<white>　Velza's Temple - Entrance
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　第１層・通路Ｃ=<orange>Material area| <yellow>Temple<white>　1st Level - Passage C
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　脊髄の間Ｃ=<orange>Material area| <yellow>Temple<white>　Spinal Cord Chamber C
-<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　５号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Warehouse No. 5
-<orange>[マテリアル配置エリア]| <yellow>古城<white>　城内・バルコニー=<orange>Material area| <yellow>Old Castle<white>　Inner Castle - Balcony
-<orange>[マテリアル配置エリア]| <yellow>司令部<white>　下水道・中央部=<orange>Material area| <yellow>HQ<white>　Sewers
-<orange>[マテリアル配置エリア]| <yellow>司令部<white>　２Ｆ=<orange>Material area| <yellow>HQ<white>　2F
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　腎臓の間=<orange>Material area| <yellow>Temple<white>　Kidneys Chamber
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　胃の間=<orange>Material area| <yellow>Temple<white>　Stomach Chamber
-<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　３号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Warehouse No. 3
-<orange>[マテリアル配置エリア]| <yellow>古城<white>　第一封の間=<orange>Material area| <yellow>Old Castle<white>　Room of the First Seal
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　腸の間=<orange>Material area| <yellow>Temple<white>　Intestine Chamber
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　西口　制御室=<orange>Material area| <yellow>Subway<white>　West Entrance - Control Room
-<orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア北=<orange>Material area| <yellow>Old Castle<white>　Outer Area - North　
-<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　８番地=<orange>Material area| <yellow>City West<white>　8th Area
-<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　６番地=<orange>Material area| <yellow>City West<white>　6th Area
-<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　４番地=<orange>Material area| <yellow>City West<white>　4th Area
-<orange>[マテリアル配置エリア]| <yellow>司令部<white>　１Ｆ・Ａブロック=<orange>Material area| <yellow>HQ<white>　1F - A Block
-<orange>[マテリアル配置エリア]| <yellow>古城<white>　第二封の間=<orange>Material area| <yellow>Old Castle<white>　Room of the Second Seal
-<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　貯蔵室Ａ=<orange>Material area| <yellow>Old Castle B<white>　Storage Room A
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　脊髄の間Ｂ=<orange>Material area| <yellow>Temple<white>　Spinal Cord Chamber B
-<orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・８番街=<orange>Material area| <yellow>City<white>　Valdolla - 8th District
-<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　２号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Warehouse No. 2
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　東口　制御室=<orange>Material area| <yellow>Subway<white>　East Entrance - Control Room
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　プラットホーム=<orange>Material area| <yellow>Subway<white>　Platform
-<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　３Ｆ=<orange>Material area| <yellow>HQ B<white>　3F
-<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　物資置き場Ｂ=<orange>Material area| <yellow>City West<white>　Supply Depot B
-<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　４Ｆ・Ｂブロック=<orange>Material area| <yellow>HQ B<white>　4F - B Block
-<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　２番地=<orange>Material area| <yellow>City West<white>　2nd Area
-<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　ヴァルドラ環状通り=<orange>Material area| <yellow>City West<white>　Valdolla Ring Road
-<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　地下水路・入口=<orange>Material area| <yellow>Industrial Area<white>　Waterways - Entrance
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　心臓の間=<orange>Material area| <yellow>Temple<white>　Heart Chamber
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　ヴェルザの脳蓋=<orange>Material area| <yellow>Temple<white>　Velza's Skullcap　
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄・第３車両=<orange>Material area| <yellow>Subway<white> 3rd Car#I don't see any point in repeating it.
-<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　城内・バルコニー=<orange>Material area| <yellow>Old Castle B<white>　Inner Castle - Balcony
-<orange>[マテリアル配置エリア]| <yellow>司令部<white>　４Ｆ=<orange>Material area| <yellow>HQ<white>　4F
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　肝臓の間=<orange>Material area| <yellow>Temple<white>　Liver Chamber
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　牌臓の間=<orange>Material area| <yellow>Temple<white>　Spleen Chamber
-<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　４号倉庫=<orange>Material area| <yellow>Industrial Area<white>　Warehouse No. 4
-<orange>[マテリアル配置エリア]| <yellow>古城<white>　第三封の間=<orange>Material area| <yellow>Old Castle<white>　Room of the Third Seal
-<orange>[マテリアル配置エリア]| <yellow>司令部<white>　屋上=<orange>Material area| <yellow>Headquarters<white>　Rooftop
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　肺臓の間=<orange>Material area| <yellow>Temple<white>　Lung Chamber
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　到着駅・改札口=<orange>Material area| <yellow>Subway<white>　Arrival Station - Ticket Gate
-<orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア南=<orange>Material area| <yellow>Old Castle<white>　Outer Area - South
-<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　牢獄=<orange>Material area| <yellow>HQ B<white>　Prison　
-<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ｂ=<orange>Material area| <yellow>Old Castle B<white>　Trap Room B
-<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　倉庫Ａ=<orange>Material area| <yellow>Headquarters B<white>　Storehouse A
-<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　外郭エリア北=<orange>Material area| <yellow>Old Castle B<white>　Outer Area - North
-<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　倉庫Ｂ=<orange>Material area| <yellow>HQ B<white>　Storehouse B
-<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　外郭エリア西=<orange>Material area| <yellow>Old Castle B<white>　Outer Area - West
-<orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア東=<orange>Material area| <yellow>Old Castle<white>　Outer Area - East
-<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ａ=<orange>Material area| <yellow>Old Castle B<white>　Trap room A
-<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄駅・閉鎖区画=<orange>Material area| <yellow>Subway<white>　Restricted Area
-<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　外郭エリア南=<orange>Material area| <yellow>Old Castle B<white>　Outer Area - South
-<orange>[マテリアル配置エリア]| <yellow>古城<white>　第四封の間=<orange>Material area| <yellow>Old Castle<white>　Room of the Fourth Seal
-<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ｃ=<orange>Material area| <yellow>Old Castle B<white>　Trap Room C
-<orange>[マテリアル配置エリア]| <yellow>神殿<white>　脊髄の間Ａ=<orange>Material area| <yellow>Temple<white>　Spinal Cord - Chamber A
-<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　ヴェルザの間=<orange>Material area| <yellow>Old Castle B<white>　Velza's Chamber
+<orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・大通り=<orange>Material area| <yellow>Valdolla:<white>　Main street
+<orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・４番街=<orange>Material area| <yellow>Valdolla:<white>　4th District
+<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　１号倉庫=<orange>Material area| <yellow>Industrial Area:<white>　Warehouse No. 1
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　改札口=<orange>Material area| <yellow>Subway:<white>　Ticket Gate
+<orange>[マテリアル配置エリア]| <yellow>司令部<white>　１Ｆ・作戦室=<orange>Material area| <yellow>HQ:<white>　1F - Operations Room
+<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　屋上=<orange>Material area| <yellow>HQ B:<white>　Rooftop　
+<orange>[マテリアル配置エリア]| <yellow>古城<white>　入口=<orange>Material area| <yellow>Old Castle:<white>　Entrance
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　ヴェルザ神殿・入口=<orange>Material area| <yellow>Temple:<white>　Entrance
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　第１層・通路Ｃ=<orange>Material area| <yellow>Temple:<white>　1st Level - Passage C
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　脊髄の間Ｃ=<orange>Material area| <yellow>Temple:<white>　Spinal Cord Chamber C
+<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　５号倉庫=<orange>Material area| <yellow>Industrial Area:<white>　Warehouse No. 5
+<orange>[マテリアル配置エリア]| <yellow>古城<white>　城内・バルコニー=<orange>Material area| <yellow>Old Castle:<white>　Inner Castle - Balcony
+<orange>[マテリアル配置エリア]| <yellow>司令部<white>　下水道・中央部=<orange>Material area| <yellow>HQ:<white>　Sewers
+<orange>[マテリアル配置エリア]| <yellow>司令部<white>　２Ｆ=<orange>Material area| <yellow>HQ:<white>　2F
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　腎臓の間=<orange>Material area| <yellow>Temple:<white>　Kidneys Chamber
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　胃の間=<orange>Material area| <yellow>Temple:<white>　Stomach Chamber
+<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　３号倉庫=<orange>Material area| <yellow>Industrial Area:<white>　Warehouse No. 3
+<orange>[マテリアル配置エリア]| <yellow>古城<white>　第一封の間=<orange>Material area| <yellow>Old Castle:<white>　Room of the 1st Seal
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　腸の間=<orange>Material area| <yellow>Temple:<white>　Intestine Chamber
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　西口　制御室=<orange>Material area| <yellow>Subway:<white>　West - Control Room
+<orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア北=<orange>Material area| <yellow>Old Castle:<white>　Exterior - North　
+<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　８番地=<orange>Material area| <yellow>City West:<white>　8th Area
+<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　６番地=<orange>Material area| <yellow>City West:<white>　6th Area
+<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　４番地=<orange>Material area| <yellow>City West:<white>　4th Area
+<orange>[マテリアル配置エリア]| <yellow>司令部<white>　１Ｆ・Ａブロック=<orange>Material area| <yellow>HQ:<white>　1F - A Block
+<orange>[マテリアル配置エリア]| <yellow>古城<white>　第二封の間=<orange>Material area| <yellow>Old Castle:<white>　Room of the 2nd Seal
+<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　貯蔵室Ａ=<orange>Material area| <yellow>Old Castle B:<white>　Storage Room A
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　脊髄の間Ｂ=<orange>Material area| <yellow>Temple:<white>　Spinal Cord Chamber B
+<orange>[マテリアル配置エリア]| <yellow>市街<white>　ヴァルドラ・８番街=<orange>Material area| <yellow>Valdolla:<white>　8th District
+<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　２号倉庫=<orange>Material area| <yellow>Industrial Area:<white>　Warehouse No. 2
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　東口　制御室=<orange>Material area| <yellow>Subway:<white>　East - Control Room
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　プラットホーム=<orange>Material area| <yellow>Subway:<white>　Platform
+<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　３Ｆ=<orange>Material area| <yellow>HQ B:<white>　3F
+<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　物資置き場Ｂ=<orange>Material area| <yellow>City West:<white>　Supply Depot B
+<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　４Ｆ・Ｂブロック=<orange>Material area| <yellow>HQ B:<white>　4F - B Block
+<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　２番地=<orange>Material area| <yellow>City West:<white>　2nd Area
+<orange>[マテリアル配置エリア]| <yellow>市街・西<white>　ヴァルドラ環状通り=<orange>Material area| <yellow>City West:<white>　Valdolla Ring Road
+<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　地下水路・入口=<orange>Material area| <yellow>Waterways:<white>　Entrance
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　心臓の間=<orange>Material area| <yellow>Temple:<white>　Heart Chamber
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　ヴェルザの脳蓋=<orange>Material area| <yellow>Temple:<white>　Velza's Skullcap　
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄・第３車両=<orange>Material area| <yellow>Subway:<white> 3rd Car#I don't see any point in repeating it.
+<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　城内・バルコニー=<orange>Material area| <yellow>Old Castle B:<white>　Inner Castle - Balcony
+<orange>[マテリアル配置エリア]| <yellow>司令部<white>　４Ｆ=<orange>Material area| <yellow>HQ:<white>　4F
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　肝臓の間=<orange>Material area| <yellow>Temple:<white>　Liver Chamber
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　牌臓の間=<orange>Material area| <yellow>Temple:<white>　Spleen Chamber
+<orange>[マテリアル配置エリア]| <yellow>倉庫街<white>　４号倉庫=<orange>Material area| <yellow>Industrial Area:<white>　Warehouse No. 4
+<orange>[マテリアル配置エリア]| <yellow>古城<white>　第三封の間=<orange>Material area| <yellow>Old Castle:<white>　Room of the 3rd Seal
+<orange>[マテリアル配置エリア]| <yellow>司令部<white>　屋上=<orange>Material area| <yellow>HQ:<white>　Rooftop
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　肺臓の間=<orange>Material area| <yellow>Temple:<white>　Lung Chamber
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　到着駅・改札口=<orange>Material area| <yellow>Subway:<white>　Ticket Gate
+<orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア南=<orange>Material area| <yellow>Old Castle:<white>　Exterior - South
+<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　牢獄=<orange>Material area| <yellow>HQ B:<white>　Prison　
+<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ｂ=<orange>Material area| <yellow>Old Castle B:<white>　Trap Room B
+<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　倉庫Ａ=<orange>Material area| <yellow>HQ B:<white>　Storehouse A
+<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　外郭エリア北=<orange>Material area| <yellow>Old Castle B:<white>　Exterior - North
+<orange>[マテリアル配置エリア]| <yellow>司令部Ｂ<white>　倉庫Ｂ=<orange>Material area| <yellow>HQ B:<white>　Storehouse B
+<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　外郭エリア西=<orange>Material area| <yellow>Old Castle B:<white>　Exterior - West
+<orange>[マテリアル配置エリア]| <yellow>古城<white>　外郭エリア東=<orange>Material area| <yellow>Old Castle:<white>　Exterior - East
+<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ａ=<orange>Material area| <yellow>Old Castle B:<white>　Trap room A
+<orange>[マテリアル配置エリア]| <yellow>地下鉄駅<white>　地下鉄駅・閉鎖区画=<orange>Material area| <yellow>Subway:<white>　Restricted Area
+<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　外郭エリア南=<orange>Material area| <yellow>Old Castle B:<white>　Exterior - South
+<orange>[マテリアル配置エリア]| <yellow>古城<white>　第四封の間=<orange>Material area| <yellow>Old Castle:<white>　Room of the 4th Seal
+<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　仕掛け部屋Ｃ=<orange>Material area| <yellow>Old Castle B:<white>　Trap Room C
+<orange>[マテリアル配置エリア]| <yellow>神殿<white>　脊髄の間Ａ=<orange>Material area| <yellow>Temple:<white>　Spinal Cord - Chamber A
+<orange>[マテリアル配置エリア]| <yellow>古城Ｂ<white>　ヴェルザの間=<orange>Material area| <yellow>Old Castle B:<white>　Velza's Chamber
 
 !FILE:1211_006.txt
 ？？？=???
@@ -2040,7 +2040,7 @@
 <boy>おい、お前も早く逃げた方がいいぞ。|マジで、ただごとじゃねえって！=<boy>Hey, you gotta hide fast!|Seriously, this is no joke!
 <soldier>ここから先は危険だ、|一般人は早く避難しろ！！=<soldier>It's dangerous to go any further.|Civilians should evacuate immediately!
 <soldier>てっ、敵はどこにいるんだ！？|何で司令部から、|何も連絡が来ねぇんだよ……！！=<soldier>Dammit, where's the enemy!? Why haven't we heard anything from HQ!?
-<soldier>非常呼集が発令されてな、|ただの暴動鎮圧かと思ったが……。|おいおい、まるで戦争だ……！=<soldier>We received an emergency call, and thought it was just some common riot...|Yeesh—this is more like a war!
+<soldier>非常呼集が発令されてな、|ただの暴動鎮圧かと思ったが……。|おいおい、まるで戦争だ……！=<soldier>We received an emergency call, and thought it was just some common riot...|Sheesh, this is more like a war!
 <verda>…終末の祈りは成就した……|我が子らよ…世界に満ちよ……！！=<verda>The Prayer of the End has been fulfilled...|Spread throughout the world, children of mine!
 
 !FILE:0029_003/004.txt
@@ -2289,7 +2289,7 @@
 <boy>おい、お前も早く逃げた方がいいぞ。|マジで、ただごとじゃねえって！=<boy>Hey, you gotta hide fast!|Seriously, this is no joke!
 <soldier>ここから先は危険だ、|一般人は早く避難しろ！！=<soldier>It's dangerous to go any further.|Civilians should evacuate immediately!
 <soldier>てっ、敵はどこにいるんだ！？|何で司令部から、|何も連絡が来ねぇんだよ……！！=<soldier>Dammit, where's the enemy!? Why haven't we heard anything from HQ!?
-<soldier>非常呼集が発令されてな、|ただの暴動鎮圧かと思ったが……。|おいおい、まるで戦争だ……！=<soldier>We received an emergency call, and thought it was just some common riot...|Yeesh—this is more like a war!
+<soldier>非常呼集が発令されてな、|ただの暴動鎮圧かと思ったが……。|おいおい、まるで戦争だ……！=<soldier>We received an emergency call, and thought it was just some common riot...|Sheesh, this is more like a war!
 
 !FILE:0045_003/004.txt
 <normal>【迷い犬】|<blackbold>を手に入れた！！=<blackbold>Found <normal>“Lost Dog"
@@ -2904,7 +2904,7 @@
 <sophie>ヴェルザに関係があると|思うんだけど、私にも分からないわ。=<sophie>It may be related to Velza.|But I'm not sure.
 <sophie>父が生きていたら、|なにか分かったはずなのに……。=<sophie>If my father were alive, he may have been able to tell us something about it...
 <sophie>——ッ！？=<sophie>Huh!?
-<???>——許さない……許さない……！=<???>I won't forgive... I won't forgive!
+<???>——許さない……許さない……！=<???>I won't forgive...I won't forgive them!
 <alphonse>ソフィ？ どうしたの？=<alphonse>Sophie? What's the matter?
 <sophie>——う、ううん。何でもないわ。|先を急ぎましょ。=<sophie>Uh... No... It's nothing.|Let's keep going.
 <sophie>（今の声は……いったい……？）=<sophie>(That voice... Could it be...?)
@@ -3412,10 +3412,10 @@
 
 !FILE:0147_003/004.txt
 <blackbold>アイテム<normal>【オルゴール】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Music Box"
-<girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that weird armor guy's big bro!|I'm hiding here secretly.
-<younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<younggirl>My mama told me to play hide-and-seek until the loud noises stop.
+<girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that creepy armor guy's big bro!|I'm hiding here secretly.
+<younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<younggirl>My mommy told me to play hide-and-seek until the loud noises stop.
 <younggirl>ほんとは、ちょっと怖いけど……。|——大丈夫、|私、もう泣かないもん！=<younggirl>Honestly, I'm a bit scared...|But it's okay. I'm not gonna cry anymore!
-<younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<younggirl>I wonder if my mama is almost here...|She said she'd come back soon...
+<younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<younggirl>I wonder if mommy is close...|She said she'd come back soon...
 
 !FILE:0148_003/004.txt
 <blackbold>アクセサリ<normal>【鋼のバングル】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Fullmetal Bangle"
@@ -3478,10 +3478,10 @@
 <sophie>きっとこれが、最後のチャンス。|どんなことがあっても、|ヴェルザを封印しないと……！=<sophie>This is probably our last chance.|No matter what, we must seal Velza away!
 <edward>今度こそ|失敗は許されねーな。=<edward>We can't afford to fail this time.
 <sophie>ええ。急ぎましょう。|——ッ！？=<sophie>Yes. Let's hurry.|...Ah!?
-<???>許さない……絶対に……許さない……！=<???>I won't forgive... Definitely... I won't forgive!
-<???>滅ぼす……すべて……滅ぼしてやる……！=<???>Destroy... Everything... I'll destroy it!
+<???>許さない……絶対に……許さない……！=<???>I won't forgive...I absolutely...won't forgive them!
+<???>滅ぼす……すべて……滅ぼしてやる……！=<???>Destroy...everything...I'll destroy it all!
 <edward>——おい、ソフィ。|どうしたんだ？=<edward>Hey, Sophie, what's the matter?
-<sophie>え……あ、うん。|なんでもないわ……。|……行きましょう。=<sophie>Huh... Ah, hmm...|It's nothing.|...Let's go.
+<sophie>え……あ、うん。|なんでもないわ……。|……行きましょう。=<sophie>Er... Uh, no...|It's nothing... Let's go.
 <edward>城の中にも、|クレイギンの兵士がいるはずだ。|気をつけろよ。=<edward>Craigin's soldiers must be inside the castle too. Be careful.
 <sophie>（今の声は……|もしかして、ヴェルザの……）=<sophie>(That voice just now... Could it be Velza?)
 
@@ -3492,34 +3492,34 @@
 <blackbold>にゃんこ<normal>【すさのお】|<blackbold>を拾った！！=<blackbold>Found cat|<normal>“Susanoo"
 
 !FILE:0173_003/004.txt
-<alphonse>ふぅ。|やっと、ここまで来たね。=<alphonse>Hoo. We finally made it.
-<edward>気を緩めるなよ、アル。|ヴェルザの部屋まで|一気に行くぞ。=<edward>Keep your eyes peeled for danger, Al.|Let's go straight to Velza's chamber.
-<sophie>ええ、急ぎましょう。|——ッ！？=<sophie>Yes, quickly.|... Uuh!?
+<alphonse>ふぅ。|やっと、ここまで来たね。=<alphonse>Phew. We finally made it.
+<edward>気を緩めるなよ、アル。|ヴェルザの部屋まで|一気に行くぞ。=<edward>Keep your eyes peeled for danger, Al.|Let's head straight for Velza's chamber.
+<sophie>ええ、急ぎましょう。|——ッ！？=<sophie>Yes, quickly.|...Guh!?
 <alphonse>——ソフィ？=<alphonse>Sophie?
-<???>——許さない……！=<???>I won't forgive!
-<sophie>ウッ……アアァッ……！？=<sophie>Uuhhh... Aaaah!
+<???>——許さない……！=<???>I won't forgive them!
+<sophie>ウッ……アアァッ……！？=<sophie>Ugh... AAAAH!
 <man>ヴェルザ様！ ありがとうございます！|息子は命を取りとめました！=<man>Thank you so much, Lady Velza!|You saved my son's life!
 <woman>ウチの母も、ヴェルザ様のおかげで！|本当に、なんとお礼を|言ったらいいか……！=<woman>My mother was saved too, thanks to you, Lady Velza! I don't know how to express my gratitude!
 <oldman>ヴェルザ様は、不思譲な力で|我らをお救いくださる……。|神の生まれ変わりに違いない！=<oldman>Lady Velza has helped us with her mysterious powers... Sure enough, she must be the reincarnation of a god!
 <maleworshipper>大変です！ 王の軍勢が！|ヴェルザ様を差しだせと……！=<maleworshipper>This is terrible! The king has brought his army here, and he wants Lady Velza to submit to him!
 <youngworshipper>なぜ、この場所が知れたのだ？|——まさか、誰かが、我々を……！？=<youngworshipper>How did they know about this place?|Could someone have betrayed us...!?
-<king>強情な女だ……隠さずに吐け！|お前の力の秘密は何だ！？=<king>You're an obstinate woman... Tell me the truth! What's the secret of your powers!?
+<king>強情な女だ……隠さずに吐け！|お前の力の秘密は何だ！？=<king>You're an obstinate woman... Tell me the truth! What's the secret to your powers!?
 <king>お前を痛めつけてもムダのようだな……。|しかたがない。ならば代わりに……|お前の娘に犠牲になってもらおうか！=<king>It seems there's no point in torturing you... You leave me no choice.|I'll have to sacrifice your daughter instead!
 <king>お前に聞いてもムダのようだな……。|しかたがない。ならば代わりに……|お前の娘を——！=<king>It seems there's no point in asking you... You leave me no choice.|I'll just have to take your daughter and...!
-<younggirl>お母さん！ 助けて……！|イヤアア———ッ！！=<younggirl>Mommy! Help me!|Aaaaaahhhh!!
-<maleworshipper>ヴェルザ様、助けにまいりました！|——ああっ！？|そ、そのお身体は……！？=<maleworshipper>Lady Velza, I've come to rescue you!|... Aaah! Yo-Your body...
-<youngworshipper>……我々は裏切られたのです……|ヴェルザ様が救った、|民によって……。=<youngworshipper>We've been betrayed... By the same people whom Lady Velza saved.
-<man>ヴェルザ様！？ お、お許しください！|王に脅されて、しかたなかったのです！|あなた様の居場所を教えねば殺す、と！=<man>Lady Velza!? Pl-Please forgive me! The king threatened me, I had no choice! He'd kill me if I didn't tell him about your place!
+<younggirl>お母さん！ 助けて……！|イヤアア———ッ！！=<younggirl>Mommy! Help me!|<bigtext>AAAAAAAAAHH!!
+<maleworshipper>ヴェルザ様、助けにまいりました！|——ああっ！？|そ、そのお身体は……！？=<maleworshipper>Lady Velza, I've come to rescue you!|...Ah! Yo-your body...!?
+<youngworshipper>……我々は裏切られたのです……|ヴェルザ様が救った、|民によって……。=<youngworshipper>We've been betrayed... By the very people whom Lady Velza saved.
+<man>ヴェルザ様！？ お、お許しください！|王に脅されて、しかたなかったのです！|あなた様の居場所を教えねば殺す、と！=<man>Lady Velza!? Pl-please forgive me! The king threatened me, I had no choice! He'd kill me if I didn't tell him where you were!
 <woman>もう、ここには来ないでください！|あなたがいると、王に知れたら……！|私たちを巻きこまないで！=<woman>Please, don't come here again!|If the king knew you were here...|Don't get us involved!
 <oldman>何をしにきた、この魔女め！|お前がいるから、我々が苦しめられる！|早く出ていくがいい！ 出ていけ！=<oldman>What are you doing here, witch!?|Your presence brings nothing but pain!|Go away right now! Go away!
-<man>あの魔女を殺せ！|じゃなきゃ、オレたちが殺されちまうぞ！|アイツが災いをもたらしたんだ！=<man>Kill that witch! Otherwise we'll be killed instead! She's the one who brought disaster!
-<sophie>——こ、この声は……！？=<sophie>This... This voice...
-<???>許さない……許さない……！=<???>I won't forgive... I won't forgive!
-<???>私の大切な……すべて奪った……！=<???>You took away...everything that was precious to me!
-<???>許さない……絶対に許さない……！！=<???>I won't forgive... I'll never forgive you!!
-<sophie>ウウッ……アアアァッ！！=<sophie>Ugh... AAAAAAHHH!!
+<man>あの魔女を殺せ！|じゃなきゃ、オレたちが殺されちまうぞ！|アイツが災いをもたらしたんだ！=<man>Kill that witch! Otherwise we're doomed! She's the one who brought disaster upon us!
+<sophie>——こ、この声は……！？=<sophie>This...this voice...
+<???>許さない……許さない……！=<???>I won't forgive..I won't forgive them!
+<???>私の大切な……すべて奪った……！=<???>They took away...everything that was precious to me!
+<???>許さない……絶対に許さない……！！=<???>I won't forgive...I'll never forgive them!!
+<sophie>ウウッ……アアアァッ！！=<sophie>Ugh... AAAAAAHH!!
 <alphonse>ソフィ！ ねぇ、ソフィってば！=<alphonse>Sophie! Hey, Sophie!
-<sophie>……ア、アル……。=<sophie>A... Al...
+<sophie>……ア、アル……。=<sophie>...A-Al...
 <edward>どうしたんだ、ソフィ？|突然、ぼんやりして。|大丈夫か？=<edward>What's going on, Sophie? You seem dazed all of a sudden. Are you okay?
 <sophie>え……あ、ううん、大丈夫……。|なんでもないわ。|２人とも、行きましょう。=<sophie>Huh... Ah, yes, I'm fine... It's nothing.|Let's go, both of you.
 <edward>あ、ああ。=<edward>Ah, yeah.
@@ -3579,7 +3579,7 @@
 
 !FILE:0176_003/004.txt
 <alphonse>ついにここまで来たね。|ヴェルザが封印されてる部屋は、|もう目の前だ。=<alphonse>We're finally here. The room where Velza rests is right in front of us.
-<edward>ああ。だけど、|あのクレイギンのことだ。|すんなり行かしちゃくれねぇだろうな。=<edward>Yeah. But Craigin isn't gonna to make this easy for us.
+<edward>ああ。だけど、|あのクレイギンのことだ。|すんなり行かしちゃくれねぇだろうな。=<edward>Yeah. But Craigin isn't gonna make this easy for us.
 <sophie>お願い、間にあって……！|すべてが|手遅れになってしまう前に……！=<sophie>Please, let's hurry! Before we're too late!
 
 !FILE:0177_003/004.txt
@@ -4821,8 +4821,8 @@
 <sophie><bigtext>ハアアアアアァッ！！=<sophie><sophie><bigtext>AAAAAAHH!!
 <edward>——どわっ！|急にどうしたんだ、|ソフィ——！？=<edward>What!? What's wrong now, Sophie!?
 <sophie><bigtext>……許さない……！=<sophie><bigtext>I WON'T FORGIVE...!
-<sophie><bigtext>許してなるものか……！=<sophie><bigtext>I WILL NEVER FORGIVE|YOU!
-<sophie>この苦しみ……この痛み……！|お前たちに分かるか……！！=<sophie>This suffering...this pain...|Do you even understand it!?
+<sophie><bigtext>許してなるものか……！=<sophie><bigtext>I WILL NEVER FORGIVE|THEM!
+<sophie>この苦しみ……この痛み……！|お前たちに分かるか……！！=<sophie>This suffering...this pain...|YOU CAN NEVER UNDERSTAND IT!!
 <sophie>我が名は……<bigtext>ヴェル——！！=<sophie>My name is...<bigtext>VELZA!!
 <edward><bigtext>ダメ————ッ！！=<edward><bigtext>NOOOO!!
 <alphonse><bigtext>その石返して——ッ！！=<alphonse><bigtext>GIVE US BACK THE|STONE!!
