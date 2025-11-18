@@ -3556,7 +3556,7 @@
 <sophie>…………！|ま、まさか——！？=<sophie>...!|It...it can't be!
 <zelgius>そうだ。ギルベルトは、|生まれたばかりの自分の娘を、|「器」の材料として選んだ。=<zelgius>That's right. Gilbert used his own newborn daughter as the material to create the vessel.
 <zelgius>一族の未来のため、|娘を犠牲にしようと決めたのだ。=<zelgius>He chose to sacrifice his daughter for the future of the clan.
-<zelgius>そしてギルベルトは、幼い赤子と|ヴェルザの遺髪を錬成し、新たな人間——|いや、「器」を造りあげた。=<zelgius>And then Gilbert transmuted the little baby and Velza's preserved hair to create a new person—no, a "vessel."
+<zelgius>そしてギルベルトは、幼い赤子と|ヴェルザの遺髪を錬成し、新たな人間——|いや、「器」を造りあげた。=<zelgius>And then Gilbert transmuted the little baby and Velza's preserved hair to create a new person—no, a “vessel."
 <zelgius>——それがお前だ。「神の器」よ。=<zelgius>That's what you are.|A vessel of the goddess.
 <sophie>……そんなこと……信じられない……！=<sophie>I don't...believe any of this!
 <zelgius>言っただろう。|その聖印が、なによりの証拠だ。=<zelgius>You know it's true. That Holy Seal of yours is the proof.
@@ -3672,7 +3672,7 @@
 <zelgius>１つは、神の魂が眠るこの石、|そしてもう１つは、|神の肉体となるべき存在だ。=<zelgius>One is this stone, where her soul rests, and the other is a vessel that will become the goddess' body.
 <zelgius>お前のおかげで、この石に|十分なエネルギーを集めることができた。|礼を言うぞ。=<zelgius>Thanks to you, we've collected enough energy inside the stone.|I owe you for that.
 <craigin>グッ……クッ……お、おのれっ……！！=<craigin>Ugh...gah...you bastard...!
-<zelgius>フッ……。|そして、錬金術師の兄弟たちよ。|お前たちにも、礼をせねばなるまい。=<zelgius>Hmph! As for you, Alchemist Brothers...|I must thank you as well.
+<zelgius>フッ……。|そして、錬金術師の兄弟たちよ。|お前たちにも、礼をせねばなるまい。=<zelgius>Hmph! As for you, alchemist brothers...|I must thank you as well.
 <edward>——礼だと？=<edward>For what?
 <zelgius>受け取るがいい。=<zelgius>Take this.
 <edward>——くっ！ 何を！？=<edward>Uggh! What the...!?
@@ -3743,7 +3743,7 @@
 <janice>一族がどうなったって、|ジャニスの|知ったこっちゃないモン。=<janice>Whatever happens with the clan, it's none of Janice's business.
 <janice>……ジャニスはさ、|ただ、あの人に|気づいてほしかっただけ……。=<janice>Janice just wanted him to notice her...
 <janice>ジャニスが、|ここにいるってこと……|ずっと、側にいるんだってこと——。=<janice>Janice has been there...|Always by his side.
-<alphonse>君は……いったい何の話を……？=<alphonse>Uh, who are you talking about?
+<alphonse>君は……いったい何の話を……？=<alphonse>Uh, what are you talking about?
 <janice>けどね……|ヴェルザが復活して、アタシ、|ハッキリ気づいちゃった……。=<janice>But when Velza was resurrected, I saw it clearly...
 <janice>ああ、最初から……|アタシがいる場所なんて|どこにも……なかったんだ、って——。=<janice>Yes. From the beginning...there was never a place for me.
 <edward>………………。=<edward>...
@@ -3803,12 +3803,12 @@
 <zelgius>……やはり、ジャニスでは|力不足だったか……。=<zelgius>As expected, Janice wasn't good enough to stop you...
 <edward>テメェ……！|——ソフィはどこだ！！=<edward>You bastard! Where is Sophie!?
 <zelgius>フッ……ここまで来るとは、|いい度胸だ。|その褒美として教えてやろう。=<zelgius>Hmph... You've got guts to come this far. As a reward, I will tell you.
-<zelgius>この塔の最上階だ。|そこに娘は、|ヴェルザと共にいる……。=<zelgius>She's on the top floor of this tower.|With Velza.
-<alphonse>ヴェルザと共に……？|それって、どういうこと？=<alphonse>“With Velza"...?|What does that mean?
+<zelgius>この塔の最上階だ。|そこに娘は、|ヴェルザと共にいる……。=<zelgius>She's on the top floor of this tower.|Together with Velza.
+<alphonse>ヴェルザと共に……？|それって、どういうこと？=<alphonse>“Together with Velza"...?|What does that mean?
 <zelgius>知りたくば、|己の目で確かめるがよい。=<zelgius>If you want to know, you can see it with your own eyes.
 <zelgius>ただし——。|この俺を、倒すことが|できればの話だがな——！！=<zelgius>That is, however...|Only if you can defeat me!!
-<edward>言われなくても、|そのつもりだぜ！！=<edward>I was planning to, no need tell me!!
-<zelgius>来るがいい、|錬金術師の兄弟よ——！！=<zelgius>Come at me, Alchemist Brothers!
+<edward>言われなくても、|そのつもりだぜ！！=<edward>I was planning to, no need to tell me!!
+<zelgius>来るがいい、|錬金術師の兄弟よ——！！=<zelgius>Come at me, alchemist brothers!
 <zelgius>クッ——！|お前たちに、これほどの力が……。=<zelgius>Ugh...!|How can you have so much power...?
 <edward>観念しろ。|お前の負けだ、ゼルギウス……！=<edward>Accept it.|You lost, Zelgius!
 <zelgius>——クックック……。=<zelgius>Ho ho ho...!
@@ -3836,7 +3836,7 @@
 <roy>私には、とっておきの策がある！|——お前たちは先に進め！=<roy>I've got an ace up my sleeve!|You two get a move on!
 <edward>——分かった！|死ぬんじゃねぇぞ、大佐！=<edward>All right! Try not to die, Colonel!
 <roy>……さて、どうしたものかな——。=<roy>Well now... What should I do?
-<zelgius>——さっきの勢いはどうした？|貴様の言う、|「とっておき」とやらを見せてみろ。=<zelgius>What happened to that courage a moment ago? Show me that “ace up your sleeve" you've got, bastard.
+<zelgius>——さっきの勢いはどうした？|貴様の言う、|「とっておき」とやらを見せてみろ。=<zelgius>What happened to that courage a moment ago? Show me that ace up your sleeve.
 <roy>フッ……。|そんなものは、ない。=<roy>Heh... I wish I had one.
 <zelgius>——なんだと……？=<zelgius>What?
 <roy>策などない。|あの２人を行かせるために、|適当なことを言っただけだ。=<roy>I have no plan.|I just said something impressive to those two, so they'd keep going.
@@ -3991,14 +3991,14 @@
 <bradley>私を本気にさせる気かね？=<bradley>Are you seriously trying to take me on?
 
 !FILE:0220_002/004.txt
-<craigin>——だ、大総統閣下……。=<craigin>Yo-your Excellency...
+<craigin>——だ、大総統閣下……。=<craigin>Yo-Your Excellency...
 <bradley>ん？|——ああ、君か。|クレイギン君。=<bradley>Hm?|Ah, it's you, Craigin.
 <craigin>……ご、ご期待にそむき、|申し訳ありません、閣下……！=<craigin>My...my humblest apologies for disappointing you, Your Excellency...!
 <craigin>閣下のため「神の力」を手に入れるべく、|このクレイギン、身を尽くしたのですが……|あと一歩のところで……！=<craigin>I did my best to obtain the power of the goddess for Your Excellency but... I was just one step behind!
 <bradley>………………。=<bradley>...
 <craigin>これはすべて、反逆者ロイ・マスタングと|鋼の錬金術師エドワード・エルリックが|私の邪魔をしたためなのです！=<craigin>It was all because of the meddling of that traitor Roy Mustang and the Fullmetal Alchemist, Edward Elric!
 <bradley>——ふむ、そうかね。|ご苦労だった。|下がって休むが良いぞ。=<bradley>Hm, I see. You did good work.|Now you should retire and take a rest.
-<craigin>——か、閣下！|この私めに、もう一度チャンスを！=<craigin>Yo-your Excellency!|Please give me one more chance!
+<craigin>——か、閣下！|この私めに、もう一度チャンスを！=<craigin>Yo-Your Excellency!|Please give me one more chance!
 <bradley>……聞こえなかったのかね？|私は、下がって休めと|言ったのだぞ。=<bradley>Did you not hear me?|I told you to retire and take a rest.
 <craigin>今度こそ！ 今度こそ、|閣下のご期待にそってみせます！|ですから、この私めに——！=<craigin>Just one more chance! This time I'll live up to your expectations, Your Excellency!|So please, give me...
 <bradley>——やれやれ……。=<bradley>Well, well...
@@ -4033,13 +4033,13 @@
 <edward>……ああ、そうだな。アル……。=<edward>Yeah, you're right, Al.
 <edward>……行こう。|アル、ウィンリィ……。=<edward>Let's get going, you two...
 <roy>——ケガの具合はどうだ、中尉。=<roy>How are your injuries, Lieutenant?
-<riza>たいしたことありません。|大佐の方こそ、|ご無理をなさっては——。=<riza>They're nothing major. I'd rather ask you, Colonel, if you're pushing yourself too much.
+<riza>たいしたことありません。|大佐の方こそ、|ご無理をなさっては——。=<riza>they're nothing serious. I'd rather ask you, Colonel, if you're pushing yourself too much.
 <roy>残念だが、のんびりしてもいられん。|戦死したクレイギン将軍に代わり、|私が、この街の臨時司令官に任命された。=<roy>Sadly, I can't take it easy. I've been set up as temporary commandant of this city, after General Craigin was killed in action.
 <riza>そうですか……。|——ヴェルザの一族は、|みな、姿を消したとか？=<riza>Is that so?|I heard that the Velza Clan has completely disappeared.
 <roy>ああ。北の山岳地帯、|彼らが住んでいた地へ|撤退したようだ。=<roy>They seem to have retreated to the northern mountains, where they used to live.
 <roy>ヴェルザ復活の望みがなくなった今、|こちらから手を出さん限りは、|襲ってくることもあるまい。=<roy>Now that they can't hope to revive Velza, they won't attack unless we make a move.
 <riza>——しかし、大総統が、|彼らの力の秘密を手に入れるよう|命じたと聞きましたが？=<riza>However, I heard that the Führer had issued orders to obtain the secret of their powers.
-<roy>ヴェルザの一族は全滅、|鍵を握る少女の記憶も失われ、|今となっては、秘密を知る術はない……。=<roy>The Velza Clan has been wiped out, and the girl who held the key lost her memory. The secret is now out of reach.
+<roy>ヴェルザの一族は全滅、|鍵を握る少女の記憶も失われ、|今となっては、秘密を知る術はない……。=<roy>The Velza Clan has been wiped out, and the girl who held the key is unresponsive. The secret is now out of reach.
 <riza>——そのように報告を？=<riza>Have you made a report about it?
 <roy>ああ。「印の力」とは、|ある種の呪いとでも言うべき、|やっかいなものらしい。=<roy>Yes. The power of the seal seems to be a dangerous thing, one could say a kind of curse.
 <roy>無益な争いを繰りかえさぬためにも……|このまま歴史の闇に|埋もれさせていくべきだろう。=<roy>To prevent pointless conflicts from ever happening again, we should bury it all in the shadows of history.
@@ -4647,7 +4647,7 @@
 <sophie>滅びの神ヴェルザ|国を滅ぼし、人を滅ぼさんと|醜い天使たちを地に降らす=<sophie>Velza, the Goddess of Destruction, would bring ruin to countries and people, sending horrible angels down to earth.
 <sophie>やがて眠りしヴェルザ|弟子と勇者と幾人もの犠牲によって|二度と目覚めぬよう、永久の封印を=<sophie>But eventually, Velza was put to sleep thanks to the sacrifices of her disciples, heroes, and many other people. She was sealed for all eternity, so she wouldn't wake up once more.
 <sophie>「ヴェルザの一族」=<sophie>“The Velza Clan"
-<sophie>ヴェルザの一族|４人の神官を中心とする少数民族|ヴェルザを慕う弟子の末裔=<sophie>The Velza Clan is a minority group centered around the Four Priests. They're the descendants of the disciples who worshiped Velza.#US English is one p I did not know that and I hate it
+<sophie>ヴェルザの一族|４人の神官を中心とする少数民族|ヴェルザを慕う弟子の末裔=<sophie>The Velza Clan is a minority group centered around the Four Priests. They're the descendants of the disciples who worshipped Velza.#US English is one p I did not know that and I hate it
 <sophie>ヴェルザの血を継いでおらず|代わりに、代々受け継がれる|「印」を身体に刻み産まれる=<sophie>They don't carry Velza's blood, but instead are born with a “seal" that has been passed down through generations.
 <sophie>印は属性を持ち、４大元素のどれかを司る|その中でもヴェルザの印は特別で|光の力を持ち、神の力と崇められた=<sophie>The seals have attributes, and each controls one of the four elements. Among them, the seal of Velza is special, since it has the power of light, and is revered as a divine power.
 <sophie>ヴェルザの一族の使命は|ヴェルザが復活せぬよう|見守り続けることである=<sophie>The mission of the clan is to keep watch over Velza, so she doesn't resurrect.
@@ -5496,8 +5496,8 @@
 <armstrong>人々は魔女に赦しを請い願った=<sophie>The people implored the witch for forgiveness.
 <armstrong>だが、魔女はますます荒れ狂い、|さらに多くの者が死に、国は滅びた=<sophie>Yet she grew even angrier still, killing many more, and sending the country to ruin.
 <armstrong>そこで、幾人かの勇気ある者たちが立ち上がり、|魔女に戦いを挑んだ=<sophie>Then, a brave few rose up and challenged the witch to battle.
-<armstrong>彼らは魔女を倒すことはできなかったが、|その命と引き換えに、魔女を深い眠りにつかせた=<sophie>They were unable to defeat her, but in exchange for some of their lives, they cast her into a deep slumber.
-<armstrong>生き残った者たちは、魔女が二度と目覚めぬよう、|かたく封印を施した=<sophie>The survivors sealed her away, such that she would never wake again.
+<armstrong>彼らは魔女を倒すことはできなかったが、|その命と引き換えに、魔女を深い眠りにつかせた=<sophie>They were unable to defeat her, but in exchange for most of their lives, they cast her into a deep slumber.
+<armstrong>生き残った者たちは、魔女が二度と目覚めぬよう、|かたく封印を施した=<sophie>The few survivors sealed her away, such that she would never wake again.
 <armstrong>そして封印を守るため、その地に新たな城を築いた=<sophie>And to guard that seal, they built a new castle in this land.
 <armstrong>それはすべてを滅ぼす大いなる力=<sophie>Hers is a great power that will destroy everything.
 <armstrong>決して目覚めさせてはならない=<sophie>It must never be awakened.
