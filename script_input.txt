@@ -2050,7 +2050,7 @@
 
 !FILE:0030_001/004.txt
 <alphonse>あれれ？？|どこかから音楽が聞こえるよ？=<alphonse>Huh?|Do you hear that music?
-<edward>ん？この勇ましい音楽は！？=<edward>Hmm? Yeah, what's with this heroic music!?
+<edward>ん？この勇ましい音楽は！？=<edward>Hm? Yeah, what's with this heroic music!?
 <roy>やぁー鋼の|元気でやっているかね？？=<roy>Hey, Fullmetal!|How ya doin'?
 <edward>うぁー、突然！=<edward>Whoa, where'd you come from!?
 <roy>むむ、なんだか懐かしいな。=<roy>Hmm, this feels strangely nostalgic...
@@ -2327,7 +2327,7 @@
 はい=Yes
 いいえ=No
 マンホールに入りますか？=Enter the manhole?
-<edward>ん？ あれは……。=<edward>Hmm? A manhole...
+<edward>ん？ あれは……。=<edward>Hm? A manhole...
 <alphonse>あのマンホールから|先へ進めるかもしれないね。|入ってみようよ、兄さん。=<alphonse>I bet we'll find a way through here. Let's try it, Ed.
 
 !FILE:0052_003/004.txt
@@ -2469,7 +2469,7 @@
 <man>そこにあるレバーを下ろせば、|改札口にあるシャッターの|電源を入れることができるよ。=<man>If you pull the lever over there, you can turn the power on for the shutter at the ticket gate.
 
 !FILE:0067_003/004.txt
-<edward>——ん？|ここは……？=<edward>Hmm? What happened here...?
+<edward>——ん？|ここは……？=<edward>Hm? What happened here...?
 
 !FILE:0069_003/004.txt
 <blackbold>アイテム<normal>【秘密の史書（３）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Secret Book (3)"
@@ -2705,14 +2705,14 @@
 <roy>だが……知ってのとおり、|奴らの不思譲な力に、|軍は苦戦を強いられている。=<roy>However, our soldiers are struggling against their strange powers.
 <roy>鋼の。君は、どういうわけか、|奴らに対抗できる力を身につけているな。|我々に、知っていることを教えてくれ。=<roy>Fullmetal, for some reason you have the power to oppose them.|Please tell us what you know.
 <edward>ああ、わかった。全部話すよ。|だけど……たぶん、|聞いても信じられない話だぜ……。=<edward>Okay, no prob. I'll tell you the full story, but you probably won't believe it.
-<craigin>——ふむ……。|君が言っているのは、|つまり、こういうことかね。=<craigin>Hmm... So to sum it up, what you're saying is this:
+<craigin>——ふむ……。|君が言っているのは、|つまり、こういうことかね。=<craigin>Hrm... So to sum it up, what you're saying is this:
 <craigin>このヴァルドラには、|奴らが「神」と崇める存在が|眠っている。=<craigin>There's a sleeping goddess in Valdolla that those people worship.
 <craigin>そして奴らは、|その「神」を復活させ、|世界を滅ぼそうとしている……と。=<craigin>And once they succeed in resurrecting her, the world will be destroyed...
 <edward>ええ。|簡単に言えば、そういうことです。=<edward>Yep. That's it in a nutshell.
 <roy>神……。=<roy>A goddess...
 <craigin>とても信じられん話だ。|「神の復活」やら「世界を滅ぼす」やら、|まるで物語の世界だな。=<craigin>That's a pretty unbelievable story. Things like “resurrecting a goddess" or “destruction of the world" belong in fairy tales.
 <edward>——ですけど、ヤツらが|それを信じているのは事実です。|だから、ヴァルドラを襲ってきた……。=<edward>But it's true at least that they believe those things. That's why they attacked Valdolla.
-<craigin>ふむ。それは確かにそうかもしれん。|だが、どちらにせよ、|私のやることは変わらんがな。=<craigin>Hmm... That may be the case. But that still doesn't change my plans.
+<craigin>ふむ。それは確かにそうかもしれん。|だが、どちらにせよ、|私のやることは変わらんがな。=<craigin>Hrm... That may be the case. But that still doesn't change my plans.
 <craigin>この司令部に攻撃をかけてくるとは……！|奴らには、相応の礼を|受け取ってもらわねばならん。=<craigin>Assaulting our headquarters...! It's only fitting that I pay them back in equal measure.
 <venus>アタシの部下の報告じゃ、|ここから撤退した敵は、|城の周囲に集結してるみたいだよ。=<venus>My subordinates report that the retreating enemies seem to be gathering around the castle.
 <edward>城……？|——そういえば、アイツも|そんなこと言ってたな……。=<edward>The castle? Come to think of it, that guy mentioned something like that.
@@ -2835,7 +2835,7 @@
 <roy>——気をつけろ、鋼の。|お前にも何か秘密があるようだが……|あの男の力、普通じゃない……。=<roy>Be careful, Fullmetal. I can see you have an ace up your sleeve...but that man's power isn't ordinary.
 <edward>——ああ。|タダ者じゃないってことは、分かってる。|この借りは、高くつきそうだぜ、大佐。=<edward>Yeah. I know he's not a regular guy.|You're gonna owe me big time, Colonel.
 <edward>………………。=<edward>...
-<zelgius>お前が「聖印」を受けた小僧か。|フン、なるほど。|なかなかいい面構えだな。=<zelgius>So you're the kids who received the Holy Seal. Hmm, I see... Your appearances are quite something.
+<zelgius>お前が「聖印」を受けた小僧か。|フン、なるほど。|なかなかいい面構えだな。=<zelgius>So you're the kids who received the Holy Seal. Hmph, I see... Your appearances are quite something.
 <zelgius>レオニードやゴドーを退けたその力、|俺にも見せてもらおうか。=<zelgius>Will you show me the power that defeated both Leonid and Godot?
 <edward>……言われなくても、|そのつもりだぜ。|その目で、しっかり見るんだな！=<edward>I intended to, even if you didn't ask.|Try not to miss a thing!
 <zelgius>ほぅ……面白い……。=<zelgius>Ho... How interesting...
@@ -3020,7 +3020,7 @@
 <hammer>そうっすか……。|でも、もし悩みがあっても、|１人で抱えこまねぇでくだせぇよ。=<hammer>Awright then... But still, if ya got troubles, don't keep 'em to yerself.
 <hammer>オラたちなら、いつでも|ヴィーナス様の|お側にいますから。=<hammer>Y'know we're always by yer side,|Lady Venus.
 <venus>ハンマー……。=<venus>Hammer...
-<venus>フッ……やっぱり、|アンタたちまで巻きこむ|ワケにはいかないね……。=<venus>Hmm... I suppose I shouldn't drag you two down with me...
+<venus>フッ……やっぱり、|アンタたちまで巻きこむ|ワケにはいかないね……。=<venus>Hmph... I suppose I shouldn't drag you two down with me...
 <trigger>コラコラコラ、ハンマー！|我が愛しのヴィーナス様に、|それ以上、近づくんじゃない！！=<trigger>Hey-hey-hey, Hammer! Don't get so close to my beloved Lady Venus!!
 <venus>ん？ どうしたんだい、トリガー？=<venus>Huh? What is it, Trigger?
 <trigger>ああ、今日も美しきヴィーナス様！|クレイギン将軍が、|お呼びになっていますです、ハイ。=<trigger>Ah, you're also beautiful today, Lady Venus! General Graigin has called for you, yes.
@@ -3397,7 +3397,7 @@
 <alphonse>ありがとうございます、大佐。=<alphonse>Thank you very much, Colonel.
 <roy>……鋼の——。|お前も男なら、あの少女を|守ってみせたまえ。=<roy>Fullmetal... If you're also a man, you must protect that girl.
 <edward>……へっ、言われなくても|そのつもりだ。|ソフィはオレが守る。=<edward>Heh! I was gonna do that even if you didn't tell me. Of course I'll protect Sophie.
-<alphonse>オレたちが、でしょ、兄さん。|安心してください、ソフィを|二度と危険な目には遭わせません。=<alphonse>We'll both do so, Brother. Don't worry, we won't put Sophie in danger again.
+<alphonse>オレたちが、でしょ、兄さん。|安心してください、ソフィを|二度と危険な目には遭わせません。=<alphonse>We'll both do it, Brother. Don't worry, we won't put Sophie in danger again.
 <roy>フッ……。|その言葉、信じたぞ。=<roy>Hmm... I believe those words.
 <riza>２人とも、気をつけて。|常に状況判断を|怠らないようにね。=<riza>You two, be careful. Always remember to judge according to the situation.
 <alphonse>はい。|ホークアイ中尉も、|どうかご無事で。=<alphonse>Yes. You stay safe too, Lt. Hawkeye.
@@ -3772,9 +3772,9 @@
 <edward>——なっ！？=<edward>Who's there!?
 <alphonse>アームストロング少佐！！=<alphonse>Major Armstrong!
 <armstrong>怪物どもよ……|お前たちにも見せてやろう。|国家錬金術師のすばらしさを——！=<armstrong>I will show you as well, monsters...|The magnificence of a State Alchemist!
-<armstrong>ハアアアアアアァァ——————ッ！！=<armstrong>Haaaaaaaaaaaaaa!!
-<armstrong>ヌオオオオオオォォ——————ッ！！=<armstrong>Nnnnnghhh!!
-<armstrong>フンヌウウウウゥゥ——————ッ！！=<armstrong>Hmmmnuuuuuhh!!
+<armstrong>ハアアアアアアァァ——————ッ！！=<armstrong>HAAAAAAAAAAAAA!!
+<armstrong>ヌオオオオオオォォ——————ッ！！=<armstrong>NNNNGHHH!!
+<armstrong>フンヌウウウウゥゥ——————ッ！！=<armstrong>HMMMNUUUUUHH!!
 <alphonse>……………………。=<alphonse>...
 <armstrong>……ふっふっふ。|あまりの美しさに|声も出まい……。=<armstrong>Heh heh heh! Such overwhelming beauty often leaves one speechless...
 <edward>——呆れてんだよっ！=<edward>You mean disgusted!
@@ -3959,7 +3959,7 @@
 <bradley>奴らの力の秘密が分かれば、|国家錬金術師に次ぐ、|新たな軍の力になるかもしれん。=<bradley>If we knew the secret to their powers, we could form a powerful new military force, second only to the State Alchemists.
 <bradley>クレイギン中将に、その秘密を|手に入れるよう命じていたのだが……|収穫はなかったようだな。=<bradley>I ordered Lt. General Craigin to obtain that secret...but it seems he failed.
 <edward>な……んだと……！|今、なんて言った……！？=<edward>Wh...what!?|What did you just say...!?
-<bradley>ん？ どうかしたかね？=<bradley>Hm? What's the matter?
+<bradley>ん？ どうかしたかね？=<bradley>Hrm? What's the matter?
 <edward>……アンタが、ヴェルザの一族を|攻撃するよう命じたのか……？|秘密を手に入れるために……！=<edward>...Did you order the attacks on the Velza Clan...? To obtain their secrets...!?
 <bradley>——だとしたら、何かね？|どちらにせよ、危険な力を持つ武装集団、|早めに潰しておくべきだったからな。=<bradley>And what if I did? A group with such dangerous power should have been crushed a long time ago, anyway.
 <edward>……アンタが……！|アンタが余計なことをしなけりゃ……|戦いは避けられたっ……！=<edward>...You...! If you hadn't done something so pointless...this whole war could have been avoided!
@@ -3992,12 +3992,12 @@
 
 !FILE:0220_002/004.txt
 <craigin>——だ、大総統閣下……。=<craigin>Yo-Your Excellency...
-<bradley>ん？|——ああ、君か。|クレイギン君。=<bradley>Hm?|Ah, it's you, Craigin.
+<bradley>ん？|——ああ、君か。|クレイギン君。=<bradley>Hrm?|Ah, it's you, Craigin.
 <craigin>……ご、ご期待にそむき、|申し訳ありません、閣下……！=<craigin>My...my humblest apologies for disappointing you, Your Excellency...!
 <craigin>閣下のため「神の力」を手に入れるべく、|このクレイギン、身を尽くしたのですが……|あと一歩のところで……！=<craigin>I did my best to obtain the power of the goddess for Your Excellency but... I was just one step behind!
 <bradley>………………。=<bradley>...
 <craigin>これはすべて、反逆者ロイ・マスタングと|鋼の錬金術師エドワード・エルリックが|私の邪魔をしたためなのです！=<craigin>It was all because of the meddling of that traitor Roy Mustang and the Fullmetal Alchemist, Edward Elric!
-<bradley>——ふむ、そうかね。|ご苦労だった。|下がって休むが良いぞ。=<bradley>Hm, I see. You did good work.|Now you should retire and take a rest.
+<bradley>——ふむ、そうかね。|ご苦労だった。|下がって休むが良いぞ。=<bradley>Hrm, I see. You did good work.|Now you should retire and take a rest.
 <craigin>——か、閣下！|この私めに、もう一度チャンスを！=<craigin>Yo-Your Excellency!|Please give me one more chance!
 <bradley>……聞こえなかったのかね？|私は、下がって休めと|言ったのだぞ。=<bradley>Did you not hear me?|I told you to retire and take a rest.
 <craigin>今度こそ！ 今度こそ、|閣下のご期待にそってみせます！|ですから、この私めに——！=<craigin>Just one more chance! This time I'll live up to your expectations, Your Excellency!|So please, give me...
@@ -4033,7 +4033,7 @@
 <edward>……ああ、そうだな。アル……。=<edward>Yeah, you're right, Al.
 <edward>……行こう。|アル、ウィンリィ……。=<edward>Let's get going, you two...
 <roy>——ケガの具合はどうだ、中尉。=<roy>How are your injuries, Lieutenant?
-<riza>たいしたことありません。|大佐の方こそ、|ご無理をなさっては——。=<riza>they're nothing serious. I'd rather ask you, Colonel, if you're pushing yourself too much.
+<riza>たいしたことありません。|大佐の方こそ、|ご無理をなさっては——。=<riza>They're nothing serious. I'd rather ask you, Colonel, if you're pushing yourself too much.
 <roy>残念だが、のんびりしてもいられん。|戦死したクレイギン将軍に代わり、|私が、この街の臨時司令官に任命された。=<roy>Sadly, I can't take it easy. I've been set up as temporary commandant of this city, after General Craigin was killed in action.
 <riza>そうですか……。|——ヴェルザの一族は、|みな、姿を消したとか？=<riza>Is that so?|I heard that the Velza Clan has completely disappeared.
 <roy>ああ。北の山岳地帯、|彼らが住んでいた地へ|撤退したようだ。=<roy>They seem to have retreated to the northern mountains, where they used to live.
@@ -4176,7 +4176,7 @@
 <sophie>父は、私の犠牲になった。|私を逃がそうとして、|敵に見つかり、殺されてしまったの。=<sophie>My father sacrificed himself for me.|He was trying to give me an escape, but the clan found and killed him.
 <sophie>だから私は、何があっても、|父の望みをかなえなきゃならない。|——この命に代えても……！=<sophie>Thus I must fulfill my father's wish, no matter what. Even at the cost of my own life!
 <edward>それが……アンタの過去。|アンタの決意と、覚悟か……。=<edward>So that's your past...|I understand your determination and resolve...
-<winry>……ねぇ。エド。|ちょっと、いい？=<winry>Hmm, Ed. Can I talk with you for a moment?
+<winry>……ねぇ。エド。|ちょっと、いい？=<winry>...Hey, Ed. Can I talk with you for a moment?
 <edward>——ん？ なんだ？=<edward>Huh? What is it?
 <winry>ソフィの話、聞いたでしょ。|ソフィ、お父さんと２人で、|ずっと隠れて暮らしてたって。=<winry>You heard Sophie's story, right?|She and her father spent their lives hiding all the time.
 <winry>だから……ソフィって、|小さい頃から、友達っていえる存在が|１人もいないんだって……。=<winry>Then...she's gone her whole life until now without having any friends.
@@ -4258,9 +4258,9 @@
 <edward>ああ。将軍も、|ヴェルザの一族のヤツらと、|同じものを求めているわけだ。=<edward>Yeah. The general and the Velza Clan are after the same thing.
 <edward>——大佐はどうすんだ？|……大佐も、「神の力」を手に入れれば、|出世できるかもしれないぜ。=<edward>What about you, Colonel? With that kind of power, you'd have no problem rising through the ranks.
 <alphonse>兄さん……！=<alphonse>Brother!
-<roy>ふむ。たしかにそうだな。|私も、その力に興味はある。=<roy>Hmm... Actually, that's a good point. I AM also interested in that kind of power.
+<roy>ふむ。たしかにそうだな。|私も、その力に興味はある。=<roy>Hmm... Actually, that's a good point. I AM also interested in the power of the goddess.
 <alphonse>えっ、大佐！？=<alphonse>Huh? Colonel!?
-<roy>だが、私の好みではないな。=<roy>However, this would put a bad taste in my mouth.
+<roy>だが、私の好みではないな。=<roy>However, it would put a bad taste in my mouth.
 <roy>今回の件で、|多くの者が傷つき、|命を落としている。=<roy>Too many people are suffering because of that power.
 <roy>我ら軍人も、|敵であるヴェルザの一族も、|そしてヴァルドラの市民たちも……。=<roy>Our own soldiers, the members of the Velza Clan, and also the citizens of Valdolla...
 <roy>その力とやらが、そこまでして|得る価値があるものだとは、|私には思えん。=<roy>I'm not going to kick people down on my way to the top.
@@ -4292,7 +4292,7 @@
 <sophie>う、うん……。=<sophie>O-okay...
 <edward>よし。|そろそろ行くか、ソフィ。=<edward>All right. Ready to go, Sophie?
 <sophie>——ねぇ、エド……。=<sophie>Hey, Ed...
-<edward>ん？=<edward>Hmm?
+<edward>ん？=<edward>Hm?
 <sophie>私、本当に、|リゼンブールに|行ってもいいのかな？=<sophie>Is it really okay for me to go to Resembool?
 <edward>ああ？|なに言ってんだよ。|当たり前じゃねーか。=<edward>Huh? What are ya talking about? Of course it's okay.
 <sophie>でも、みんなの|迷惑になるんじゃ……。=<sophie>But I'll be a nuisance for everyone...
@@ -4463,7 +4463,7 @@
 <norn>ニャ～！！=<norn>Meeeowww!!
 <winry>いっくよー……。|はい、チーズ！！=<winry>Here we go! Say “cheese"!!
 <winry>……ねぇ、アル。|ちょっと、お願いが|あるんだけどさ……。=<winry>Hey, Al...could you do us a favor?
-<alphonse>——ん、何？|どうしたの……？=<alphonse>Hmm, what?|What's the matter?
+<alphonse>——ん、何？|どうしたの……？=<alphonse>Hm, what?|What's the matter?
 <winry>——私たち、女の子でしょ。|エドみたいなガサツなのと違って、|繊細でデリケートなのよ。=<winry>We're girls, you know. And unlike Ed, who's so rough, we're sensitive and delicate.
 <sophie>……あのね、しばらく|おフロに入ってないから……|身体を洗いたいなって……。=<sophie>You see, we haven't taken a bath in a while, and we'd like to wash ourselves...
 <alphonse>なーんだ。|いいよ、シャワーくらいなら、|すぐに錬成してあげる。=<alphonse>I see... All right, I can transmute a shower for you in no time.
@@ -4707,7 +4707,7 @@
 <sophie>私は孤高の天才科学者イジー・トリガー|これはただの日記ではない|私とヴィーナス様の、愛と斉春のメモリアルだ=<sophie>I am the solitary genius scientist, Izzy Trigger. This isn't just a simple diary, but a memorial to the love and passion between Lady Venus and myself.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>将来、私の妻となる女性をどう呼べばいいのか？|やはりヴィーナス、だろうか|いや、それはありきたりというものだ=<sophie>How should I address the woman who will become my future wife?|Perhaps Venus, after all?|No, that's far too formal.
-<sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>For me, she's like the Virgin Mary, so I'll go with her second name: Maria.|Yes, I choose to do so now.
+<sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>She's my very own Madonna|Yes, let's go with Maria as her middle name|Pretty cool choice, if I do say so myself.
 <sophie>マリア、嗚呼、我が愛しのマリア！|この想い、どうしたら気づいてくれるのか|そうだ、彼女に詩を贈ろう=<sophie>Oh, Maria, my beloved Maria!|How could I convey my feelings to you?|I know! I'll write you a poem.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>ついに詩ができた|マリアは心を打たれ|私を愛してやまずにいられない=<sophie>The poem is finished at last. Maria's heart will be touched. She won't be able to help but love me.
