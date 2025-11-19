@@ -2250,7 +2250,7 @@
 <winry>エ、エド……！？=<winry>E-Ed!?
 <edward>テメェら！|ウィンリィから離れやがれ！！=<edward>Bastards! Get away from her!!
 <edward>大丈夫か？ ウィンリィ。=<edward>Are you okay, Winry?
-<winry>大丈夫じゃないわよッ！|何で、もっと早く来てくれないの！|もう少しで殺されるところだったのよ！！=<winry>No, I'm not okay!|What took you so long!? Another minute and I could have been killed!!
+<winry>大丈夫じゃないわよッ！|何で、もっと早く来てくれないの！|もう少しで殺されるところだったのよ！！=<winry>No, I am NOT okay!|What took you so long!? Another minute and I could have been killed!!
 <winry>肝心な時に、|側にいてくれないんだから、アンタは！|もぉ、ホント使えない男ねっ！=<winry>You weren't here when I needed you most!|You really are such a useless man!
 <edward>なっ……！？|テ、テメェ……！|それが助けてもらったヤツの態度か！？=<edward>Wha!? Y-you...|Is this how you act after someone rescues you!?
 <alphonse>ま、まぁまぁ、２人とも……。|ウィンリィも無事だったんだし、|もういいじゃない……。=<alphonse>N-now now, you two... Winry is safe, and that's all that matters, right?
@@ -4504,8 +4504,8 @@
 <sophie>……栄養ドリンクのネーミングって、|おかしなものばかりね……。|本当に、飲むだけで効くのかしら……。=<sophie>These energy drinks sure have some strange names... I wonder if it works just by drinking it.
 <sophie>「ムキムキブラザーズ」……？=<sophie>“Muscle Brothers"?
 <sophie>……………。|ねぇ、私に何を求めてるの……？=<sophie>...|Hey, what do you expect me to do with this?
-<sophie>「カチコチドリンク」|……これを飲んだら、|防御力が上がります、だって。=<sophie>“Rock-Hard Drink"... It says that if you drink this, your Defense will increase.
-<sophie><bigtext>……防御力って、何？=<sophie><bigtext>BUT WHAT DO THEY|MEAN BY “DEFENSE"?
+<sophie>「カチコチドリンク」|……これを飲んだら、|防御力が上がります、だって。=<sophie>“Rock-Hard Drink"... It says that if you drink this, your “Defense" will increase.
+<sophie><bigtext>……防御力って、何？=<sophie>(But what do they mean by “Defense"?)#I never liked how exaggerated this was
 <sophie>「ワニワニドリンク」|……皮膚が、ワニ皮のように|頑丈になります、だって。=<sophie>“Crocodile Drink"...|It says your skin will become as tough as that of a crocodile.
 <sophie>……爬虫類って苦手なの。|気持ちは嬉しいけど、|女の子に、コレはないんじゃ……。=<sophie>I'm not a big fan of reptiles.|I appreciate the thought, but is this really fit for a girl...?
 <sophie>「フルメタルドリンク」|……身体中が鋼鉄と化し、|銃弾ですらはじき返す壁となります。=<sophie>“Fullmetal Drink"... Turns your whole body into steel, and you become a wall that can deflect even bullets.
@@ -4707,7 +4707,7 @@
 <sophie>私は孤高の天才科学者イジー・トリガー|これはただの日記ではない|私とヴィーナス様の、愛と斉春のメモリアルだ=<sophie>I am the solitary genius scientist, Izzy Trigger. This isn't just a simple diary, but a memorial to the love and passion between Lady Venus and myself.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>将来、私の妻となる女性をどう呼べばいいのか？|やはりヴィーナス、だろうか|いや、それはありきたりというものだ=<sophie>How should I address the woman who will become my future wife?|Perhaps Venus, after all?|No, that's far too formal.
-<sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>She's my very own Madonna.|Yes, let's go with the Maria part of her second name.|Pretty cool choice, if I do say so myself.
+<sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>Rosemaria is a beautiful name, but too long.|Yes, let's go with just the Maria part.|Pretty romantic choice, if I do say so myself.
 <sophie>マリア、嗚呼、我が愛しのマリア！|この想い、どうしたら気づいてくれるのか|そうだ、彼女に詩を贈ろう=<sophie>Oh, Maria, my beloved Maria!|How could I convey my feelings to you?|I know! I'll write you a poem.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>ついに詩ができた|マリアは心を打たれ|私を愛してやまずにいられない=<sophie>The poem is finished at last. Maria's heart will be touched. She won't be able to help but love me.
@@ -5394,7 +5394,7 @@
 <norn>ニャ～ン……。=<norn>Meow...
 <edward>なぁ、ソフィ。|次のオベリスクは、|どこにあるんだ？=<edward>Well, Sophie, where's the next obelisk?
 <sophie>街の北にある、|病院前の広場にあるわ。|だけど——。=<sophie>It's in the north of the city, in front of the hospital square. However...
-<edward>北の病院だな。|よし行くぞ、アル。=<edward>The hospital in the north.|Okay, let's hit the road, Alphonse.
+<edward>北の病院だな。|よし行くぞ、アル。=<edward>The hospital in the north.|'Kay, let's hit the road, Alphonse.
 <sophie>——待って！|今、街の北に行くのは危険よ。=<sophie>Wait! It's dangerous to go to that area right now.
 <sophie>ヴェルザの一族と軍の大軍が|激しく戦っているみたいだから、|とても近づけないわ。=<sophie>The Velza Clan and the army are in the middle of a violent battle over there, so you shouldn't get close.
 <edward>そうは言っても、|ノンビリしてもいられないだろ？=<edward>Even so, we can't just be lazing around, can we?
