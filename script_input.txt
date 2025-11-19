@@ -4707,7 +4707,7 @@
 <sophie>私は孤高の天才科学者イジー・トリガー|これはただの日記ではない|私とヴィーナス様の、愛と斉春のメモリアルだ=<sophie>I am the solitary genius scientist, Izzy Trigger. This isn't just a simple diary, but a memorial to the love and passion between Lady Venus and myself.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>将来、私の妻となる女性をどう呼べばいいのか？|やはりヴィーナス、だろうか|いや、それはありきたりというものだ=<sophie>How should I address the woman who will become my future wife?|Perhaps Venus, after all?|No, that's far too formal.
-<sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>She's my very own Madonna|Yes, let's go with Maria as her middle name|Pretty cool choice, if I do say so myself.
+<sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>She's my very own Madonna.|Yes, let's go with the Maria part of her second name.|Pretty cool choice, if I do say so myself.
 <sophie>マリア、嗚呼、我が愛しのマリア！|この想い、どうしたら気づいてくれるのか|そうだ、彼女に詩を贈ろう=<sophie>Oh, Maria, my beloved Maria!|How could I convey my feelings to you?|I know! I'll write you a poem.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>ついに詩ができた|マリアは心を打たれ|私を愛してやまずにいられない=<sophie>The poem is finished at last. Maria's heart will be touched. She won't be able to help but love me.
