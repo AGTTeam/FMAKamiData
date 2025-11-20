@@ -1275,7 +1275,7 @@
 谷　尚典 （株式会社　シャフト）=Hisanori Tani (SHAFT Co., Ltd.)
 東條　美玲（株式会社　シャフト）=Mirei Tojo (SHAFT Co., Ltd.)
 <yellow><yellow>オブジェクトモデル=<yellow><yellow>Object Models
-山中　由紀yuki yamanaka
+山中　由紀=yuki yamanaka
 <yellow><yellow>エフェクト=<yellow><yellow>Effects
 重富　博行=shigetomi
 <yellow><yellow>画面デザイン=<yellow><yellow>Screen Design
@@ -4758,7 +4758,7 @@
 <roy>だとすれば、菜奈ちゃんの歌は|「激情の錬金術」|といったところか……！！=<roy>In that case, Nana-chan's songs are “the alchemy of passion"!
 <edward><bigtext>「ちゃん」<8006>付け……。=<edward><8006>Why did you add <bigtext>“CHAN"...?
 <roy>——フッ、忘れたとは言わせんぞ。=<roy>Hmph! Don't tell me you've forgotten our climactic battle at the end of Broken Angel already, Fullmetal.
-<roy>鋼１では、ファーストシングル|「消せない罪」をバックに、|私と死闘を繰り広げたろう？=<roy>We duked it out while her first single|“Idelible Sin" played in the background, remember? (Well, not in the NA release...)
+<roy>鋼１では、ファーストシングル|「消せない罪」をバックに、|私と死闘を繰り広げたろう？=<roy>We duked it out while her first single|“Indelible Sin" played in the background, remember? (Well, not in the NA release...)
 <edward><bigtext>身もフタもねえ——！！=<edward><bigtext>THAT'S BREAKING THE|FOURTH WALL!
 <roy>このＣＤはこの教会に置いておこう、|良い子のみんな！|くれぐれも本物を買うように！！=<roy>Let's leave this CD in the church.|And good kids, make sure to buy the real one, okay?
 <edward><bigtext>ＣＤ<8006>とか言うな——ッ！=<edward><8006>Don't call it a <bigtext>CD!
