@@ -218,12 +218,12 @@ U 85e, 86c, 87a until 8f8
 錬成して28bくれ28c！28d =Transmute this!
 これを使28fえ290！28e =Use this!
 いくぜ292、291アル293！294 =Let's go, Al!
-おう295！296 =Alright!
+おう295！296 =All right!
 今297行く298！299 =Coming!
 まかせろ29b！29a =Leave it to me!
 おう29f、29dいくぜ29e！29c =Let's go!
 
-わかった2a3！2a4 =Alright!
+わかった2a3！2a4 =All right!
 今2a5行く2a6よ2a7！2a8 =I'm coming!
 OK2a9！2aa =Okay!
 うん2ab、2ad兄さん2ac！2ae =Okay, Brother!
@@ -280,7 +280,7 @@ Ed:
 頼33 んだぜ34！35 =  I need you!
 止ま36ってくれ37！38  = Stop!
 来て39くれ3a！3b = Come!
-わかった3c！3d =Alright!
+わかった3c！3d =All right!
 アル3e！3f =Al!
 止まれ40！41  = Stop!
 来い42、43アル44！45 =Come, Al!
@@ -307,7 +307,7 @@ Roy:
 こっちに72来い73！74 =Come here!
 錬成75し76たまえ77！78 =Transmute this!
 使い79たまえ7a！7b =Use this!
-わかった7c！7d =Alright!
+わかった7c！7d =All right!
 
 Hawkeye:
 お願い7e！7f =I need a hand!
@@ -643,6 +643,22 @@ Revival Beat
 0021_000
 脱出
 Escape
+94 - 95, 96 -97, 98- 99 are moving from the center outwards animation
+94 is closest to the screen center
+
+ce - cf, d0 - d1 moving from their places outwards animation
+d0 is further out
+
+ORIGINAL POS:
+
+脱 9a={"x": 2, "y": 0, "width": 56, "height": 52, "screenx": -61, "screeny": -45}
+出 9b={"x": 64, "y": 0, "width": 48, "height": 52, "screenx": 6, "screeny": -45}
+
+BLUR starts from a4
+脱={"x": 2, "y": 53, "width": 56, "height": 75, "screenx": -61,
+出={"x": 2, "y": 53, "width": 56, "height": 75, "screenx": -61,
+
+"screeny": -54 are the centered blurs
 
 0022_000\001_04.png
 第 章=Chapter 7
