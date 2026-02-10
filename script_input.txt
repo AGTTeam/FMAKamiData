@@ -43,7 +43,7 @@
 キャットフード=Cat Food
 煮干し=Sardines
 キャンディ=Candy
-磨きオイル=Metal Polish
+磨きオイル=Polishing Oil
 ※アイテム予備用０７=Item Slot 07
 ※アイテム予備用０８=Item Slot 08
 ※アイテム予備用０９=Item Slot 09
@@ -407,8 +407,8 @@
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
-<yellow>ＨＰを２９回復する（エド専用）<white>|１００ｇ１０円の安肉=<yellow>Restores 29 HP. <orange>(Ed only)<white>|Cheap cut of meat worth 10 yen for 100 grams. Not tasty at all.
-<yellow>ＨＰを２９０回復する（エド専用）<white>|１００ｇ１０万円の最高級牛肉=<yellow>Restores 290 HP. <orange>(Ed only)<white>|Expensive cut of meat worth 100,000 yen for 100 grams. Not for cats.
+<yellow>ＨＰを２９回復する（エド専用）<white>|１００ｇ１０円の安肉=<yellow>Restores 29 HP. <orange>(Ed only)<white>|Cheap cut of meat at 10 yen for 100 grams. Not tasty at all.
+<yellow>ＨＰを２９０回復する（エド専用）<white>|１００ｇ１０万円の最高級牛肉=<yellow>Restores 290 HP. <orange>(Ed only)<white>|Expensive cut of meat at 100,000 yen for 100 grams. Not for cats.
 <yellow>２９のダメージを受ける！（エド専用）<white>|危険な香りがする……！=<yellow>Causes 29 points of damage! <orange>(Ed only)<white>|It has a dangerous odor...!
 <yellow>体力を１ポイント上昇させＨＰを５回復する（エド専用）<white>|エド最大の敵、新鮮な牛乳！=<yellow>Increases VIT by 1 point and restores 5 HP. <orange>(Ed only)<white>|Ed's greatest enemy: fresh milk!
 <yellow>ＨＰを３０回復する（エド専用）<white>|一流の料理人ですら涙するタマネギ=<yellow>Restores 30 HP. <orange>(Ed only)<white>|Onions that make even the best chefs cry.
@@ -421,7 +421,7 @@
 <yellow>攻撃力を１ポイント上昇させＨＰを５回復する（エド専用）<white>|ニャンコも悶える高級フード=<yellow>Increases ATK by 1 point and restores 5 HP. <orange>(Ed only)<white>|Premium cat food that makes kitties go crazy.
 <yellow>防御力を１ポイント上昇させＨＰを５回復する（エド専用）<white>|巨大な煮干し、いいダシが取れそう=<yellow>Increases DEF by 1 point and restores 5 HP. <orange>(Ed only)<white>|Huge dried sardines—they'll make a great broth.
 <yellow>錬成力を１ポイント上昇させＨＰを５回復する（エド専用）|<white>雪のように真っ白なミルクキャンディ=<yellow>Increases ALC by 1 point and restores 5 HP. <orange>(Ed only)<white>|A snow-white milk candy.
-<yellow>ＨＰを１５０回復する（アル専用）<white>|鎧を拭くためのオイル、アルの必需品=<yellow>Restores 150 HP. <orange>(Al only)<white>|Oil for cleaning armor—an essential item for Al.
+<yellow>ＨＰを１５０回復する（アル専用）<white>|鎧を拭くためのオイル、アルの必需品=<yellow>Restores 150 HP. <orange>(Al only)<white>|One wipe is all it takes! Even polishes armor!#Oil for cleaning armor—an essential item for Al.
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
@@ -2142,13 +2142,13 @@
 <edward>おい！ あんな所に女の子が！=<edward>Hey! There's a little girl over there!
 <alphonse>兄さん、ここはボクに任せて！！=<alphonse>Leave this to me, Big Brother!
 <alphonse>もう大丈夫。|今すぐ助けてあげるからね。=<alphonse>It's okay now.|I'm here to help you.
-<girl>ひっ…！？ へ、変なヨロイッ！？=<girl>Huh...!? A... A weirdo in armor!?
+<girl>ひっ…！？ へ、変なヨロイッ！？=<girl>Huh...!? A-an armor freak!?
 <alphonse>え……！？|あ、ち、違うよボクは……。=<alphonse>Wha...!?|Erm, n-no, I'm not...
 <girl>やああぁっ！|怖いよ——！|助けてええぇっ！！=<girl>Aaaaaah! I'm scared!|Mommy save meeee!!
 <alphonse>うぅ……。|と、とにかく、|この火をどうにかしないと……。=<alphonse>Uh...|I-I should do something about the fire for now.
 <mother>ああ！|ありがとうございます！=<mother>Ah! Thank you so much!
-<girl>ありがとう！ 変なヨロイの人！=<girl>Thank you, armor weirdo!
-<alphonse>うぅ……。|やっぱり変なヨロイなんだ……。=<alphonse>Ngh...|So you still think I'm just a weirdo...
+<girl>ありがとう！ 変なヨロイの人！=<girl>Thank you, armor freaK!
+<alphonse>うぅ……。|やっぱり変なヨロイなんだ……。=<alphonse>Ngh...|So you still think I'm just a freak...
 <girl>これ、助けてくれたお礼。=<girl>Here, this is for saving me.
 <edward>外は危険だ。|どこかに隠れておいた方がいい。=<edward>It's dangerous out here.|You should hide somewhere safe.
 <mother>はい。|本当にありがとうございました。=<mother>Right. Thank you for everything!
@@ -2485,7 +2485,7 @@
 <man>もしもの時は、|この命に代えても、|彼らを守らなければ……。=<man>If something were to happen, I must protect them, even at the cost of my own life.
 <boy>戦争するのは大人の勝手さ。|けど、奴らが攻めて来たのは、|俺たちの街なんだ。=<boy>Going to war is for adults. But it's our city that they're attacking.
 <boy>……この街を守るためなら、|俺だって戦うよ。=<boy>If it's to protect this city, then I'll fight too!
-<girl>——あっ！|変なヨロイの人だ！！=<girl>Ah! It's the armor weirdo!
+<girl>——あっ！|変なヨロイの人だ！！=<girl>Ah! It's the armor freak!
 <mother>まぁ、あなた方は……。|いつぞやは、娘を助けてもらい、|ありがとうございます。=<mother>Oh, it's you two...|Thank you very much for saving my daughter before.
 <girl>私たち、ここに隠れてるの。|お兄ちゃんたちも、|かくれんぼしに来たんでしょ？=<girl>We're hiding here. Did you come to play hide-and-seek, too?
 <girl>ねぇ、お母さん。|私かくれんぼ飽きちゃった、|早くお外に出たいよー。=<girl>Hey, mom.|I'm tired of playing hide-and-seek,|I wanna go outside soon!
@@ -2755,7 +2755,7 @@
 <roy>ああ。将軍は、|ただ敵を撃退するだけでなく、|何か別のことを狙っているらしい。=<roy>Yes. It seems the general isn't just repelling the enemies, but aiming towards something else...
 <roy>だが、私は、ここでは|将軍の指揮下にあるからな。|自由には動けんのだ。=<roy>However, I'm under the general's command here, so I can't move freely.
 <roy>だから、将軍の動きに|怪しいことがあったら、|すぐ、私に知らせてほしい。=<roy>Therefore, if you notice anything suspicious about the general's actions, I want you to tell me right away.
-<edward>——ふん……。|わかったよ。|こいつも貸しにしとくぜ、大佐！=<edward>Hmph! All right.|But you'll owe me twofold for this one, Colonel!
+<edward>——ふん……。|わかったよ。|こいつも貸しにしとくぜ、大佐！=<edward>Hmph! All right.|But you'll owe me with interest now, Colonel!
 <craigin>ドアのロックは、私が解除しておこう。|屋上の敵は任せたぞ、|鋼の錬金術師君。=<craigin>I'll unlock the door, but I leave that monster on the roof to you, Fullmetal Alchemist.
 
 !FILE:0102_003/004.txt
@@ -2989,7 +2989,7 @@
 <leonid>……印は、力の代償に命を削る……。|これがある限り、アタシたちは|長くは生きられない。=<leonid>The sigil takes life energy in exchange for its power. As long as it's there, we can't live for long.
 <leonid>過去、何百年にもわたって、多くの者が|印を消す方法を見つけようとした。|だけど、それは見つからなかった。=<leonid>For hundreds of years, many have tried to find a way to remove it. But nobody could.
 <leonid>印は、絶対に消えない|ものだったはずよ！|なのに、どうしてアナタがそれを！=<leonid>The sigil was supposed to be impossible to remove! So how is it that you could you do it!?
-<sophie>……父に教えてもらったの。|父はずっと、印の呪いを消す方法を|研究していたのよ。=<sophie>My father taught me. He had been studying a way to remove the sigil's curse for a long time.
+<sophie>……父に教えてもらったの。|父はずっと、印の呪いを消す方法を|研究していたのよ。=<sophie>My father taught me. He had been studying a way to remove the sigils' curse for a long time.
 <sophie>印がなくなれば、ヴェルザの一族は|普通の人間に戻る……。|普通に暮らしていけるようになる……。=<sophie>With the sigil gone, the members of the clan will become normal humans again... They'll be able to lead normal lives.
 <sophie>そうすれば、軍と戦う必要もなく、|いずれ争いはなくなる……。|父は、そう考えていたの。=<sophie>Then there would be no need to fight the army, and conflicts would eventually end... That's what my father thought.
 <leonid>ギルベルトが……そんなことを……。=<leonid>Gilbert...would do all that...?
@@ -3412,7 +3412,7 @@
 
 !FILE:0147_003/004.txt
 <blackbold>アイテム<normal>【オルゴール】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Music Box"
-<girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that armor weirdo's big bro!|I'm hiding here secretly.
+<girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that armor freak's brother!|I'm hiding here secretly.
 <younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<younggirl>My mommy told me to play hide-and-seek until the loud noises stop.
 <younggirl>ほんとは、ちょっと怖いけど……。|——大丈夫、|私、もう泣かないもん！=<younggirl>Honestly, I'm a bit scared...|But it's okay. I'm not gonna cry anymore!
 <younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<younggirl>I wonder if mommy is close...|She said she'd come back soon...
@@ -3538,7 +3538,7 @@
 <zelgius>だが……|我らの力の秘密を狙って、|多くの者が捕らわれ、殺されてきた。=<zelgius>But...many of us have been captured and killed by those who desired the secret of our powers.
 <zelgius>時に、かりそめの平和が訪れても、|また必ず、別の者が我らに目をつけ、|新たな争いが起こる……。=<zelgius>Even when a temporary truce was reached, someone else would always set their sights on us, and start a new conflict.
 <zelgius>神の力ですべてを滅ぼし、|その後に、我らの新しい世を作るのだ。|我らの生きる道は、もはや他にない。=<zelgius>So we'll destroy everything with the power of our goddess, and create a new world in its ruin. We have no other way to live.
-<sophie>そんなことない！ 道はあるわ！|私の父は、|印の呪いを消す方法を——！=<sophie>It doesn't have to be like that! There are other ways! My father found a way to remove the sigil's curse...!
+<sophie>そんなことない！ 道はあるわ！|私の父は、|印の呪いを消す方法を——！=<sophie>It doesn't have to be like that! There are other ways! My father found a way to remove the sigils' curse...!
 <zelgius>神を蘇らせようと決めたのは、|ギルベルト。|——お前が、父と呼んでいる男だ。=<zelgius>It was Gilbert who decided to revive the goddess. The man you call your father.
 <sophie>えっ……？=<sophie>What...?
 <zelgius>ヴィクトール・ベルクマンこと、|霊光のギルベルト。かつては、|我ら四神官の上に立つ、一族の長だった。=<zelgius>Victor Bergmann, also known as Gilbert of the Spiritual Light. He was once our leader, standing above us Four Priests.
@@ -4361,7 +4361,7 @@
 <alphonse>ソフィ……。=<alphonse>Sophie...
 <sophie>それに、私にはまだ、|やり残したことがある——。=<sophie>Besides, I still have some unfinished business.
 <winry>やり残したこと——？=<winry>“Unfinished business"?
-<sophie>生き残ったヴェルザの一族は|今も、印の呪いに苦しんでいる……。=<sophie>The surviving members of the Velza Clan are still suffering because of the sigil's curse.
+<sophie>生き残ったヴェルザの一族は|今も、印の呪いに苦しんでいる……。=<sophie>The surviving members of the Velza Clan are still suffering because of the sigils' curse.
 <sophie>——私、彼らを助けたい……！|聖印の力を持った私なら、|印の呪いを消すことができる——！=<sophie>I want to help them! I can erase their sigils with my power.
 <sophie>これは、父さんの遺志……。|そして、私の|意思でもあるの……。=<sophie>This was my father's last wish...|And it's my wish as well.
 <edward>ソフィ……！=<edward>Sophie...
@@ -4386,7 +4386,7 @@
 <sophie>——ねぇ、アル。|どうしたの、この傷……！？=<sophie>Hey, Al. What's with that crack?
 <alphonse>ん？|——ああ、これのこと？|ちょっと、ヘマしちゃってさ。=<alphonse>Huh? Oh, you mean this?|I just made a little mistake.
 <sophie>ヘマって……。|こんな大きな傷……。=<sophie>You call this huge crack a little mistake?
-<alphonse>このくらい、大したことないよ。|ボクは、鎧の内側にある血印を|壊されない限り、死なないから。=<alphonse>It's not such a big deal. I won't die unless the blood rune inside my armor is erased.#it's said that the sigils are a unique form of alchemy so a distinction seems necessary to me. Also the new translation of the manga uses blood rune
+<alphonse>このくらい、大したことないよ。|ボクは、鎧の内側にある血印を|壊されない限り、死なないから。=<alphonse>It's not such a big deal. I won't die unless the blood rune inside my armor is erased.#it's said that the wesigils are a unique form of alchemy so a distinction seems necessary to me. Also the new translation of the manga uses blood rune
 <alphonse>確かに、生身の身体なら、|危なかったかもしれないけどね。=<alphonse>But if I had a living body, I guess it would have been pretty dangerous.
 <sophie>……ゴメンね。|私が、エドとアルを|危険な目に……。=<sophie><sophie>I'm sorry... I'm putting Ed and you in danger...
 <alphonse>——あ、ち、違うよ！|ソフィを、責めてるワケじゃないんだ。=<alphonse>Oh, it's...it's nothing like that!|I'm not blaming you, Sophie!
@@ -4664,7 +4664,7 @@
 <sophie>ヴェルザの一族が持つ印は|元はヴェルザが与えたものである=<sophie>The sigils of the Velza Clan were originally bestowed upon them by her.
 <sophie>印とは、ヴェルザが編みだした|独自の錬金術であった=<sophie>She was the one who devised the sigils as a unique alchemy technique.
 <sophie>絶大な力の代わりに|己の生命力を削る印の力は|当時、ヴェルザの弟子だけが持つことを許された=<sophie>Back then, only the disciples of Velza were allowed to hold the sigils, which grant immense power in exchange for one's own life.
-<sophie>ヴェルザにしか消すことのできない印は|ヴェルザが封印された後も、子孫代々受け継がれ|呪縛となって、ヴェルザの一族を苦しめている=<sophie>This sigil only Velza could erase was passed down through generations, becoming a curse that tormented the clan.
+<sophie>ヴェルザにしか消すことのできない印は|ヴェルザが封印された後も、子孫代々受け継がれ|呪縛となって、ヴェルザの一族を苦しめている=<sophie>These sigils only Velza could erase was passed down through generations, becoming a curse that tormented the clan.
 <sophie>「ヴェルザの天使軍」=<sophie>“The Angelic Army of Velza"
 <sophie>ヴェルザが過去に造った|巨大な神の塔|一つの巨大生命体=<sophie>Long ago, Velza created the Great Tower of God, a single colossal lifeform.
 <sophie>その塔から産みだされる翼を持った怪物|天使|ヴェルザの手足となり人間に牙を向ける=<sophie>From this tower, winged monsters are born. Angels. They serve Velza and bear their fangs against humanity.
@@ -5338,7 +5338,7 @@
 <riza>……確かに、この子にとっては、|その方が、いいかもしれないわね。=<riza>It's true, that might be better for him.
 <sophie>——ッ、じゃあ！=<sophie>Yeah!
 <riza>ハヤテ号のこと、|よろしくお願いするわ。=<riza>Please take good care of him.
-<sophie>——やったぁ！！|よろしくね、ハヤチン！！=<sophie>All right! Nice to meet you, Hayachin!!
+<sophie>——やったぁ！！|よろしくね、ハヤチン！！=<sophie>All right! Nice to meet you, Hayacheese!!
 <riza><bigtext>……ハヤテ号よ。=<riza><bigtext>IT'S HAYATE.
 <sophie>——パッ、パンダ！？|どうして、北方に|パンダがいるの……！？=<sophie>A...a panda!?|Why is there a panda all the way up here in the north!?
 <edward>行きだおれ、ってやつだな。|飼って世話してやろうぜ、|ネコもパンダも変わらねーだろ？=<edward>This one's a wanderer, huh?|Let's take care of it. Cats and pandas are similar, right?
@@ -5553,7 +5553,7 @@
 <sophie>その聖印さえあれば、|あなたたちにも、|オベリスクを封印することができるわ。=<sophie>With the power of the Holy Sigil, you too will be able to do that.
 <edward>……これが、|さっきのアンタの力の——？=<edward>So this is the power you used earlier?
 <sophie>ええ。聖印は、私の力の源。|それがあれば、ヴェルザの一族が持つ|力にも対抗できるわ。=<sophie>Yes. The Holy Sigil is the source of my power. With it, I can fight against the Velza Clan.
-<alphonse>こんな印に、そんな力が……。=<alphonse>All that power...from just a little sigil...
+<alphonse>こんな印に、そんな力が……。=<alphonse>All that power...from just a little mark...
 
 !FILE:0224_000/004.txt
 ステージ１に入ります=Entering Stage 1
@@ -5644,4 +5644,3 @@
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
 <smalltext>次エリアフロアへ進めます！=<smalltext>Go to the next area floor!
 <smalltext><bigtext><yellow>ハガレンタッグマッチ<white>クリア！！|||<8006><green> ＹＯＵ　ＡＲＥ　ＴＨＥ　ＣＨＡＭＰＩＯＮ！！<white>|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<smalltext><bigtext><yellow>Fullmetal Tag Match <white>cleared!!|||<8006><green>YOU ARE THE CHAMPION!!<white>|||<smalltext>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the|main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
-
