@@ -2147,7 +2147,7 @@
 <girl>やああぁっ！|怖いよ——！|助けてええぇっ！！=<girl>Aaaaaah! I'm scared!|Mommy save meeee!!
 <alphonse>うぅ……。|と、とにかく、|この火をどうにかしないと……。=<alphonse>Uh...|I-I should do something about the fire for now.
 <mother>ああ！|ありがとうございます！=<mother>Ah! Thank you so much!
-<girl>ありがとう！ 変なヨロイの人！=<girl>Thank you, armor freaK!
+<girl>ありがとう！ 変なヨロイの人！=<girl>Thank you, armor freak!
 <alphonse>うぅ……。|やっぱり変なヨロイなんだ……。=<alphonse>Ngh...|So you still think I'm just a freak...
 <girl>これ、助けてくれたお礼。=<girl>Here, this is for saving me.
 <edward>外は危険だ。|どこかに隠れておいた方がいい。=<edward>It's dangerous out here.|You should hide somewhere safe.
@@ -4386,7 +4386,7 @@
 <sophie>——ねぇ、アル。|どうしたの、この傷……！？=<sophie>Hey, Al. What's with that crack?
 <alphonse>ん？|——ああ、これのこと？|ちょっと、ヘマしちゃってさ。=<alphonse>Huh? Oh, you mean this?|I just made a little mistake.
 <sophie>ヘマって……。|こんな大きな傷……。=<sophie>You call this huge crack a little mistake?
-<alphonse>このくらい、大したことないよ。|ボクは、鎧の内側にある血印を|壊されない限り、死なないから。=<alphonse>It's not such a big deal. I won't die unless the blood rune inside my armor is erased.#it's said that the wesigils are a unique form of alchemy so a distinction seems necessary to me. Also the new translation of the manga uses blood rune
+<alphonse>このくらい、大したことないよ。|ボクは、鎧の内側にある血印を|壊されない限り、死なないから。=<alphonse>It's not such a big deal. I won't die unless the blood rune inside my armor is erased.#it's said that the sigils are a unique form of alchemy so a distinction seems necessary to me. Also the new translation of the manga uses blood rune
 <alphonse>確かに、生身の身体なら、|危なかったかもしれないけどね。=<alphonse>But if I had a living body, I guess it would have been pretty dangerous.
 <sophie>……ゴメンね。|私が、エドとアルを|危険な目に……。=<sophie><sophie>I'm sorry... I'm putting Ed and you in danger...
 <alphonse>——あ、ち、違うよ！|ソフィを、責めてるワケじゃないんだ。=<alphonse>Oh, it's...it's nothing like that!|I'm not blaming you, Sophie!
@@ -4664,7 +4664,7 @@
 <sophie>ヴェルザの一族が持つ印は|元はヴェルザが与えたものである=<sophie>The sigils of the Velza Clan were originally bestowed upon them by her.
 <sophie>印とは、ヴェルザが編みだした|独自の錬金術であった=<sophie>She was the one who devised the sigils as a unique alchemy technique.
 <sophie>絶大な力の代わりに|己の生命力を削る印の力は|当時、ヴェルザの弟子だけが持つことを許された=<sophie>Back then, only the disciples of Velza were allowed to hold the sigils, which grant immense power in exchange for one's own life.
-<sophie>ヴェルザにしか消すことのできない印は|ヴェルザが封印された後も、子孫代々受け継がれ|呪縛となって、ヴェルザの一族を苦しめている=<sophie>These sigils only Velza could erase was passed down through generations, becoming a curse that tormented the clan.
+<sophie>ヴェルザにしか消すことのできない印は|ヴェルザが封印された後も、子孫代々受け継がれ|呪縛となって、ヴェルザの一族を苦しめている=<sophie>These sigils only Velza could erase were passed down through generations, becoming a curse that tormented the clan.
 <sophie>「ヴェルザの天使軍」=<sophie>“The Angelic Army of Velza"
 <sophie>ヴェルザが過去に造った|巨大な神の塔|一つの巨大生命体=<sophie>Long ago, Velza created the Great Tower of God, a single colossal lifeform.
 <sophie>その塔から産みだされる翼を持った怪物|天使|ヴェルザの手足となり人間に牙を向ける=<sophie>From this tower, winged monsters are born. Angels. They serve Velza and bear their fangs against humanity.
@@ -4707,7 +4707,7 @@
 <sophie>私は孤高の天才科学者イジー・トリガー|これはただの日記ではない|私とヴィーナス様の、愛と斉春のメモリアルだ=<sophie>I am the solitary genius scientist, Izzy Trigger. This isn't just a simple diary, but a memorial to the love and passion between Lady Venus and myself.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>将来、私の妻となる女性をどう呼べばいいのか？|やはりヴィーナス、だろうか|いや、それはありきたりというものだ=<sophie>How should I address the woman who will become my future wife?|Perhaps Venus, after all?|No, that's far too formal.
-<sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>Rosemaria is a beautiful name, but too long.|Yes, let's go with just the Maria part.|Pretty romantic choice, if I do say so myself.
+<sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>Rosemaria is a beautiful name, but too long.|Yes, let's go with just Maria.|It's a pure and holy name.
 <sophie>マリア、嗚呼、我が愛しのマリア！|この想い、どうしたら気づいてくれるのか|そうだ、彼女に詩を贈ろう=<sophie>Oh, Maria, my beloved Maria!|How could I convey my feelings to you?|I know! I'll write you a poem.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>ついに詩ができた|マリアは心を打たれ|私を愛してやまずにいられない=<sophie>The poem is finished at last. Maria's heart will be touched. She won't be able to help but love me.
@@ -5644,3 +5644,4 @@
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
 <smalltext>次エリアフロアへ進めます！=<smalltext>Go to the next area floor!
 <smalltext><bigtext><yellow>ハガレンタッグマッチ<white>クリア！！|||<8006><green> ＹＯＵ　ＡＲＥ　ＴＨＥ　ＣＨＡＭＰＩＯＮ！！<white>|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<smalltext><bigtext><yellow>Fullmetal Tag Match <white>cleared!!|||<8006><green>YOU ARE THE CHAMPION!!<white>|||<smalltext>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the|main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
+
