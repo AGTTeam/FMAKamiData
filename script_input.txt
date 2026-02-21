@@ -4667,7 +4667,7 @@
 <sophie>ヴェルザにしか消すことのできない印は|ヴェルザが封印された後も、子孫代々受け継がれ|呪縛となって、ヴェルザの一族を苦しめている=<sophie>These sigils only Velza could erase were passed down through generations, becoming a curse that tormented the clan.
 <sophie>「ヴェルザの天使軍」=<sophie>“The Angelic Army of Velza"
 <sophie>ヴェルザが過去に造った|巨大な神の塔|一つの巨大生命体=<sophie>Long ago, Velza created the Great Tower of God, a single colossal lifeform.
-<sophie>その塔から産みだされる翼を持った怪物|天使|ヴェルザの手足となり人間に牙を向ける=<sophie>From this tower, winged monsters are born. Angels. They serve Velza and bear their fangs against humanity.
+<sophie>その塔から産みだされる翼を持った怪物|天使|ヴェルザの手足となり人間に牙を向ける=<sophie>From this tower, winged monsters are born. Angels. They serve Velza and bare their fangs against humanity.
 <sophie>天使たちは瞬く間に増殖し|やがて人の数を超える|人間が滅ぶまで、殺戮は続くだろう=<sophie>These angels multiply in an instant, quickly surpassing the number of humans, and will keep slaughtering until humanity is wiped out.
 <sophie>「必要物２」=<sophie>“Necessities 2"
 <sophie>生贄、つまり人の魂が充分に集まれば|ヴェルザが眠る石は|煌々と輝きはじめる=<sophie>When enough human souls are gathered, the stone where Velza sleeps will begin to shine brilliantly.
@@ -4707,7 +4707,7 @@
 <sophie>私は孤高の天才科学者イジー・トリガー|これはただの日記ではない|私とヴィーナス様の、愛と斉春のメモリアルだ=<sophie>I am the solitary genius scientist, Izzy Trigger. This isn't just a simple diary, but a memorial to the love and passion between Lady Venus and myself.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>将来、私の妻となる女性をどう呼べばいいのか？|やはりヴィーナス、だろうか|いや、それはありきたりというものだ=<sophie>How should I address the woman who will become my future wife?|Perhaps Venus, after all?|No, that's far too formal.
-<sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>Rosemaria is a beautiful name, but too long.|Yes, let's go with just Maria.|It's a pure and holy name.
+<sophie>彼女は私にとっての聖母|そう、セカンドネームのマリアでいこう|我ながらナウイ選択だ=<sophie>She's my pure and holy goddess.|Right, simply just Maria is the way to go.|Quite slick, if I do say so.
 <sophie>マリア、嗚呼、我が愛しのマリア！|この想い、どうしたら気づいてくれるのか|そうだ、彼女に詩を贈ろう=<sophie>Oh, Maria, my beloved Maria!|How could I convey my feelings to you?|I know! I'll write you a poem.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>ついに詩ができた|マリアは心を打たれ|私を愛してやまずにいられない=<sophie>The poem is finished at last. Maria's heart will be touched. She won't be able to help but love me.
@@ -5644,4 +5644,3 @@
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
 <smalltext>次エリアフロアへ進めます！=<smalltext>Go to the next area floor!
 <smalltext><bigtext><yellow>ハガレンタッグマッチ<white>クリア！！|||<8006><green> ＹＯＵ　ＡＲＥ　ＴＨＥ　ＣＨＡＭＰＩＯＮ！！<white>|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<smalltext><bigtext><yellow>Fullmetal Tag Match <white>cleared!!|||<8006><green>YOU ARE THE CHAMPION!!<white>|||<smalltext>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the|main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
-
