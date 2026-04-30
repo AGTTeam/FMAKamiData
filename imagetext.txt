@@ -642,7 +642,7 @@ Revival Beat
 
 0021_000
 脱出
-Escape
+The Great Escape
 94 - 95, 96 -97, 98- 99 are moving from the center outwards animation
 94 is closest to the screen center
 
@@ -665,7 +665,7 @@ BLUR starts from a4
 
 0022_000
 強行突破
-Through the Lines
+Behind Enemy Lines
 
 0023_000\001_04.png#done
 第 章=Chapter 8
@@ -703,6 +703,27 @@ BLUR starts from cb
 0024_000
 最後の戦い
 The Last Battle
+
+95 - 99, 9a - 9e, 9f - a3 are moving from the center outwards animation
+95 is closest to the screen center, then 9a, then 9f
+
+17a - 17e, 17f - 183, moving from their places outwards animation
+17f is further out
+
+ORIGINAL POS:
+最={"x": 2, "y": 0, "width": 56, "height": 54, "screenx": -147, "screeny": -48}
+後={"x": 59, "y": 0, "width": 58, "height": 54, "screenx": -88, "screeny": -48}
+の={"x": 120, "y": 0, "width": 49, "height": 54, "screenx": -25, "screeny": -48}
+戦={"x": 176, "y": 0, "width": 55, "height": 54, "screenx": 28, "screeny": -48}
+い={"x": 7, "y": 59, "width": 46, "height": 54, "screenx": 87, "screeny": -46}
+
+BLUR starts from b4
+最={"x": 1, "y": 179, "width": 55, "height": 76,
+後={"x": 58, "y": 179, "width": 58, "height": 76,
+の={"x": 119, "y": 179, "width": 49, "height": 76,
+戦={"x": 175, "y": 179, "width": 54, "height": 76,
+い={"x": 60, "y": 54, "width": 46, "height": 76, 
+"screeny": -59 are the centered blurs
 
 0026_021/001_00.png
 閉=Closed
