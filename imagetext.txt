@@ -118,11 +118,11 @@ ONF
 
 0013_000\001_07.png
 倉庫 101 110 街 102 111
-Warehouse Area
+Warehouse Area = Industrial Area
 W 103 a 107 r 105 e 106 h 108 o 104 113  u 109 s 10a e 10b    a 10f  r 10c e 10d  a 10e 
 
 Dupe 112-11e
-Metro station
+Metro station = Subway
 地下鉄 11f 12d 駅 120 12e
 M 121   e 122  t 127  r 126 o 124   s 123  t 12a  a 128 t 12b  i 129 o 12c  n 125
 Dupe 12f-13a
@@ -138,7 +138,7 @@ O 155 l 156 d 157   C 158 a 14d s 15a t 15b l 159  e 15c
 Dupe 160-168
 
 市 16a 174 街 169 173
-Town area
+Town area = Main Street
 T 170 o 16b w 16c n 16d  a 171  r 16e e 16f a 172
 Dupe 174-17c
 
@@ -153,19 +153,19 @@ O 1a1 l 1a2 d 1a3  C 1a4  a 1a9 s 1a6 t 1a7 l 1a5 e 1a8 – 1aa B 1ab
 Dupe 1b0-1ba
 
 神殿 1bb 1c7
-Velza Shrine
+Velza Shrine = Velza Temple
 V 1bd e 1c0 l 1c2 z 1be a 1c1 S 1bc h 1c3 r 1c6  i 1bf n 1c4 e 1c5
 Dupe 1c8-1d2
 
 -big jump in numbers-
 
 教会 25d 26a
-Vacant Church
+Vacant Church = Church
 V 264 a 268 c 265 a 269 n 266 t 267  C 25f  h 260 u 261 r 25e c 262 h 263
 Dupe 26b-276
 
 市 278 288 街 277 287 – 27a 28a 西 279 289
-West town area
+West town area = City West
 W 27b e 27c s 27d  t 27e  t 284 o 27f w 280 n 281 a 285 r 282  e 283 a 286
 Dupe 28b-296
 
