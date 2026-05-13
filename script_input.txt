@@ -1297,7 +1297,7 @@
 <yellow><yellow>エンディングテーマ=<yellow><yellow>Ending Theme
 『Ｃｌｏｓｅ　ｍｙ　ｅｙｅｓ』=“Close My Eyes"
 <smalltext><smalltext>（Ｒａｃｊｉｎ-Ｒａｄｉｘ）<8006>=<smalltext><smalltext>(Racjin-Radix)<8006>
-<smalltext><smalltext>歌 作詞　：Ｎａｏｋｏ　Ｍｏｒｉ（Ｒａｃｊｉｎ-Ｒａｄｉｘ）　　　　　　=<smalltext><smalltext>Song lyrics: Naoko Mori (Racjin-Radix)
+<smalltext><smalltext>歌 作詞　：Ｎａｏｋｏ　Ｍｏｒｉ（Ｒａｃｊｉｎ-Ｒａｄｉｘ）　　　　　　=<smalltext><smalltext>Lyrics/Vocals: Naoko Mori (Racjin-Radix)
 <smalltext>　<smalltext>　作曲　　　：Ｔｏｍｏｈｉｋｏ　Ｓａｔｏ（Ｒａｃｊｉｎ-Ｒａｄｉｘ）=<smalltext><smalltext>Composer: Tomohiko Sato (Racjin-Radix)
 <smalltext><smalltext>音楽監督　：Ｔｏｍｏｈｉｋｏ　Ｓａｔｏ（Ｒａｃｊｉｎ-Ｒａｄｉｘ）=<smalltext><smalltext>Music director: Tomohiko Sato (Racjin-Radix)
 <smalltext><smalltext>Ｇｕｉｔａｒ　　　　　：和田　肇　　　　　=<smalltext><smalltext>Guitar: Hajime Wada
@@ -1424,7 +1424,7 @@
 　　内田　勉=Tsutomu Uchida
 西　俊樹　　　=Toshiki Nishi
 　　長峰　愛子=Aiko Nagamine
-<yellow><yellow>撮影=<yellow><yellow>Filming
+<yellow><yellow>撮影=<yellow><yellow>Photography
 Ｔ２　ＳＴＵＤＩＯ=T2 STUDIO
 福士　享=Toru Fukushi
 設楽　希=Nozomi Shitara
