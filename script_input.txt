@@ -1424,7 +1424,7 @@
 　　内田　勉=　　Tsutomu Uchida
 西　俊樹　　　=Toshiki Nishi　　　#spaces
 　　長峰　愛子=　　Aiko Nagamine
-<yellow><yellow>撮影=<yellow><yellow>Filming
+<yellow><yellow>撮影=<yellow><yellow>Photography
 Ｔ２　ＳＴＵＤＩＯ=T2 STUDIO
 福士　享=Toru Fukushi
 設楽　希=Nozomi Shitara
