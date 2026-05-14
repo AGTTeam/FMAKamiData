@@ -656,10 +656,10 @@
 <yellow>すべての能力値がダウンする<white>|パンダらしき生命体、はるばるシンからやってきた=<yellow>Lowers all stats.<white>|A panda-like creature that came all the way from Xing.
 
 !FILE:0000_016.txt
-はい= Yes
-いいえ=    No
+はい=Yes
+いいえ=No
 シティマップへ戻りますか？=Return to city map?
-/=   /
+/=/
 
 !FILE:0006_000.txt
 スロット１・２のメモリーカード（ＰＳ２）の　|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。||このまま開始しますか？=There's not enough space in slots 1 or 2 of Memory Card (PS2). |To save this game, you need at least 188 KB of free space.||Do you still want to continue?
