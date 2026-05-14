@@ -656,10 +656,10 @@
 <yellow>すべての能力値がダウンする<white>|パンダらしき生命体、はるばるシンからやってきた=<yellow>Lowers all stats.<white>|A panda-like creature that came all the way from Xing.
 
 !FILE:0000_016.txt
-はい=Yes
-いいえ=No
+はい= Yes
+いいえ=    No
 シティマップへ戻りますか？=Return to city map?
-/=/
+/=   /
 
 !FILE:0006_000.txt
 スロット１・２のメモリーカード（ＰＳ２）の　|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。||このまま開始しますか？=There's not enough space in slots 1 or 2 of Memory Card (PS2). |To save this game, you need at least 188 KB of free space.||Do you still want to continue?
@@ -669,7 +669,7 @@
 <8037>スロット２のメモリーカード（ＰＳ２）の<8037>|<8037>空き容量が不足しています。|<8037>このゲームのデータをセーブするには、|<8037>１８８ＫＢ以上の空き容量が必要です。||<8037>このまま開始しますか？=<8037>There's not enough space in slot 2 of Memory Card (PS2). |<8037>To save this game, you need at least 188 KB of free space.||<8037>Do you still want to continue?
 
 !FILE:0007_000.txt
-セーブを終了しますか？=    Exit save menu?   #keep the spaces
+セーブを終了しますか？=       Exit save menu?       #keep the spaces
 スロット１のメモリーカード（ＰＳ２）を|チェック中です。=Checking slot 1 of Memory Card (PS2).
 スロット２のメモリーカード（ＰＳ２）を|チェック中です。=Checking slot 2 of Memory Card (PS2).
 スロット１にメモリーカード（ＰＳ２）が|差されていません。=There's no Memory Card (PS2) in slot 1.
@@ -1141,10 +1141,10 @@
 話し掛ける=Talk
 プレゼントする=Give present
 戻る=Return
-これをプレゼントしますか？=Give this as a present?
+これをプレゼントしますか？=      Give this as a present?      #spaces
 エドが装備していますがいいですか？=Ed is equipped with it. Continue?
 アルが装備していますがいいですか？=Al is equipped with it. Continue?
-プレゼントをやめますか？=Stop giving presents?
+プレゼントをやめますか？=      Stop giving presents?      #spaces
 <8024>ボーナスポイントを<8040>ポイントゲット！=<8024>Got <8040> bonus point!
 <8024><8038>の<8039>が<8040>ポイントアップ！=<8024><8038>'s <8039> went up by <8040>!
 <8024><8038>をゲット！=<8024>Received <8038>!
