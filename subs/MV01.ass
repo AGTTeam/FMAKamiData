@@ -1,0 +1,22 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 352
+PlayResY: 262
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18.2,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.9,0.9,2,9,9,9,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:58.94,0:01:00.17,Default,,0,0,0,,Who's that?
+Dialogue: 0,0:01:00.19,0:01:00.95,Default,,0,0,0,,You there!
+Dialogue: 0,0:01:15.29,0:01:16.25,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:02:03.72,0:02:06.15,Default,,0,0,0,,The souls of these impure people...
+Dialogue: 0,0:02:06.75,0:02:08.78,Default,,0,0,0,,Become our offering to the goddess.
+Dialogue: 0,0:02:28.84,0:02:30.90,Default,,0,0,0,,The time for resurrection has come.
+Dialogue: 0,0:02:31.91,0:02:35.48,Default,,0,0,0,,We're going to set everything right.

@@ -662,11 +662,11 @@
 /=/
 
 !FILE:0006_000.txt
-スロット１・２のメモリーカード（ＰＳ２）の　|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。||このまま開始しますか？=There's not enough space in slots 1 or 2 of Memory Card (PS2). |To save this game, you need at least 188 KB of free space.||Do you still want to continue?
-スロット１・２にメモリーカード（ＰＳ２）が|差されていません。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。||このまま開始しますか？=A Memory Card (PS2) is not inserted in slot 1 or 2.|To save this game, you need at least 188 KB of free space.||Do you still want to continue?
-アナログコントローラ（ＤＵＡＬＳＨＯＣＫ<8037>２）が|接続されていません。||アナログコントローラ（ＤＵＡＬＳＨＯＣＫ<8037>２）を|コントローラ瑞子１に正しく接続しなおしてから、|<circle>を押してください。=The analog controller (DUALSHOCK<8037>2) is not connected.||Please connect the analog controller in port 1, then press <circle>.
-<8037>スロット１のメモリーカード（ＰＳ２）の<8037>|<8037>空き容量が不足しています。|<8037>このゲームのデータをセーブするには、|<8037>１８８ＫＢ以上の空き容量が必要です。||<8037>このまま開始しますか？=<8037>There's not enough space in slot 1 of Memory Card (PS2). |<8037>To save this game, you need at least 188 KB of free space.||<8037>Do you still want to continue?
-<8037>スロット２のメモリーカード（ＰＳ２）の<8037>|<8037>空き容量が不足しています。|<8037>このゲームのデータをセーブするには、|<8037>１８８ＫＢ以上の空き容量が必要です。||<8037>このまま開始しますか？=<8037>There's not enough space in slot 2 of Memory Card (PS2). |<8037>To save this game, you need at least 188 KB of free space.||<8037>Do you still want to continue?
+スロット１・２のメモリーカード（ＰＳ２）の　|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。||このまま開始しますか？=There's not enough space in slots 1 or 2 of|Memory Card (PS2). |To save this game, you need at least 188 KB|of free space.||Do you still want to continue?
+スロット１・２にメモリーカード（ＰＳ２）が|差されていません。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。||このまま開始しますか？=A Memory Card (PS2) is not inserted in slot 1 or 2.|To save this game, you need at least 188 KB|of free space.||Do you still want to continue?
+アナログコントローラ（ＤＵＡＬＳＨＯＣＫ<8037>２）が|接続されていません。||アナログコントローラ（ＤＵＡＬＳＨＯＣＫ<8037>２）を|コントローラ瑞子１に正しく接続しなおしてから、|<circle>を押してください。=The analog controller (DUALSHOCK<8037>2)|is not connected.||Please connect the analog controller in|port 1, then press <circle>.
+<8037>スロット１のメモリーカード（ＰＳ２）の<8037>|<8037>空き容量が不足しています。|<8037>このゲームのデータをセーブするには、|<8037>１８８ＫＢ以上の空き容量が必要です。||<8037>このまま開始しますか？=<8037>There's not enough space in slot 1 of|Memory Card (PS2). |<8037>To save this game, you need at least 188 KB|of free space.||<8037>Do you still want to continue?
+<8037>スロット２のメモリーカード（ＰＳ２）の<8037>|<8037>空き容量が不足しています。|<8037>このゲームのデータをセーブするには、|<8037>１８８ＫＢ以上の空き容量が必要です。||<8037>このまま開始しますか？=<8037>There's not enough space in slot 2 of|Memory Card (PS2). |<8037>To save this game, you need at least 188 KB|of free space.||<8037>Do you still want to continue?
 
 !FILE:0007_000.txt
 セーブを終了しますか？=       Exit save menu?       #keep the spaces
