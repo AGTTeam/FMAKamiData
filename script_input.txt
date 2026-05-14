@@ -695,9 +695,9 @@
 選択したファイルのデータは壊れています。|上書きしますか？=The data of selected file is corrupted. |Do you want to overwrite it?
 スロット１のメモリーカード（ＰＳ２）の|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。  =There's not enough space in slot 1 of Memory Card (PS2). |To save this game, you need at least 188 KB of free space.
 スロット２のメモリーカード（ＰＳ２）の|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。  =There's not enough space in slot 2 of Memory Card (PS2). |To save this game, you need at least 188 KB of free space.
-はい= Yes
-/=  /
-いいえ=   No
+はい=Yes
+/=/
+いいえ=No
 クリアデータをセーブしますか？=Save game CLEAR data?
 
 !FILE:0007_001.txt
