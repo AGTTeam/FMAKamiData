@@ -147,6 +147,9 @@ Headquarter-B
 H 180 e 181 a 188 d 189 q 182 u 183 a 187 r 184 t 186 e 185 r 18a – 18b  B 18c
 Dupe 190-19c
 
+b8-c5 is the hq image
+b0-b7 is the image's shadow
+
 古 1a0 1af 城 19d 1ac – 19f 1ae B 19e 1ad
 Old Castle-B
 O 1a1 l 1a2 d 1a3  C 1a4  a 1a9 s 1a6 t 1a7 l 1a5 e 1a8 – 1aa B 1ab
