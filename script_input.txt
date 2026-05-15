@@ -619,7 +619,7 @@
 <yellow>錬成力が３０上がり、防御力が１０下がる<white>|レオニードの口紅、１時間毎に塗りなおしている=<yellow>ALC increases by 30. DEF decreases by 10.<white>|Leonid's lipstick, which he reapplies every hour.
 <yellow>攻撃力、防御力が１５上がり、錬成力が１０下がる<white>|ジャニスのブーツ、軽くてオシャレ=<yellow>ATK and DEF increase by 15. ALC decreases by 10.<white>|Janice's boots. Light and stylish.
 <yellow>防御力が３０上がり、攻撃力が１０下がる<white>|ヴィーナスの軍服、悩ましい香りがする=<yellow>DEF increases by 30. ATK decreases by 10.<white>|Venus' military uniform. Has a seductive scent.
-<yellow>防御力が４０上がり、錬成力が１０下がる|通常の走りができなくなる<white> ゴドーの兜、巨大な動物の骨=<yellow>DEF increases by 40. ALC decreases by 10.|Makes it impossible to run. <white>Godot's helmet. Made from a skull. 
+<yellow>防御力が４０上がり、錬成力が１０下がる|通常の走りができなくなる<white> ゴドーの兜、巨大な動物の骨=<yellow>DEF increases by 40. ALC decreases by 10.|Makes it impossible to run. <white>Godot's helmet. Made from a skull.
 <yellow>ＨＰが０になった時、自動的に復活する（発動後消滅）<white>|ヴェルザの娘が作った思い出のお守り=<yellow>Automatically revives when HP drops to 0. <orange>(Single use)|<white>Velza's special charm. Made by her daughter.
 <yellow>錬成力が２０％上昇し、攻撃力が２０％低下する<white>|ヴィーナスの手袋、ロングサイズで気品がある=<yellow>ALC increases by 20%. ATK decreases by 20%.<white>|Venus' gloves. Long and elegant.
 <yellow>敵が近寄ってくる、防御力が５０％低下する<white>|ヴィーナスのガーターベルト、黒と赤の２タイプがある=<yellow>Attracts enemies. DEF decreases by 50%.<white>|Venus' garter belt. She owns two types: black and red.
@@ -805,7 +805,7 @@
 強化したいキャラクター、能力を選んでください=Please select the character stat to strengthen
 ボーナスポイントを振り分けてください=Please distribute bonus points
 ゲーム中のメッセージ表示速度を変更します=Change in-game message speed
-ゲーム中のイベント時のボイスをＯＮ/ＯＦＦします=Toggle event voices ON and OFF 
+ゲーム中のイベント時のボイスをＯＮ/ＯＦＦします=Toggle event voices ON and OFF
 サウンド設定を変更します=Adjust sound settings
 ゲーム中の振動をＯＮ/ＯＦＦします=Toggle vibration function ON and OFF
 初期設定に戻します=Restore default settings
@@ -2262,7 +2262,7 @@
 
 !FILE:0044_001/004.txt
 <bigtext><blackbold> 移動と視点=<bigtext><blackbold> Movement and Camera
-<8006><orange>左スティック<white>　＝　<yellow>移動|<white>     <cross>　＝　<yellow>ジャンプ=<8006>Left stick: <yellow>Movement|<white>            <cross>: <yellow>Jump
+<8006><orange>左スティック<white>　＝　<yellow>移動|<white>     <cross>　＝　<yellow>ジャンプ=<8006>γLeft stick: <yellow>Movement|<white>            <cross>: <yellow>Jump
 <8006><orange>右スティック<white>　＝　<yellow>視点の移動|<white>    <L1a><L1b>　＝　<yellow>視点のリセット=<8006>Right stick: <yellow>Move camera|<white>           <L1a><L1b>: <yellow>Reset camera
 <bigtext><blackbold> システム関係操作=<bigtext><blackbold> System Related Operations
 <8006><orange>ＳＴＡＲＴボタン<white>　＝　<yellow>キャンプ画面<white>=<8006>START button: <yellow>Main Menu
@@ -4869,8 +4869,8 @@
 <sophie>任せといて、|こういう裁縫仕事は得意なの。=<sophie>Leave it to me, I'm good at this kind of sewing.
 <edward>そっか、ワリィな……。|よろしく頼むぜ。=<edward>I see, sorry... I trust you to take care of it.
 <sophie>——そうだ！|丈を合わせるために、|エドの身長を教えてもらわないと……。=<sophie>I'm on it!|I just need to know your height to adjust the length.
-<edward><bigtext>しっ、身長——！？=<edward><bigtext>MY... MY HEIGHT!? 
-<edward><bigtext>イヤアアァァァ！！=<edward><bigtext>NOOOOO!! 
+<edward><bigtext>しっ、身長——！？=<edward><bigtext>MY... MY HEIGHT!?
+<edward><bigtext>イヤアアァァァ！！=<edward><bigtext>NOOOOO!!
 <sophie>……………エド？=<sophie>...Ed?
 <sophie>「耐熱マントＳ」のＳは、|ＳＵＰＥＲ（スーパー）のＳじゃないの。|さて、何のＳでしょう……？=<sophie>The plus in “Fireguard Cloak +" doesn't mean “extra long," you know.#Changed the (S) in the name to prevent confusion with the Elixirs, which meant changing this conversation to match. "The S in this “Fireguard Cloak (S)"|doesn't stand for “Super."|Then, what does the S mean"?
 <edward>ＳＭＡＬＬ（スモール）のＳだって|言いたいのかヨ……。=<edward>Are you saying it stands for “extra small"!?#"Are you saying the S stands for “Small"?"
