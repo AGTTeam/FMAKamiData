@@ -1,0 +1,43 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 512
+PlayResY: 448
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,31.1,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,1.6,2,13,13,16,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.80,0:00:03.07,Default,,0,0,0,,A long time ago, 
+Dialogue: 0,0:00:03.07,0:00:06.37,Default,,0,0,0,,there was a witch clad in white.
+Dialogue: 0,0:00:07.46,0:00:12.35,Default,,0,0,0,,Hers is a great power that will destroy everything.
+Dialogue: 0,0:00:12.37,0:00:14.61,Default,,0,0,0,,It must never be awakened.
+Dialogue: 0,0:00:15.46,0:00:19.92,Default,,0,0,0,,The name of this witch was Velza...
+Dialogue: 0,0:00:54.62,0:00:57.71,Default,,0,0,0,,All we need to do is stop her resurrection, yeah?
+Dialogue: 0,0:00:57.74,0:00:58.33,Default,,0,0,0,,That's...
+Dialogue: 0,0:00:58.36,0:01:00.37,Default,,0,0,0,,You'll do it right, Ed, Al?
+Dialogue: 0,0:01:00.40,0:01:03.67,Default,,0,0,0,,It might have some connection to the Philosopher's Stone.
+Dialogue: 0,0:01:29.85,0:01:31.69,Default,,0,0,0,,Don't touch that girl!
+Dialogue: 0,0:01:46.90,0:01:49.11,Default,,0,0,0,, Why are you trying to face it all by yourself?
+Dialogue: 0,0:01:49.13,0:01:52.33,Default,,0,0,0,,We're friends, aren't we!?
+Dialogue: 0,0:01:54.07,0:01:55.10,Default,,0,0,0,,Let's go, Al!
+Dialogue: 0,0:01:55.13,0:01:55.75,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:02:13.32,0:02:15.34,Default,,0,0,0,,Here I come!
+Dialogue: 0,0:02:16.06,0:02:17.30,Default,,0,0,0,,Sorry!
+Dialogue: 0,0:02:29.83,0:02:31.33,Default,,0,0,0,,There's another way.
+Dialogue: 0,0:02:31.36,0:02:33.94,Default,,0,0,0,,That child is our hope...
+Dialogue: 0,0:02:35.85,0:02:39.29,Default,,0,0,0,,It was my father who gave me this mark.
+Dialogue: 0,0:02:40.11,0:02:41.49,Default,,0,0,0,,To fight against the Velza Clan.
+Dialogue: 0,0:02:41.83,0:02:43.19,Default,,0,0,0,,You must hurry on now.
+Dialogue: 0,0:02:43.21,0:02:45.69,Default,,0,0,0,,Stop the Prayer of the End!
+Dialogue: 0,0:02:45.81,0:02:46.64,Default,,0,0,0,,Ed...
+Dialogue: 0,0:02:51.51,0:02:53.62,Default,,0,0,0,,We will never forget...
+Dialogue: 0,0:02:53.65,0:02:55.36,Default,,0,0,0,,The girl who stood against fate,
+Dialogue: 0,0:02:55.37,0:02:57.70,Default,,0,0,0,,and fought alongside us.
+Dialogue: 0,0:02:58.65,0:03:00.84,Default,,0,0,0,,Sophie...
+Dialogue: 0,0:03:00.86,0:03:03.40,Default,,0,0,0,,SOPHIE!
