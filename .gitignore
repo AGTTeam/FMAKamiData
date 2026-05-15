@@ -7,3 +7,6 @@ out_*
 *.xdelta
 fontdata.bin
 .DS_Store
+sub_data.asm
+sub_data.bin
+sub_font.asm
