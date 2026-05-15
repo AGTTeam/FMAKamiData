@@ -3143,7 +3143,7 @@
 <alphonse>ええっ！？=<alphonse>Huh!?
 <sophie>——それは大丈夫よ。安心して。|聖印は私が与えたものだから、|エドたちの命が削られることはないわ。=<sophie>It's all right, don't worry. Since they were bestowed by me, they won't use your life force.
 <alphonse>そ、そっかぁ……よかった……。=<alphonse>Ah, I see... Thank goodness!
-<edward>いや……待て、アル。|オレたちの命が削られないんなら、|聖印の力は、どこから来てるんだ？=<edward>No... Wait, Al. If it's not using up our lives, where do these marks draw power from?
+<edward>いや……待て、アル。|オレたちの命が削られないんなら、|聖印の力は、どこから来てるんだ？=<edward>No... Wait, Al. If not from us, where do these marks draw power from?
 <alphonse>えっ？=<alphonse>Huh?
 <edward>ヴェルザの一族の印が|命を代償にしているなら、聖印も、|何かの代償を必要としているはずだ。=<edward>If the sigils of the clan cost one's life, then the Holy Sigil must have a similar cost.
 <edward>——なぁ、ソフィ。|この聖印……お前の命を|代償にしてるんじゃないのか？=<edward>Be honest, Sophie. These marks...|They're using your life force, aren't they?
@@ -5034,7 +5034,7 @@
 <sophie>お手柔らかにね……。|よーっし、頑張るぞ！=<sophie>So go easy on me...|Well, I'll do my best!
 <edward><bigtext>ぬおおおっ！！？=<edward><bigtext>GUOOOOOOHH!!
 <sophie>——先生。|こんな感じでいいんですか？=<sophie>Am I doing it right, Master?
-<edward>いいんですか、って……。|ソフィ、オマエ、|いつの間に連続コンボを——。=<edward>Doing it right?|Sophie, when did you learn to chain combos?!
+<edward>いいんですか、って……。|ソフィ、オマエ、|いつの間に連続コンボを——。=<edward>Doing it right?|Sophie, when did you learn to chain combos!?
 <sophie>——ふふっ、槍って楽しいね！|えいっ！ やっ！|せ————いっ！！=<sophie>Heh heh! Lances are fun!|Here! Yay! Come get some!!
 <edward>ちょっ、まっ——！=<edward>Wa-waiiiit!
 <edward><bigtext>フギャ———ッ！！=<edward><bigtext>GAAAAAAHH!!
@@ -5578,8 +5578,8 @@
 <edward>ま、まずその|教主様とやらに会ってみないとな。=<edward>Well, first we must meet that priest.
 
 !FILE:0225_000/004.txt
-<bigtext><blackbold> レベル１クリア達成！！=<bigtext><blackbold>Level 1 cleared!!
-<blackbold><8006><yellow>レベル１クリア<white>おめでとうございます！||お祝いとして、アイテム<normal>【超秘薬】❌１０コ<blackbold>|をプレゼントします！！=<blackbold><8006><white>Congratulations for clearing at <yellow>level 1<white>! As a prize, <blackbold>you received item <normal>“Secret Tonic" x10!!
+<bigtext><blackbold> レベル１クリア達成！！=<bigtext><blackbold>LEVEL 1 CLEAR!!
+<blackbold><8006><yellow>レベル１クリア<white>おめでとうございます！||お祝いとして、アイテム<normal>【超秘薬】❌１０コ<blackbold>|をプレゼントします！！=<blackbold><8006><white>Congratulations for completing the game at <yellow>level 1<white>! As a reward, <blackbold>you receive <normal>“Secret Tonic" ❌10!!
 <sophie>……………………。=<sophie>...
 <norn>ニャ～ン……。=<norn>Meow...
 <sophie>……………………。=<sophie>...
