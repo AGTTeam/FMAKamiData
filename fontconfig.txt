@@ -91,6 +91,7 @@ z=ｚ,10
 ♪=♪,14
 ☆=☆,23
 →=→,23
+α=α,2
 <square>=<square>,22
 <triangle>=<triangle>,22
 <cross>=<cross>,22
