@@ -2262,7 +2262,7 @@
 
 !FILE:0044_001/004.txt
 <bigtext><blackbold> 移動と視点=<bigtext><blackbold> Movement and Camera
-<8006><orange>左スティック<white>　＝　<yellow>移動|<white>     <cross>　＝　<yellow>ジャンプ=<8006>γLeft stick: <yellow>Movement|<white>            <cross>: <yellow>Jump
+<8006><orange>左スティック<white>　＝　<yellow>移動|<white>     <cross>　＝　<yellow>ジャンプ=<8006>ααLeft stick: <yellow>Movement|<white>            <cross>: <yellow>Jump
 <8006><orange>右スティック<white>　＝　<yellow>視点の移動|<white>    <L1a><L1b>　＝　<yellow>視点のリセット=<8006>Right stick: <yellow>Move camera|<white>           <L1a><L1b>: <yellow>Reset camera
 <bigtext><blackbold> システム関係操作=<bigtext><blackbold> System Related Operations
 <8006><orange>ＳＴＡＲＴボタン<white>　＝　<yellow>キャンプ画面<white>=<8006>START button: <yellow>Main Menu
