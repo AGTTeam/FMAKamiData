@@ -2319,7 +2319,7 @@
 <edward>——おい、アル、見てみろよ。=<edward>Hey, Al, take a look at this.
 <edward>ここから扉の先に行けそうだぞ。=<edward>We can probably get around the door through here.
 <alphonse>うーん……。|でも、狭すぎてボクじゃ通れないよ。|兄さんなら、大丈夫そうだけど。=<alphonse>Hmm... It's too narrow for me.|You should fit though, Big Brother.
-<edward>ああ。|身体が小さくて良かった——って、|誰がミニマムサイズかあぁっ！！=<edward>Yeah. It's a good thing my body's so sma—HEY! Who're you callin' a tiny ant you can't help but step on 'cuz its so small!?
+<edward>ああ。|身体が小さくて良かった——って、|誰がミニマムサイズかあぁっ！！=<edward>Yeah. It's a good thing my body's so sma— HEY! Who're you callin' a tiny ant you can't help but step on 'cuz its so small!?
 <alphonse>誰も何も言ってないよ、兄さん。=<alphonse>I didn't say anything like that, Ed.
 <edward>オレだけ、先に|進むわけにはいかないな。|アルを連れてこないと……。=<edward>No, I can't move on yet.|I won't leave Al behind.
 
@@ -2710,7 +2710,7 @@
 <craigin>そして奴らは、|その「神」を復活させ、|世界を滅ぼそうとしている……と。=<craigin>And once they succeed in resurrecting her, the world will be destroyed...
 <edward>ええ。|簡単に言えば、そういうことです。=<edward>Yep. That's it in a nutshell.
 <roy>神……。=<roy>A goddess...
-<craigin>とても信じられん話だ。|「神の復活」やら「世界を滅ぼす」やら、|まるで物語の世界だな。=<craigin>That's a pretty unbelievable story. Things like “resurrecting a goddess" or “destruction of the world" belong in fairy tales.
+<craigin>とても信じられん話だ。|「神の復活」やら「世界を滅ぼす」やら、|まるで物語の世界だな。=<craigin>That's a pretty unbelievable story. Things like “resurrecting a goddess" or “world destruction" belong in fairy tales.
 <edward>——ですけど、ヤツらが|それを信じているのは事実です。|だから、ヴァルドラを襲ってきた……。=<edward>But it's true at least that they believe those things. That's why they attacked Valdolla.
 <craigin>ふむ。それは確かにそうかもしれん。|だが、どちらにせよ、|私のやることは変わらんがな。=<craigin>Hrm... That may be the case. But that still doesn't change my plans.
 <craigin>この司令部に攻撃をかけてくるとは……！|奴らには、相応の礼を|受け取ってもらわねばならん。=<craigin>Assaulting our headquarters...! It's only fitting that I pay them back in equal measure.
@@ -3697,7 +3697,7 @@
 <edward>オレたちなら大丈夫だ。|——だけど……。=<edward>We're fine.|However...
 <roy>——止められなかったのだな。|お前たちの言っていた、|ヴェルザの復活は……。=<roy>You couldn't stop it. What you were talking about: the resurrection of Velza.
 <edward>ああ……。|それに、ソフィまで|さらわれちまった……。=<edward>Yes...|And on top of that, Sophie was kidnapped.
-<roy>……そうか。|あの巨大な塔といい、怪物の群れといい、|容易ならざる事態だな……。=<roy>I see...|This situation keeps getting worse, now there's a giant tower and hordes of monsters.
+<roy>……そうか。|あの巨大な塔といい、怪物の群れといい、|容易ならざる事態だな……。=<roy>I see... This situation keeps getting worse, now there's a giant tower and hordes of monsters.
 <roy>——お前たちは、これから|どうするつもりだ？=<roy>So then, what are you planning to do now?
 <alphonse>——ソフィを|連れていかれたのは、|ボクたちの責任です。=<alphonse>It's our fault that Sophie was kidnapped.
 <edward>たぶん、ソフィは、あの塔にいると思う。|あそこで、きっと|オレたちの助けを待ってる。=<edward>I think Sophie's probably in that tower, waiting for us to help her.
@@ -4777,7 +4777,7 @@
 <sophie>うっ……重すぎて、腕が……。|……ダンベルと思えば、|いい運動になるのかしら……？=<sophie>Ugh...so heavy...my arm...|If you think of it as a dumbbell, it might be good for exercising.
 <sophie>この輝きは——、|えっ、これ本物の純金よ！？=<sophie>This shine... Hey, this is really pure gold!
 <sophie>……すごーい。|セレブって感じ……。|ずっと大事に使うね！=<sophie>Amazing. It makes me feel like a celebrity.|I'll take good care of it!
-<sophie>金細工は聞いたことあるけど、|鋼細工ってあるのかしら……？|精巧な技術、これは匠の技ね……！！=<sophie>I've heard of goldsmithing, but is there such a thing as steelsmithing? The craftsmanship is exquisite, this is the work of a master!
+<sophie>金細工は聞いたことあるけど、|鋼細工ってあるのかしら……？|精巧な技術、これは匠の技ね……！！=<sophie>I've heard of goldsmithing, but is there such a thing as steelsmithing? This exquisite craftsmanship, it's the work of a master!
 <sophie>派手さはないけど、|どんな服装にも合いそうよ。|ありがとう、大事に使うね……！=<sophie>It's not flashy, but it will go with any outfit. Thank you, I'll take good care of it!
 <sophie>この腕輪、刃内蔵なのね……。|いい感じに、|肌を斬るのだけど……。=<sophie>This bangle has built-in blades. It feels nice, but will cut your skin.
 <sophie>……危険物として、|大切に、預かっておくわ。=<sophie>I'll watch over it. It's a dangerous item.
@@ -4797,7 +4797,7 @@
 <sophie>でも、このピアスをつけるのは、|今の戦争が終わってから……。|それが、私なりのケジメだから……。=<sophie>But I'll only wear them after this battle is over. That way it'll really feel like a brand new day.
 <sophie>かっこいいピアスだね……。|存在感あるし、これだけでも|充分な個性だよ……。=<sophie>These are some cool earrings...|They really stand out, and just these alone show plenty of personality...
 <sophie>オシャレかぁ……。|この戦いが終わったら私も、|普通の女の子みたいに——。=<sophie>They're fashionable, huh...|Once this is over, I want to be like a normal girl too.
-<sophie>……ピアスというより、|刃そのものね。|挿すというより貫くって感じ……？=<sophie>...These look more like blades than earrings.|Feels less like inserting and more like piercing through...
+<sophie>……ピアスというより、|刃そのものね。|挿すというより貫くって感じ……？=<sophie>...These look more like blades than earrings. Feels less like inserting and more like piercing through...
 <sophie>中には、クギをピアス代わりにして|耳につける人もいるんでしょ？|世の中って広いよね……。=<sophie>I suppose there are people who wear pins|in their ears as if they were earrings.|The world is full of all kinds...
 <sophie>私、センスないのかな……。|自分では、カワイイの作れたって|思ったのだけど……。=<sophie>Maybe I have no sense of fashion.|I thought it was cute when I made it.
 <sophie>……ほら、|こんなに、似合ってる……。|似合ってるよ……？=<sophie>Look, they suit you.|They do...right?
@@ -4921,7 +4921,7 @@
 <alphonse>——ちっ、違うよ！|下着じゃないよ、|ただの前掛けだよ！|=<alphonse>It's... It's not like that!|This isn't underwear, it's just an apron!
 <sophie>あら、そうなの……？|ごめんなさい……。|（誰が見たって、ふんどしよ……？）=<sophie>Oh, is that so? I'm sorry...|(But anyone can see it's a loincloth.)
 <winry>ちょっと、アル——ッ！|なによ、そのＴバック型の|ふんどしは——ッ！！=<winry>Wait a moment, Al!|What are you doing with that thong-type loincloth!?
-<winry>鎧の姿でもアルは男の子なのよっ！？|レディの前で、そんな|せくすぃ～な物、穿かないでよーっ！！=<winry>Even in armor form, you're still a boy!|You shouldn't wear such provocative stuff in|front of a lady!!
+<winry>鎧の姿でもアルは男の子なのよっ！？|レディの前で、そんな|せくすぃ～な物、穿かないでよーっ！！=<winry>Even in armor form, you're still a boy!|You shouldn't wear such provocative stuff in front of a lady!!
 <winry>きっと、ソフィが見たら、|ビックリして失神しちゃうわ！=<winry>Really, if Sophie sees this, she'll faint in shock!
 <sophie>——あら。|どうしたの、その下着……？|ずいぶんと男らしいわね。=<sophie>Oh, what's with that underwear?|It's really manly.
 <winry><bigtext>え……？=<winry><bigtext>HUHHHH!?
@@ -5130,7 +5130,7 @@
 <sophie>原理はよく分からないけど、|こんな手袋が、|恐ろしい武器になるんだね……。=<sophie>I don't understand the principles very well.|But these gloves must be a dreadful weapon.
 <roy>——やぁ、鋼の。|どうやら、私の力を|貸す時が来たようだな……。=<roy>Well, Fullmetal. It seems the time has come for me to lend you my power.
 <roy>遠慮はいらん……。|タッグバトルモードで|思う存分、コキ使うがいい……！=<roy>Don't be shy... You can use me to your heart's content in Tag Battle Mode!
-<roy>——ただし！|いつか１００倍にして返してもらう……。|それを踏まえてコキ使え！！=<roy>However! Some day I'll get you back a hundredfold.|So keep that in mind and work me to the bone!
+<roy>——ただし！|いつか１００倍にして返してもらう……。|それを踏まえてコキ使え！！=<roy>However! Some day I'll get you back a hundredfold. So keep that in mind and|work me to the bone!
 <sophie><yellow>タッグバトルモードで|<yellow>ロイ・マスタング大佐が|<yellow>使用可能になりました=<sophie><yellow>Colonel Roy Mustang is now available in Tag Battle Mode.
 <sophie>大きな手甲……。|この複雑な模様は——錬成陣？=<sophie>Large gauntlets...|What is this complex pattern?|A transmutation circle?
 <sophie>そう……これが、|錬金術師の「武器」なのね。=<sophie>I see... This is a weapon for alchemists.
