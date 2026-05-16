@@ -4711,8 +4711,8 @@
 <sophie>マリア、嗚呼、我が愛しのマリア！|この想い、どうしたら気づいてくれるのか|そうだ、彼女に詩を贈ろう=<sophie>Oh, Maria, my beloved Maria!|How could I convey my feelings to you?|I know! I'll write you a poem.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>ついに詩ができた|マリアは心を打たれ|私を愛してやまずにいられない=<sophie>The poem is finished at last. Maria's heart will be touched. She won't be able to help but love me.
-<sophie><yellow>ラヴ ラヴ ラヴ ラヴ マリア様|ボクの心をワシ掴み|いつもあなたはボンキュッボン！=<sophie><yellow>Ma' love, ma' dear, ma' sweet,                    |                         ma' rose - Maria|                                             |You, who hold my very                              |                              heart in your hand-|                                             |Always and forever,                              |                         by your shape I am moved
-<sophie><yellow>ズバンとハートにロックオン|トリガーのラヴが火を吹くぜ|ファイアー ラヴリー ボンキュッボン！=<sophie><yellow>Schwing! A perfervid engine                    |                         turns for thee-|                                             |Trigger to pistons by way                         |                         of concupiscent flame|                                             |That figure - lovely -                              |                         spark-ignition to desire
+<sophie><yellow>ラヴ ラヴ ラヴ ラヴ マリア様|ボクの心をワシ掴み|いつもあなたはボンキュッボン！=<sophie><yellow>Ma' love, ma' dear, ma' sweet,ηη|ηηma' rose - Maria||You, who hold my veryηη|ηηheart in your hand-||Always and forever,ηη|ηηby your shape I am moved
+<sophie><yellow>ズバンとハートにロックオン|トリガーのラヴが火を吹くぜ|ファイアー ラヴリー ボンキュッボン！=<sophie><yellow>Schwing! A perfervid engineηη|ηηturns for thee-||Trigger to pistons by wayηη|ηηof concupiscent flame||That figure - lovely -ηη|ηηspark-ignition to desire
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>愛に障害は付き物だ|私の詩はゴミ箱へと捨てられた=<sophie>Love always comes with its obstacles.|She threw my poem into the trash bin.
 <sophie>めげないよ、マリア|愛してるんだ、マリア=<sophie>I won't give up, Maria. I love you, Maria.
