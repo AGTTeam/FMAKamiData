@@ -2005,7 +2005,6 @@
 <teal>⬤<smalltext>|Ｒ８=<teal>⬤<smalltext>|R8
 <teal>⬤<smalltext>|Ｒ１２=<teal>⬤<smalltext>|R12
 <teal>⬤<smalltext>|Ｒ１６=<teal>⬤<smalltext>|R16
-⬤<smalltext>=
 <edward>ふーん。なるほど。|ここが砂漠の街・リオールか…。=<edward>Hmm, I see... Is this the desert city of Lior?
 <alphonse>街の人たちの雰囲気が|普通の街の人とは少し違ってるね。=<alphonse>The appearance of the townspeople seems a bit different from usual...
 <edward>そりゃあ、住人のほとんどが|レト教って宗教の信者らしいからな=<edward>Well, that's because most of the residents seem to be members of the Leto sect.
