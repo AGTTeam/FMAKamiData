@@ -678,12 +678,12 @@
 スロット２のメモリーカード（ＰＳ２）の|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。=There's not enough space in slot 2 of Memory Card (PS2). |To save this game, you need at least 188 KB of free space.
 スロット１に差されているメモリーカード（ＰＳ２）は、|初期化されていません。|ゲームのデータをセーブするには、初期化する必要があります。|初期化しますか？=The Memory Card (PS2) in slot 1 has not been formatted.|To save this game, you need a formatted card.|Do you want to format it now?
 スロット２に差されているメモリーカード（ＰＳ２）は、|初期化されていません。|ゲームのデータをセーブするには、初期化する必要があります。|初期化しますか？=The Memory Card (PS2) in slot 2 has not been formatted.|To save this game, you need a formatted card.|Do you want to format it now?
-スロット１のメモリーカード（ＰＳ２）を|初期化中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Formatting Memory Card (PS2) in slot 1.||Please don't turn off or reset the PlayStation 2.|Don't insert or remove Memory Card (PS2)|and controller.| #space
-スロット２のメモリーカード（ＰＳ２）を|初期化中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Formatting Memory Card (PS2) in slot 2.||Please don't turn off or reset the PlayStation 2.|Don't insert or remove Memory Card (PS2)|and controller.| #space
+スロット１のメモリーカード（ＰＳ２）を|初期化中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Formatting Memory Card (PS2) in slot 1.||Please don't turn off or reset the PlayStation 2.|Don't insert or remove Memory Card (PS2)|and controller.
+スロット２のメモリーカード（ＰＳ２）を|初期化中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Formatting Memory Card (PS2) in slot 2.||Please don't turn off or reset the PlayStation 2.|Don't insert or remove Memory Card (PS2)|and controller.
 スロット１のメモリーカード（ＰＳ２）の|初期化に失敗しました。=Failed to format Memory Card (PS2) in slot 1.
 スロット２のメモリーカード（ＰＳ２）の|初期化に失敗しました。=Failed to format Memory Card (PS2) in slot 2.
-スロット１のメモリーカード（ＰＳ２）に|データをセーブ中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Saving game in slot 1 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.| #space
-スロット２のメモリーカード（ＰＳ２）に|データをセーブ中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Saving game in slot 2 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.| #space
+スロット１のメモリーカード（ＰＳ２）に|データをセーブ中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Saving game in slot 1 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.
+スロット２のメモリーカード（ＰＳ２）に|データをセーブ中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Saving game in slot 2 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.
 選択したファイルにはデータが存在します。|上書きしますか？=Data exists in selected file. |Do you want to overwrite it?
 選択したファイルにはデータが存在します。|上書きしますか？=Data exists in selected file. |Do you want to overwrite it?
 スロット１のメモリーカード（ＰＳ２）の|セーブに失敗しました。=Failed to save game in slot 1 of Memory Card (PS2).
@@ -707,8 +707,8 @@
 スロット２にメモリーカード（ＰＳ２）が|差されていません。=There's no Memory Card (PS2) in slot 2.
 スロット１のメモリーカード（ＰＳ２）に|このゲームのデータがありません。=There's no game data in slot 1 of Memory Card (PS2).
 スロット２のメモリーカード（ＰＳ２）に|このゲームのデータがありません。=There's no game data in slot 2 of Memory Card (PS2).
-スロット１のメモリーカード（ＰＳ２）から|データをロード中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Loading data in slot 1 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.| #space
-スロット２のメモリーカード（ＰＳ２）から|データをロード中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Loading data in slot 2 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.| #space
+スロット１のメモリーカード（ＰＳ２）から|データをロード中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Loading data in slot 1 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.
+スロット２のメモリーカード（ＰＳ２）から|データをロード中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Loading data in slot 2 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.
 スロット１のメモリーカード（ＰＳ２）からの|データのロードに失敗しました。=Failed to load data from slot 1 of Memory Card (PS2).
 スロット２のメモリーカード（ＰＳ２）からの|データのロードに失敗しました。=Failed to load data from slot 2 of Memory Card (PS2).
 スロットを選んでください=Please select a slot.
