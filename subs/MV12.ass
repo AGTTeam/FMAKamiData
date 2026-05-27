@@ -21,18 +21,18 @@ Style: Default,Arial,31.1,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.56,0:00:08.93,Default,,0,0,0,,I have felt only this feeling for so long.
-Dialogue: 0,0:00:08.96,0:00:12.36,Default,,0,0,0,,But if all I do is hesitate,
+Dialogue: 0,0:00:01.82,0:00:08.94,Default,,0,0,0,,I have felt only this feeling for so long.
+Dialogue: 0,0:00:08.95,0:00:12.39,Default,,0,0,0,,But if all I do is hesitate,
 Dialogue: 0,0:00:12.40,0:00:18.79,Default,,0,0,0,,Nothing will ever begin.
-Dialogue: 0,0:00:22.87,0:00:29.96,Default,,0,0,0,,Distant recollections left in my heart,
-Dialogue: 0,0:00:29.98,0:00:36.64,Default,,0,0,0,,Will become memories once I wake from the pain.
+Dialogue: 0,0:00:22.81,0:00:29.97,Default,,0,0,0,,Distant recollections left in my heart,
+Dialogue: 0,0:00:29.98,0:00:36.62,Default,,0,0,0,,Will become memories once I wake from the pain.
 Dialogue: 0,0:00:38.55,0:00:44.69,Default,,0,0,0,,Even if my heart can't see its destination,
-Dialogue: 0,0:00:44.72,0:00:49.77,Default,,0,0,0,,Surely, at least this longing heartbeat,
-Dialogue: 0,0:00:49.80,0:00:52.13,Default,,0,0,0,,will reach you.
+Dialogue: 0,0:00:44.70,0:00:49.79,Default,,0,0,0,,Surely, at least this longing heartbeat,
+Dialogue: 0,0:00:49.80,0:00:52.30,Default,,0,0,0,,will reach you.
 Dialogue: 0,0:00:52.74,0:00:56.11,Default,,0,0,0,,On this sleepless night,
-Dialogue: 0,0:00:56.15,0:00:59.63,Default,,0,0,0,,I think of you.
+Dialogue: 0,0:00:56.12,0:00:59.68,Default,,0,0,0,,I think of you.
 Dialogue: 0,0:00:59.69,0:01:03.15,Default,,0,0,0,,I don't mind telling you truthfully.
-Dialogue: 0,0:01:03.18,0:01:06.83,Default,,0,0,0,,I can't keep hiding it forever.
-Dialogue: 0,0:01:07.22,0:01:14.44,Default,,0,0,0,,I have felt only this feeling for so long.
-Dialogue: 0,0:01:14.47,0:01:17.45,Default,,0,0,0,,But if all I do is hesitate,
-Dialogue: 0,0:01:17.48,0:01:24.23,Default,,0,0,0,,Nothing will ever begin.
+Dialogue: 0,0:01:03.17,0:01:06.83,Default,,0,0,0,,I can't keep hiding it forever.
+Dialogue: 0,0:01:07.22,0:01:14.52,Default,,0,0,0,,I have felt only this feeling for so long.
+Dialogue: 0,0:01:14.52,0:01:17.49,Default,,0,0,0,,But if all I do is hesitate,
+Dialogue: 0,0:01:17.49,0:01:24.23,Default,,0,0,0,,Nothing will ever begin.

@@ -21,20 +21,20 @@ Style: Default,Arial,31.1,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:01.21,Default,,0,0,0,,Hey, come over here, Sophie.
-Dialogue: 0,0:00:01.24,0:00:03.29,Default,,0,0,0,,We'd like to introduce this game's heroine!
-Dialogue: 0,0:00:03.31,0:00:05.31,Default,,0,0,0,,My name is Sophie. Sophie Belkman.
-Dialogue: 0,0:00:05.72,0:00:06.90,Default,,0,0,0,,Sophie, why are you so quiet?
+Dialogue: 0,0:00:00.00,0:00:01.23,Default,,0,0,0,,Hey, come over here, Sophie.
+Dialogue: 0,0:00:01.24,0:00:03.19,Default,,0,0,0,,We'd like to introduce this game's heroine!
+Dialogue: 0,0:00:03.19,0:00:05.16,Default,,0,0,0,,My name is Sophie. Sophie Belkman.
+Dialogue: 0,0:00:05.72,0:00:06.92,Default,,0,0,0,,Sophie, why are you so quiet?
 Dialogue: 0,0:00:06.93,0:00:08.14,Default,,0,0,0,,Sophie is a game character,
 Dialogue: 0,0:00:08.15,0:00:09.94,Default,,0,0,0,,so she can't move on unless you press the button.
-Dialogue: 0,0:00:09.98,0:00:10.38,Default,,0,0,0,,Huh!?
+Dialogue: 0,0:00:09.95,0:00:10.38,Default,,0,0,0,,Huh!?
 Dialogue: 0,0:00:10.40,0:00:11.84,Default,,0,0,0,,Here, press the button on the controller!
-Dialogue: 0,0:00:11.86,0:00:13.32,Default,,0,0,0,,On this controller? Hyah!
-Dialogue: 0,0:00:14.00,0:00:16.07,Default,,0,0,0,,Brother! A missile shot out of me!
-Dialogue: 0,0:00:16.10,0:00:18.06,Default,,0,0,0,,Damn it, this your controller!
-Dialogue: 0,0:00:18.08,0:00:19.53,Default,,0,0,0,,Why do you even have that?!
-Dialogue: 0,0:00:19.93,0:00:20.67,Default,,0,0,0,,Look out, Sophie!
-Dialogue: 0,0:00:20.69,0:00:22.56,Default,,0,0,0,,Aaaah!
+Dialogue: 0,0:00:11.85,0:00:13.32,Default,,0,0,0,,On this controller? Hyah!
+Dialogue: 0,0:00:14.00,0:00:16.03,Default,,0,0,0,,Brother! A missile shot out of me!
+Dialogue: 0,0:00:16.03,0:00:17.87,Default,,0,0,0,,Damn it, this your controller!
+Dialogue: 0,0:00:17.87,0:00:19.24,Default,,0,0,0,,Why do you even have that?!
+Dialogue: 0,0:00:19.93,0:00:20.68,Default,,0,0,0,,Look out, Sophie!
+Dialogue: 0,0:00:20.69,0:00:22.58,Default,,0,0,0,,Aaaah!
 Dialogue: 0,0:00:22.59,0:00:25.55,Default,,0,0,0,,I guess game heroines never survive, huh.
-Dialogue: 0,0:00:25.56,0:00:27.56,Default,,0,0,0,,Their lives are so sad...
-Dialogue: 0,0:00:27.59,0:00:30.73,Default,,0,0,0,,I'm gonna get Velza to curse you.
+Dialogue: 0,0:00:25.56,0:00:27.98,Default,,0,0,0,,Their lives are so sad...
+Dialogue: 0,0:00:27.98,0:00:30.48,Default,,0,0,0,,I'm gonna get Velza to curse you.
