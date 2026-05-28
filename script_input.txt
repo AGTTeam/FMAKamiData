@@ -568,7 +568,7 @@
 <yellow>すべての能力値が１下がる、あるものと装備すると…？<white>|やる気のないももひき、伝説の修行具という噂も……=<yellow>All stats increase by 1 when equipped together with...!?<white>|Rumor has it that these are a legendary training tool...#"Rumor has it that these unmotivating pants are a legendary training tool..."
 <yellow>通常取得経験値が５％増加する<white>|鉄ゲタ、精神鍛錬にもなる…かもしれない=<yellow>EXP earned in battle increases by 5%.<white>|They may be a tool for mental discipline...
 <yellow>通常取得経験値が１０％増加する<white>|ウィンリィの作った、重量が２倍に強化された鉄ゲタ=<yellow>EXP earned in battle increases by 10%.<white>|Iron sandals, but twice as heavy. Reinforced by Winry.
-<yellow>コンボボーナス経験値が２倍に増加する（エドアル共に）<white>|ソフィが作った、腕の筋肉を鍛えるおもり=<yellow>EXP earned from combos are doubled. <orange>(Ed & Al)|<white>Weights made by Sophie, to train arm muscles.
+<yellow>コンボボーナス経験値が２倍に増加する（エドアル共に）<white>|ソフィが作った、腕の筋肉を鍛えるおもり=<yellow>EXP earned from combos are doubled. <orange>(Ed & Al)|<white>Weights made by Sophie to train arm muscles.
 <yellow>カウンター成功時の取得経験値が５倍に増加する<white>|ソフィが作った、足の筋肉を鍛えるおもり=<yellow>EXP earned from successful counters is multiplied by 5.|<white>Weights made by Sophie to train leg muscles.
 <yellow>ＨＰの最大値が５％上昇する<white>|ハート形のぺンダント、女の子は喜ぶかも……=<yellow>Max HP increases by 5%.<white>|A heart-shaped pendant that girls may like.
 <yellow>ＨＰの最大値が１０％上昇する<white>|星形のぺンダント、淡い光で輝き続ける=<yellow>Max HP increases by 10%.<white>|A star-shaped pendant that glows in faint light.
@@ -605,10 +605,10 @@
 <yellow>錬成力が５％上昇する<white>|国家錬金術師の証、内側にはエドの決意が刻まれている=<yellow>ALC increases by 5%.|<white>Proof of a State Alchemist. Ed's promise is engraved inside.
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、攻撃力が５上がる<white>|エドの全長を伸ばす必須アイテム=<yellow>The SP gauge fills twice as fast. ATK increases by 5.<white>|Essential for Ed to seem taller.
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、防御力が５上がる<white>|ソフィの手作り、エドとウィンリィにえらく不評=<yellow>The SP gauge fills twice as fast. DEF increases by 5.<white>|Sophie's handiwork, disliked by Ed and Winry.
-<yellow>自分が攻撃すると、パートナーのＳＰゲージも増加する<white>|兄弟の誓い、必ず２人で元の身体に戻る=<yellow>When you attack, partner's SP gauge also fills.<white>|The vow of two brothers to return to their original bodies.
+<yellow>自分が攻撃すると、パートナーのＳＰゲージも増加する<white>|兄弟の誓い、必ず２人で元の身体に戻る=<yellow>When you attack, your partner's SP gauge also fills.<white>|The vow of two brothers to return to their original bodies.
 <yellow>コンボボーナス経験値が５倍に増加する（エドアル共に）<white>|ニャンコのパワーが、勇気と力を与えてくれる！=<yellow>EXP earned from combos are multiplied by 5.|<white>Cat power gives you courage and strength!
 <yellow>攻撃力が１０上がり、敵を気絶状態にしやすい<white>|ウィンリィの怒りのスパナ、狙った獲物は逃さない=<yellow>ATK increases by 10. Enemies are knocked out more easily.<white>|Winry's furious wrench never misses a target.
-<yellow>炎・爆発属性の攻撃力が３０％上昇する<white>|ロイ必須のアイテム、無ければ無能=<yellow>Increases fire and explosion damage dealt 30%.<white>|Essential items for Roy—he's useless without them.
+<yellow>炎・爆発属性の攻撃力が３０％上昇する<white>|ロイ必須のアイテム、無ければ無能=<yellow>Increases fire and explosion damage dealt by 30%.<white>|Essential items for Roy—he's useless without them.
 <yellow>ソフィに渡すと……？<white>|ロイの手帳、デートの予定がぎっしりと書かれている=<yellow>What if you give it to Sophie...?<white>|Roy's notebook is crammed with planned dates.
 <yellow>体技属性、突起錬成の攻撃力が３０％上昇する<white>|アームストロングの手甲、ズッシリ重い=<yellow>Increases physical and stonespikes damage dealt by 30%. <white>Armstrong's gauntlet is really heavy.
 <yellow>敵を気絶状態にしやすい<white>|言わずと知れた愛の抱擁、最終兵器=<yellow>Enemies are easily stunned.<white>|The embrace of declared love—the ultimate weapon.
