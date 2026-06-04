@@ -1636,7 +1636,7 @@
 決死のアル=Al's Desperation
 感動の再会=A Touching Reunion
 出撃するロイたち=Roy and Company Charging
-ヴィーナス隊の３人=The Three Members of Venus Corps
+ヴィーナス隊の３人=The Venus Corps
 囚われたソフィ=Sophie Gets Imprisoned
 かつての２人=As They once Were
 造られた神の器=A Vessel Made for a Goddess
@@ -1645,7 +1645,7 @@
 苦戦のロイ=Roy's Ace Up His Sleeve?
 豪腕の拳=Strong-Arm's Fist
 病室のソフィ=Sophie in the Hospital
-病室を見上げる３人=The Three Looking Up at the Hospital
+病室を見上げる３人=The Three Look Up at the Hospital
 病室のロイとホークアイ=Roy and Hawkeye at the Hospital
 復活の兆し=Sign of Rebirth
 アルとソフィ=Al and Sophie
