@@ -1612,8 +1612,8 @@
 
 !FILE:1211_003.txt
 オープニング=Opening
-映像特典その１|北出菜奈「悲しみのキズ」|スぺシャルＰＶ=Bonus video 1|Nana Kitade:|“Scars of Sadness"|Special promo video
-映像特典その２|コミカル３０秒ＣＭ『裏鋼』=Bonus video 2|30 second mock commercial:|“Reverse Fullmetal"
+映像特典その１|北出菜奈「悲しみのキズ」|スぺシャルＰＶ=Bonus Video 1|Nana Kitade:|“Scars of Sadness"|Special promo video
+映像特典その２|コミカル３０秒ＣＭ『裏鋼』=Bonus Video 2|30 second mock commercial:|“Reverse Fullmetal"
 ヴァルドラ陥落=The Fall of Valdolla
 聖印の少女=Girl with the Holy Sigil
 煉獄の男=The Man from Hell
@@ -1627,7 +1627,7 @@
 四神官=The Four Priests
 大佐＆少佐=Colonel and Major
 ソフィとノルン=Sophie and Norn
-一族を抜ける２人=Running From Home
+一族を抜ける２人=Running from Home
 父とソフィ=Sophie and Her Father
 殺された父=Sophie's Father is Murdered
 捕まったエド=Ed Gets Captured
@@ -1638,15 +1638,15 @@
 出撃するロイたち=Roy and Company Charging
 ヴィーナス隊の３人=The Three Members of Venus Corps
 囚われたソフィ=Sophie Gets Imprisoned
-かつての２人=As They Once Were
-造られた神の器=A Vessel Made For a Goddess
+かつての２人=As They once Were
+造られた神の器=A Vessel Made for a Goddess
 ホークアイに迫る影=A Shadow Approaches Hawkeye
 奮闘アームストロング=Armstrong Struggles
 苦戦のロイ=Roy's Ace Up His Sleeve?
 豪腕の拳=Strong-Arm's Fist
-病室のソフィ=Sophie In the Hospital
-病室を見上げる３人=The Three Looking Up At the Hospital
-病室のロイとホークアイ=Roy and Hawkeye At the Hospital
+病室のソフィ=Sophie in the Hospital
+病室を見上げる３人=The Three Looking Up at the Hospital
+病室のロイとホークアイ=Roy and Hawkeye at the Hospital
 復活の兆し=Sign of Rebirth
 アルとソフィ=Al and Sophie
 特製シチュー=Special Stew
@@ -1662,7 +1662,7 @@
 軍司令部２=Military Headquarters 2
 古城=Old Castle
 ヴェルザの神殿=The Temple of Velza
-神殿内通路=A passage Inside the Temple
+神殿内通路=A Passage Inside the Temple
 神殿内ヴェルザの間=Velza's Chamber
 設定・ソフィ１=Model: Sophie 1
 設定・ソフィ２=Model: Sophie 2
@@ -1691,7 +1691,7 @@
 設定・オートメイル兵士=Model: Automail Soldier
 設定・戦車=Model: Tank
 設定・カニメカ=Model: Crab Mecha
-設定・邪天使幼生体=Model: Evil Angel larva
+設定・邪天使幼生体=Model: Evil Angel Larva
 設定・邪天使=Model: Evil Angel
 設定・怪物ヴェルザ=Model: Monster Velza
 原画・ソフィ１=Concept: Sophie 1
@@ -1707,7 +1707,7 @@
 原画・ゴドー２=Concept: Godot 2
 原画・ヴィーナス１=Concept: Venus 1
 原画・ヴィーナス２=Concept: Venus 2
-原画・トリガー１=Concep[t: Trigger 1
+原画・トリガー１=Concept: Trigger 1
 原画・トリガー２=Concept: Trigger 2
 原画・ハンマー１=Concept: Hammer 1
 原画・ハンマー２=Concept: Hammer 2
@@ -1718,7 +1718,7 @@
 原画・ヴェルザ１=Concept: Velza 1
 原画・ヴェルザ２=Concept: Velza 2
 原画・ヴェルザ３=Concept: Velza 3
-原画・北方の軍服=Concept: Northern Military uniform
+原画・北方の軍服=Concept: Northern Military Uniform
 
 !FILE:1211_005.txt
 ゲーム進行に伴い獲得できます=Obtained as game progresses
