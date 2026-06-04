@@ -1165,7 +1165,7 @@
 　　　　釘宮　理恵=　　　　Rie Kugimiya
 <yellow><yellow>ウィンリィ・ロックベル=<yellow><yellow>Winry Rockbell　　#spaces
 　　　　豊口　めぐみ=　　　　Megumi Toyoguchi
-<yellow><yellow>ソフィ・ベルクマン=<yellow><yellow>Sophie Bergmann　　#spaces
+<yellow><yellow>ソフィ・ベルクマン=<yellow><yellow>Sophie Belkman　　#spaces
 　　　　坂本　真綾=　　　　Maaya Sakamoto
 <yellow><yellow>ヴェルザ=<yellow><yellow>Velza　　#spaces
 　　　　玉川　紗己子=　　　　Sakiko Tamagawa
@@ -3540,7 +3540,7 @@
 <sophie>そんなことない！ 道はあるわ！|私の父は、|印の呪いを消す方法を——！=<sophie>It doesn't have to be like that! There are other ways! My father found a way to remove the sigils' curse...!
 <zelgius>神を蘇らせようと決めたのは、|ギルベルト。|——お前が、父と呼んでいる男だ。=<zelgius>It was Gilbert who decided to revive the goddess. The man you call your father.
 <sophie>えっ……？=<sophie>What...?
-<zelgius>ヴィクトール・ベルクマンこと、|霊光のギルベルト。かつては、|我ら四神官の上に立つ、一族の長だった。=<zelgius>Victor Bergmann, also known as Gilbert of the Spiritual Light. He was once our leader, standing above us Four Priests.
+<zelgius>ヴィクトール・ベルクマンこと、|霊光のギルベルト。かつては、|我ら四神官の上に立つ、一族の長だった。=<zelgius>Victor Belkman, also known as Gilbert of the Spiritual Light. He was once our leader, standing above us Four Priests.
 <zelgius>奴は、軍から攻撃を受けて|危機におちいった一族を救うため、|神の復活を決意したのだ。=<zelgius>He made the choice to resurrect the goddess to save our dwindling clan.
 <sophie>そ、そんな……ウソよ！|父は、ヴェルザ復活に反対したから、|あなたに殺されたんじゃない！=<sophie>That... That's a lie!|You killed my father because he was against Velza's resurrection!
 <sophie>それに、私の聖印は、|一族と対抗するために、|父がくれたものなのよ！=<sophie>And he gave me this Holy Sigil to fight against the clan!
@@ -4156,7 +4156,7 @@
 <sophie>この聖印は、|父が私に与えてくれた物なの。|ヴェルザの一族と戦うために。=<sophie>It was my father who gave me this mark.|To fight against the Velza Clan.
 <alphonse>ソフィのお父さんが？=<alphonse>Your father?
 <sophie>……うん。|実はね、私の父も、|ヴェルザの一族の人間だったの……。=<sophie>Yes. To be honest, my father had a dark past.
-<armstrong>父の名は、ヴィクトール・ベルクマン。|かつては、ヴェルザの一族の一員だった。=<sophie>My father's name was Victor Bergmann.|He was once a member of the Velza Clan.
+<armstrong>父の名は、ヴィクトール・ベルクマン。|かつては、ヴェルザの一族の一員だった。=<sophie>My father's name was Victor Belkman.|He was once a member of the Velza Clan.
 <armstrong>ヴェルザの一族とは、何百年も前から、|ブリックズ山に連なる北の山中に身を隠し、|独自の錬金術体系を守ってきた集団。=<sophie>The Velza Clan is a group that has been hiding in the northern mountains around Briggs for hundreds of years, protecting their own system of alchemy.
 <armstrong>だが、いつの頃からか、|彼らは大いなる力——ヴェルザの復活を|望むようになっていた。=<sophie>However, at some point, they|began to desire a greater power:|the resurrection of Velza.
 <armstrong>父は、ヴェルザの復活に反対した。|けれど、彼らは誰も、|父の言うことを聞こうとはしなかった。=<sophie>My father was opposed to Velza's rebirth, though none of the others would listen to him.
@@ -4678,7 +4678,7 @@
 <sophie>己が助けた民衆に|恩を仇で返され、殺されかけたのだ|だれが、まっとうでいられよう=<sophie>The people she saved repaid her kindness with betrayal and nearly killed her. Who could remain sane?
 <sophie>特別な力を持つがゆえの苦しみ|己の持つ、絶大なる力を呪い|神を呪い、己を呪い、すべてを呪った=<sophie>The suffering born from possessing extraordinary power... She cursed the power, cursed the gods, cursed herself, cursed everything.
 <sophie>永久に救われぬだろう|堕ちることを選んだ|それは、必然だったのだ=<sophie>Doomed to eternal damnation, she chose to fall. It was inevitable.
-<sophie>以上が、魔女ヴェルザに関する|ヴァルドラの史書である|——ヴィクトール・ベルクマン=<sophie>This concludes the historical record of Valdolla, concerning the witch Velza.|-Victor Bergmann.
+<sophie>以上が、魔女ヴェルザに関する|ヴァルドラの史書である|——ヴィクトール・ベルクマン=<sophie>This concludes the historical record of Valdolla, concerning the witch Velza.|-Victor Belkman.
 <sophie>一枚の手紙がはさまれていた=<sophie>A letter was tucked inside.
 <sophie>「最愛の娘、ソフィへ」=<sophie>“To my beloved daughter, Sophie."
 <sophie>父さんは罪を犯した|それは、人としての罪|許されない罪だ=<sophie>Your father has committed a sin.|An unforgivable sin.
@@ -5481,7 +5481,7 @@
 <alphonse>——あ。=<alphonse>Hm?
 <mysteriousgirl>うふふふっ……。|もう、こんな状況なのに楽しい人たちね。|アハハハハハッ……！=<mysteriousgirl>Heh heh heh... Even with all this going on, you guys can still have fun.|Ahahaha...!
 <mysteriousgirl>——分かったわ。|助けてもらったお礼もあるし、|事情を説明するわ。=<mysteriousgirl>All right.|As thanks for rescuing me, I'll explain what's going on...
-<sophie>私の名前はソフィ。|ソフィ・ベルクマン。=<sophie>My name is Sophie. Sophie Bergmann.
+<sophie>私の名前はソフィ。|ソフィ・ベルクマン。=<sophie>My name is Sophie. Sophie Belkman.
 <sophie>この街を襲っているのは、|「ヴェルザの一族」と呼ばれる者たち。=<sophie>The ones who are attacking this city are the Velza Clan.
 <sophie>私は彼らの計画を——|ヴェルザの復活を防ぐため、|ヴァルドラへ来たの。=<sophie>I came to Valdolla to stop their plans, to stop the resurrection of Velza.
 <armstrong>かつて、白き衣をまといし魔女がいた=<sophie>A long time ago, there was a witch clad in white.
