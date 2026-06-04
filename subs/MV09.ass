@@ -24,21 +24,21 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:34.04,0:00:35.27,Default,,0,0,0,,B-Brother?
 Dialogue: 0,0:00:35.70,0:00:36.94,Default,,0,0,0,,Brother!
 Dialogue: 0,0:00:36.95,0:00:37.72,Default,,0,0,0,,Ed!
-Dialogue: 0,0:00:37.72,0:00:40.86,Default,,0,0,0,,It's your fault...
-Dialogue: 0,0:00:40.87,0:00:44.39,Default,,0,0,0,,it's all your fault that Lady Venus...
-Dialogue: 0,0:00:45.34,0:00:47.23,Default,,0,0,0,,Ed! Ed! Stay with me!
+Dialogue: 0,0:00:37.72,0:00:40.86,Default,,0,0,0,,It was your fault...
+Dialogue: 0,0:00:40.87,0:00:44.39,Default,,0,0,0,,It was all your fault that Lady Venus...
+Dialogue: 0,0:00:45.34,0:00:47.23,Default,,0,0,0,,Ed! Ed! Stay with us!
 Dialogue: 0,0:00:47.73,0:00:49.73,Default,,0,0,0,,Brother! Brother!
 Dialogue: 0,0:00:49.95,0:00:52.73,Default,,0,0,0,,No! You can't die, Ed!
-Dialogue: 0,0:00:52.99,0:00:56.60,Default,,0,0,0,,Brother, hold on! Brother!
+Dialogue: 0,0:00:52.99,0:00:56.60,Default,,0,0,0,,Brother, hold on! Brother! BROTHER!
 Dialogue: 0,0:00:56.61,0:00:57.80,Default,,0,0,0,,Ed!
 Dialogue: 0,0:01:12.85,0:01:14.36,Default,,0,0,0,,Stop it, Sophie!
-Dialogue: 0,0:01:14.37,0:01:17.62,Default,,0,0,0,,If you do that now you'll...
+Dialogue: 0,0:01:14.37,0:01:17.62,Default,,0,0,0,,If you do that now, you'll...
 Dialogue: 0,0:01:41.53,0:01:43.52,Default,,0,0,0,,Sophie...
 Dialogue: 0,0:01:43.69,0:01:47.56,Default,,0,0,0,,Ed, I'm glad I got to meet all of you.
 Dialogue: 0,0:01:48.43,0:01:52.50,Default,,0,0,0,,After Father died, I was all alone.
 Dialogue: 0,0:01:52.51,0:01:55.55,Default,,0,0,0,,I was so lonely...
 Dialogue: 0,0:01:56.80,0:01:59.87,Default,,0,0,0,,But things are different now.
-Dialogue: 0,0:01:59.88,0:02:02.57,Default,,0,0,0,,I have friends here.
+Dialogue: 0,0:01:59.88,0:02:02.57,Default,,0,0,0,,I have friends now.
 Dialogue: 0,0:02:04.05,0:02:08.21,Default,,0,0,0,,You gave me many things,
 Dialogue: 0,0:02:08.22,0:02:11.08,Default,,0,0,0,,but what made me happiest...
 Dialogue: 0,0:02:12.12,0:02:18.59,Default,,0,0,0,,was when you called me a friend.
@@ -49,10 +49,10 @@ Dialogue: 0,0:02:31.50,0:02:36.79,Default,,0,0,0,,We'll always be friends, right
 Dialogue: 0,0:02:37.68,0:02:39.48,Default,,0,0,0,,Sophie...
 Dialogue: 0,0:02:39.49,0:02:42.50,Default,,0,0,0,,SOPHIE!
 Dialogue: 0,0:02:44.37,0:02:45.47,Default,,0,0,0,,Brother...
-Dialogue: 0,0:02:45.92,0:02:49.67,Default,,0,0,0,,Al, What happened to Sophie!?
+Dialogue: 0,0:02:45.92,0:02:49.67,Default,,0,0,0,,Al, what happened to Sophie!?
 Dialogue: 0,0:02:51.92,0:02:53.92,Default,,0,0,0,,Sophie!
-Dialogue: 0,0:03:02.65,0:03:04.17,Default,,0,0,0,,Sophie, hey, Sophie!
-Dialogue: 0,0:03:04.17,0:03:07.31,Default,,0,0,0,,Sophie? Sophie?
+Dialogue: 0,0:03:02.65,0:03:04.17,Default,,0,0,0,,Sophie! Hey, Sophie!
+Dialogue: 0,0:03:04.17,0:03:07.31,Default,,0,0,0,,Sophie!? Sophie!?
 Dialogue: 0,0:03:07.32,0:03:08.17,Default,,0,0,0,,Sophie!
 Dialogue: 0,0:03:09.77,0:03:11.77,Default,,0,0,0,,Al, it can't be...
 Dialogue: 0,0:03:12.58,0:03:18.01,Default,,0,0,0,,You idiot! Why did you do that!?
