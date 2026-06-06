@@ -3130,7 +3130,7 @@
 <edward>き、消えちまった……。|いったい、どうなってんだ……。=<edward>He... He vanished!|What the hell's going on?
 <sophie>——印に、命を|燃やしつくされてしまったのよ……。|これが、彼らの背負う、印の呪い……。=<sophie>His life was burned away by the sigil.|This is the curse of those that carry it.
 <alphonse>呪い……？=<alphonse>The curse?
-<sophie>ええ。ヴェルザの一族の印は、|代々受け継がれる、生まれつきのもの。|そして、それは、決して消えない……。=<sophie>Yes. The sigil of the Velza Clan is carried from birth, passed down through generations. Therefore, there's no way to remove it.
+<sophie>ええ。ヴェルザの一族の印は、|代々受け継がれる、生まれつきのもの。|そして、それは、決して消えない……。=<sophie>Yes. Velza Clan sigil is carried from birth, passed down through generations, so there's no way to remove it.
 <sophie>確かに彼らは、印によって|超人的な力を得ている。でも、それは、|自らの命を代償にして得る力……。=<sophie>They may have gained superhuman powers thanks to the sigil, but it's a power that comes at the cost of their own lives.
 <sophie>印の力を使えば使うほど、|確実に命は削られてしまう。=<sophie>The more you use the power, the more it drains your life force.
 <sophie>さっきの人は、力を使いすぎた。|だから、命を失った。|あれが、呪いの結末よ……。=<sophie>That man used too much power, and thus his life was taken away. That's the conclusion of the curse.
@@ -4147,7 +4147,7 @@
 <alphonse>あ……ね、ねぇ、ソフィ。|この子に、名前をつけてあげようよ。=<alphonse>Ah... H-hey, Sophie, you gotta give her a name.
 <sophie>——うん。|名前ならもう考えてあるの。|この子の名前は——『ノルン』よ。=<sophie>Yes. I've already thought of the name. She will be called... “Norn."
 <alphonse>ノルン、かぁ……。|いい名前だね！=<alphonse>Norn?|That's a great name!
-<sophie>北方の国の言葉で、|『運命』って意味なんだけどね……。=<sophie>It means “fate" in the language of the northern country.
+<sophie>北方の国の言葉で、|『運命』って意味なんだけどね……。=<sophie>It means “destiny" in the language of the northern country.
 <sophie>今日からあなたはノルンよ。|よろしくね、ノルン。=<sophie>From today you'll be Norn.|Nice to meet you, Norn.
 <norn>ニャ～ン……。=<norn>Meeoow!
 <winry>だけど、ビックリよねぇ。|一瞬でケガを治しちゃうなんて。|それもその、聖印の力なんでしょ？=<winry>But it's crazy that you can heal injuries in an instant. That must be the power of the Holy Sigil, right?
