@@ -4147,7 +4147,7 @@
 <alphonse>あ……ね、ねぇ、ソフィ。|この子に、名前をつけてあげようよ。=<alphonse>Ah... H-hey, Sophie, you gotta give her a name.
 <sophie>——うん。|名前ならもう考えてあるの。|この子の名前は——『ノルン』よ。=<sophie>Yes. I've already thought of the name. She will be called... “Norn."
 <alphonse>ノルン、かぁ……。|いい名前だね！=<alphonse>Norn?|That's a great name!
-<sophie>北方の国の言葉で、|『運命』って意味なんだけどね……。=<sophie>It means “destiny" in the language of the northern country.
+<sophie>北方の国の言葉で、|『運命』って意味なんだけどね……。=<sophie>It means “fate" in the language of the northern country.
 <sophie>今日からあなたはノルンよ。|よろしくね、ノルン。=<sophie>From today you'll be Norn.|Nice to meet you, Norn.
 <norn>ニャ～ン……。=<norn>Meeoow!
 <winry>だけど、ビックリよねぇ。|一瞬でケガを治しちゃうなんて。|それもその、聖印の力なんでしょ？=<winry>But it's crazy that you can heal injuries in an instant. That must be the power of the Holy Sigil, right?
@@ -5626,7 +5626,7 @@
 !FILE:0250_002/004.txt
 <smalltext>フロアの敵を全滅させろ！=<smalltext>Eliminate all enemies on the floor!
 <smalltext>次エリアフロアへ進めます！=<smalltext>Go to the next area floor!
-<bigtext><yellow>神を継ぐ少女<white>クリア！！|||<8006><yellow>ハガレンタッグマッチ<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Girl Who Succeeds God <white>cleared!|||<8006>You can now select the<8006><yellow> Fullmetal Tag Match <white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the|main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
+<bigtext><yellow>神を継ぐ少女<white>クリア！！|||<8006><yellow>ハガレンタッグマッチ<white>コースが選択可能です！|||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Girl Who Succeeds God <white>cleared!|||<8006>You can now select the<8006><yellow> Fullmetal Tag Match|<white>course!|||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the|main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
 <bigtext><yellow>神を継ぐ少女<white>クリア！！||||||<smalltext> ※データを<orange>セーブ<white>しないと、ハイスコアの記録、|  <orange>獲得アイテム・アクセサリのゲーム本編での使用<white>は|  できません。              || ※進行度の低いセーブデータでタッグバトルをプレイ|  していた場合は、<orange>まちがって進行度の高いデータに|  上書きセーブ<white>しないよう注意してください！！|=<bigtext><yellow>Girl Who Succeeds God <white>cleared!||||||<smalltext><white>※If you don't <orange>save <white>your data, you won't be able to record your|high score, or use the <orange>items and accessories obtained in the|main game.||<white>※If you have played a Tag Battle with a low score, be careful|not to <orange>overwrite your save with a high score!|
 
 !FILE:0251_002/004.txt
