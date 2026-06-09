@@ -408,7 +408,7 @@
 アイテムを追加する時のためのスぺース=Space to add items.
 アイテムを追加する時のためのスぺース=Space to add items.
 <yellow>ＨＰを２９回復する（エド専用）<white>|１００ｇ１０円の安肉=<yellow>Restores 29 HP. <orange>(Ed only)<white>|Cheap cut of meat at 10 yen for 100 grams. Not tasty at all.
-<yellow>ＨＰを２９０回復する（エド専用）<white>|１００ｇ１０万円の最高級牛肉=>><yellow>Restores 29β0 HP. <orange>(Ed oβnly)<white>|Expensive cut of meat at 100,000 yen for 100 grams. Not for cats.#Restores 290 HP. <orange>(Ed only)
+<yellow>ＨＰを２９０回復する（エド専用）<white>|１００ｇ１０万円の最高級牛肉=<yellow>Restores 290 HP. <orange>(Ed only)<white>|Expensive cut of meat at 100,000 yen for 100 grams.
 <yellow>２９のダメージを受ける！（エド専用）<white>|危険な香りがする……！=<yellow>Causes 29 points of damage! <orange>(Ed only)<white>|It has a dangerous odor...!
 <yellow>体力を１ポイント上昇させＨＰを５回復する（エド専用）<white>|エド最大の敵、新鮮な牛乳！=<yellow>Increases VIT by 1 point and restores 5 HP. <orange>(Ed only)<white>|Ed's greatest enemy: fresh milk!
 <yellow>ＨＰを３０回復する（エド専用）<white>|一流の料理人ですら涙するタマネギ=<yellow>Restores 30 HP. <orange>(Ed only)<white>|Onions that make even the best chefs cry.
@@ -1638,11 +1638,11 @@
 出撃するロイたち=Roy and Company Charging
 ヴィーナス隊の３人=The Venus Corps
 囚われたソフィ=Sophie Gets Imprisoned
-かつての２人=As They once Were
+かつての２人=As They Once Were
 造られた神の器=A Vessel Made for a Goddess
 ホークアイに迫る影=A Shadow Approaches Hawkeye
 奮闘アームストロング=Armstrong Struggles
-苦戦のロイ=Roy's Ace Up His Sleeve?
+苦戦のロイ=Roy's Ace up His Sleeve?
 豪腕の拳=Strong-Arm's Fist
 病室のソフィ=Sophie in the Hospital
 病室を見上げる３人=The Three Look Up at the Hospital
