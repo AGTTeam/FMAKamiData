@@ -3142,7 +3142,7 @@
 <alphonse>ええっ！？=<alphonse>Huh!?
 <sophie>——それは大丈夫よ。安心して。|聖印は私が与えたものだから、|エドたちの命が削られることはないわ。=<sophie>It's all right, don't worry. Since they were bestowed by me, they won't use your life force.
 <alphonse>そ、そっかぁ……よかった……。=<alphonse>Ah, I see... Thank goodness!
-<edward>いや……待て、アル。|オレたちの命が削られないんなら、|聖印の力は、どこから来てるんだ？=<edward>No... Wait, Al. If not from us, where do these marks draw power from?
+<edward>いや……待て、アル。|オレたちの命が削られないんなら、|聖印の力は、どこから来てるんだ？=<edward>No... Wait, Al. If not from us, where do they draw power from?
 <alphonse>えっ？=<alphonse>Huh?
 <edward>ヴェルザの一族の印が|命を代償にしているなら、聖印も、|何かの代償を必要としているはずだ。=<edward>If the sigils of the clan cost one's life, then the Holy Sigil must have a similar cost.
 <edward>——なぁ、ソフィ。|この聖印……お前の命を|代償にしてるんじゃないのか？=<edward>Be honest, Sophie. These marks...|They're using your life force, aren't they?
@@ -3158,7 +3158,7 @@
 <alphonse>大丈夫、じゃないよ！|命の危険があるのに、どうして|ボクたちに聖印を渡したりしたんだ！=<alphonse>It's NOT all right! Why did you give us these marks if the cost of using them is your life!?
 <sophie>あなたたちなら、やってくれるって——|命を預ける価値があるって、|そう思ったからよ……。=<sophie>Because I thought you would succeed, and that it was worth entrusting you with my life...
 <edward>——だとしても……|どうして最初に|説明してくれなかったんだ。=<edward>Even if that's true, why didn't you just tell us that from the start?
-<sophie>言えば、素直に聖印を受け取ってくれた？|あなたたちに、|余計な心配をかけるだけじゃない。=<sophie>Would you have accepted the marks if I had told you? I didn't want to cause you unnecessary worries.
+<sophie>言えば、素直に聖印を受け取ってくれた？|あなたたちに、|余計な心配をかけるだけじゃない。=<sophie>Would you have accepted the power if I had told you? I didn't want to cause you unnecessary worries.
 <alphonse>もういいよ、ソフィ！|早く、聖印を消して！|こんなもの、いらないよ！！=<alphonse>That's enough, Sophie! Remove our marks right now! We don't need them!
 <sophie>そんなこと言わないで、アル……。|それがないと、|ヴェルザの一族とは戦えないのよ。=<sophie>Don't say that, Al. You can't fight against the Velza Clan without the power of the Holy Sigil.
 <alphonse>こんなもの無くても、戦ってやるさ！|ソフィの命を削るくらいなら、自分の命を|危険にさらす方が、よっぽどマシだよ！=<alphonse>I don't need it! I'd much rather risk my own life than yours!
