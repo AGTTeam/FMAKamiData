@@ -2017,7 +2017,7 @@
 
 !FILE:0027_002/004.txt
 ＰＬＡＬＬ=PLALL
-<younggirl>ＥＤＯ=<younggirl>ED
+<younggirl>ＥＤＯ=<girl>ED
 <boy>ＡＬ=<boy>AL
 １Ｐ=1P
 ＡＩ=AI
@@ -3389,7 +3389,7 @@
 <roy>我々は、部隊を２つに分ける。|連携した攻撃で、|敵を混乱におとしいれるのだ。=<roy>We'll split our troops in two.|With coordinated attacks, we can disrupt their ranks.
 <roy>敵は我が軍より多勢だが、|この私の作戦通りに動けば、|けっして負けることはない。=<roy>The enemy outnumbers our forces, but if you follow my strategy to the letter, we cannot fail.
 <roy>ゆくぞ、諸君。|私についてこい。=<roy>Let's go, gentlemen. Follow me.
-<officer>オ————ッ！！=<officer><bigtext>OOOOOOH!!
+<officer>オ————ッ！！=<younggirl><bigtext>OOOOOOH!!
 <roy>我々が攻撃を開始すれば、|城に続く道の守りも|手薄になるはずだ。=<roy>Once we begin our attack, the road to the castle should be less fortified.
 <roy>だが、クレイギンもバカではない。|すべての敵が|いなくなるわけではないだろう。=<roy>But Craigin is no fool.|Not all his forces will be gone.
 <edward>いや、それで十分だよ。|残った敵は、|オレたちでなんとかする。=<edward>No, that's enough. We can deal with the rest of them.
@@ -3412,9 +3412,9 @@
 !FILE:0147_003/004.txt
 <blackbold>アイテム<normal>【オルゴール】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Music Box"
 <girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that armor freak's brother!|I'm hiding here secretly.
-<younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<younggirl>My mommy told me to play hide-and-seek until the loud noises stop.
-<younggirl>ほんとは、ちょっと怖いけど……。|——大丈夫、|私、もう泣かないもん！=<younggirl>Honestly, I'm a bit scared...|But it's okay. I'm not gonna cry anymore!
-<younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<younggirl>I wonder if mommy is close...|She said she'd come back soon...
+<younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<girl>My mommy told me to play hide-and-seek until the loud noises stop.
+<younggirl>ほんとは、ちょっと怖いけど……。|——大丈夫、|私、もう泣かないもん！=<girl>Honestly, I'm a bit scared...|But it's okay. I'm not gonna cry anymore!
+<younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<girl>I wonder if mommy is close...|She said she'd come back soon...
 
 !FILE:0148_003/004.txt
 <blackbold>アクセサリ<normal>【鋼のバングル】|<blackbold>を手に入れた！！=<blackbold>Got accessory <normal>“Fullmetal Bangle"
@@ -3505,7 +3505,7 @@
 <king>強情な女だ……隠さずに吐け！|お前の力の秘密は何だ！？=<king>You're an obstinate woman... Tell me the truth! What's the secret to your powers!?
 <king>お前を痛めつけてもムダのようだな……。|しかたがない。ならば代わりに……|お前の娘に犠牲になってもらおうか！=<king>It seems there's no point in torturing you... You leave me no choice.|I'll have to sacrifice your daughter instead!
 <king>お前に聞いてもムダのようだな……。|しかたがない。ならば代わりに……|お前の娘を——！=<king>It seems there's no point in asking you... You leave me no choice.|I'll just have to take your daughter and...!
-<younggirl>お母さん！ 助けて……！|イヤアア———ッ！！=<younggirl>Mommy! Help me!|<bigtext>AAAAAAAAAHH!!
+<younggirl>お母さん！ 助けて……！|イヤアア———ッ！！=<girl>Mommy! Help me!|<bigtext>AAAAAAAAAHH!!
 <maleworshipper>ヴェルザ様、助けにまいりました！|——ああっ！？|そ、そのお身体は……！？=<maleworshipper>Lady Velza, I've come to rescue you!|...Ah! Yo-your body...!?
 <youngworshipper>……我々は裏切られたのです……|ヴェルザ様が救った、|民によって……。=<youngworshipper>We've been betrayed... By the very people whom Lady Velza saved.
 <man>ヴェルザ様！？ お、お許しください！|王に脅されて、しかたなかったのです！|あなた様の居場所を教えねば殺す、と！=<man>Lady Velza!? Pl-please forgive me! The king threatened me, I had no choice! He'd kill me if I didn't tell him where you were!
