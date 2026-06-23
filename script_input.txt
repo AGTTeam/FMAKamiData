@@ -1214,7 +1214,7 @@
 <yellow><yellow>一族の戦士（仮面）=<yellow><yellow>Clan Warrior (masked)　　#spaces
 　　　　堀川　仁=　　　　Jin Horikawa
 <yellow><yellow>兵士（巨漢）=<yellow><yellow>Soldier (giant)　　#spaces
-　　　　長岨　高士=　　　　Takashi Nagasha
+　　　　長岨　高士=　　　　Takashi Nagasako#岨 should be 嶝
 <yellow><yellow>一族の戦士（巨漢）=<yellow><yellow>Clan Warrior (giant)　　#spaces
 　　　　乃村　健次=　　　　Kenji Nomura
 <yellow><yellow>一族の戦士（巨漢）=<yellow><yellow>Clan Warrior (giant)　　#spaces
