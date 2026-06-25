@@ -2178,7 +2178,7 @@
 <alphonse>せっかくだから錬成武器を使おうよ。=<alphonse>Let's use a transmuted weapon.
 
 !FILE:0038_003/004.txt
-<bigtext><blackbold> 武器の乗り降り=<bigtext><blackbold> Mounting and Dismounting an Object
+<bigtext><blackbold> 武器の乗り降り=<bigtext><blackbold> Mounting and Dismounting Objects
 <8006><white>（武器の近くで）|<8006><white><triangle>　＝　<yellow>武器に乗る=<8006><white>(Near an object)|<8006><white><triangle>: <yellow>Mount object
 乗っている間は、<orange>左スティックで操作、|<white><square><orange>で攻撃<white>です。=While mounted, use the <orange>left stick to move <white>and|<square> <orange>to attack.
 降りる時は、もう一度<triangle>です。=To dismount, press <triangle> again.
