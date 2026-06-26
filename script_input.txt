@@ -1297,7 +1297,7 @@
 <yellow><yellow>エンディングテーマ=<yellow><yellow>Ending Theme
 『Ｃｌｏｓｅ　ｍｙ　ｅｙｅｓ』=“Close My Eyes"
 <smalltext><smalltext>（Ｒａｃｊｉｎ-Ｒａｄｉｘ）<8006>=<smalltext><smalltext>(Racjin-Radix)<8006>
-<smalltext><smalltext>歌 作詞　：Ｎａｏｋｏ　Ｍｏｒｉ（Ｒａｃｊｉｎ-Ｒａｄｉｘ）　　　　　　=<smalltext><smalltext>Lyrics / Vocals: Naoko Mori (Racjin-Radix)
+<smalltext><smalltext>歌 作詞　：Ｎａｏｋｏ　Ｍｏｒｉ（Ｒａｃｊｉｎ-Ｒａｄｉｘ）　　　　　　=<smalltext><smalltext>Lyrics / Vocalsγ: Naoko Mori (Racjin-Radix)
 <smalltext>　<smalltext>　作曲　　　：Ｔｏｍｏｈｉｋｏ　Ｓａｔｏ（Ｒａｃｊｉｎ-Ｒａｄｉｘ）=<smalltext><smalltext>Composer: Tomohiko Sato (Racjin-Radix)
 <smalltext><smalltext>音楽監督　：Ｔｏｍｏｈｉｋｏ　Ｓａｔｏ（Ｒａｃｊｉｎ-Ｒａｄｉｘ）=<smalltext><smalltext>Music director: Tomohiko Sato (Racjin-Radix)
 <smalltext><smalltext>Ｇｕｉｔａｒ　　　　　：和田　肇　　　　　=<smalltext><smalltext>Guitar: Hajime Wada
@@ -2197,7 +2197,7 @@
 !FILE:0039_003/004.txt
 <bigtext><blackbold> 特殊攻撃=<bigtext><blackbold> Special Moves
 <8006><white><square>＋<cross>同時押し　＝　<yellow>足払い=<8006><white>Press <square> ＋ <cross> simultaneously: <yellow>Foot sweep
-<8006><white>（走りながら）|<8006><square>＋<cross>同時押し　＝　<yellow>スライディング[エド]|       <white>　＝　<yellow>踏みつけ[アル]=<8006><white>(While running)|<8006>Press <square> ＋ <cross> simultaneously: <yellow>Slide kick (Ed)|                                            Trample (Al)
+<8006><white>（走りながら）|<8006><square>＋<cross>同時押し　＝　<yellow>スライディング[エド]|       <white>　＝　<yellow>踏みつけ[アル]=<8006><white>(While running)|<8006>Press <square> ＋ <cross> simultaneously: <yellow>Slide kick (Ed)|                                          Trample (Al)
 ダウンした敵へ、追い撃ちができます。=You can continue attacking fallen enemies.
 <bigtext><blackbold> ジャストアタック=<bigtext><blackbold> Accu-Strike
 連続攻撃時、特定のタイミングで|攻撃ボタンを押すと、通常より強力な|<orange>ジャストアタック<white>が出ます。=Pressing the Attack button at the right moment during combos will cause you to perform a powerful <orange>Accu-Strike<white>.
