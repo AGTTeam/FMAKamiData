@@ -1916,13 +1916,13 @@
 |<smalltext>（人、宝箱、怪しい場所近くで）|　<square>/<circle>　＝　<yellow>話しかける<white>|　   　＝　<yellow>宝箱を開ける<white>|　   　＝　<yellow>調べる<white>|||（セーブポイント内で）|　<square>/<circle>　＝　<yellow>セーブ画面を開く<white>||セーブ画面を開いた時に、|<orange>エドとアルのＨＰが回復<white>します。=||<smalltext>(Near people, treasure chests|or suspicious places)| <square> / <circle> ＝ <yellow>Talk<white>|             ＝ <yellow>Open chest<white>|             ＝ <yellow>Examine<white>||(Inside a Save Point)| <square> / <circle> ＝ <yellow>Open Save screen<white>||When you open the Save screen,|<orange>Ed and Al's HP will recover.<white>
 |<smalltext>　Ｒ３ボタン|（右スティック押しこみ）<white>| ＝　<yellow>操作キャラクターに|  　カメラがズーム<white>||（ロックオン中に）|　Ｒ３ボタン| ＝　<yellow>ターゲット切り替え<white>||（イベント中に）|　Ｌ３ボタン| ＝　<yellow>メッセージ非表示<white>|=|<smalltext> R3 button|(Press right stick)<white>| ＝ <yellow>Camera zooms in on|      controlled character<white>||(While locked-on)| R3 button| ＝ <yellow>Switch target<white>||(During an event)| L3 button| ＝ <yellow>Hide message<white>|
 <smalltext>【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|<square>→<square>→<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|<square>→<square>→<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>|<square>→<square>→<square>→<square>→<circle>=<smalltext>Basic combo|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|<square>→<square>→<square>→<square>→<square>|Heavy attack combo|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|<square>→<square>→<square>→<square>→<triangle>|Stonespikes Transmutation combo|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>|<square>→<square>→<square>→<square>→<circle>
-<smalltext>|　<triangle>　＝　<yellow>上昇攻撃<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>突進攻撃<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>破壊錬成<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|<square>＋<cross>同時押し＝<yellow>スライディング<white>|（左スティック後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>蹴り上げ<white>=<smalltext> <triangle> ＝ <yellow>Upwards attack<white>||(Moving left stick forward)| <triangle> ＝ <yellow>Rush attack<white>|(Moving left stick backwards)| <triangle> ＝ <yellow>Destructive Transmutation<white>||Press <square>＋<cross> simultaneously| ＝ <yellow>Foot sweep<white>|(Moving left stick forward)|Press <square>＋<cross> simultaneously| ＝ <yellow>Slide kick<white>|(Moving left stick backwards)|Press <square>＋<cross> simultaneously| ＝ <yellow>High kick<white>
+<smalltext>|　<triangle>　＝　<yellow>上昇攻撃<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>突進攻撃<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>破壊錬成<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|<square>＋<cross>同時押し＝<yellow>スライディング<white>|（左スティック後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>蹴り上げ<white>=<smalltext> <triangle> ＝ <yellow>Upwards attack<white>||(Moving left stick forward)| <triangle> ＝ <yellow>Rush attack<white>|(Moving left stick backwards)| <triangle> ＝ <yellow>Destructive Transmutation<white>||Press <square>＋<cross> together| ＝ <yellow>Foot sweep<white>|(Moving left stick forward)|Press <square>＋<cross> together| ＝ <yellow>Slide kick<white>|(Moving left stick backwards)|Press <square>＋<cross> together| ＝ <yellow>High kick<white>
 |<smalltext>（エド操作時に）|　<L2a><L2b>押しながら<circle>＝<yellow>「壁」錬成<white>||敵の攻撃を防いだり、高い所に|上がる時に使える壁を錬成する|スキルです。||壁に向かって進み続けると、|<orange>自動で上に乗る<white>ことができます。||レベルが上がると、複数の壁を|錬成できるようになります。=|<smalltext>(While controlling Ed)|Press <circle> while holding <L2a><L2b>| ＝ <yellow>Create rockblocker<white>||This skill creates a climbable|rockblocker which can also be |used to shield against enemy |attacks.||If you walk towards a rockblocker,|<orange>you will climb on it automatically.<white>||As you level up, you will be able |to create multiple rockblockers.
 <smalltext>（エド操作時に）|　<L2a><L2b>押しながら<square>＝<yellow>「槍」錬成<white>||【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>連打|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>連打→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>連打→<circle>=<smalltext>(While controlling Ed)|Press <square> while holding <L2a><L2b>| ＝ <yellow>Create lance<white>|Basic combo|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square> (repeatedly)|Heavy attack combo|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square> (repeatedly) →<triangle>|Stonespikes Transmutation combo|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square> (repeatedly) →<circle>
 <smalltext>|（エド操作時に）|　<L2a><L2b>押しながら<triangle>|  ＝<yellow>「大剣」錬成<white>||【基本コンボ】|<square>→<square>|<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>=<smalltext>|(While controlling Ed)|Press <triangle> while holding <L2a><L2b>| ＝ <yellow>Create large sword<white>||Basic combo|<square>→<square>|<square>→<square>→<square>|Heavy attack combo|<square>→<triangle>|<square>→<square>→<triangle>|Stonespikes Transmutation combo|<square>→<circle>|<square>→<square>→<circle>
 <smalltext>|（エド操作時に）|　<L2a><L2b>押しながら<cross>|  ＝<yellow>「ハンマー」錬成<white>||【基本コンボ】|<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>||<orange>ガードしている敵にダメージ<white>を|与えたり、木箱などの<orange>物を壊す<white>|ことができます。=<smalltext>|(While controlling Ed)|Press <cross> while holding <L2a><L2b>| ＝ <yellow>Create hammer<white>||Basic combo|<square>→<square>|Heavy attack combo|<square>→<triangle>|Stonespikes Transmutation combo|<square>→<circle>||You can <orange>damage blocking enemies |and destroy objects <white>like wooden |boxes.
 |<smalltext>【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>=<smalltext>Basic combo|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>||Heavy attack combo|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>||Stonespikes Transmutation combo|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>
-<smalltext>|　<triangle>　＝　<yellow>二段蹴り<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>タックル<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>裏拳～水面蹴り<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|　<square>＋<cross>同時押し　＝　<yellow>踏みつけ<white>|（左スティックを後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>かちあげ<white>=<smalltext> <triangle> ＝ <yellow>Double kick<white>||(Moving left stick forward)| <triangle> ＝ <yellow>Tackle<white>|(Moving left stick backwards)| <triangle> ＝ <yellow>Backfist / surface kick<white>||Press <square>＋<cross> simultaneously| ＝ <yellow>Foot sweep<white>|(Moving left stick forward)|Press <square>＋<cross> simultaneously| ＝ <yellow>Trample<white>|(Moving left stick backwards)|Press <square>＋<cross> simultaneously| ＝ <yellow>Strike up<white>
+<smalltext>|　<triangle>　＝　<yellow>二段蹴り<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>タックル<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>裏拳～水面蹴り<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|　<square>＋<cross>同時押し　＝　<yellow>踏みつけ<white>|（左スティックを後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>かちあげ<white>=<smalltext> <triangle> ＝ <yellow>Double kick<white>||(Moving left stick forward)| <triangle> ＝ <yellow>Tackle<white>|(Moving left stick backwards)| <triangle> ＝ <yellow>Backfist / surface kick<white>||Press <square>＋<cross> together| ＝ <yellow>Foot sweep<white>|(Moving left stick forward)|Press <square>＋<cross> together| ＝ <yellow>Trample<white>|(Moving left stick backwards)|Press <square>＋<cross> together| ＝ <yellow>Strike up<white>
 |<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<circle>|  ＝<yellow>「石球」を錬成<white>||錬成した石球を攻撃して転がし|敵に当てるとダメージを与える|ことができます。||ただし、跳ね返ってきた石球に|当たらないよう、気をつけて|ください！=|<smalltext>(While controlling Al)|Press <circle> while holding <L2a><L2b>| ＝ <yellow>Create stone ball<white>||You can attack the stone ball |to make it roll and damage the |enemies it hits.||However, be careful not to be |hit by the bouncing ball yourself!
 |<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<square>|  ＝<yellow>「吸引マシン」を錬成<white>||周囲の敵を吸い寄せてしまう|マシンを錬成するスキルです。||レベルが上がると、吸引時間が|長くなります。=|<smalltext>(While controlling Al)|Press <square> while holding <L2a><L2b>| ＝ <yellow>Create a vacuum<white>||This skill creates a suction machine |to draw in surrounding enemies.||As your level goes up, the suction |time will increase.
 |<smalltext>（アル操作時に）|　<L2a><L2b>押しながら<cross>|  ＝<yellow>「石柱ジャンプ」<white>||足元に石柱を錬成して、|通常より高いジャンプができる|スキルです。=|<smalltext>(While controlling Al)|Press <cross> while holding <L2a><L2b>| ＝<yellow> Stone pillar jump<white>||This skill creates a stone pillar |under your feet that allows you |to jump higher than usual.
@@ -1931,7 +1931,7 @@
 |<smalltext>（その場に止まって）|　<R2a><R2b>＝　<yellow>ガード<white>||（移動しながら）|　<R2a><R2b>＝　<yellow>回避行動[エドのみ]<white>||（敵の攻撃にあわせて）|　<R2a><R2b>＝　<yellow>カウンター<white>||（吹き飛ばされた時）|　<cross>　＝　<yellow>受け身[エドのみ]<white>=||<smalltext>(While standing in place)| <R2a><R2b> ＝ <yellow>Block<white>||(While moving)| <R2a><R2b> ＝ <yellow>Dodge <orange>(Ed only)<white>||(While attacked by enemy)| <R2a><R2b> ＝ <yellow>Counter<white>||(When blown away)| <cross> ＝ <yellow>Breakfall <orange>(Ed only)<white>
 |<smalltext>（敵の方を向いて）|　<L1a><L1b>押し続け　＝　<yellow>ロックオン<white>||（ロックオン中）|　Ｒ３ボタン|  ＝　<yellow>ターゲット切り替え<white>||ロックオン中、その敵が正面に|来るようにカメラが移動します。||Ｒ３ボタン（右スティック押し|こみ）でターゲットを切り替え|ることもできます。=|<smalltext>(Facing the enemy)|Hold <L1a><L1b> ＝ <yellow>Lock-on<white>||(While locked on)|R3 button ＝ <yellow>Switch target<white>||While locked on, the camera moves |so the enemy is in front of you.||You can also switch targets |with the R3 button |(pressing the right stick).
 |<smalltext>（コンボ中に）|ひとつ前の攻撃を出しきった|瞬間、次の攻撃のボタンを押す|  ＝　<yellow>ジャストアタック<white>||ジャストアタックが成立すると|手が斉く光り、通常より大きな|ダメージを敵に与えます。=||<smalltext>(During a combo)|Precisely after finishing an attack, |press the button for the next |attack| ＝ <yellow>Accu-Strike<white>||If an accu-strike is successful,| your hand will glow and you will| deal greater damage than usual.
-|<smalltext>（ＳＰゲージＭＡＸ時に）|　<circle>＋<triangle>同時押し|  ＝　<yellow>スぺシャルアタック<white>||エドとアル、それぞれ別の|スぺシャルアタックが使えます。||<orange>ＳＰゲージ<white>は、敵にダメージを|与えたり、敵からダメージを|受けた時に上昇します。=||<smalltext>(When the SP Gauge is full)|Press <circle>＋<triangle> simultaneously| ＝ <yellow>Special Attack<white>||Ed and Al can each use different |Special Attacks.||<orange>The SP Gauge<white> fills when you |deal damage to enemies, |or receive damage from them.
+|<smalltext>（ＳＰゲージＭＡＸ時に）|　<circle>＋<triangle>同時押し|  ＝　<yellow>スぺシャルアタック<white>||エドとアル、それぞれ別の|スぺシャルアタックが使えます。||<orange>ＳＰゲージ<white>は、敵にダメージを|与えたり、敵からダメージを|受けた時に上昇します。=||<smalltext>(When the SP Gauge is full)|Press <circle>＋<triangle> together| ＝ <yellow>Special Attack<white>||Ed and Al can each use different |Special Attacks.||<orange>The SP Gauge<white> fills when you |deal damage to enemies, |or receive damage from them.
 |<smalltext><yellow>【エドの特性】<white>|・回避、受け身が使える|・壁つたい歩きができる|・ほふく前進ができる|・ＨＰが０でゲームオーバー||<yellow>【アルの特性】<white>|・ダウンしにくい|・銃弾や炎などの攻撃に強い|・ＨＰが０になっても| エドに再錬成してもらうか| 一定時間で復活できる|=<smalltext><yellow>Ed's attributes<white>|・Can evade and do breakfalls|・Can walk along walls|・Can crawl forward|・If his HP reaches 0, it's game|    over||<yellow>Al's attributes<white>|・Hard to knock down|・Strong against bullets, fire and|    other attacks|・Even if his HP reaches 0,|    Ed can revive him after|    a certain period of time.
 |<smalltext>　<R1a><R1b>＝　<yellow>待機/行動の切り替え<white>||　<R1a><R1b>押し続け　＝　<yellow>呼び寄せる<white>||（エド操作・アルが側にいる時）|　<R1a><R1b>押し続け＝　<yellow>協力ジャンプ<white>||（錬成サークル内で）|　<R1a><R1b>＝<yellow>パートナーに錬成させる<white>||（武器の近くで）|　<R1a><R1b>＝　<yellow>武器を装備させる<white>|  　＝　<yellow>武器に乗せる<white>|=<smalltext><R1a><R1b> ＝ <yellow>Switch to Standby / Action<white>|Hold <R1a><R1b> ＝ <yellow>Summon partner<white>||(While controlling Ed, if Al is next|to him)|Hold <R1a><R1b> ＝ <yellow>Alleyoop<white>||(Inside a transmutation circle)| <R1a><R1b> ＝ <yellow>Make partner do the|            Transmutation<white>||(Near a weapon / vehicle)| <R1a><R1b> ＝ <yellow>Make partner equip the|            weapon<white>| ＝ <yellow>Make partner ride the vehicle<white>
 |<smalltext>敵を倒した時、カウンターや|回数の多いコンボを決めた時に|<orange>ＥＸＰ<white>を獲得できます。||一定以上のＥＸＰを溜めると、|<orange>レベルアップ<white>します。|<orange>ボーナスポイント<white>が手に入るので|好きな能力を強化してください。||レベルアップ時、スキル錬成の|レベルが上がったり、オブジェ|錬成武器を再錬成できるように|なる場合もあります。=<smalltext>You will gain<orange> Experience<white> upon|defeating enemies, doing|counters, or performing combos|with a high number of hits.||If you accumulate a certain|amount of EXP you will <orange>level up<white>.|Use the <orange>bonus points<white> you get to |strengthen the desired stats.||When you level up, your Skill |Transmutation level may increase, |and you may be able to |re-transmute weapons.
@@ -2196,12 +2196,12 @@
 
 !FILE:0039_003/004.txt
 <bigtext><blackbold> 特殊攻撃=<bigtext><blackbold> Special Moves
-<8006><white><square>＋<cross>同時押し　＝　<yellow>足払い=<8006><white>Press <square> ＋ <cross> simultaneously: <yellow>Foot sweep
-<8006><white>（走りながら）|<8006><square>＋<cross>同時押し　＝　<yellow>スライディング[エド]|       <white>　＝　<yellow>踏みつけ[アル]=<8006><white>(While running)|<8006>Press <square> ＋ <cross> simultaneously: <yellow>Slide kick (Ed)|                                          Trample (Al)
-ダウンした敵へ、追い撃ちができます。=You can continue attacking fallen enemies.
+<8006><white><square>＋<cross>同時押し　＝　<yellow>足払い=<8006><white>Press <square> ＋ <cross> together: <yellow>Foot sweep
+<8006><white>（走りながら）|<8006><square>＋<cross>同時押し　＝　<yellow>スライディング[エド]|       <white>　＝　<yellow>踏みつけ[アル]=<8006><white>(While running)|<8006>Press <square> ＋ <cross> together: <yellow>Slide kick (Ed)|                                      γTrample (Al)
+ダウンした敵へ、追い撃ちができます。=You can follow up on downed enemies.
 <bigtext><blackbold> ジャストアタック=<bigtext><blackbold> Accu-Strike
 連続攻撃時、特定のタイミングで|攻撃ボタンを押すと、通常より強力な|<orange>ジャストアタック<white>が出ます。=Pressing the Attack button at the right moment during combos will cause you to perform a powerful <orange>Accu-Strike<white>.
-<smalltext><white>走りながら<square>と<cross>同時押し|  ＝　スライディング/踏みつけ=<smalltext><white>Press <square> and <cross> simultaneously while running:|Slide kick / Trample
+<smalltext><white>走りながら<square>と<cross>同時押し|  ＝　スライディング/踏みつけ=<smalltext><white>Press <square> and <cross> together while running:|Slide kick / Trample
 
 !FILE:0040_003/004.txt
 <bigtext><blackbold> 防御とカウンター=<bigtext><blackbold> Defense and Counters
@@ -2219,7 +2219,7 @@
 
 !FILE:0041_003/004.txt
 <bigtext><blackbold> アルのスキル錬成「石球」=<bigtext><blackbold> “Stone Ball" Transmutation
-<8006><white>（アル操作時）|<8006><L2a><L2b>押しながら<circle>　＝　<yellow>「石球」を錬成=<8006><white>(While controlling Al)|<8006>Press <circle> while holding <L2a><L2b>:<yellow> Transmute a|Stone Ball
+<8006><white>（アル操作時）|<8006><L2a><L2b>押しながら<circle>　＝　<yellow>「石球」を錬成=<8006><white>(While controlling Al)|<8006>Press <circle> while holding <L2a><L2b>: |<yellow>Transmute a Stone Ball
 錬成した「石球」を<square>で攻撃すると、|転がっていって敵を弾き飛ばします。=Attack the Stone Ball with <square> and it will|roll over enemies and knock them down.
 ただし、跳ね返ってきた石球に当たると|エドやアルもダメージを受けてしまうので|注意してください。=However, keep in mind that if Ed or Al are hit by the bouncing ball, they'll also receive damage.
 <smalltext><white><L2a><L2b>押しながら<circle>＝「石球」を錬成[アル操作時]=<smalltext><white>Press <circle> while holding <L2a><L2b>: |Transmute a Stone Ball (while controlling Al)
@@ -2238,7 +2238,7 @@
 !FILE:0043_003/004.txt
 <smalltext>すべての敵を倒そう！！=<smalltext>Defeat all enemies!
 <bigtext><blackbold> スぺシャルアタック=<bigtext><blackbold> Special Attacks
-<8006><white>（ＳＰゲージＭＡＸ時に）|<8006><circle>＋<triangle>同時押し　＝　<yellow>スぺシャルアタック=<8006><white>(When the SP Gauge is full)|<8006>Press <circle> ＋ <triangle> simultaneously: <yellow>Special Attack
+<8006><white>（ＳＰゲージＭＡＸ時に）|<8006><circle>＋<triangle>同時押し　＝　<yellow>スぺシャルアタック=<8006><white>(When the SP Gauge is full)|<8006>Press <circle> ＋ <triangle> together: <yellow>Special Attack
 <orange>ＳＰゲージ<white>は、攻撃を敵に当てた時などに|少しずつ上昇します。=The <orange>SP Gauge <white>fills up progressively as you attack enemies.
 <smalltext><blackbold>アクセサリ<normal>【金のピアス】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Gold Earrings"
 <smalltext>（ゲージＭＡＸ時）<circle>＋<triangle>＝スぺシャルアタック=<smalltext>Press <circle> ＋ <triangle> when the SP Gauge is full: Special Attack
@@ -2459,12 +2459,12 @@
 
 !FILE:0064_003/004.txt
 <bigtext><blackbold> スキル錬成「吸引マシン」=<bigtext><blackbold> “Vacuum" Transmutation
-<8006><white>（アル操作時に）|<8006><L2a><L2b>押しながら<square>　＝　<yellow>「吸引マシン」を錬成=<8006><white>(While controlling Al)|<8006>Press <square> while holding <L2a><L2b>:|<yellow>Transmute a Vacuum
+<8006><white>（アル操作時に）|<8006><L2a><L2b>押しながら<square>　＝　<yellow>「吸引マシン」を錬成=<8006><white>(While controlling Al)|<8006>Press <square> while holding <L2a><L2b>: |<yellow>Transmute a Vacuum
  アルは、前方にいる敵を吸い寄せる| 吸引マシンを錬成することができます。=Al can transmute a suction machine that attracts the enemies in front of him.
-<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」を錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>:|Transmute a Vacuum (while controlling Al)
+<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」を錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>: |Transmute a Vacuum (while controlling Al)
 
 !FILE:0065_003/004.txt
-<man>よく、ここが分かったな。|下からは死角になってるし、|隠れるには、いい場所だろ？=<man>You really found this spot, huh? It's a blind spot from below, so it's a good place to hide, huh?
+<man>よく、ここが分かったな。|下からは死角になってるし、|隠れるには、いい場所だろ？=<man>So you found your way up here.|It's a blind spot from below, so it's a good place to hide, huh?
 <man>そこにあるレバーを下ろせば、|改札口にあるシャッターの|電源を入れることができるよ。=<man>If you pull the lever over there, you can turn the power on for the shutter at the ticket gate.
 
 !FILE:0067_003/004.txt
@@ -2516,10 +2516,10 @@
 !FILE:0075_002/004.txt
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
 <blackbold>アイテム<normal>【壊れたカメラ】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Broken Camera"
-<man>——ああ、助かったよ。|君たちが後部車両の奴らを|倒してくれたんだね……。=<man>Oh, you saved me! You two defeated those guys in the rear carriages...
-<man>私は、この街の新聞記者でね。|命を助けてもらったお礼だ、|このカメラを受けとってくれ。=<man>I'm a news reporter in this city.|Since you saved my life, you can take|this camera as a present.
-<man>壊れているが、私が、|生まれて初めて買ったカメラでね。|私にとっては一番の宝物なのさ……。=<man>It's broken, but it's the first camera I|ever bought in my life.|It's my most treasured possession...
-<man>この戦争を写真に残し、|皆に伝えるのが私の使命だ。|……お互い、頑張ろう。=<man>My mission is to photograph this war|and tell everyone about it.|Let's each do our best!
+<man>——ああ、助かったよ。|君たちが後部車両の奴らを|倒してくれたんだね……。=<man>Oh, you saved me! You two defeated those guys in the rear cars...
+<man>私は、この街の新聞記者でね。|命を助けてもらったお礼だ、|このカメラを受けとってくれ。=<man>I'm a news reporter in this city.|Since you saved my life, have this camera as a gift from me to you.
+<man>壊れているが、私が、|生まれて初めて買ったカメラでね。|私にとっては一番の宝物なのさ……。=<man>It's broken, but it's the first camera I ever bought in my life.|It's my most treasured possession...
+<man>この戦争を写真に残し、|皆に伝えるのが私の使命だ。|……お互い、頑張ろう。=<man>My mission is to photograph this war and tell everyone about it.|Let's each do our best!
 
 !FILE:0078_003/004.txt
 <alphonse>ここを上がれば、|地上に出られるみたいだね。=<alphonse>See that light?|This must be the exit.
@@ -2576,9 +2576,9 @@
 
 !FILE:0081_003/004.txt
 <bigtext><blackbold> スキル錬成「吸引マシン」=<bigtext><blackbold> “Vacuum" Transmutation
-<8006><white>（アル操作時に）|<8006><L2a><L2b>押しながら<square>　＝<yellow>「吸引マシン」錬成=<8006><white>(While controlling Al)|<8006>Press <square> while holding <L2a><L2b>: <yellow>Transmute a Vacuum
+<8006><white>（アル操作時に）|<8006><L2a><L2b>押しながら<square>　＝<yellow>「吸引マシン」錬成=<8006><white>(While controlling Al)|<8006>Press <square> while holding <L2a><L2b>: |<yellow>Transmute a Vacuum
 アルは、周囲にいる敵を吸い寄せる|<orange>吸引マシン<white>を錬成できます。=Al can transmute a <orange>suction machine <white>that attracts the surrounding enemies.
-<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>:|Transmute a Vacuum (while controlling Al)
+<smalltext><white><L2a><L2b>押しながら<square>＝「吸引マシン」錬成[アル操作時]=<smalltext><white>Press <square> while holding <L2a><L2b>: |Transmute a Vacuum (while controlling Al)
 
 !FILE:0083_002/004.txt
 <smalltext>すべての敵を倒そう！=<smalltext>Defeat all enemies!
@@ -2766,9 +2766,9 @@
 <janice>ヤッホ～～～☆|どーこ、見てんのぉ？|こっち、こっち♪=<janice>Yoo-hoo... ☆|Where are ya lookin'?|This way, this way♪
 <edward>な……！|そ、空に……！？=<edward>Wha!? They're in...the SKY!?
 <alphonse>まさか、君が……、|恐ろしいバケモノ……？=<alphonse>No way! You're the terrible monster?
-<janice>エ————ッ！？|バケモノって、ジャニスのコトぉ！？|ガビーン！ 大ショックぅ～～！=<janice>Eeeeeh!? Janice, a monster!?|Geez, no! What a shock!
+<janice>エ————ッ！？|バケモノって、ジャニスのコトぉ！？|ガビーン！ 大ショックぅ～～！=<janice>Eeeeeh!? Janice—a monster!?|Geez, no! What a shock!
 <janice>てゆーか！ このキュートでセクスィな|ジャニスちゃんをバケモノ呼ばわりなんて、|失礼しちゃうわ！ ぷんぷん！！=<janice>I mean, it's so rude to call the cute and sexy Janice a monster! Pffft!
-<alphonse>うわぁ～～……。|テンション、高ぁ……。=<alphonse>Wow... She's a really energetic one...
+<alphonse>うわぁ～～……。|テンション、高ぁ……。=<alphonse>Wow... She's a real lively one...
 <edward>……お前も、ヴェルザの一族か。=<edward>Are you also a member of the Velza Clan?
 <janice>ピンポーン、正解ッ♪|アタシが、一族でいっちばんカワイイ、|疾風のジャニスちゃんデ～ス☆=<janice>Ding, ding, ding, that's right♪ I'm the most adorable member of the clan:|Janice of Gale! ☆
 <janice>アンタたちってぇ、|変態レオニードと、バカぷーゴドーを|やっつけたんでしょお？ すっご～い♪=<janice>You defeated that pervert Leonid and the idiot Godot, right?|Amaaaazing♪
@@ -2779,7 +2779,7 @@
 <janice>あれ？ チビが怒ってる。|アハッ！ おもしろーい！|もーっと言っちゃお♪ せーのっ——。=<janice>What? The bean's angry. Aha! How funny!|I'll say it again♪ Here we goooo:
 <janice>チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビ……！=<janice>Bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean-bean-bean-bean!
 <edward>だああああああぁぁッ！！|くぉの野郎！！ もう許さねぇ！！|ぶっとばしてやるっっ！！=<edward>AAAAAAARRGGHH!!|You bastard!! I'm not havin' it!!|I'm gonna kick your ass!!
-<janice>ほーら、いくわよぉ。|お・チ・ビ・ちゃん♪|キャハハハハハハハハハ！！=<janice>Look, here we go.|Bλλ-Eλλ-Aλλ-N♪ |Heee heee heee!!
+<janice>ほーら、いくわよぉ。|お・チ・ビ・ちゃん♪|キャハハハハハハハハハ！！=<janice>Look, here we go.|μμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμBμμμμμμμμ-Eμμμμμμμμ-Aμμμμμμμ-N♪ |Heee heee heee!!
 <edward>へっ、人をさんざん|バカにしやがって。|思い知ったか！=<edward>Heh, that oughta teach ya a lesson for makin' fun of me!
 <janice>……ンの野郎……。=<janice>You bastards...
 <edward>ん……？=<edward>What's that...?
@@ -2793,14 +2793,14 @@
 <alphonse><bigtext>うわあぁぁぁ……！=<alphonse>UWAAAAAHH!
 <edward>な、なんだ……！？=<edward>N-now what...!?
 <janice>あぁ……？=<janice>Huh?
-<???>このアタシがいない間に、|ずいぶんと好き放題|やってくれたみたいだねぇ……。=<???>You certainly indulged quite a lot while I was away...
+<???>このアタシがいない間に、|ずいぶんと好き放題|やってくれたみたいだねぇ……。=<???>You certainly indulged quite a lot while I was|away...
 <janice>あぁ……？|なんだぁ、テメーらは……？|ウゼェんだよ……！=<janice>Huh? Who are these idiots?|Get outta my way!
 <venus>ハン、なかなか元気のいい、|ガキじゃないか！=<venus>Hah, aren't you quite the lively brat?
 <venus>この「ヴァルドラの赤い薔薇」、|ヴィーナス・ローズマリアの前で、|そんなクチをきけるとはね……！=<venus>Such foul language isn't allowed in front of Venus Rosemaria, the “Red Rose of Valdolla"!
 <janice>ゴチャゴチャうるせえなッ！！|テメェになんざ用はねぇッ！！|すっこんでろ、ババア！！=<janice>Blah, blah, shut your trap!|I don't need anything from the likes of you, so beat it, hag!!
 <venus><bigtext>バッ……！？=<venus><bigtext>HAG!?
 <venus>フフ……フフフフ……。|ちょいと、元気が|過ぎるみたいだね……。=<venus>Heh... Heh heh heh!|Maybe you're a bit too lively...
-<venus>いきがるんじゃないよ、クソガキがッ！|怒らせる相手を、まちがえたね！|生きて帰れると思うんじゃないよッ！=<venus>Don't act so smart, stupid brat! You've chosen the wrong person to anger!|So don't think you'll get out of here alive!
+<venus>いきがるんじゃないよ、クソガキがッ！|怒らせる相手を、まちがえたね！|生きて帰れると思うんじゃないよッ！=<venus>Don't act so cocky, little brat!|You chose the wrong person to anger,|so don't think you'll get out of here alive!
 <venus>トリガー！|ハンマー！|準備はいいね！？=<venus>Trigger! Hammer! Is it ready?
 <trigger>クックック……このボクが開発した、|超スーパーウルトラキャンサー１号の力、|たっぷりと思い知らせてやりますよ……。=<trigger>Mwa ha ha... I'll show you the full power of my invention: the Hyper Super Ultra Cancer No. 1...
 <hammer>ささ。ヴィーナス様。|早くカニメカに|乗り込みましょうぜ。=<hammer>C'mon, Lady Venus. Let's get into the crab mecha quickly.
@@ -2810,7 +2810,7 @@
 <hammer>——あん？|舌を噛んだんか？|だから、言わんこっちゃない。=<hammer>Oh? Didja' bite yer tongue?|See, told ya so.
 <venus>いつまでバカやってんだい！|名前なんて、どうでもいいんだよ！|さっさといくよっ！！=<venus>How long are you going to act like fools?|The name doesn't matter! Let's get this over with!
 <janice>ケッ！ フザケやがって！|そんなトロそうなオモチャで、|何ができるってんだよ！！=<janice>Tsk! You must be joking. What can you do with that slow-looking toy!?
-<venus>フフフ……。|さぁ……オシオキの時間だよ。=<venus>Heh heh... Well, time for punishment.
+<venus>フフフ……。|さぁ……オシオキの時間だよ。=<venus>Heh heh... Well, time for your punishment.
 <janice>——なにっ！？=<janice>Whaaat!?
 <janice>——ッ、てっめぇ……！|いきなり、なにしやがんだ！！|痛ぇじゃねぇか、このブリキ野郎！！=<janice>Ugh, why you...! Attacking Janice all of a sudden...! That tin can hurts, y'know!?
 <edward>す……すげぇ……。=<edward>A-amazing...
@@ -2823,7 +2823,7 @@
 
 !FILE:0104_002/004.txt
 <bigtext><blackbold> スキル錬成「大剣」=<bigtext><blackbold> “Large Sword" Transmutation
-<8006><L2a><L2b>押しながら<triangle>　＝　<yellow>「大剣」を錬成=<8006>Press <triangle> while holding <L2a><L2b>: <yellow> Transmute a|Large Sword
+<8006><L2a><L2b>押しながら<triangle>　＝　<yellow>「大剣」を錬成=<8006>Press <triangle> while holding <L2a><L2b>: |<yellow>Transmute a Large Sword
 エドは、地面から「大剣」を錬成できます。|攻撃範囲が広く、威力の高い武器です。=Ed can transmute a Large Sword from the ground. It's a powerful weapon with a wide attack range.
 <smalltext>  【「大剣」コンボの例】|  ・<square>→<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>=|<smalltext>Combo examples|  ・<square>→<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>|  ・<square>→<square>→<triangle>
 <smalltext><blackbold>アクセサリ<normal>【焔の手袋】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory<normal>“Flame Gloves"
@@ -2866,9 +2866,9 @@
 
 !FILE:0105_003/004.txt
 <bigtext><blackbold> スキル錬成「石柱ジャンプ」=<bigtext><blackbold> “Pillar Jump" Transmutation
-<8006><white>（アル操作時）|<8006><L2a><L2b>押しながら<cross>　＝<yellow>石柱ジャンプ=<8006><white>(While controlling Al)|<8006>Press <cross> while holding <L2a><L2b>: <yellow>Stone Pillar Jump
+<8006><white>（アル操作時）|<8006><L2a><L2b>押しながら<cross>　＝<yellow>石柱ジャンプ=<8006><white>(While controlling Al)|<8006>Press <cross> while holding <L2a><L2b>: |<yellow>Stone Pillar Jump
 アルは、自分の足元から石柱を錬成し、|高くジャンプすることができます。=Al can transmute a Stone Pillar under his feet, allowing him to jump higher.
-<smalltext><white><L2a><L2b>押しながら<cross>＝石柱ジャンプ[アル操作時]=<smalltext><white>Press <cross> while holding <L2a><L2b>:|Stone Pillar Jump (while controlling Al)
+<smalltext><white><L2a><L2b>押しながら<cross>＝石柱ジャンプ[アル操作時]=<smalltext><white>Press <cross> while holding <L2a><L2b>: |Stone Pillar Jump (while controlling Al)
 <smalltext>ソフィを守りながら進もう！=<smalltext>Move forward while protecting Sophie!
 <alphonse>無事に、城に入りこめたね。|ここまでは、|敵と戦わずに済んだし。=<alphonse>We managed to get into the castle safely. So far, we haven't had to fight anyone.
 <edward>軍が、総攻撃をかけているからな。|ヤツらも、オレたちどころじゃ|なかったんだろう。=<edward>The military is launching a general offensive, so they probably had no time to deal with us.
@@ -2992,7 +2992,7 @@
 <sophie>印がなくなれば、ヴェルザの一族は|普通の人間に戻る……。|普通に暮らしていけるようになる……。=<sophie>With the sigil gone, the members of the clan will become normal humans again... They'll be able to lead normal lives.
 <sophie>そうすれば、軍と戦う必要もなく、|いずれ争いはなくなる……。|父は、そう考えていたの。=<sophie>Then there would be no need to fight the army, and conflicts would eventually end... That's what my father thought.
 <leonid>ギルベルトが……そんなことを……。=<leonid>Gilbert...would do all that...?
-<sophie>ねぇ。たとえヴェルザを復活させて、|今の世界を滅ぼしても、何も変わらない！|一族を救うことなんて、できないのよ！=<sophie>Listen. Even if you ressurect Velza and destroy this world, it won't change anything! You can't save the clan like that!
+<sophie>ねぇ。たとえヴェルザを復活させて、|今の世界を滅ぼしても、何も変わらない！|一族を救うことなんて、できないのよ！=<sophie>Listen. Even if you resurrect Velza and destroy this world, it won't change anything! You can't save the clan like that!
 <leonid>………………………………。=<leonid>...
 <leonid>……いいわ。もう行きなさい。=<leonid>All right. Go ahead.
 <sophie>えっ？=<sophie>Huh?
@@ -3060,7 +3060,7 @@
 <edward>くっ……！ ア、アンタはっ！！=<edward>Damn! It...it's you!!
 <alphonse>兄さん！！=<alphonse>Edward!!
 <sophie>エド！！=<sophie>Ed!!
-<venus>そこの２人も動くな！|——このボウヤが、|どうなっても知らないよ。=<venus>You two, don't move!|Or I don't know what'll happen to this boy.
+<venus>そこの２人も動くな！|——このボウヤが、|どうなっても知らないよ。=<venus>You two, don't move!|Or I don't know what will happen to this boy.
 <alphonse>くっ……くそっ……！=<alphonse>D-damn it!
 <???>ご苦労、ローズマリア中佐。|——そして、君たちも、|よくやってくれたな。=<???>Good work, Lt. Colonel Rosemaria.|And you guys, well done too.
 <edward>ク、クレイギン将軍！|こいつは、なんのマネだっ！！=<edward>Ge-General Craigin!|What the hell are you doing!?
@@ -3190,7 +3190,7 @@
 
 !FILE:0131_003/004.txt
 <bigtext><blackbold> スキル錬成「ハンマー」=<bigtext><blackbold> “Hammer" Transmutation
-<8006><L2a><L2b>押しながら<cross>　＝<yellow>「ハンマー」を錬成=<8006>Press <cross> while holding <L2a><L2b>:|<yellow>Transmute a Hammer
+<8006><L2a><L2b>押しながら<cross>　＝<yellow>「ハンマー」を錬成=<8006>Press <cross> while holding <L2a><L2b>: |<yellow>Transmute a Hammer
 エドは地面から「ハンマー」を錬成できます。|<orange>ガードの上から敵にダメージ<white>を与えたり、|<orange>物を壊す<white>ことができます。=Ed can transmute a hammer from the ground. It deals damage <orange>regardless of enemies' blocking, <white>and can even <orange>break objects.
 <smalltext>  【「ハンマー」コンボの例】|  ・<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>=<smalltext>Combo examples|  ・<square>→<square>|  ・<square>→<circle>|  ・<square>→<triangle>
 <smalltext>荷物を取り返すまで、アイテム・アクセサリは使用不可です=<smalltext>You can't use items or accessories until you recover your belongings.
@@ -3538,7 +3538,7 @@
 <zelgius>時に、かりそめの平和が訪れても、|また必ず、別の者が我らに目をつけ、|新たな争いが起こる……。=<zelgius>Even when a temporary truce was reached, someone else would always set their sights on us, and start a new conflict.
 <zelgius>神の力ですべてを滅ぼし、|その後に、我らの新しい世を作るのだ。|我らの生きる道は、もはや他にない。=<zelgius>So we'll destroy everything with the power of our goddess, and create a new world in its ruin. We have no other way to live.
 <sophie>そんなことない！ 道はあるわ！|私の父は、|印の呪いを消す方法を——！=<sophie>It doesn't have to be like that! There are other ways! My father found a way to remove the sigils' curse...!
-<zelgius>神を蘇らせようと決めたのは、|ギルベルト。|——お前が、父と呼んでいる男だ。=<zelgius>It was Gilbert who decided to ressurect the goddess. The man you call your father.
+<zelgius>神を蘇らせようと決めたのは、|ギルベルト。|——お前が、父と呼んでいる男だ。=<zelgius>It was Gilbert who decided to resurrect the goddess. The man you call your father.
 <sophie>えっ……？=<sophie>What...?
 <zelgius>ヴィクトール・ベルクマンこと、|霊光のギルベルト。かつては、|我ら四神官の上に立つ、一族の長だった。=<zelgius>Victor Belkman, also known as Gilbert of the Spiritual Light. He was once our leader, standing above us Four Priests.
 <zelgius>奴は、軍から攻撃を受けて|危機におちいった一族を救うため、|神の復活を決意したのだ。=<zelgius>He made the choice to resurrect the goddess to save our dwindling clan.
@@ -4710,8 +4710,8 @@
 <sophie>マリア、嗚呼、我が愛しのマリア！|この想い、どうしたら気づいてくれるのか|そうだ、彼女に詩を贈ろう=<sophie>Oh, Maria, my beloved Maria!|How could I convey my feelings to you?|I know! I'll write you a poem.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>ついに詩ができた|マリアは心を打たれ|私を愛してやまずにいられない=<sophie>The poem is finished at last. Maria's heart will be touched. She won't be able to help but love me.
-<sophie><yellow>ラヴ ラヴ ラヴ ラヴ マリア様|ボクの心をワシ掴み|いつもあなたはボンキュッボン！=<sophie><yellow>Ma' love, λλma' dear, λλma' sweet,ηη|ηηma' rose -λλλλ Maria||You, λλwho hold my veryηη|ηηheart λλin your hand-λλλλλλλλ||Always λλand forever,λλληη|ηηby your shape λλI am moved
-<sophie><yellow>ズバンとハートにロックオン|トリガーのラヴが火を吹くぜ|ファイアー ラヴリー ボンキュッボン！=<sophie><yellow>Schwing! λλλA perfervid engineηη|ηηturns for thee-λλλ||Trigger to pistons λλby wayηη|ηηof concupiscent λflameλλλλλ||That figureλλλ - lovely -ηη|ηηspark-ignition to desire
+<sophie><yellow>ラヴ ラヴ ラヴ ラヴ マリア様|ボクの心をワシ掴み|いつもあなたはボンキュッボン！=<sophie><yellow>Ma' love, μμma' dear, μμma' sweet,ηη|ηηma' rose -μμμμ Maria||You, μμwho hold my veryηη|ηηheart μμin your hand-μμμμμμμμ||Always μμand forever,μμμηη|ηηby your shape μμI am moved
+<sophie><yellow>ズバンとハートにロックオン|トリガーのラヴが火を吹くぜ|ファイアー ラヴリー ボンキュッボン！=<sophie><yellow>Schwing! μμμA perfervid engineηη|ηηturns for thee-μμμ||Trigger to pistons μμby wayηη|ηηof concupiscent μflameμμμμμ||That figureμμμ - lovely -ηη|ηηspark-ignition to desire
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>愛に障害は付き物だ|私の詩はゴミ箱へと捨てられた=<sophie>Love always comes with its obstacles.|She threw my poem into the trash bin.
 <sophie>めげないよ、マリア|愛してるんだ、マリア=<sophie>I won't give up, Maria. I love you, Maria.

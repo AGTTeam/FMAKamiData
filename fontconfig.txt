@@ -102,6 +102,7 @@ z=ｚ,10
 ι=ι,255
 κ=κ,0
 λ=λ,0
+μ=μ,0
 <square>=<square>,22
 <triangle>=<triangle>,22
 <cross>=<cross>,22
