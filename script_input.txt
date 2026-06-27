@@ -2740,7 +2740,7 @@
 <edward>ああ。=<edward>Right.
 <alphonse>でも、クレイギン将軍は、|兄さんの話、まったく|信じてくれなかったね。=<alphonse>Well, General Craigin didn't believe your story at all, Big Brother.
 <edward>——まぁ、いいさ。|どっちにしろ、軍が援護してくれるなら、|城まで行くのは、楽になるしな。=<edward>Ah, who cares?|In any case, if the army supports us, it'll be easier to get into the castle.
-<roy>——鋼の。|クレイギン将軍は、あまり信用するな。=<roy>Fullmetal... Don't trust General Craigin too much.
+<roy>——鋼の。|クレイギン将軍は、あまり信用するな。=<roy>Fullmetal... Don't be too trusting of General Craigin.
 <edward>ん？ どういうことだよ？=<edward>Huh? What are you talking about?
 <roy>あの男は、目的のためには|手段を選ばない、油断のならない人物だ。|今回も、何か裏で動いてるふしがある。=<roy>He's a cunning man who'll stop at nothing to achieve his goals. And it seems he's up to something this time, too.
 <edward>——そういえば、大佐。大佐こそ、|オレたちに、あんな手紙をよこして、|なにか裏があるんじゃねーのかよ。=<edward>Speaking of which, Colonel...|That also describes you. There must be more to that letter you sent us.
@@ -2920,7 +2920,7 @@
 <gilbert>——あの子は、渡さない……。=<gilbert>I won't hand over that child.
 <zelgius>……そうか。残念だな……。=<zelgius>I see... That's a pity.
 <zelgius>…………………。=<zelgius>...
-<janice>——ゼルギウス？|さっきから、|なに考えこんでるのぉ？=<janice>Zelgius? What were you thinking about a moment ago?
+<janice>——ゼルギウス？|さっきから、|なに考えこんでるのぉ？=<janice>Zelgius? What were you thinking about just now?
 <zelgius>……別に、なんでもない。=<zelgius>It's nothing...
 <janice>ねぇ、いいの？|せっかくの『器』、また逃げちゃったよ。|ジャニスが探しに行こっか？=<janice>Huh, are you all right? That precious “vessel" ran away again.|Should Janice go and look for her?
 <zelgius>かまわん。放っておけ。|『器』は必ず、また姿を現す。=<zelgius>It doesn't matter, let her go. That “vessel" will surely show herself again.
@@ -2956,7 +2956,7 @@
 <leonid>——それにしても、|３人とも見逃すなんて、ゴドーのバカ、|どこを見てたのかしら？=<leonid>However, I wonder where that idiot Godot was looking, to let you three pass by.
 <sophie>……あの大きな人なら、死んだわ。|力を使いすぎて、印に|命を削り取られたのよ。=<sophie>If you mean that giant, he's dead.|He used too much power, and the sigil|took his life away.
 <leonid>なんですって……！？ ゴドーが！？=<leonid>What are you talking about!? Godot!?
-<leonid>……そう。あの子、先に|逝ってしまったのね……。=<leonid>I see... So that fool kicked the bucket...
+<leonid>……そう。あの子、先に|逝ってしまったのね……。=<leonid>...I see.|So that kid passed before me...
 <sophie>お願い、もうやめて。|印の力を使いすぎると、|あなたも、あの人のように——。=<sophie>Please, you must stop now! If you use the power of the sigil too much, you'll end up just like him.
 <leonid>まぁ。この氷塵のレオニードが、|こんな小娘に心配されるだなんて、|とんだ侮辱だわ。=<leonid>Oh, it's offensive that such a young girl worries about Leonid of Diamond Dust.
 <sophie>私、そんなつもりじゃ……！=<sophie>I didn't mean to offend...!
@@ -2968,7 +2968,7 @@
 <leonid>アナタたち、良かったわねぇ。=<leonid>You're quite lucky.
 <leonid>最後にアタシの、|この美しい顏を見て|死ねるんだから……！=<leonid>Since the last thing you'll see before dying, will be my beautiful face!
 <leonid>こ、このアタシが……|負けたというの……！？|一度ならず、二度までも……！=<leonid>Did they...did they defeat me!?|Not once, but twice!
-<leonid>ゆ、許せない……！|そんなこと……|絶対に許せないッ……！！=<leonid>It...it cannot be!|Such a thing...it's absolutely impossible!
+<leonid>ゆ、許せない……！|そんなこと……|絶対に許せないッ……！！=<leonid>It...it cannot be!|Such a thing...it's inconceivable!
 <edward>くっ！？ こいつは……！=<edward>Huh!? What's he doing...!?
 <sophie>ダメ！|それ以上、印の力を|使っちゃいけない！=<sophie>Stop! Do not use the power of the sigil any further!
 <leonid>うるさいッ……！|このアタシのプライドを傷つけた罪、|死んでつぐなってもらうわッ……！！=<leonid>Shut your mouth! You'll atone for the sin of wounding my pride with your death!
@@ -3002,12 +3002,12 @@
 <sophie>う、うん……。=<sophie>Ye-yeah...
 <leonid>——ゼルギウスとギルベルト……。|いったい、どちらが|正しいのかしらね……。=<leonid>Zelgius and Gilbert...|I wonder which of them is right...
 <leonid>ヴェルザを復活させなくても、|アタシたちの生きる道が、|もし本当にあるとしたら……。=<leonid>If there's really a life for us without resurrecting Velza...
-<???>いまさら、|そんなことを言われては困るな。=<???>Too late now to ponder about things like that.
+<???>いまさら、|そんなことを言われては困るな。=<???>Too late now to ponder about things like|that.
 <leonid>ア、アンタは！？=<leonid>Wh-who are you!?
-<???>君たちは予定通り|「神」を復活させれば良いのだ。|——この私のために、な。=<???>You just need to resurrect the “goddess" as planned.|For my sake, you understand.
+<???>君たちは予定通り|「神」を復活させれば良いのだ。|——この私のために、な。=<???>You just need to resurrect the “goddess"|as planned.|For my sake, you understand.
 <leonid>……まさか！|アンタ、初めから|アタシたちを利用して——。=<leonid>No way! You've been using us from the beginning!
 <???>君はもう用済みだ。=<???>You've already outlived your usefulness.
-<???>出番の済んだピエロが、|いつまでも舞台の上に|立っていては邪魔なのだよ……。=<???>It's bothersome when a clown stays on the stage after finishing his performance.
+<???>出番の済んだピエロが、|いつまでも舞台の上に|立っていては邪魔なのだよ……。=<???>It's bothersome when a clown stays on the|stage after finishing his|performance.
 <venus>……………………。=<venus>...
 <venus>クレイギン将軍……。|上官とはいえ、本当に今、|あの男に従うべきなのか……。=<venus>General Craigin... Even if he IS my superior, should I really continue following his orders?
 <venus>神の復活……か。|鋼の錬金術師……|あのボウヤの目、真剣だったね……。=<venus>The resurrection of a goddess...|And the Fullmetal Alchemist... The eyes of that boy seemed so earnest...
@@ -3111,7 +3111,7 @@
 !FILE:0130_002/004.txt
 <smalltext><blackbold>アクセサリ<normal>【漢のふんどし】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Manly Loincloth"
 <godot>グウウゥゥ……。|ウウウゥゥ……。=<godot>Guuuuhhh...|Uuuuhhhhh...
-<edward>決着はついた。|オレたちの勝ちだ。|これ以上は、もうやめとけ。=<edward>It's over.|We won.|Please just stop.
+<edward>決着はついた。|オレたちの勝ちだ。|これ以上は、もうやめとけ。=<edward>It's over. We won.|Please just stop.
 <godot>ウウウウウゥゥ…………！=<godot>Uuuuuhhh!
 <edward>おい、何をする気だ？|それ以上、無理をしたら、|お前も——。=<edward>Hey, what are you trying to do!?|If you keep pushing yourself, you're gonna—
 <godot>ウガアアアァァ———————ッ！！！=<godot>UGAAAAAHHH!!
@@ -3130,7 +3130,7 @@
 <edward>き、消えちまった……。|いったい、どうなってんだ……。=<edward>He... He vanished!|What the hell's going on?
 <sophie>——印に、命を|燃やしつくされてしまったのよ……。|これが、彼らの背負う、印の呪い……。=<sophie>His life was burned away by the sigil.|This is the curse of those that carry it.
 <alphonse>呪い……？=<alphonse>The curse?
-<sophie>ええ。ヴェルザの一族の印は、|代々受け継がれる、生まれつきのもの。|そして、それは、決して消えない……。=<sophie>Yes. Velza Clan sigil is carried from birth, passed down through generations, so there's no way to remove it.
+<sophie>ええ。ヴェルザの一族の印は、|代々受け継がれる、生まれつきのもの。|そして、それは、決して消えない……。=<sophie>Yes. The Velza Clan sigil is carried from birth, passed down through generations, so there's no way to remove it.
 <sophie>確かに彼らは、印によって|超人的な力を得ている。でも、それは、|自らの命を代償にして得る力……。=<sophie>They may have gained superhuman powers thanks to the sigil, but it's a power that comes at the cost of their own lives.
 <sophie>印の力を使えば使うほど、|確実に命は削られてしまう。=<sophie>The more you use the power, the more it drains your life force.
 <sophie>さっきの人は、力を使いすぎた。|だから、命を失った。|あれが、呪いの結末よ……。=<sophie>That man used too much power, and thus his life was taken away. That's the conclusion of the curse.
@@ -3164,7 +3164,7 @@
 <alphonse>こんなもの無くても、戦ってやるさ！|ソフィの命を削るくらいなら、自分の命を|危険にさらす方が、よっぽどマシだよ！=<alphonse>I don't need it! I'd much rather risk my own life than yours!
 <sophie>アル……。=<sophie>Al...
 <sophie>……分かった。|そこまで言うなら、聖印は消すわ。=<sophie>I understand...|Since you insist, I'll remove the marks.
-<sophie>今まで、本当にありがとう。|聖印を消したら、|すぐにここから逃げてね。=<sophie>Thank you so much for everything thus far. Now, after I remove them, you must escape from here, quickly.
+<sophie>今まで、本当にありがとう。|聖印を消したら、|すぐにここから逃げてね。=<sophie>Thank you so much for everything thus far. Now, after I remove them you must escape from here quickly.
 <alphonse>え……？=<alphonse>Huh...?
 <sophie>聖印がない普通の人を、|この先の戦いには巻き込めない。|ここからは、私１人で行くわ。=<sophie>I can't involve normal people without the Holy Sigil in the upcoming battle. From this point forward, I'll go it alone.
 <alphonse>ちょっと待ってよ！|なんで、そんなふうになるんだよ！=<alphonse>Wait a minute! Why does it have to be like that!?
@@ -3210,7 +3210,7 @@
 <edward>………ケッ。=<edward>Tch.
 <hammer>あー……じゃあ、イイこと教えてやるよ。|あのソフィって娘ッ子、|うまく逃げきったみてぇだぞ。=<hammer>Aw, well... I'll tell ya something that'll cheer ya right up. That Sophie girl escaped.
 <edward>——！ そ、それ本当か！？=<edward>Is...is that true!?
-<hammer>ああ。クレイギン将軍、|「小娘１人捕らえられんとは何事か！」|って、頭から湯気出して怒ってたよ。=<hammer>Yeah. General Craigin said “How is it you can't even catch a little girl!?" He was so angry that steam came out his head.
+<hammer>ああ。クレイギン将軍、|「小娘１人捕らえられんとは何事か！」|って、頭から湯気出して怒ってたよ。=<hammer>Yeah. General Craigin said “How is it you can't even catch a little girl!?" He was so angry that steam came out of his head.
 <edward>そっか……へへ……|そりゃ良かった……。=<edward>I see... Heh heh! That's good...
 <hammer>ぐへへ、やっと笑ったな。=<hammer>Geh heh heh! Ya finally smiled.
 <edward>……なぁ、おっちゃん。|オレの弟、アルはどうしてる？|この司令部の、どこかにいるのか？=<edward>Tell me, old man, how's my little brother doing? Is he somewhere in this headquarters?
@@ -3228,7 +3228,7 @@
 <hammer>クサリがなくなったからって、|妙なこと考えんじゃねーぞォ。=<hammer>Don't think of doin' any funny stuff just 'cuz yer chains are gone.
 <edward>……アイツ、いいヤツだな……。=<edward>He's a nice guy...
 <edward>さて、行くか。|まずは、アルを捜さねーと……。=<edward>Well, I'm free! First of all, I gotta find Al...
-<edward>アルを見つけるまでは、|騒ぎを起こしたらマズいな。|しばらくは、慎重にいくか……。=<edward>I shouldn't cause a scene until I find Al. I'll be careful for the time being.
+<edward>アルを見つけるまでは、|騒ぎを起こしたらマズいな。|しばらくは、慎重にいくか……。=<edward>I shouldn't cause a scene until I find him. I'll be careful for the time being.
 <guard>待て！|見つけたぞ、脱走者め！！=<guard>Halt! I caught you, fugitive!!
 <edward>しまった、見つかった！|うわあああぁ———っ！？=<edward>Uh-oh, busted!|AAAAAAHHH!!
 <guard>止まれ、|そこを動くな！！=<guard>Stop right there, don't move!!
@@ -4761,7 +4761,7 @@
 <edward><bigtext>身もフタもねえ——！！=<edward><bigtext>THAT'S BREAKING THE|FOURTH WALL!
 <roy>このＣＤはこの教会に置いておこう、|良い子のみんな！|くれぐれも本物を買うように！！=<roy>Let's leave this CD in the church.|And good kids, make sure to buy the real one, okay?
 <edward><bigtext>ＣＤ<8006>とか言うな——ッ！=<edward><8006>Don't call it a <bigtext>CD!
-<sophie>以上、北出菜奈ちゃんの|「悲しみのキズ」でした♪=<sophie>And that's the end of this bit about Nana Kitade-chan's “Scars of Sadness."♪
+<sophie>以上、北出菜奈ちゃんの|「悲しみのキズ」でした♪=<sophie>And that's the end of this bit about Nana Kitade-chan's “Scars of Sadness♪"
 <sophie>鉛の指輪……？|変わってるわね、指輪なのに|重いし、ゴツゴツしてるし……。=<sophie>A lead ring?|How weird, even though it's a ring, it's heavy and rough...
 <sophie>まるで武器ね。|オシャレより、護身用に|いいかもしれないね。=<sophie>It's almost like a weapon. Might be better for self-defense, rather than fashion.
 <sophie>スッゴーイ、純金の指輪ね……！|こんなゴージャスな物、本当に、|もらっちゃっていいの……？=<sophie>Oh wow, a pure gold ring!|Can I really keep something so gorgeous?
