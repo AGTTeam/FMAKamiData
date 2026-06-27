@@ -4761,7 +4761,7 @@
 <edward><bigtext>身もフタもねえ——！！=<edward><bigtext>THAT'S BREAKING THE|FOURTH WALL!
 <roy>このＣＤはこの教会に置いておこう、|良い子のみんな！|くれぐれも本物を買うように！！=<roy>Let's leave this CD in the church.|And good kids, make sure to buy the real one, okay?
 <edward><bigtext>ＣＤ<8006>とか言うな——ッ！=<edward><8006>Don't call it a <bigtext>CD!
-<sophie>以上、北出菜奈ちゃんの|「悲しみのキズ」でした♪=<sophie>And that's the end of this bit about Nana Kitade-chan's “Scars of Sadness♪"
+<sophie>以上、北出菜奈ちゃんの|「悲しみのキズ」でした♪=<sophie>And that's the end of this bit about Nana Kitade-chan's “Scars of Sadness"♪
 <sophie>鉛の指輪……？|変わってるわね、指輪なのに|重いし、ゴツゴツしてるし……。=<sophie>A lead ring?|How weird, even though it's a ring, it's heavy and rough...
 <sophie>まるで武器ね。|オシャレより、護身用に|いいかもしれないね。=<sophie>It's almost like a weapon. Might be better for self-defense, rather than fashion.
 <sophie>スッゴーイ、純金の指輪ね……！|こんなゴージャスな物、本当に、|もらっちゃっていいの……？=<sophie>Oh wow, a pure gold ring!|Can I really keep something so gorgeous?
