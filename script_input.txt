@@ -662,59 +662,58 @@
 /=/
 
 !FILE:0006_000.txt
-スロット１・２のメモリーカード（ＰＳ２）の　|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。||このまま開始しますか？=There's not enough space in slots 1 or 2 of|Memory Card (PS2). |To save this game, you need at least 188 KB|of free space.||Do you still want to continue?
-スロット１・２にメモリーカード（ＰＳ２）が|差されていません。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。||このまま開始しますか？=A Memory Card (PS2) is not inserted in slot 1 or 2.|To save this game, you need at least 188 KB|of free space.||Do you still want to continue?
-アナログコントローラ（ＤＵＡＬＳＨＯＣＫ<8037>２）が|接続されていません。||アナログコントローラ（ＤＵＡＬＳＨＯＣＫ<8037>２）を|コントローラ瑞子１に正しく接続しなおしてから、|<circle>を押してください。=The analog controller (DUALSHOCK<8037>2)|is not connected.||Please connect the analog controller in|port 1, then press <circle>.
-<8037>スロット１のメモリーカード（ＰＳ２）の<8037>|<8037>空き容量が不足しています。|<8037>このゲームのデータをセーブするには、|<8037>１８８ＫＢ以上の空き容量が必要です。||<8037>このまま開始しますか？=<8037>There's not enough space in slot 1 of|Memory Card (PS2). |<8037>To save this game, you need at least 188 KB|of free space.||<8037>Do you still want to continue?
-<8037>スロット２のメモリーカード（ＰＳ２）の<8037>|<8037>空き容量が不足しています。|<8037>このゲームのデータをセーブするには、|<8037>１８８ＫＢ以上の空き容量が必要です。||<8037>このまま開始しますか？=<8037>There's not enough space in slot 2 of|Memory Card (PS2). |<8037>To save this game, you need at least 188 KB|of free space.||<8037>Do you still want to continue?
+スロット１・２のメモリーカード（ＰＳ２）の　|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。||このまま開始しますか？=Not enough free space on the memory|cards (8MB)(for PlayStation 2) in|MEMORY CARD slots 1 and 2.|You will need at least 188KB of free|space to save your game data.||                          Continue?
+スロット１・２にメモリーカード（ＰＳ２）が|差されていません。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。||このまま開始しますか？=No memory card (8MB)(for PlayStation 2)|inserted in MEMORY CARD slot 1 or 2.|You will need at least 188KB of free space|to save your game data.||                          Continue?
+アナログコントローラ（ＤＵＡＬＳＨＯＣＫ<8037>２）が|接続されていません。||アナログコントローラ（ＤＵＡＬＳＨＯＣＫ<8037>２）を|コントローラ瑞子１に正しく接続しなおしてから、|<circle>を押してください。=DUALSHOCK 2 analog controller|not connected.||Please connect a DUALSHOCK 2|analog controller to controller port 1|and press <circle>.
+<8037>スロット１のメモリーカード（ＰＳ２）の<8037>|<8037>空き容量が不足しています。|<8037>このゲームのデータをセーブするには、|<8037>１８８ＫＢ以上の空き容量が必要です。||<8037>このまま開始しますか？=<8037>Not enough free space on the memory|card (8MB)(for PlayStation 2) in|MEMORY CARD slot 1.|You will need at least 188KB of free|space to save your game data.||                          Continue?
+<8037>スロット２のメモリーカード（ＰＳ２）の<8037>|<8037>空き容量が不足しています。|<8037>このゲームのデータをセーブするには、|<8037>１８８ＫＢ以上の空き容量が必要です。||<8037>このまま開始しますか？=<8037>Not enough free space on the memory|card (8MB)(for PlayStation 2) in|MEMORY CARD slot 2.|You will need at least 188KB of free|space to save your game data.||                          Continue?
 
 !FILE:0007_000.txt
-セーブを終了しますか？=       Exit save menu?       #keep the spaces
-スロット１のメモリーカード（ＰＳ２）を|チェック中です。=Checking slot 1 of Memory Card (PS2).
-スロット２のメモリーカード（ＰＳ２）を|チェック中です。=Checking slot 2 of Memory Card (PS2).
-スロット１にメモリーカード（ＰＳ２）が|差されていません。=There's no Memory Card (PS2) in slot 1.
-スロット２にメモリーカード（ＰＳ２）が|差されていません。=There's no Memory Card (PS2) in slot 2.
-スロット１のメモリーカード（ＰＳ２）の|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。=There's not enough space in slot 1 of Memory Card (PS2). |To save this game, you need at least 188 KB of free space.
-スロット２のメモリーカード（ＰＳ２）の|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。=There's not enough space in slot 2 of Memory Card (PS2). |To save this game, you need at least 188 KB of free space.
-スロット１に差されているメモリーカード（ＰＳ２）は、|初期化されていません。|ゲームのデータをセーブするには、初期化する必要があります。|初期化しますか？=The Memory Card (PS2) in slot 1 has not been formatted.|To save this game, you need a formatted card.|Do you want to format it now?
-スロット２に差されているメモリーカード（ＰＳ２）は、|初期化されていません。|ゲームのデータをセーブするには、初期化する必要があります。|初期化しますか？=The Memory Card (PS2) in slot 2 has not been formatted.|To save this game, you need a formatted card.|Do you want to format it now?
-スロット１のメモリーカード（ＰＳ２）を|初期化中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Formatting Memory Card (PS2) in slot 1.||Please don't turn off or reset the PlayStation 2.|Don't insert or remove Memory Card (PS2)|and controller.
-スロット２のメモリーカード（ＰＳ２）を|初期化中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Formatting Memory Card (PS2) in slot 2.||Please don't turn off or reset the PlayStation 2.|Don't insert or remove Memory Card (PS2)|and controller.
-スロット１のメモリーカード（ＰＳ２）の|初期化に失敗しました。=Failed to format Memory Card (PS2) in slot 1.
-スロット２のメモリーカード（ＰＳ２）の|初期化に失敗しました。=Failed to format Memory Card (PS2) in slot 2.
-スロット１のメモリーカード（ＰＳ２）に|データをセーブ中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Saving game in slot 1 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.
-スロット２のメモリーカード（ＰＳ２）に|データをセーブ中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Saving game in slot 2 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.
-選択したファイルにはデータが存在します。|上書きしますか？=Data exists in selected file. |Do you want to overwrite it?
-選択したファイルにはデータが存在します。|上書きしますか？=Data exists in selected file. |Do you want to overwrite it?
-スロット１のメモリーカード（ＰＳ２）の|セーブに失敗しました。=Failed to save game in slot 1 of Memory Card (PS2).
-スロット２のメモリーカード（ＰＳ２）の|セーブに失敗しました。=Failed to save game in slot 2 of Memory Card (PS2).
-スロットを選んでください=Please select a slot.
-セーブするファイルを選んでください=Please select a file to save game.
-ここまでの話をセーブしますか？=Do you want to save your progress?
-選択したファイルのデータは壊れています。|上書きしますか？=The data of selected file is corrupted. |Do you want to overwrite it?
-選択したファイルのデータは壊れています。|上書きしますか？=The data of selected file is corrupted. |Do you want to overwrite it?
-スロット１のメモリーカード（ＰＳ２）の|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。  =There's not enough space in slot 1 of Memory Card (PS2). |To save this game, you need at least 188 KB of free space.
-スロット２のメモリーカード（ＰＳ２）の|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。  =There's not enough space in slot 2 of Memory Card (PS2). |To save this game, you need at least 188 KB of free space.
+セーブを終了しますか？=       Exit the save menu?       #keep the spaces
+スロット１のメモリーカード（ＰＳ２）を|チェック中です。=Checking the memory card|(8MB)(for PlayStation 2) in|MEMORY CARD slot 1.
+スロット２のメモリーカード（ＰＳ２）を|チェック中です。=Checking the memory card|(8MB)(for PlayStation 2) in|MEMORY CARD slot 2.
+スロット１にメモリーカード（ＰＳ２）が|差されていません。=No memory card (8MB)(for PlayStation 2)|inserted in MEMORY CARD slot 1.
+スロット２にメモリーカード（ＰＳ２）が|差されていません。=No memory card (8MB)(for PlayStation 2)|inserted in MEMORY CARD slot 2.
+スロット１のメモリーカード（ＰＳ２）の|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。=There is not enough free space on the|memory card (8MB)(for PlayStation 2)|in MEMORY CARD slot 1.|You will need at least 188KB of free|space to save your game data.
+スロット２のメモリーカード（ＰＳ２）の|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。=There is not enough free space on the|memory card (8MB)(for PlayStation 2)|in MEMORY CARD slot 2.|You will need at least 188KB of free|space to save your game data.
+スロット１に差されているメモリーカード（ＰＳ２）は、|初期化されていません。|ゲームのデータをセーブするには、初期化する必要があります。|初期化しますか？=The memory card (8MB)(for PlayStation 2)|in MEMORY CARD slot 1 has not been formatted.|You must format the memory card (8MB)|(for PlayStation 2) in order to save game data.||                             γγOK to format?
+スロット２に差されているメモリーカード（ＰＳ２）は、|初期化されていません。|ゲームのデータをセーブするには、初期化する必要があります。|初期化しますか？=The memory card (8MB)(for PlayStation 2)|in MEMORY CARD slot 2 has not been formatted.|You must format the memory card (8MB)|(for PlayStation 2) in order to save game data.||                             γγOK to format?
+スロット１のメモリーカード（ＰＳ２）を|初期化中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Formatting the memory card (8MB)|(for PlayStation 2) in MEMORY CARD|slot 1.||Please do not power off/reset, or|remove/insert memory cards (8MB)|(for PlayStation 2) or controllers|from the PlayStation 2 console.
+スロット２のメモリーカード（ＰＳ２）を|初期化中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Formatting the memory card (8MB)|(for PlayStation 2) in MEMORY CARD|slot 2.||Please do not power off/reset, or|remove/insert memory cards (8MB)|(for PlayStation 2) or controllers|from the PlayStation 2 console.
+スロット１のメモリーカード（ＰＳ２）の|初期化に失敗しました。=Unable to format the memory card (8MB)|(for PlayStation 2) in MEMORY CARD|slot 1.
+スロット２のメモリーカード（ＰＳ２）の|初期化に失敗しました。=Unable to format the memory card (8MB)|(for PlayStation 2) in MEMORY CARD|slot 2.
+スロット１のメモリーカード（ＰＳ２）に|データをセーブ中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Saving data to the memory card (8MB)|(for PlayStation 2) in MEMORY CARD|slot 1.||Please do not power off/reset, or|remove/insert memory cards (8MB)|(for PlayStation 2) or controllers|from the PlayStation 2 console.
+スロット２のメモリーカード（ＰＳ２）に|データをセーブ中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Saving data to the memory card (8MB)|(for PlayStation 2) in MEMORY CARD|slot 2.||Please do not power off/reset, or|remove/insert memory cards (8MB)|(for PlayStation 2) or controllers|from the PlayStation 2 console.
+選択したファイルにはデータが存在します。|上書きしますか？=The selected file already contains|game data.||              OK to overwrite?
+スロット１のメモリーカード（ＰＳ２）の|セーブに失敗しました。=Unable to save data to the memory|card (8MB)(for PlayStation 2) in|MEMORY CARD slot 1.
+スロット２のメモリーカード（ＰＳ２）の|セーブに失敗しました。=Unable to save data to the memory|card (8MB)(for PlayStation 2) in|MEMORY CARD slot 2.
+スロットを選んでください=Select a MEMORY CARD slot.
+セーブするファイルを選んでください=Select a file to save.
+ここまでの話をセーブしますか？=Would you like to save your game?
+選択したファイルのデータは壊れています。|上書きしますか？=Data in selected file is corrupt.||           γOK to overwrite?
+選択したファイルのデータは壊れています。|上書きしますか？=Data in selected file is corrupt.||           γOK to overwrite?
+スロット１のメモリーカード（ＰＳ２）の|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。  =There is not enough free space on the|memory card (8MB)(for PlayStation 2)|in MEMORY CARD slot 1.|You will need at least 188KB of free|space to save your game data.
+スロット２のメモリーカード（ＰＳ２）の|空き容量が不足しています。|このゲームのデータをセーブするには、|１８８ＫＢ以上の空き容量が必要です。  =There is not enough free space on the|memory card (8MB)(for PlayStation 2)|in MEMORY CARD slot 2.|You will need at least 188KB of free|space to save your game data.
 はい=Yes
 /=/
 いいえ=No
 クリアデータをセーブしますか？=Save game CLEAR data?
 
 !FILE:0007_001.txt
-スロット１のメモリーカード（ＰＳ２）を|チェック中です。=Checking slot 1 of Memory Card (PS2).
-スロット２のメモリーカード（ＰＳ２）を|チェック中です。=Checking slot 2 of Memory Card (PS2).
-スロット１にメモリーカード（ＰＳ２）が|差されていません。=There's no Memory Card (PS2) in slot 1.
-スロット２にメモリーカード（ＰＳ２）が|差されていません。=There's no Memory Card (PS2) in slot 2.
-スロット１のメモリーカード（ＰＳ２）に|このゲームのデータがありません。=There's no game data in slot 1 of Memory Card (PS2).
-スロット２のメモリーカード（ＰＳ２）に|このゲームのデータがありません。=There's no game data in slot 2 of Memory Card (PS2).
-スロット１のメモリーカード（ＰＳ２）から|データをロード中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Loading data in slot 1 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.
-スロット２のメモリーカード（ＰＳ２）から|データをロード中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Loading data in slot 2 of Memory Card (PS2).||Please don't turn off or reset the PlayStation 2. |Don't insert or remove Memory Card (PS2)|and controller.
-スロット１のメモリーカード（ＰＳ２）からの|データのロードに失敗しました。=Failed to load data from slot 1 of Memory Card (PS2).
-スロット２のメモリーカード（ＰＳ２）からの|データのロードに失敗しました。=Failed to load data from slot 2 of Memory Card (PS2).
-スロットを選んでください=Please select a slot.
-ロードするファイルを選んでください=Please select a file to load game.
-スロット１のメモリーカード（ＰＳ２）からの|データのロードに失敗しました。|データが壊れている可能性があります。=Failed to load data from slot 1 of Memory Card (PS2).|Data may be corrupted.
-スロット２のメモリーカード（ＰＳ２）からの|データのロードに失敗しました。|データが壊れている可能性があります。=Failed to load data from slot 2 of Memory Card (PS2).|Data may be corrupted.
+スロット１のメモリーカード（ＰＳ２）を|チェック中です。=Checking the memory card|(8MB)(for PlayStation 2) in|MEMORY CARD slot 1.
+スロット２のメモリーカード（ＰＳ２）を|チェック中です。=Checking the memory card|(8MB)(for PlayStation 2) in|MEMORY CARD slot 2.
+スロット１にメモリーカード（ＰＳ２）が|差されていません。=No memory card (8MB)(for PlayStation 2)|inserted in MEMORY CARD slot 1.
+スロット２にメモリーカード（ＰＳ２）が|差されていません。=No memory card (8MB)(for PlayStation 2)|inserted in MEMORY CARD slot 1.
+スロット１のメモリーカード（ＰＳ２）に|このゲームのデータがありません。=No data for this game found on the|memory card (8MB)(for PlayStation 2)|in MEMORY CARD slot 1.
+スロット２のメモリーカード（ＰＳ２）に|このゲームのデータがありません。=No data for this game found on the|memory card (8MB)(for PlayStation 2)|in MEMORY CARD slot 2.
+スロット１のメモリーカード（ＰＳ２）から|データをロード中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Now loading data from the memory|card (8MB)(for PlayStation 2) in|MEMORY CARD slot 1.||Please do not power off/reset, or|remove/insert memory cards (8MB)|(for PlayStation 2) or controllers|from the PlayStation 2 console.
+スロット２のメモリーカード（ＰＳ２）から|データをロード中です。||"ＰｌａｙＳｔａｔｉｏｎ　２"本体の|電源ＯＦＦやリセット、|メモリーカード（ＰＳ２）やコントローラの|抜き差しは行わないでください。=Now loading data from the memory|card (8MB)(for PlayStation 2) in|MEMORY CARD slot 2.||Please do not power off/reset, or|remove/insert memory cards (8MB)|(for PlayStation 2) or controllers|from the PlayStation 2 console.
+スロット１のメモリーカード（ＰＳ２）からの|データのロードに失敗しました。=Unable to load data from the memory|card (8MB)(for PlayStation 2) in|MEMORY CARD slot 1.
+スロット２のメモリーカード（ＰＳ２）からの|データのロードに失敗しました。=Unable to load data from the memory|card (8MB)(for PlayStation 2) in|MEMORY CARD slot 2.
+スロットを選んでください=Select a MEMORY CARD slot.
+ロードするファイルを選んでください=Select a file to load.
+スロット１のメモリーカード（ＰＳ２）からの|データのロードに失敗しました。|データが壊れている可能性があります。=Unable to load data from the memory|card (8MB)(for PlayStation 2) in|MEMORY CARD slot 1. Data may be corrupted.
+スロット２のメモリーカード（ＰＳ２）からの|データのロードに失敗しました。|データが壊れている可能性があります。=Unable to load data from the memory|card (8MB)(for PlayStation 2) in|MEMORY CARD slot 2. Data may be corrupted.
 
 !FILE:0007_002.txt
 <redbold>テストデーた=Test data
@@ -1022,7 +1021,7 @@
 
 !FILE:0014_099.txt
 ヴァルドラ市街=City of Valdolla
-ヴェルザ神殿・入口=Valdolla Temple: Entrance
+ヴェルザ神殿・入口=Velza Temple: Entrance
 第１層・通路Ａ=1st Level: Passage A
 第１層・通路Ｂ=1st Level: Passage B
 第１層・通路Ｃ=1st Level: Passage C
@@ -2903,7 +2902,7 @@
 <sophie>ヴェルザに関係があると|思うんだけど、私にも分からないわ。=<sophie>It may be related to Velza.|But I'm not sure.
 <sophie>父が生きていたら、|なにか分かったはずなのに……。=<sophie>If my father were alive, he may have been able to tell us something about it...
 <sophie>——ッ！？=<sophie>Huh!?
-<???>——許さない……許さない……！=<???>I won't forgive...I won't forgive them!
+<???>——許さない……許さない……！=<???>Unforgivable... Unforgivable!
 <alphonse>ソフィ？ どうしたの？=<alphonse>Sophie? What's the matter?
 <sophie>——う、ううん。何でもないわ。|先を急ぎましょ。=<sophie>Uh... No... It's nothing.|Let's keep going.
 <sophie>（今の声は……いったい……？）=<sophie>(That voice... Could it be...?)
@@ -2953,7 +2952,7 @@
 <leonid>ウフフ……。|また会ったわね、アナタたち。=<leonid>Heh heh heh... We meet again, you and I.
 <edward>お前は！=<edward>You!
 <leonid>よく、ここまで来たわね。歓迎するわ。|おかげで、アナタたちを、|この手で殺すことができる……。=<leonid>It's great that you came this far. Welcome. Thanks to that, I can kill you with my own hands.
-<leonid>——それにしても、|３人とも見逃すなんて、ゴドーのバカ、|どこを見てたのかしら？=<leonid>However, I wonder where that idiot Godot was looking, to let you three pass by.
+<leonid>——それにしても、|３人とも見逃すなんて、ゴドーのバカ、|どこを見てたのかしら？=<leonid>However, I wonder where that fool Godot was looking, to let you three pass by.
 <sophie>……あの大きな人なら、死んだわ。|力を使いすぎて、印に|命を削り取られたのよ。=<sophie>If you mean that giant, he's dead.|He used too much power, and the sigil|took his life away.
 <leonid>なんですって……！？ ゴドーが！？=<leonid>What are you talking about!? Godot!?
 <leonid>……そう。あの子、先に|逝ってしまったのね……。=<leonid>...I see.|So that kid passed before me...
@@ -3007,7 +3006,7 @@
 <???>君たちは予定通り|「神」を復活させれば良いのだ。|——この私のために、な。=<???>You just need to resurrect the “goddess"|as planned.|For my sake, you understand.
 <leonid>……まさか！|アンタ、初めから|アタシたちを利用して——。=<leonid>No way! You've been using us from the beginning!
 <???>君はもう用済みだ。=<???>You've already outlived your usefulness.
-<???>出番の済んだピエロが、|いつまでも舞台の上に|立っていては邪魔なのだよ……。=<???>It's bothersome when a clown stays on the|stage after finishing his|performance.
+<???>出番の済んだピエロが、|いつまでも舞台の上に|立っていては邪魔なのだよ……。=<???>It's bothersome when a clown stays on the|stage after finishing his performance.
 <venus>……………………。=<venus>...
 <venus>クレイギン将軍……。|上官とはいえ、本当に今、|あの男に従うべきなのか……。=<venus>General Craigin... Even if he IS my superior, should I really continue following his orders?
 <venus>神の復活……か。|鋼の錬金術師……|あのボウヤの目、真剣だったね……。=<venus>The resurrection of a goddess...|And the Fullmetal Alchemist... The eyes of that boy seemed so earnest...
@@ -3045,7 +3044,7 @@
 <janice>ゼルギウス～。|ジャニスは？ ジャニスは？|ジャニスはどうすればいいのぉ？=<janice>Zeeelgius!|What about Janice? What about Janice? What's the job for Jaaanice?
 <zelgius>お前は俺と共に来い。|今から、小うるさいネズミどもを|掃除しに行く。=<zelgius>You come with me.|We're going to get rid of those fussy rats right now.
 <janice>りょうかぁ～ぃ♪=<janice>Ooookay♪
-<zelgius>もう少しだ……。|もう少しで我らが神、|ヴェルザは蘇る……。=<zelgius>Just a little longer...|Just a little longer until our Goddess Velza is resurrected...
+<zelgius>もう少しだ……。|もう少しで我らが神、|ヴェルザは蘇る……。=<zelgius>Just a little longer...|Just a little longer until our goddess Velza is resurrected...
 <edward>あれは……！=<edward>Is that it...!?
 <alphonse>あの赤い石……。|もしかして、あれが……？=<alphonse>That red stone...|Could it be...?
 <sophie>ええ。私も見るのは初めてだけど、|あの石の中に、|ヴェルザの魂が眠っているはず。=<sophie>Yes. It's the first time I've seen it, but Velza's soul should be sleeping inside that stone.
@@ -3235,7 +3234,7 @@
 <edward>しまった、見つかった！|うわあああぁ———っ！？=<edward>Uh-oh, busted!|AAAAAAHHH!!
 <guard>動くな！|動くと射殺する！！=<guard>Freeze! If you move I'll shoot!!
 <edward>しまった、見つかった！|うわあああぁ———っ！？=<edward>Uh-oh, busted!|AAAAAAHHH!!
-<yoki>なぜ、この私がこんな目に……。|ブツブツブツ……。=<yoki>Why did this happen to me!?|*Groans*
+<yoki>なぜ、この私がこんな目に……。|ブツブツブツ……。=<yoki>Why did this happen to me!?|*Muttering*
 <cow>締め切りが……描き下ろしが……。|モーモーモー……。=<cow>The deadline...I need new artwork...|Moo moo moo!
 
 !FILE:0132_003/004.txt
@@ -3261,7 +3260,7 @@
 <edward>だぁれぇがぁ、|豆粒パンツ星人か———ッ！！！=<edward>What did you call meee!?|A guy from the bean-pants planet!?
 <alphonse>うあ、すごい被害妄想……。=<alphonse>Wow! You're way too paranoid...
 <guard>抵抗するな！ おとなしくしろ！=<guard>Don't resist! Stay quiet!
-<edward>へっ！|アルを見つけたし、|もう隠れる必要もねぇ！！=<edward>Heh! I've already found Al, so there's no need to hide anymore!
+<edward>へっ！|アルを見つけたし、|もう隠れる必要もねぇ！！=<edward>Heh! I found Al, so there's no need to hide anymore!
 <edward>司令室まで、|一気に行くぜ！ アル！=<edward>Let's head straight for the command room, Al!
 
 !FILE:0134_003/004.txt
@@ -3326,7 +3325,7 @@
 <edward>まぁ、いいや。|今のうちにオレたちの荷物を見つけて、|とっととズラかろうぜ。=<edward>Aw well... Let's get our things and get outta here.
 <alphonse>兄さん、その格好のまま|行くつもり？|まずは、服と荷物を探そうよ。=<alphonse>Brother, are you going out like that? Let's at least find your clothes first.
 <alphonse>兄さん。服と荷物があったよ。=<alphonse>Brother, all our stuff is here.
-<edward>よし。これでやっと、|情けないパンツ姿と|オサラバできるぜ。=<edward>Great. Now I won't be mistaken for some weird pervert.
+<edward>よし。これでやっと、|情けないパンツ姿と|オサラバできるぜ。=<edward>Great. I looked pathetic in my undies.
 <edward>さてと、もうここに用はねーな。|屋上に出て、エレベーターで１階まで|降りようぜ。あれならすぐだ。=<edward>All right, there's nothing else to do here. Let's go to the roof and take the elevator to the first floor. It'll be faster that way.
 
 !FILE:0141_003/004.txt
@@ -3350,7 +3349,7 @@
 <edward>お、おっちゃん……。=<edward>O-old man...
 <trigger>理解不能、意味不明だよ、キミィ！|なぜ、ボクの下を去ろうとするのかね？|最強マッスィ～ンになると約束したのに！=<trigger>I don't understand, it makes no sense! Why would you leave me? You even promised me you'd become the ultimate machine!
 <alphonse>してないよ！=<alphonse>I never promised that!
-<venus>さぁ、素直に降伏するんだね。|良い子は、お家へ帰る時間だ。=<venus>Now, surrender without fuss. It's time for good children to go home.
+<venus>さぁ、素直に降伏するんだね。|良い子は、お家へ帰る時間だ。=<venus>Now, surrender without a fuss. It's time for good children to go home.
 <edward>聞いてくれ、中佐！|クレイギン将軍を止めないと、|大変なことになる！=<edward>Listen, Lt. Colonel! If we don't stop General Craigin, we'll all be in trouble!
 <alphonse>お願いです、ここは見逃してください！|ヴェルザの話は、|本当のことなんです！=<alphonse>Please, let us go!|The story about Velza is true!
 <venus>あの、世界が滅ぶというヤツかい？|夢のあるお話だねぇ……。|続きはゆっくり、牢屋で聞いてあげるよ。=<venus>What, all that about the destruction of the world? That's fairy tale nonsense... But you can tell us more in prison.
@@ -3477,7 +3476,7 @@
 <sophie>きっとこれが、最後のチャンス。|どんなことがあっても、|ヴェルザを封印しないと……！=<sophie>This is probably our last chance.|No matter what, we must seal Velza away!
 <edward>今度こそ|失敗は許されねーな。=<edward>We can't afford to fail this time.
 <sophie>ええ。急ぎましょう。|——ッ！？=<sophie>Yes. Let's hurry.|...Ah!?
-<???>許さない……絶対に……許さない……！=<???>I won't forgive...I absolutely...won't forgive them!
+<???>許さない……絶対に……許さない……！=<???>Unforgivable...absolutely...unforgivable...!
 <???>滅ぼす……すべて……滅ぼしてやる……！=<???>Destroy...everything...I'll destroy it all!
 <edward>——おい、ソフィ。|どうしたんだ？=<edward>Hey, Sophie, what's the matter?
 <sophie>え……あ、うん。|なんでもないわ……。|……行きましょう。=<sophie>Er... Uh, no...|It's nothing... Let's go.
@@ -3495,7 +3494,7 @@
 <edward>気を緩めるなよ、アル。|ヴェルザの部屋まで|一気に行くぞ。=<edward>Keep your eyes peeled for danger, Al.|Let's head straight for Velza's chamber.
 <sophie>ええ、急ぎましょう。|——ッ！？=<sophie>Yes, quickly.|...Guh!?
 <alphonse>——ソフィ？=<alphonse>Sophie?
-<???>——許さない……！=<???>I won't forgive them!
+<???>——許さない……！=<???>Unforgivable...!
 <sophie>ウッ……アアァッ……！？=<sophie>Ugh... AAAAH!
 <man>ヴェルザ様！ ありがとうございます！|息子は命を取りとめました！=<man>Thank you so much, Lady Velza!|You saved my son's life!
 <woman>ウチの母も、ヴェルザ様のおかげで！|本当に、なんとお礼を|言ったらいいか……！=<woman>My mother was saved too, thanks to you, Lady Velza! I don't know how to express my gratitude!
@@ -3513,9 +3512,9 @@
 <oldman>何をしにきた、この魔女め！|お前がいるから、我々が苦しめられる！|早く出ていくがいい！ 出ていけ！=<oldman>What are you doing here, witch!?|Your presence brings nothing but pain!|Go away right now! Go away!
 <man>あの魔女を殺せ！|じゃなきゃ、オレたちが殺されちまうぞ！|アイツが災いをもたらしたんだ！=<man>Kill that witch! Otherwise we're doomed! She's the one who brought disaster upon us!
 <sophie>——こ、この声は……！？=<sophie>This...this voice...
-<???>許さない……許さない……！=<???>I won't forgive..I won't forgive them!
+<???>許さない……許さない……！=<???>Unforgivable... Unforgivable...!
 <???>私の大切な……すべて奪った……！=<???>They took away...everything that was precious to me!
-<???>許さない……絶対に許さない……！！=<???>I won't forgive...I'll never forgive them!!
+<???>許さない……絶対に許さない……！！=<???>Unforgivable... Absolutely unforgivable!!
 <sophie>ウウッ……アアアァッ！！=<sophie>Ugh... AAAAAAHH!!
 <alphonse>ソフィ！ ねぇ、ソフィってば！=<alphonse>Sophie! Hey, Sophie!
 <sophie>……ア、アル……。=<sophie>...A-Al...
@@ -3530,7 +3529,7 @@
 <zelgius>……………………。=<zelgius>...
 <sophie>——私も、|父のように殺すつもりなの……？=<sophie>Are you planning to kill me too, as you did with him?
 <zelgius>フッ……殺しなどせん。|お前は、我らが神の復活に|欠かせぬ存在なのだからな。=<zelgius>Hmph... I'm not going to kill you.|You're an essential part in our plans to resurrect the goddess.
-<zelgius>時は満ちた。|これで、我らの永き悲願が|果たされる。=<zelgius>The time has come.|Our long-cherished wish will now be fulfilled.
+<zelgius>時は満ちた。|これで、我らの永き悲願が|果たされる。=<zelgius>The time has come.|Our long-standing wish will now be fulfilled.
 <sophie>やめて！|ヴェルザが復活したら、|すべてが終わってしまう！=<sophie>Don't do it! If you resurrect Velza, everything will come to an end!
 <sophie>罪のない多くの人が|命を落とすだけじゃない！|そんなことをして、何になるの？=<sophie>What will you gain from doing something like that? So many innocent people are going to die!
 <zelgius>我ら一族は、何百年もの間、|争いを望まず、|北の地に隠れ、暮らしていた。=<zelgius>For hundreds of years, our clan has lived hidden in the north, avoiding fights.
@@ -3547,16 +3546,16 @@
 <zelgius>フッ……。|お前は不思譲に思ったことはないか？=<zelgius>Is that so...|Haven't you ever wondered about that?
 <zelgius>我らの印をしのぐ、|凄まじい力を秘めた聖印……。|その聖印とは、いったい何なのか？=<zelgius>A mark that holds enormous power and surpasses ours... What could it be?
 <sophie>そ、それは……。=<sophie>W-well it's...
-<zelgius>教えてやろう。|聖印、それは「ヴェルザの印」。|そして、お前が「神の器」である証だ。=<zelgius>I'll tell you.|This mark is “Velza's Sigil," and it's proof you're the vessel of the goddess.
-<sophie>ヴェルザの印……。|神の器……。=<sophie>Velza's Sigil...|A vessel of the goddess...
+<zelgius>教えてやろう。|聖印、それは「ヴェルザの印」。|そして、お前が「神の器」である証だ。=<zelgius>I'll tell you.|This mark is “Velza's Sigil," and it's proof you're the “vessel for the goddess."
+<sophie>ヴェルザの印……。|神の器……。=<sophie>Velza's Sigil...|A vessel for the goddess...
 <zelgius>お前が生まれた頃の話だ。|ギルベルトと俺は、神を復活させるべく|研究を続けていた。=<zelgius>This is a story from around the time you were born. Gilbert and I were researching methods to resurrect the goddess.
 <zelgius>そして、復活には、|神の魂を宿す肉体、|「器」が必要であることを知った。=<zelgius>And we learned that, to do so, we needed a body to house the goddess' soul. A “vessel."
-<zelgius>——だが、「器」を造るには、|幼い赤子の身体が必要だった。=<zelgius>But for the creation of this vessel, the body of an infant was required.
+<zelgius>——だが、「器」を造るには、|幼い赤子の身体が必要だった。=<zelgius>But for the creation of this “vessel," the body of an infant was required.
 <sophie>…………！|ま、まさか——！？=<sophie>...!|It...it can't be!
-<zelgius>そうだ。ギルベルトは、|生まれたばかりの自分の娘を、|「器」の材料として選んだ。=<zelgius>That's right. Gilbert used his own newborn daughter as the material to create the vessel.
+<zelgius>そうだ。ギルベルトは、|生まれたばかりの自分の娘を、|「器」の材料として選んだ。=<zelgius>That's right. Gilbert used his own newborn daughter as the material to create the “vessel."
 <zelgius>一族の未来のため、|娘を犠牲にしようと決めたのだ。=<zelgius>He chose to sacrifice his daughter for the future of the clan.
 <zelgius>そしてギルベルトは、幼い赤子と|ヴェルザの遺髪を錬成し、新たな人間——|いや、「器」を造りあげた。=<zelgius>And then Gilbert transmuted the little baby and Velza's preserved hair to create a new person—no, a “vessel."
-<zelgius>——それがお前だ。「神の器」よ。=<zelgius>That's what you are.|A vessel of the goddess.
+<zelgius>——それがお前だ。「神の器」よ。=<zelgius>That's what you are.|A “vessel for the goddess."
 <sophie>……そんなこと……信じられない……！=<sophie>I don't...believe any of this!
 <zelgius>言っただろう。|その聖印が、なによりの証拠だ。=<zelgius>You know it's true. That mark of yours is the proof.
 <zelgius>それは、かつて、|ヴェルザが１人の人間であった頃に|持っていた印。=<zelgius>It's a sigil that Velza once had, back when she was human.
@@ -3571,9 +3570,9 @@
 <zelgius>クックック……。|誰を父と呼んでいるのだ、お前は？=<zelgius>Ho ho ho...! Who are you calling father?
 <zelgius>ギルベルトか？|それとも、|名も知らぬヴェルザの父のことか？=<zelgius>Gilbert?|Or the unknown father of Velza?
 <zelgius>お前には、父などおらぬ。|愛情など偽りだ。=<zelgius>You have no such thing as a father.|That affection was a lie.
-<zelgius>ギルベルトにとって大事な道具、|「神の器」だから大切にされてきた。|ただ、それだけにすぎん。=<zelgius>You were an important tool for Gilbert, and he cherished you as a vessel.|But that's all there is to it.
+<zelgius>ギルベルトにとって大事な道具、|「神の器」だから大切にされてきた。|ただ、それだけにすぎん。=<zelgius>You were an important tool to Gilbert, and he cherished you as the “vessel for the goddess.“ But that's all there was to it.
 <sophie>……ウソ……ウソよ…………。=<sophie>...Lies...lies...
-<zelgius>さぁ、「神の器」よ。|お前は、この時のために生きてきたのだ。|その役目を果たすがいい……！=<zelgius>Come now, vessel of the goddess.|You were born for this moment.|Fulfill your duty!
+<zelgius>さぁ、「神の器」よ。|お前は、この時のために生きてきたのだ。|その役目を果たすがいい……！=<zelgius>Come now, “vessel for the goddess."|You were born for this moment.|Fulfill your duty!
 <sophie>…………お父、さん…………。=<sophie>...Fa...ther...
 
 !FILE:0176_003/004.txt
@@ -3617,14 +3616,14 @@
 <hammer>へへ、今度は、オラがこっそり|非常ハッチつけといたから、|バッチリ脱出できまさァ。=<hammer>Heh heh! This time I secretly added an emergency hatch, so we can escape no problem.
 <venus>……負けた時の準備ってのも、|ちょいと情けない話だねぇ……。=<venus>It's a bit pathetic to get ready for losing, you know...
 <venus>……………………。=<venus>...
-<edward>——勝負はついた。|ここは通らせてもらうぜ。=<edward>The game's over. Let us through.
+<edward>——勝負はついた。|ここは通らせてもらうぜ。=<edward>The game's over.|Let us through.
 <venus>……ああ、いいさ。|もう邪魔はしないよ。=<venus>Oh, it's fine. I won't hinder you anymore.
 <trigger>い、いけません、ヴィーナス様！！|ボクのメカを壊した、このクソガキを|まさか、お許しになるので！？=<trigger>No... No, that can't be, Lady Venus!!|You can't possibly forgive this damn brat for destroying my mecha!!
 <trigger>それに、クレイギン将軍も、|こいつらを殺せって|言ってたじゃないですかァァ！！=<trigger>And General Craigin ordered us to kill them!!
 <venus>おだまり！|これ以上、みっともないマネ|さらすんじゃないよっ！=<venus>Enough! Don't make more of a fool of yourself!
 <trigger>ヴィ、ヴィーナス様……。=<trigger>La-Lady Venus...
 <venus>命令どおり戦って、|負けちまったもんは、しかたないだろ。|将軍への義理は果たしたさ。=<venus>We fought as ordered and lost, so that's the end of it. I've fulfilled my duty to the general.
-<venus>さぁ、ボウヤ。グズグズしてると|他のヤツが来ちまうよ。|早く行きな。=<venus>Come on, boy.|If you linger here the others will come.|Move on, quickly.
+<venus>さぁ、ボウヤ。グズグズしてると|他のヤツが来ちまうよ。|早く行きな。=<venus>Come on, boy.|If you linger here, the others will come.|Move on, quickly.
 <edward>……ああ。|行くぞ、アル、ソフィ！|急げ！=<edward>True enough.|Al, Sophie, let's hurry!
 <hammer>気をつけて行くだぞォ、ボーズ！=<hammer>Be careful on yer way, boy!
 <venus>——フフ、本当に残念だよ。|本当に、あと１０年早く|生まれてればねぇ……。=<venus>Hmph... It's truly a pity.|If only he were ten years older...
@@ -3634,7 +3633,7 @@
 
 !FILE:0178_003/004.txt
 <smalltext><blackbold>アクセサリ<normal>【赤い石のカケラ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Red Stone Shard"
-<craigin>とうとう、ここまで来おったか。|ローズマリアの奴め、|しくじりおったな……。=<craigin>So in the end you came this far.|That Rosemaria must have screwed up.
+<craigin>とうとう、ここまで来おったか。|ローズマリアの奴め、|しくじりおったな……。=<craigin>So in the end you made it here.|That Rosemaria must have screwed up.
 <edward>——クレイギン！！=<edward>Craigin!!
 <craigin>フッ、まぁよい。|見よ、この石の輝きを！|「神の力」は、すでに我が手中にある！=<craigin>Hmph, never mind.|Look how this stone shines! The power|of the goddess is already in my hands!
 <sophie>ああっ！？|そ、そんな——！？=<sophie>Ah!? Th-that is...
@@ -3679,8 +3678,8 @@
 <sophie>キャアアアァッ！！=<sophie>Aaaaaahhhh!!
 <edward>ソフィ！=<edward>Sophie!
 <sophie>エド！ アル！=<sophie>Ed! Al!
-<zelgius>お前たちには感謝しているぞ。|神の肉体となるべき「器」を、|こうして連れてきてくれたのだからな！=<zelgius>You have my utmost gratitude.|You've brought me this vessel to become the goddess' body.
-<sophie>「器」……私が……？=<sophie>Me? A vessel...?
+<zelgius>お前たちには感謝しているぞ。|神の肉体となるべき「器」を、|こうして連れてきてくれたのだからな！=<zelgius>You have my utmost gratitude.|You've brought me this “vessel" to become the goddess' body.
+<sophie>「器」……私が……？=<sophie>Me? A “vessel"...?
 <edward>野郎！ ソフィを放せ！！=<edward>Bastard! Release Sophie now!!
 <zelgius>ハッハッハ……！|これで、すべてがそろった！|我らが神、復活の時が来たのだ！！=<zelgius>Ha ha ha...! Now I have everything!|The time for the resurrection has come!!
 <sophie>助けて！ エド！ アル！=<sophie>Help me! Ed! Al!
@@ -3694,7 +3693,7 @@
 <riza>エドワード君……。=<riza>Edward...
 <armstrong>——おお、|よくぞ無事だった！|ケガはないか、２人とも？=<armstrong>Oh, it warms my heart to see you two safe! Are you both unhurt?
 <edward>オレたちなら大丈夫だ。|——だけど……。=<edward>We're fine.|However...
-<roy>——止められなかったのだな。|お前たちの言っていた、|ヴェルザの復活は……。=<roy>You couldn't stop it. What you were talking about: the resurrection of Velza.
+<roy>——止められなかったのだな。|お前たちの言っていた、|ヴェルザの復活は……。=<roy>You couldn't stop it.|The resurrection of Velza that you were talking about.
 <edward>ああ……。|それに、ソフィまで|さらわれちまった……。=<edward>Yes...|And on top of that, Sophie was kidnapped.
 <roy>……そうか。|あの巨大な塔といい、怪物の群れといい、|容易ならざる事態だな……。=<roy>I see... This situation keeps getting worse, now there's a giant tower and hordes of monsters.
 <roy>——お前たちは、これから|どうするつもりだ？=<roy>So then, what are you planning to do now?
@@ -3704,14 +3703,14 @@
 <alphonse>決めたんです。|——たとえ、相手が神だろうと、|立ち向かってみせる……。=<alphonse>We've decided.|Even if our opponent is a god, we'll fight against them.
 <edward>オレたちは、|もう、迷わない。=<edward>We won't even hesitate.
 <riza>エドワード君……。=<riza>Edward...
-<armstrong>うむ……！|２人とも、よく言った。=<armstrong>Yes! You have both spoken so well.
+<armstrong>うむ……！|２人とも、よく言った。=<armstrong>Yes! You have both spoken well.
 <roy>……分かった。|ならば、我々も協力しよう。=<roy>Understood.|In that case, we'll cooperate with you.
 <roy>大総統の地位に昇りつめる前に|世界が滅んでしまっては|元も子もないからな。=<roy>It'll all be for nothing if the world is destroyed before I can become Führer.
 <edward>大佐……。=<edward>Colonel...
 <riza>——ッ！ 大佐！=<riza>Ah! Colonel!
 <roy>さっそく、おでましか……。|——鋼の、|お前たちは先を急げ。=<roy>Get away quickly!|Fullmetal, you two must hurry on now.
 <edward>えっ、でも……！=<edward>Huh...but...!
-<roy>立ち止まっている暇などないはずだ。|約束したろう、|「あの子を守ってみせる」と！！=<roy>There's no time to linger. You promised me you'd protect that girl!
+<roy>立ち止まっている暇などないはずだ。|約束したろう、|「あの子を守ってみせる」と！！=<roy>No dawdling.|You promised me you'd protect that girl!
 <edward>……ああ。そうだったな。=<edward>Yeah. You're right.
 <edward>——大佐、ここは頼んだぜ！|行くぞ、アルッ！=<edward>I'm counting on you, Colonel!|Let's go, Al!
 <armstrong>気をつけるのだぞ！|エルリック兄弟よ！=<armstrong>Be careful, Brothers Elric!
@@ -3889,8 +3888,8 @@
 <zelgius>この愚か者めが……！|死ねぃ——！！=<zelgius>You fool...|Dieeee!!
 <roy>ぐああぁッ——！！=<roy>Gwaaaahhhhh!!
 <alphonse>くっ……みんなが……！！=<alphonse>Guh... Everyone's...
-<verda>お前たちには分かるまい……。|我が苦しみを……怒りを……|すべてを奪われた者の絶望を——。=<verda>You can't understand. My pain...my anger...the despair of someone that has had everything taken from them.
-<verda>分かるまい……！！=<verda>You can't understand!!
+<verda>お前たちには分かるまい……。|我が苦しみを……怒りを……|すべてを奪われた者の絶望を——。=<verda>You don't understand... My pain...my anger...the despair of someone that has had everything taken from them.
+<verda>分かるまい……！！=<verda>You CAN'T understand!!
 <edward>——分かってたまるかよ！！|アイツは、オレたちの|大切な友達なんだ……！=<edward>We can't understand!?|You've taken away our friend!
 <edward>——目を覚ませ！|気づいてくれよ！！|ソフィ——————ッ！！！=<edward>Wake up! Come back to your senses!!|Sophieeeee!!
 <verda>——ッ……！|ぐ……うぅ……。=<verda>Ugh...!|Gu...uuuhh...
@@ -4229,7 +4228,7 @@
 <sophie>……………。=<sophie>...
 <winry>……………。|大丈夫よ、ソフィ……|あいつらなら、きっと大丈夫……。=<winry>...It's okay, Sophie.|I'm sure those two are fine.
 <sophie>……うん。=<sophie>Yeah...
-<winry>大丈夫……今に、|ひょっこり帰ってくるから……。=<winry>All right... They'll pop in at any time now...
+<winry>大丈夫……今に、|ひょっこり帰ってくるから……。=<winry>All right... They'll pop in any time now...
 <sophie>……うん……。=<sophie>...You're right...
 <sophie>——！！=<sophie>...!!
 <alphonse>ソフィ！ ウィンリィ！=<alphonse>Sophie! Winry!
@@ -4270,9 +4269,9 @@
 <roy>——城に続く道は、クレイギンの|部隊によって、すべて封鎖されている。|今はネズミ１匹、抜けることはできん。=<roy>The path to the castle is completely blocked by Craigin's troops. Not even a rat could slip through right now.
 <alphonse>そ、そんな……。=<alphonse>Oh, no...
 <roy>そこで、我々の部隊がオトリになる。|守りが手薄になったところから、|お前たちは城へ向かうがいい。=<roy>Therefore, we're going to use our troops as bait. So you can head to the castle once their defenses are weakened.
-<sophie>——！|マスタングさん……！=<sophie>...! Mustang!
-<edward>——おいおい、いいのかよ。|将軍に逆らったら、|大佐まで反逆者になっちまうぜ。=<edward>Hey, hey, are you sure about this? If you oppose the general, you'll also become a traitor, Colonel.
-<roy>自分の目的のために、|多くの者を犠牲にする。|クレイギンのやり方は気にいらん。=<roy>He's sacrificing so many people for his own objectives. I simply can't agree with Craigin's methods.
+<sophie>——！|マスタングさん……！=<sophie>...!|Mustang!
+<edward>——おいおい、いいのかよ。|将軍に逆らったら、|大佐まで反逆者になっちまうぜ。=<edward>Hey, hey, are you sure about this? If you oppose the general, you'll also be considered a traitor, Colonel.
+<roy>自分の目的のために、|多くの者を犠牲にする。|クレイギンのやり方は気にいらん。=<roy>He's sacrificing so many people for his own benefit. I simply can't agree with Craigin's methods.
 <roy>フッ。それに、勝てば良いのだ。|反逆者はクレイギンの方だ。|証拠など、いくらでも後で作れる。=<roy>Heh! It'll be fine as long as we're the victors. Craigin's the traitor. We can produce all the evidence we need later.
 <edward>へへ……、わかった。|頼んだぜ、大佐……！=<edward>Heh heh... All right. I'm countin' on ya, Colonel!
 <roy>私は先に行っている。|準備し終えたら来るがいい、鋼の。=<roy>I'm going ahead. Join us once you're ready, Fullmetal.
@@ -4819,9 +4818,9 @@
 <edward><bigtext>ダメ———ッ！！=<edward><bigtext>STOPPPP!!
 <sophie><bigtext>ハアアアアアァッ！！=<sophie><sophie><bigtext>AAAAAAHH!!
 <edward>——どわっ！|急にどうしたんだ、|ソフィ——！？=<edward>What!? What's wrong now, Sophie!?
-<sophie><bigtext>……許さない……！=<sophie><bigtext>I WON'T FORGIVE...!
+<sophie><bigtext>……許さない……！=<sophie><bigtext>...UNFORGIVABLE...!
 <sophie><bigtext>許してなるものか……！=<sophie><bigtext>I WILL NEVER FORGIVE|THEM!
-<sophie>この苦しみ……この痛み……！|お前たちに分かるか……！！=<sophie>This suffering...this pain...|YOU CAN NEVER UNDERSTAND IT...!!
+<sophie>この苦しみ……この痛み……！|お前たちに分かるか……！！=<sophie>This suffering...this pain...|YOU COULD NEVER UNDERSTAND IT...!!
 <sophie>我が名は……<bigtext>ヴェル——！！=<sophie>My name is...<bigtext>VELZA!!
 <edward><bigtext>ダメ————ッ！！=<edward><bigtext>NOOOO!!
 <alphonse><bigtext>その石返して——ッ！！=<alphonse><bigtext>GIVE US BACK THE|STONE!!
@@ -5436,7 +5435,7 @@
 <sophie>……そう、分かったわ。=<sophie>Okay, I understand...
 <winry>行ってらっしゃい。|気をつけてね、２人とも。=<winry>Be careful on your way. And don't get into trouble, you two.
 <edward>ああ、分かってるって。|——またブン殴られちゃ、|かなわねぇからな。=<edward>Yeah, I know. I won't be beaten again.
-<edward>じゃあ、行ってくるぜ。|必ず、ソフィを連れて帰ってくる。=<edward>All right, let's go.|We'll be right back. With Sophie.
+<edward>じゃあ、行ってくるぜ。|必ず、ソフィを連れて帰ってくる。=<edward>All right, we're off.|We'll be right back. With Sophie.
 <winry>うん……。分かったわ……。=<winry>Yeah...I know...
 <edward>……ウィンリィ。|万が一……万が一の話だ。=<edward>Winry...just in case...if by some chance...
 <edward>何かヤバそうなことが起こったら、|オレたちに構わず、|さっさとここから逃げるんだぞ。=<edward>If something happens, forget about us and get out of this city.
