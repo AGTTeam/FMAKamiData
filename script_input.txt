@@ -2261,7 +2261,7 @@
 !FILE:0044_001/004.txt
 <bigtext><blackbold> 移動と視点=<bigtext><blackbold> Movement and Camera
 <8006><orange>左スティック<white>　＝　<yellow>移動|<white>     <cross>　＝　<yellow>ジャンプ=<8006>γLeft stick: <yellow>Movement|<white>            <cross>: <yellow>Jump
-<8006><orange>右スティック<white>　＝　<yellow>視点の移動|<white>    <L1a><L1b>　＝　<yellow>視点のリセット=<8006>Right stick: <yellow>Move camera|<white>           <L1a><L1b>: <yellow>Reset camera
+<8006><orange>右スティック<white>　＝　<yellow>視点の移動|<white>    <L1a><L1b>　＝　<yellow>視点のリセット=<8006>Right stick: <yellow>Move camera|<white>           <L1a><L1b>α: <yellow>Reset camera
 <bigtext><blackbold> システム関係操作=<bigtext><blackbold> System Related Operations
 <8006><orange>ＳＴＡＲＴボタン<white>　＝　<yellow>キャンプ画面<white>=<8006>START button: <yellow>Main Menu
 <8006><orange>方向キー左<white>　＝　<yellow>エリアマップ表示|<white><8006><orange>方向キー右<white>　＝　<yellow>レーダーＯＮ/ＯＦＦ=<8006>Directional pad left: <yellow>Display Area Map<white>|<8006>Directional pad right: <yellow>Radar ON / OFF
@@ -2317,7 +2317,7 @@
 <edward>——おい、アル、見てみろよ。=<edward>Hey, Al, take a look at this.
 <edward>ここから扉の先に行けそうだぞ。=<edward>We can probably get around the door through here.
 <alphonse>うーん……。|でも、狭すぎてボクじゃ通れないよ。|兄さんなら、大丈夫そうだけど。=<alphonse>Hmm... It's too narrow for me.|You should fit though, Big Brother.
-<edward>ああ。|身体が小さくて良かった——って、|誰がミニマムサイズかあぁっ！！=<edward>Yeah. It's a good thing my body's so sma— HEY! Who're you callin' a tiny ant you can't help but step on 'cuz its so small!?
+<edward>ああ。|身体が小さくて良かった——って、|誰がミニマムサイズかあぁっ！！=<edward>Yeah. It's a good thing my body's so sma— HEY! Who're you callin' a tiny ant you can't help but step on 'cuz it's so small!?
 <alphonse>誰も何も言ってないよ、兄さん。=<alphonse>I didn't say anything like that, Ed.
 <edward>オレだけ、先に|進むわけにはいかないな。|アルを連れてこないと……。=<edward>No, I can't move on yet.|I won't leave Al behind.
 
