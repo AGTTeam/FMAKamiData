@@ -388,7 +388,7 @@
 <yellow>攻撃力を１ポイント上昇させる<white>|栄養剤 「マッチョ専用ドリンク」=<yellow>Increases ATK by 1 point.|<white>Nutritional supplement: “Only Machos"
 <yellow>攻撃力を２ポイント上昇させる<white>|栄養剤 「空前絶後の上・腕・筋！」=<yellow>Increases ATK by 2 points.|<white>Nutritional supplement: “Unmatched Arms and Muscles!"
 <yellow>攻撃力を３ポイント上昇させる<white>|栄養剤 「ムキムキブラザーズ」=<yellow>Increases ATK by 3 points.|<white>Nutritional supplement: “Muscle Brothers"
-<yellow>防御力を１ポイント上昇させる<white>|栄養剤 「カチコチドリンク」=<yellow>Increases DEF by 1 point.|<white>Nutritional supplement: “Rock-Hard Drink"
+<yellow>防御力を１ポイント上昇させる<white>|栄養剤 「カチコチドリンク」=<yellow>Increases DEF by 1 point.|<white>Nutritional supplement: “Rock-γHard Drink"
 <yellow>防御力を２ポイント上昇させる<white>|栄養剤 「ワニワニドリンク」=<yellow>Increases DEF by 2 points.|<white>Nutritional supplement: “Crocodile Drink"
 <yellow>防御力を３ポイント上昇させる<white>|栄養剤 「フルメタルドリンク」=<yellow>Increases DEF by 3 points.|<white>Nutritional supplement: “Fullmetal Drink"
 <yellow>錬成力を１ポイント上昇させる<white>|栄養剤 「心がシャキッとする薬」=<yellow>Increases ALC by 1 point.|<white>Nutritional supplement: “Refreshed Heart"
@@ -658,7 +658,7 @@
 !FILE:0000_016.txt
 はい=Yes
 いいえ=No
-シティマップへ戻りますか？=Return to city map?
+シティマップへ戻りますか？=Return to the city map?
 /=/
 
 !FILE:0006_000.txt
@@ -810,9 +810,9 @@
 初期設定に戻します=Restore default settings
 
 !FILE:0014_083.txt
-セーブする=Save game
-シティマップへ戻る=Return to city map
-ゲームに戻る=Return to game
+セーブする=Save the game
+シティマップへ戻る=Return to the city map
+ゲームに戻る=Return to the game
 
 !FILE:0014_088.txt
 <8038>|錬成できるようになった！=Transmutation Unlocked!|<8038>
@@ -4096,9 +4096,9 @@
 <blackbold>アイテム<normal>【黄金の牛像】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Golden Cow"
 <sophie><8006><8023><bluebold>♪悲しみのキズ 北出菜奈|=<sophie><8006><8023><bluebold>♪ “Scars of Sadness" by Nana Kitade|
 <sophie><8023><circle>を押すと再生を終了します。|=<sophie><8023>Press <circle> to stop playback.
-セーブする=Save game
-タイトル画面へ戻る=Return to title screen
-ゲームに戻る=Return to game
+セーブする=Save the game
+タイトル画面へ戻る=Return to the title menu
+ゲームに戻る=Return to the game
 はい=Yes
 いいえ=No
 セーブしていないデータは失われますが|　   本当によろしいですか？   ||=Any unsaved progress will be lost.|Are you sure?||
@@ -4414,7 +4414,7 @@
 <edward>ああ。本当だな！=<edward>Ah, that's true!
 <sophie>……………。|家族……かぁ……。=<sophie>...|A family...?
 <alphonse>……兄さん。兄さん？|——あれ？|寝ちゃってるよ。=<alphonse>Big Brother... Edward?|Ah, he's asleep...
-<sophie>さすがに疲れてるみたいね……。|少し、寝かせてあげましょうよ。=<sophie>Sure enough. He must've been tired...|We should let him sleep a bit.
+<sophie>さすがに疲れてるみたいね……。|少し、寝かせてあげましょうよ。=<sophie>Sure enough. He must've been exhausted...|We should let him sleep a bit.
 <winry>——あ。|それなら、ちょうどいいわ。|今のうちに……。=<winry>Yeah.|Though while we have the chance...
 <edward>……ん……ううん……|——なんだ、オレ、|寝ちまってたのか……=<edward>Hmm... Hngh...|What? I fell asleep...
 <edward>——ん？=<edward>Huh?
@@ -4424,7 +4424,7 @@
 <sophie>たまにはキレイにしなきゃ|フケツでしょ？|エドの服も、洗っておいたからね！=<sophie>You should clean from time to time.|Or do you want to be dirty? We had to wash your clothes too, Ed!
 <edward>洗っておいたからね、じゃ、なーい！！|寝てる間に、|人の服、剥ぎとりやがって——！=<edward>“We had to wash your clothes too"!? &^%$ THAT!! You can't take someone's clothes off while they're sleeping!
 <winry>起きないアンタが悪いのよ。|パンツだけは、|自分で洗いなさいよねー。=<winry>Your fault for not getting up!|You should at least wash your underwear yourself!
-<edward>フッ、フザケンナ——ッ！！=<edward>Stop...|<bigtext>QUIT JERKING ME|AROOOOUUUUND!!
+<edward>フッ、フザケンナ——ッ！！=<edward>Stop...|<bigtext>QUITγJERKING ME|AROOOOUUUUND!!
 <sophie>……………………。=<sophie>...
 <victor>誕生日おめでとう、ソフィ。=<victor>Happy birthday, Sophie!
 <sophie>うわぁ、ケーキ……。|ありがとう、|お父さん……！=<sophie>Wow, a cake!|Thank you, Father!
@@ -4455,7 +4455,7 @@
 <sophie>カメラが直ったら、|想い出に|みんなで写真を撮りたいな。=<sophie>Once it's fixed, I want to take a photo of everyone as a keepsake.
 <alphonse>いいね、記念写真だ。|自分たちの写真を撮るのなんて|ひさしぶりだね、兄さん。=<alphonse>That'd be nice...a commemorative photo.|It's been a long time since we took a photo of ourselves, Brother.
 <winry>——ふぅ、直ったよ、ソフィ。|自動でシャッターが下りるから、|これなら、４人でも写せるよ。=<winry>Phew! It's fixed, Sophie. The shutter will go down automatically, so we can take a photo of all four of us.
-<alphonse>ボク、大きいから後ろにいくね。|——兄さんは、いちばん前だよ。=<alphonse>I'll stay in the back, since I'm so big. Big Brother, you stay at the front.
+<alphonse>ボク、大きいから後ろにいくね。|——兄さんは、いちばん前だよ。=<alphonse>I'll stand in the back, since I'm so big.|Big Brother, you're up front.
 <edward>ん？|——何かひっかかる|言い方だな……。=<edward>Huh? There's something about the way you said that...
 <sophie>……もう、ノルンったら、|あばれないで……！=<sophie>Come on, Norn, don't mess around!
 <norn>ニャ～！！=<norn>Meooowww!!
@@ -4465,7 +4465,7 @@
 <winry>——私たち、女の子でしょ。|エドみたいなガサツなのと違って、|繊細でデリケートなのよ。=<winry>We're girls, you know. And unlike Ed, who's so rough, we're sensitive and delicate.
 <sophie>……あのね、しばらく|おフロに入ってないから……|身体を洗いたいなって……。=<sophie>You see, we haven't taken a bath in a while, and we'd like to wash ourselves...
 <alphonse>なーんだ。|いいよ、シャワーくらいなら、|すぐに錬成してあげる。=<alphonse>I see... All right, I can transmute a shower for you in no time.
-<winry>ありがと！ さすがはアルね！|——じゃ、私たち、準備してくるから。|よろしく頼んだわよ！=<winry>Thanks! You never disappoint, Al!|Well, we're gonna get ready. Thanks again!
+<winry>ありがと！ さすがはアルね！|——じゃ、私たち、準備してくるから。|よろしく頼んだわよ！=<winry>Thanks! You never disappoint, Al!|Well, we're gonna get ready.|Thanks again!
 <edward>……ありゃ？|こんなとこにシャワーが……。|アルが造ったのか……？=<edward>What's this? A shower in a place like this?|Al must have made it.
 <edward>そういや、|何日もフロ入ってねーなぁ……。|……くんくん……。=<edward>Come to think of it, I haven't taken a bath in a few days...|*Sniff sniff*
 <sophie>あれ……？|ウィンリィ、|もうシャワー浴びてるの……？=<sophie>Huh? Winry, are you already taking a shower?
@@ -4502,7 +4502,7 @@
 <sophie>……栄養ドリンクのネーミングって、|おかしなものばかりね……。|本当に、飲むだけで効くのかしら……。=<sophie>These energy drinks sure have some strange names... I wonder if it works just by drinking it.
 <sophie>「ムキムキブラザーズ」……？=<sophie>“Muscle Brothers"?
 <sophie>……………。|ねぇ、私に何を求めてるの……？=<sophie>...|Hey, what do you expect me to do with this?
-<sophie>「カチコチドリンク」|……これを飲んだら、|防御力が上がります、だって。=<sophie>“Rock-Hard Drink"... It says that if you drink this, your “Defense" will increase.
+<sophie>「カチコチドリンク」|……これを飲んだら、|防御力が上がります、だって。=<sophie>“Rock-γHard Drink"... It says that if you drink this, your “Defense" will increase.
 <sophie><bigtext>……防御力って、何？=<sophie>(But what do they mean by “Defense"?)#I never liked how exaggerated this was
 <sophie>「ワニワニドリンク」|……皮膚が、ワニ皮のように|頑丈になります、だって。=<sophie>“Crocodile Drink"...|It says your skin will become as tough as that of a crocodile.
 <sophie>……爬虫類って苦手なの。|気持ちは嬉しいけど、|女の子に、コレはないんじゃ……。=<sophie>I'm not a big fan of reptiles.|I appreciate the thought, but is this really fit for a girl...?
@@ -4550,8 +4550,8 @@
 <sophie>「成長」ってことは、|きっと、身長が伸びるのよね……？=<sophie>“Growth" surely means that you'll become taller.
 <sophie>……本当に、私がもらっちゃっていいの？|これが必要なのは、私じゃなくて……。|——あっ、ううん……、なんでもない。=<sophie>Are you sure I should take this?|It's not me who needs it.|Ah, no...forget I said anything.
 <sophie>よく分からない|鉄クズや木クズ……。|これは……いったい……？=<sophie>I don't quite understand...|These scraps of iron and wood...|What am I supposed to do with these?
-<edward>大砲の弾や、矢に錬成して使うんだ。|このままだと、ソフィの言うとおり、|何の役にも立たないゴミだけどな。=<edward>I can use them to transmute cannon balls and arrows. If it stays like this, as you said, it's just useless junk.
-<sophie>（何の役にも立たないゴミ……。| 錬金術の使えない私にとって、| ゴミはゴミでしかないのだけど……。）=<sophie>(Useless junk... Since I can't use alchemy, trash is just trash for me.)
+<edward>大砲の弾や、矢に錬成して使うんだ。|このままだと、ソフィの言うとおり、|何の役にも立たないゴミだけどな。=<edward>They can be used to transmute cannon balls and arrows. In their current state however, as you said, it's just useless junk.
+<sophie>（何の役にも立たないゴミ……。| 錬金術の使えない私にとって、| ゴミはゴミでしかないのだけど……。）=<sophie>(Useless junk... Since I'm not an alchemist, trash is just trash to me.)
 <sophie>——まぁ！|羊肉より安い席民の味方、|ヴァルドラの友、荒川牛ね！！=<sophie>Wow! Arakawa Beef: cheaper than lamb, an ally of the people, and a friend of Valdolla!!
 <sophie>煮てよし！ 焼いてよし！ 干してよし！|安いけど、味もソコソコ、|何にでも使える便利な食材よ。=<sophie>You can boil it! You can grill it! You can dry it! It's cheap, but the taste is...tolerable.|A fine ingredient for any meal.
 <sophie>よ～っし！|腕を振るうわ！|ごはん、楽しみにしててね！=<sophie>All right! I'll show you my skills!|Just wait and see what I'll cook up!
@@ -4569,7 +4569,7 @@
 <sophie>——いいのよ、ウィンリィ。|私、牛乳で何か他においしいもの|作れないか、考えてみる。=<sophie>It's all right, Winry. I'll think of something delicious to cook with this milk.
 <sophie>……でも、驚いちゃった。|牛乳が嫌いだなんて、エドにも|カワイイとこあるのね……クスッ。=<sophie>But I'm surprised. Even Ed has a cute side, with all this stuff about not liking milk... Heh!
 <edward>ワッ、ワリィかよ……。=<edward>It...it's awful...
-<sophie>北の大地の贈り物——。|ヴァルドラのタマネギは、|野菜の一流ブランドといわれてるの。=<sophie>A gift from the northern lands...|Valdolla onions are said to be a top-quality brand of vegetables.
+<sophie>北の大地の贈り物——。|ヴァルドラのタマネギは、|野菜の一流ブランドといわれてるの。=<sophie>A gift from the northern lands...|Valdolla onions are said to be a top-γquality brand of vegetables.
 <sophie>攻撃力がちょっと高めで、|涙なしでは調理できないけど、|栄養満点で、身体にもいいのよ♪=<sophie>They're a bit too strong, and you can't cook them without crying. But they're healthy and full of nutrients♪
 <sophie>よーし！|このタマネギで何を作るか、|私の腕の見せどころね！=<sophie>All right! Now it's time to show off my skills, and what I can do with these onions!
 <sophie>——好き！ 好き！ 大好き！！|ジャガイモっていったら、|やっぱり、ジャガバターよねッ！=<sophie>Love them! Love them! I love them!!|Whenever I see potatoes, I think of|buttered potatoes!
@@ -4583,7 +4583,7 @@
 <sophie>——ええっ、分からない？|分からないけど、|タマゴってことは分かるのね……？=<sophie>Huh... You don't know?|You just know it's an egg?
 <sophie>うーん、ちょっと不安だな……。|けど、細かいことは、|気にしないのが一番……よね、多分。=<sophie>Hmm, that's a bit worrying.|But it's better not to think about the little details... Well, probably.
 <sophie>「ある」と「ない」とじゃ大違い！|タマゴで、料理の幅は一気に広がるの。|大切に保管しておくね♪=<sophie>Having eggs makes a great difference! With them, your cooking possibilities expand immensely. I'll keep it safe♪
-<sophie>小麦粉には、３つの種類があってね。|作る料理によって、それぞれを|使いわけるものなの。=<sophie>There are three types of flour. You use each one differently, according to the dish you're making.
+<sophie>小麦粉には、３つの種類があってね。|作る料理によって、それぞれを|使いわけるものなの。=<sophie>There are three types of flour. You use each one differently, depending on the dish you're making.
 <sophie>この小麦粉は薄力粉だから……。|そうね、これを使えば、|クッキーやケーキが作れるよ！=<sophie>This is pastry flour...|Yeah, with this you can make cookies and cakes!
 <sophie>お菓子作りって楽しいよね。|「おいしい」って言ってもらえると、|すっごく、嬉しいもの……。=<sophie>Making sweets is so fun! It makes me really happy when people find them delicious!
 <sophie>大切に保管しておくね。|小麦粉は、匂いが移りやすいから、|気をつけなくっちゃ……♪=<sophie>I'll keep it safe. Flour absorbs odors easily, so you must be careful♪
@@ -4603,7 +4603,7 @@
 <sophie>キャットフードね、ノルンが喜ぶわ。|私たちより豪勢な食事だなんて、|羨ましいニャンニャンね……。=<sophie>Cat food, huh? Norn will be delighted.|This is better food than ours, I'm so jealous. Meow!
 <edward><bigtext>ニャンニャン……。=<edward><bigtext>“MEOW"...
 <sophie>この煮干し、|ノルンにあげてもいいかな？|きっと、喜ぶと思うの。=<sophie>Can I give this dried sardine to Norn?|I'm sure it'll make her happy.
-<alphonse>——構わないよ。|ボクもそのつもりで|ソフィに渡したんだ。=<alphonse>Please do. I gave it to you with that intention, anyway.
+<alphonse>——構わないよ。|ボクもそのつもりで|ソフィに渡したんだ。=<alphonse>Please do. I gave it to you with her in mind, anyway.
 <sophie>ありがとう、アルは優しいね……。=<sophie>Thank you, you're so kind, Al...
 <alphonse>……ニャンコ好きに悪者はいないよ。|ソフィと同じ、|優しい心を持つ人ばかりさ……。=<alphonse>There aren't bad people among cat lovers. Just like you, we all have kind hearts.
 <sophie>まぁ、アルったら……。|フフフッ……。=<sophie>Well, Al...|Heh heh heh!
@@ -4613,7 +4613,7 @@
 <sophie>あら、ヴァルドラ名物、|ミルクキャンディじゃない。=<sophie>Oh, isn't that milk candy, the specialty of Valdolla?
 <alphonse>助けた女の子にもらったんだ。|ヴァルドラはキャンディが名物なの？|知らなかったよ。=<alphonse>I got it from the girl I rescued.|Are candies the specialty of Valdolla?|I didn't know that.
 <sophie>新鮮な牛乳を使った乳製品は、|どれもヴァルドラの特産品よ。|このキャンディもその１つなの……。=<sophie>All dairy products made with fresh milk are Valdolla's specialties. This candy is one of those.
-<sophie>深いコク……、|さっぱりした上品な甘さ……。|もう、ホッぺが落ちるくらいおいしいの！=<sophie>A deep flavor... Refreshing and high-quality sweetness...|It's finger-licking good!
+<sophie>深いコク……、|さっぱりした上品な甘さ……。|もう、ホッぺが落ちるくらいおいしいの！=<sophie>A deep flavor... Refreshing and high-γquality sweetness...|It's finger-γlicking good!
 <sophie>……アルが元の身体に戻ったら、|一緒に食べよ。|私、大切に持っとくから……。=<sophie>We'll eat it together when you recover your body, Al. I'll take good care of it until that day comes.
 <alphonse>ソフィ……。=<alphonse>Sophie...
 <sophie>研磨用オイル……？=<sophie>Polishing oil?
@@ -4641,14 +4641,14 @@
 <sophie>この花に温かい力を感じるの……。|エドとアルを守ってくれる、|そんな気がするから……。=<sophie>I feel a warmth coming from this flower.|I think it will protect you.
 <sophie>「復讐の神、ヴェルザ」=<sophie>“Velza, Goddess of Destruction"
 <sophie>白き衣をまといし魔女|その名もヴェルザ|当時の王により、すべてを奪われた女=<sophie>A witch clad in white, her name was Velza. A woman who was deprived of everything by the king ruling at that time.
-<sophie>ヴェルザは怒り、呪い|赤き悪魔にその身を捧げた|誓うは復讐、すべての者に死を=<sophie>Velza raged and cursed, even offered herself to a red devil. She vowed to take revenge and bring death to everything.
+<sophie>ヴェルザは怒り、呪い|赤き悪魔にその身を捧げた|誓うは復讐、すべての者に死を=<sophie>Velza raged and cursed, even offered herself to a red devil. She vowed to take revenge and bring death to all.
 <sophie>滅びの神ヴェルザ|国を滅ぼし、人を滅ぼさんと|醜い天使たちを地に降らす=<sophie>Velza, the Goddess of Destruction, would bring ruin to countries and people, sending horrible angels down to earth.
 <sophie>やがて眠りしヴェルザ|弟子と勇者と幾人もの犠牲によって|二度と目覚めぬよう、永久の封印を=<sophie>But eventually, Velza was put to sleep thanks to the sacrifices of her disciples, heroes, and many other people. She was sealed for all eternity, so she wouldn't wake up once more.
 <sophie>「ヴェルザの一族」=<sophie>“The Velza Clan"
 <sophie>ヴェルザの一族|４人の神官を中心とする少数民族|ヴェルザを慕う弟子の末裔=<sophie>The Velza Clan is a minority group centered around the Four Priests. They're the descendants of the disciples who worshipped Velza.#US English is one p I did not know that and I hate it
 <sophie>ヴェルザの血を継いでおらず|代わりに、代々受け継がれる|「印」を身体に刻み産まれる=<sophie>They don't carry Velza's blood, but instead are born with a “sigil" that has been passed down through generations.
 <sophie>印は属性を持ち、４大元素のどれかを司る|その中でもヴェルザの印は特別で|光の力を持ち、神の力と崇められた=<sophie>The sigils have attributes, and each controls one of the four elements. Among them, the sigil of Velza is special, since it has the power of light, and is revered as a divine power.
-<sophie>ヴェルザの一族の使命は|ヴェルザが復活せぬよう|見守り続けることである=<sophie>The mission of the clan is to keep watch over Velza, so she doesn't resurrect.
+<sophie>ヴェルザの一族の使命は|ヴェルザが復活せぬよう|見守り続けることである=<sophie>The mission of the clan is to keep watch over Velza, so she isn't resurrected.
 <sophie>「必要物１」=<sophie>“Necessities 1"
 <sophie>ヴェルザの復活には|多くの人間の魂が必要となる=<sophie>In order to resurrect Velza, a great number of human souls are needed.
 <sophie>そして、魂を集めるには|街を囲む特殊な方陣と|３本のオベリスクが必要となる=<sophie>And to collect these souls, you need a special magic circle covering the city, and three obelisks.
@@ -4683,14 +4683,14 @@
 <sophie>父さんは罪を犯した|それは、人としての罪|許されない罪だ=<sophie>Your father has committed a sin.|An unforgivable sin.
 <sophie>生まれながらにして|お前の身体は|強力な印の呪いに蝕まれていた=<sophie>Since birth, your body has been eroded by the curse of a powerful sigil.
 <sophie>私たち夫婦は|お前を生かそうと様々な方法を試みた|……だが、結果は散々なものだった=<sophie>Your mother and I tried various methods to keep you alive...|But the results were disastrous.
-<sophie>途方に暮れる私を見て|母さんは、私に内緒で|１つの決断をくだした=<sophie>Seeing me hopeless, your mom made a decision without consulting me.
+<sophie>途方に暮れる私を見て|母さんは、私に内緒で|１つの決断をくだした=<sophie>Seeing me hopeless, your mother made a decision without consulting me.
 <sophie>あの時すでに|母さんもまた|自身の死期を知っていたのだろう=<sophie>I'm sure she knew at that time that her own death was drawing near.
 <sophie>死にゆくお前の身体に|母さんは|ヴェルザの細胞を埋めこんだのだ——=<sophie>She implanted cells from Velza in your dying body.
 <sophie>——そう|母さんの命を|引き換えにして……=<sophie>That is, in exchange for her own life.
 <sophie>私は何もできなかった|それがお前を救う唯一の方法と知っていたのに|自らの命を捧ぐ勇気すらなかった=<sophie>I couldn't do it. I knew it was the only way to save you...and yet...I didn't have the courage to sacrifice myself.
-<sophie>母さんを失ってはじめて|私は、己の過ちに気がついたのだ=<sophie>It wasn't until I lost your mom, that I realized my mistake.
+<sophie>母さんを失ってはじめて|私は、己の過ちに気がついたのだ=<sophie>It wasn't until I lost your mother, that I realized my mistake.
 <sophie>一族の末路より、大切なものがある|私は、お前を守り抜こうと決めた|決して、ヴェルザになどやりはしない=<sophie>Your life is more important than the fate of the clan. I've decided to protect you to the very end, and I won't let Velza do anything...not ever.
-<sophie>私も、もう長くはないだろう|いつも、母さんと一緒に|お前を見守っているからね=<sophie>I don't have much time left either, but I will always be watching over you...together with your mom.
+<sophie>私も、もう長くはないだろう|いつも、母さんと一緒に|お前を見守っているからね=<sophie>I don't have much time left either, but I will always be watching over you...together with your mother.
 <sophie>必ず、幸せになるんだよ|お前は、私たちの大切な娘だ|愛しているよ、ソフィ——=<sophie>I'm sure you'll be happy.|You're our precious daughter.|We love you, Sophie.
 <sophie>「緊急指令書」=<sophie>“Emergency Orders"
 <sophie>ヴァルドラ軍司令官|ロメオ・クレイギンより全部署に通達=<sophie>Commander of the Valdolla Forces|Romeo Craigin to all units:
