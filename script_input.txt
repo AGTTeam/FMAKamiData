@@ -2551,7 +2551,7 @@
 <armstrong>むぅ……。|敵の襲来の裏に、|そのような事情があったとは……。=<armstrong>Hmh... There must be more to this invasion than we thought...
 <alphonse>はい。それでボクたち、|あのオベリスクを|封印しに来たんです。=<alphonse>Yes. That's why we came to seal that obelisk.
 <armstrong>——うむ。|ならば、さっそく|取りかかるが良かろう。=<armstrong>I see... In that case, you'd better do just that.
-<alphonse>ふぅ。２つ目の封印完了、っと。=<alphonse>Pheew! That takes care of the second seal.
+<alphonse>ふぅ。２つ目の封印完了、っと。=<alphonse>Pheew! That takes care of the second obelisk.
 <alphonse>これで、残りはあと１つ。|最後のオベリスクは、|どこにあるんだろう……。=<alphonse>With that, there's only one left.|I wonder where the last obelisk could be?
 <alphonse>——って、兄さん、|いつまで寝てるんだよ！=<alphonse>Hey, Brother!|How long are you gonna sleep!?
 <armstrong>これと同じ巨大な塔なら、|街の東にある、軍司令部にあるぞ。=<armstrong>If you're looking for a giant tower like this, there's one in the east of the city, at the military headquarters.
@@ -2641,7 +2641,7 @@
 <soldier>——ッ！！|……なんだ、脅かすなよ、|敵かと思ったぞ……。=<soldier>Ah...!|Don't scare me like that. I thought you were the enemy...
 <soldier>…………………。=<soldier>...
 <soldier>……で、|オマエらはいったい、|何者なんだ……？=<soldier>So...who exactly are you guys?
-<soldier>押すことも、引くこともできず、|こんな場所でくすぶっているとは……。|ああ、なんと不甲斐ない……！=<soldier>I'm just waiting around here in safety... Oh, how pathetic!
+<soldier>押すことも、引くこともできず、|こんな場所でくすぶっているとは……。|ああ、なんと不甲斐ない……！=<soldier>I'm just waiting around here in safety...|Oh, how pathetic!
 <soldier>せめて、将軍様が、|ご無事だとよいのだが……。=<soldier>I hope the general's safe at least.
 <soldier>ついさっきのことだけどよ、|中央から来た大佐さんに、|危ねぇところを助けられてな……。=<soldier>A moment ago, a colonel from Central saved my ass.
 <soldier>スカした野郎だと思ったが、|あの強さといい、指揮能力といい……。=<soldier>I thought he was just a cocky bastard, but that strength of his, and his leadership skills...
@@ -2649,7 +2649,7 @@
 <soldier>……お前ら、よく無事だったな。|あの銃弾の雨の中を|どうやって抜けてきたんだ……？=<soldier>It's good you two are safe.|How did you avoid that rain of bullets?
 <soldier>あの装置は本来、侵入者にだけ|作動する仕組みで、軍人には|無反応のハズなんだが……。=<soldier>Those things were only supposed to activate against intruders, not shoot at us!
 <soldier>——チキショウ！|しっかり誤作動してるじゃねーかッ！！=<soldier>Damn! Malfunctioning at a time like this!
-<soldier>……ここまで来たんだ、|君たちがタダ者じゃないってのは分かる。=<soldier>It's obvious you're no regular kids,|if you've come this far.
+<soldier>……ここまで来たんだ、|君たちがタダ者じゃないってのは分かる。=<soldier>It's obvious you're no regular kids, if you've come this far.
 <soldier>——だが、油断するなよ。|奴らは殺す気でやってくる。|万全の注意を払うんだぞ……。=<soldier>But don't let your guard down.|Those guys won't hesitate to kill you.
 <soldier>司令室ならこの先だ、将軍を頼む……！！=<soldier>The command room is up ahead.|I entrust the general to you two!
 
