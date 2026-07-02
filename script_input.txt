@@ -1096,7 +1096,7 @@
 ＶＳ　ヴェルザの獣=VS Velza's Beasts
 ウガアアアアアァッ！！=GRAAAAAAHHHH!!
 ＶＳ　ヴェルザの一族２=VS Velza Clan 2
-ヤッホ～☆どこ見てんのぉ？=Yoo-hoo... ☆Where are ya lookin'?
+ヤッホ～☆どこ見てんのぉ？=Yoo-hoooo☆ Where are ya lookin'?
 ＶＳ　ヴェルザの天使=VS Velza's Angels
 我が炎、味わうがいい！=Taste my flames!
 ＶＳ　ヴァルドラ機甲部隊=VS Valdolla's Tank Force
@@ -1108,7 +1108,7 @@
 ザ・ファングス=The Fangs
 太陽神ミラクルパワーズ=Sun God's Miracle Powers
 ロードガーディアンズ=Road Guardians
-キューティ☆エンジェルス=Cutie ☆Angels
+キューティ☆エンジェルス=Cutie☆Angels
 ストロンゲストマシーンズ=Strongest Machines
 ビューティフルぺアー=Beautiful Pair
 職業軍人コンビ=Career Soldier Duo
@@ -2762,14 +2762,14 @@
 エレベーターで下におりますか？=Take the elevator down?
 <smalltext><blackbold>アクセサリ<normal>【ハートぺンダント】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Heart Pendant"
 <edward>——ん？|敵はどうしたんだ？|それらしいヤツは、どこにも——。=<edward>Huh? What about the fight?|There's absolutely nobody here...
-<janice>ヤッホ～～～☆|どーこ、見てんのぉ？|こっち、こっち♪=<janice>Yoo-hoo... ☆|Where are ya lookin'?|This way, this way♪
+<janice>ヤッホ～～～☆|どーこ、見てんのぉ？|こっち、こっち♪=<janice>Yoo-hoooo☆|Where are ya lookin'?|This way, this way♪
 <edward>な……！|そ、空に……！？=<edward>Wha!? They're in...the SKY!?
 <alphonse>まさか、君が……、|恐ろしいバケモノ……？=<alphonse>No way! You're the terrible monster?
 <janice>エ————ッ！？|バケモノって、ジャニスのコトぉ！？|ガビーン！ 大ショックぅ～～！=<janice>Eeeeeh!? Janice—a monster!?|Geez, no! What a shock!
 <janice>てゆーか！ このキュートでセクスィな|ジャニスちゃんをバケモノ呼ばわりなんて、|失礼しちゃうわ！ ぷんぷん！！=<janice>I mean, it's so rude to call the cute and sexy Janice a monster! Pffft!
 <alphonse>うわぁ～～……。|テンション、高ぁ……。=<alphonse>Wow... She's a real lively one...
 <edward>……お前も、ヴェルザの一族か。=<edward>Are you also a member of the Velza Clan?
-<janice>ピンポーン、正解ッ♪|アタシが、一族でいっちばんカワイイ、|疾風のジャニスちゃんデ～ス☆=<janice>Ding, ding, ding, that's right♪ I'm the most adorable member of the clan:|Janice of Gale! ☆
+<janice>ピンポーン、正解ッ♪|アタシが、一族でいっちばんカワイイ、|疾風のジャニスちゃんデ～ス☆=<janice>Ding, ding, ding, that's right♪ I'm the most adorable member of the clan:|Janice of Gale☆
 <janice>アンタたちってぇ、|変態レオニードと、バカぷーゴドーを|やっつけたんでしょお？ すっご～い♪=<janice>You defeated that pervert Leonid and the idiot Godot, right?|Amaaaazing♪
 <janice>で～も、ジャニスは、そーはいかないよぉ！|まずはぁ、そっちのオチビちゃんから、|八つ裂きにしちゃおっかな♪=<janice>But it won't be the same with Janice!|First, I'll start dismembering that little bean over theeere...♪
 <edward>お、おチビちゃん……！？|——おい……おチビちゃんって、|誰のこと言ってんだ……？=<edward>Li-little bean!?|Heeey! Who're you calling a bean!?
@@ -4491,7 +4491,7 @@
 <sophie>この栄養ドリンク、|健康よりも、美容に|効果があるようね……。=<sophie>This energy drink seems more effective for beauty than health.
 <winry>——ちょおっと、待ったあ！！|美容ですってぇ～～ッ！？=<winry>Waaait a minute!! Did you say “beauty"!?
 <winry>さいきんー、|お肌が荒れ気味でぇー、|悩んでたとこなのぉ～～～！！=<winry>My skin feels chapped lately.|It's been bothering me!
-<winry>ご苦労だったわね、エド。|ソフィと一緒に、|大切に使うわぁ～～ん☆=<winry>You went through a lot to get this, Ed. Sophie and I will use it with great care. ☆
+<winry>ご苦労だったわね、エド。|ソフィと一緒に、|大切に使うわぁ～～ん☆=<winry>You went through a lot to get this, Ed.|Sophie and I will use it well☆
 <edward>——待て。|いつ、誰がお前にやると言った……。=<edward>Wait... Who said I was giving it to you?
 <sophie>「猛牛ドリンク」……。=<sophie>“Raging Bull"...
 <sophie>締め切りに追われ、|昼も夜も努力する人（牛）のために|開発された、奇跡の栄養剤……！！=<sophie>This nutritional supplement was developed for people (cows) driven by deadlines, who work hard day and night!!
