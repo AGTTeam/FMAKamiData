@@ -2908,7 +2908,7 @@
 <sophie>（今の声は……いったい……？）=<sophie>(That voice... Could it be...?)
 <zelgius>——なぜ、我々を裏切ったのだ。|ギルベルト。=<zelgius>Why did you betray us, Gilbert?
 <gilbert>……ヴェルザは、絶対に|復活させてはならないからだ……。=<gilbert>Because Velza must never be resurrected, that's why.
-<zelgius>いまさら、なにを言っている。|そもそも、一族を救うため、|神を復活させる道を選んだのは誰だ？=<zelgius>And you're saying that now? For starters, whose idea was it to resurrect the goddess to save our Clan?
+<zelgius>いまさら、なにを言っている。|そもそも、一族を救うため、|神を復活させる道を選んだのは誰だ？=<zelgius>And you're saying that now? For starters, whose idea was it to resurrect the goddess to save our clan?
 <gilbert>……………………。=<gilbert>...
 <gilbert>……あれがもたらすのは、ただ、|すべての破壊と殺戮のみだ。|我々の手に負える存在ではない……。=<gilbert>The only thing that resurrection would bring is complete destruction and a massacre. It's beyond our control.
 <zelgius>すべての破壊。結構ではないか。|今の世界を滅ぼさん限り、|我らに安住の地はないのだ。=<zelgius>Complete destruction... And isn't that great? Unless we destroy the current world, we'll have no place to live in peace.
@@ -2939,7 +2939,7 @@
 <edward>——なんだ、これは？|光が道を塞いでやがる……。=<edward>More problems?|Those lights are blocking our way.
 <alphonse>目的地は、|この先みたいだけど……|どうやって進めばいいんだろう？=<alphonse>I'm sure this is the way we need to go...|But how do we get there?
 <sophie>どこかに、光の発生源が|あるんじゃないかしら。|探しに行きましょう。=<sophie>The source of the light seals must be near. Let's look around.
-<alphonse>光が消えて、|先に進めるようになったね！|もうすぐ目的地だよ。=<alphonse>The lights are gone so we can continue! I'm sure we're almost there.
+<alphonse>光が消えて、|先に進めるようになったね！|もうすぐ目的地だよ。=<alphonse>The lights are gone so we can continue!|I'm sure we're almost there.
 <edward>ああ。だけど気をつけろ。|ヤツらが、そう簡単にオレたちを|行かせてくれるとは思えねぇ。=<edward>Yeah, but be careful.|I don't think they'll let us go so easily.
 <sophie>でも、行くしかないわ。|早くヴェルザを封印しなきゃ……！=<sophie>But we must continue. We have to seal Velza away quickly!
 
@@ -3227,7 +3227,7 @@
 <hammer>クサリがなくなったからって、|妙なこと考えんじゃねーぞォ。=<hammer>Don't think of doin' any funny stuff just 'cuz yer chains are gone.
 <edward>……アイツ、いいヤツだな……。=<edward>He's a nice guy...
 <edward>さて、行くか。|まずは、アルを捜さねーと……。=<edward>Well, I'm free! First of all, I gotta find Al...
-<edward>アルを見つけるまでは、|騒ぎを起こしたらマズいな。|しばらくは、慎重にいくか……。=<edward>I shouldn't cause a scene until I find him. I'll be careful for the time being.
+<edward>アルを見つけるまでは、|騒ぎを起こしたらマズいな。|しばらくは、慎重にいくか……。=<edward>I shouldn't cause a scene until I find him.|I'll be careful for the time being.
 <guard>待て！|見つけたぞ、脱走者め！！=<guard>Halt! I caught you, fugitive!!
 <edward>しまった、見つかった！|うわあああぁ———っ！？=<edward>Uh-oh, busted!|AAAAAAHHH!!
 <guard>止まれ、|そこを動くな！！=<guard>Stop right there, don't move!!
