@@ -2924,7 +2924,7 @@
 <janice>ねぇ、いいの？|せっかくの『器』、また逃げちゃったよ。|ジャニスが探しに行こっか？=<janice>Huh, are you all right? That precious “vessel" ran away again.|Should Janice go and look for her?
 <zelgius>かまわん。放っておけ。|『器』は必ず、また姿を現す。=<zelgius>It doesn't matter, let her go. That “vessel" will surely show herself again.
 <zelgius>神が目覚めるまで、まだ少し時が必要だ。|それまで我らは、|ただ待っておけばよい……。=<zelgius>It will still be some time before the goddess awakens. Until then, we just need to wait.
-<janice>はぁい……。=<janice>Yeah, yeah.
+<janice>はぁい……。=<janice>Yeah-yeah.
 <zelgius>——どうした。まだ、何かあるのか？=<zelgius>What's wrong? Is there anything else?
 <janice>……レオニードとゴドー、|死んじゃったね……。=<janice>Leonid and Godot are dead, right?
 <zelgius>ああ、そうだな……。=<zelgius>Yes, that does seem to be the case...
@@ -3400,7 +3400,7 @@
 <riza>２人とも、気をつけて。|常に状況判断を|怠らないようにね。=<riza>You two, be careful. Always remember to judge according to the situation.
 <alphonse>はい。|ホークアイ中尉も、|どうかご無事で。=<alphonse>Yes. You stay safe too, Lt. Hawkeye.
 <armstrong>くれぐれも無茶をするでないぞ、|エドワード・エルリック。|時には退くことも勇気なのだからな。=<armstrong>Really, don't do anything reckless, Edward Elric. Sometimes discretion is the better part of valor.
-<edward>ああ。分かったよ、少佐。=<edward>Yeah, yeah. I know, Major.
+<edward>ああ。分かったよ、少佐。=<edward>Yeah-yeah. I know, Major.
 <roy>では、いったん、ここでお別れだ。|すべてが終わったら|また会おう、鋼の。=<roy>Well, this is where we part ways.|We'll meet again once everything's over, Fullmetal.
 <alphonse>大佐たちのおかげで、|守りは手薄に|なってるみたいだね……。=<alphonse>It seems that defenses are thin thanks to the colonel and the others...
 <edward>だけど、まだまだ敵がいるな。=<edward>But there are still soldiers left.
@@ -4101,7 +4101,7 @@
 ゲームに戻る=Return to the game
 はい=Yes
 いいえ=No
-セーブしていないデータは失われますが|　   本当によろしいですか？   ||=Any unsaved progress will be lost.|Are you sure?||
+セーブしていないデータは失われますが|　   本当によろしいですか？   ||=Any unsaved progress will be lost.|                 Are you sure?     ||
 <smalltext><blackbold>アクセサリ<normal>【キャットベル】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Cat Bell"
 <smalltext><blackbold>アイテム<normal>【コンプ証明書・銀】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Silver Certificate"
 <smalltext><blackbold>アイテム<normal>【コンプ証明書・金】<blackbold>を手に入れた！！=<smalltext><blackbold>Got item <normal>“Gold Certificate"
@@ -4270,7 +4270,7 @@
 <alphonse>そ、そんな……。=<alphonse>Oh, no...
 <roy>そこで、我々の部隊がオトリになる。|守りが手薄になったところから、|お前たちは城へ向かうがいい。=<roy>Therefore, we're going to use our troops as bait. So you can head to the castle once their defenses are weakened.
 <sophie>——！|マスタングさん……！=<sophie>...!|Mustang!
-<edward>——おいおい、いいのかよ。|将軍に逆らったら、|大佐まで反逆者になっちまうぜ。=<edward>Hey, hey, are you sure about this? If you oppose the general, you'll also be considered a traitor, Colonel.
+<edward>——おいおい、いいのかよ。|将軍に逆らったら、|大佐まで反逆者になっちまうぜ。=<edward>Hey-hey, are you sure about this? If you oppose the general, you'll also be considered a traitor, Colonel.
 <roy>自分の目的のために、|多くの者を犠牲にする。|クレイギンのやり方は気にいらん。=<roy>He's sacrificing so many people for his own benefit. I simply can't agree with Craigin's methods.
 <roy>フッ。それに、勝てば良いのだ。|反逆者はクレイギンの方だ。|証拠など、いくらでも後で作れる。=<roy>Heh! It'll be fine as long as we're the victors. Craigin's the traitor. We can produce all the evidence we need later.
 <edward>へへ……、わかった。|頼んだぜ、大佐……！=<edward>Heh heh... All right. I'm countin' on ya, Colonel!
@@ -4779,7 +4779,7 @@
 <sophie>派手さはないけど、|どんな服装にも合いそうよ。|ありがとう、大事に使うね……！=<sophie>It's not flashy, but it will go with any outfit. Thank you, I'll take good care of it!
 <sophie>この腕輪、刃内蔵なのね……。|いい感じに、|肌を斬るのだけど……。=<sophie>This bangle has built-in blades. It feels nice, but will cut your skin.
 <sophie>……危険物として、|大切に、預かっておくわ。=<sophie>I'll watch over it. It's a dangerous item.
-<sophie>……簡単な気持ちで|渡したわけじゃないよ……。|大切にしてほしいな……。=<sophie>I didn't just hand it over lightly.|I want you to treasure it.
+<sophie>……簡単な気持ちで|渡したわけじゃないよ……。|大切にしてほしいな……。=<sophie>I didn't just hand it over flippantly.|I want you to treasure it.
 <sophie>鉛の首飾り？|うっ……、|ズシリと重いわね……！=<sophie>A lead choker?|Ugh... It's way too heavy!
 <sophie>嬉しいけど、|肩がこりそう……。=<sophie>I'm happy, but...this is making my shoulders stiff.
 <sophie>あでやかな首飾りね。|——って、純金なの！？|そう…納得がいったわ。=<sophie>This choker is just stunning.|Wait... Is this pure gold!? I see, that explains why.
@@ -4804,7 +4804,7 @@
 <sophie>……って、壮大なバックストーリーを|妄想してみたところで、|このメダルはアルの物よ♪=<sophie>Well, I just made up that grand backstory, but this medal belongs to Al♪
 <sophie>——こっ、これは！|正義のヒーロー、月光ニャンコの熱き魂、|白銀に煌く、月のメダル——！！=<sophie>What's this!? The fiery soul of the hero of justice, Moonlight Kitty. The silvery, shiny Moon Medal!!
 <sophie>悪事を許せぬ月光ニャンコ……。|ヴァルドラに渦巻く危機を察して、|深き眠りから今、目覚めるのね——！！=<sophie>Moonlight Kitty doesn't allow evil to exist. Sensing the crisis swirling around Valdolla, he has awoken from his deep slumber!!
-<sophie>……って、ドキドキのバックストーリーを|妄想してみたところで、|このメダルはアルの物よ♪=<sophie>I just made up that thrilling backstory, but the medal belongs to Al♪
+<sophie>……って、ドキドキのバックストーリーを|妄想してみたところで、|このメダルはアルの物よ♪=<sophie>I just made up that thrilling backstory, but this medal belongs to Al♪
 <sophie>——こっ、これは！ 銀河の殺戮者、|猫型宇宙ロボット「ニャンコゥ」を封ぜし、|星のメダル——！！=<sophie>What's this!? The Star Medal that sealed away that galactic killer, the cat-shaped space robot, “Meowser"!!
 <sophie>……………………！|……………………！|……………………！=<sophie>...!|...!|...!
 <sophie>……って、ムリヤリな|バックストーリーを妄想してみたけど、|ムリヤリすぎて、続かなかったわ。=<sophie>Well, I tried to imagine a backstory, but it was so outlandish that I couldn't keep it up.
@@ -4815,7 +4815,7 @@
 <sophie>不思譲な石だね……。|あのお人形さん、|いったい何だったのかしら……。=<sophie>It's a strange stone. This stone and that doll, I wonder what the connection is.
 <sophie>これは……何かのカケラ……？|プニプニして、面白いわね。=<sophie>What's this shard?|It looks squishy and fun.
 <sophie>ありがとう、ノルンの遊び道具が|ちょうど欲しかったとこなの。|ノルン、新しいオモチャよ♪=<sophie>Thanks, I just wanted a plaything for Norn. Norn, here's a new toy for you♪
-<edward><bigtext>ダメ———ッ！！=<edward><bigtext>STOPPPP!!
+<edward><bigtext>ダメ———ッ！！=<edward><bigtext>NEVER MIIIIND!!
 <sophie><bigtext>ハアアアアアァッ！！=<sophie><sophie><bigtext>AAAAAAHH!!
 <edward>——どわっ！|急にどうしたんだ、|ソフィ——！？=<edward>What!? What's wrong now, Sophie!?
 <sophie><bigtext>……許さない……！=<sophie><bigtext>...UNFORGIVABLE...!
@@ -4824,7 +4824,7 @@
 <sophie>我が名は……<bigtext>ヴェル——！！=<sophie>My name is...<bigtext>VELZA!!
 <edward><bigtext>ダメ————ッ！！=<edward><bigtext>NOOOO!!
 <alphonse><bigtext>その石返して——ッ！！=<alphonse><bigtext>GIVE US BACK THE|STONE!!
-<edward><bigtext>スト————ップ！！=<edward><bigtext>STOPPPP!!
+<edward><bigtext>スト————ップ！！=<edward><bigtext>NEVER MIIIIND!!
 <alphonse><bigtext>今の無————し！！=<alphonse><bigtext>FORGET IT!!
 <sophie>炎の紋章……。|お父さんから聞いたことがあるわ、|一族に伝わる、４つの紋章の話……。=<sophie>The Crest of Fire...|My father told me the story about the four crests inherited by the clan.
 <sophie>……これは、|私のお父さんを殺した、|あの男のもの——！！=<sophie>This belonged to the man who killed my father!!
@@ -4843,7 +4843,7 @@
 <sophie>神の紋章……。|地水火風のどれでもない、|すべてを司る「光」の紋章……。=<sophie>The Crest of God. Not Earth, Ice, Fire nor Wind, but the Crest of Light that governs them all.
 <sophie>……どれだけ優しくても、|どれだけ正しい心を持っていたとしても、|人には決して拭えない脆い部分がある。=<sophie>No matter how kind or righteous a person is, there's always a fragile part in them that can't be erased.
 <sophie>ヴェルザもまた、|無力な１人の女性に過ぎなかった……。=<sophie>Velza was also nothing more than a helpless woman.|I want to be a strong person...#Line shared with below
-<sophie>私、人として強くありたい……。|辛い時、苦しい時、そんな時こそ、|人に優しくなる心を忘れないでいたい。=<sophie>At bitter times, at difficult times, it's at times like those, that we must never forget to show kindness to others.#Line shared with above
+<sophie>私、人として強くありたい……。|辛い時、苦しい時、そんな時こそ、|人に優しくなる心を忘れないでいたい。=<sophie>At bitter times, at difficult times, it's at times like those that we must never forget to show kindness to others.#Line shared with above
 <sophie>ヴェルザの分まで……、|頑張って、がむしゃらに、|生きていかなくっちゃね……！=<sophie>We must do our best and live with courage, for Velza's sake!
 <sophie>変わってるわねー。|銅板で作られたベストなんて、|初めて目にするわ。=<sophie>How weird. I've never seen a vest made of copper before.
 <winry>——なになに？|私を差し置いて何話してんの？=<winry>What? What's this?|What are you talking about without me?
@@ -4872,10 +4872,10 @@
 <sophie>……………エド？=<sophie>...Ed?
 <sophie>「耐熱マントＳ」のＳは、|ＳＵＰＥＲ（スーパー）のＳじゃないの。|さて、何のＳでしょう……？=<sophie>The plus in “Fireguard Cloak +" doesn't mean “extra long," you know.#Changed the (S) in the name to prevent confusion with the Elixirs, which meant changing this conversation to match. "The S in this “Fireguard Cloak (S)"|doesn't stand for “Super."|Then, what does the S mean"?
 <edward>ＳＭＡＬＬ（スモール）のＳだって|言いたいのかヨ……。=<edward>Are you saying it stands for “extra small"!?#"Are you saying the S stands for “Small"?"
-<sophie>ブッブー、違いまーす！=<sophie>No, no, not at all!
+<sophie>ブッブー、違いまーす！=<sophie>No-no, not at all!
 <sophie>答えは、|ＳＨＯＲＴ（ショート）のＳでした♪=<sophie>It actually stands for “extra short"♪#"The answer is, the S is for “Short"♪"
 <edward><bigtext>同じじゃああああッ！！=<edward><bigtext>THAT'S THE SAME|THIIIING!!
-<sophie>エドもアルも着れるサイズってことは、|エドには大きすぎて、アルには|小さすぎるってことなのよね。=<sophie>If this cloak fits both Ed and Al, that means it's too big for Ed and too small for Al, yes?
+<sophie>エドもアルも着れるサイズってことは、|エドには大きすぎて、アルには|小さすぎるってことなのよね。=<sophie>If this cloak is for both Ed and Al, that means it's too big for Ed and too small for Al, yes?
 <sophie>身長も横幅も全然違うのに……。|いったい、どうやって共有してるの？|結構なミステリーなんだけど……。=<sophie>Their height and width are completely different... Then, how exactly can they share it? It's quite a mystery...
 <sophie>確かに、今の季節に防寒コートなんて、|必要ないかもしれないわ……。|けど、万が一ってこともあるじゃない。=<sophie>Certainly, you don't need a winter coat at this time of year.|But you never know what might happen...
 <sophie>持っておいて、損はないと思うな。|ほら、サウナスーツにもなるし、|お得感タップリって感じでしょ……？=<sophie>It can't hurt to have one. And look, you can use it as a sauna suit, so it seems like a good deal, doesn't it?
@@ -5259,7 +5259,7 @@
 <alphonse>………？|ねぇ、兄さん。|あの人形、苦しんでるように見えない？=<alphonse>...?|Uh...Ed...doesn't that doll look like it's in pain?
 <edward>ああ、言われてみれば、|そんな気が……。|まさか、生きてるなんてことは……。=<edward>Well now that you mention it, it does look like that, huh...|But c'mon, there's no way it's alive...
 <sophie><bigtext>——破アアアッ！！=<sophie><bigtext>SMAAAASH!!
-<alphonse>——ね、ねぇ、ソフィ。|ちょっと、連打しすぎだよ……！=<alphonse>Hey, hey, Sophie! You're hitting it too much!
+<alphonse>——ね、ねぇ、ソフィ。|ちょっと、連打しすぎだよ……！=<alphonse>Hey-hey, Sophie! You're hitting it too much!
 <sophie><bigtext>——キャッ！？=<sophie><bigtext>AAAAHH!?
 <edward>——ソフィ！？=<edward>Sophie!?
 <sophie>……お人形さん、|消えちゃった……。=<sophie>The doll vanished...
@@ -5292,7 +5292,7 @@
 <alphonse>メダルかな……？=<alphonse>A medal?
 <sophie>カ—ワ—イ—ッ！！|私ね、マスクのニャンコも|守備範囲なの！=<sophie>C-U-T-E!!|Kitties with masks are also my type!
 <alphonse>そ、そうなんだぁ……。|ストライクゾーン、|広いんだねぇ……。=<alphonse>I...I see...|You have broad tastes...
-<sophie>この子、ずいぶんと汚れてるわ……。|——はいはい、ちょっとクチャイから、|あとで身体を洗いまちょうね～～♪=<sophie>This kitty is quite dirty.|Okay, okay, since you're a bit smelly,|I'll bathe you later♪
+<sophie>この子、ずいぶんと汚れてるわ……。|——はいはい、ちょっとクチャイから、|あとで身体を洗いまちょうね～～♪=<sophie>This kitty is quite dirty.|Okay-okay, since you're a bit smelly,|I'll bathe you later♪
 <alphonse>（赤ちゃん言葉だよ……！）=<alphonse>(You talk as if he was a baby!)
 <sophie>………あら？|何かくわえてるわ……。|これは——。=<sophie>Oh? This kitty has something in his mouth... What's this?
 <alphonse>メダルかな……？=<alphonse>A medal?
