@@ -2140,7 +2140,7 @@
 <edward>おい！ あんな所に女の子が！=<edward>Hey! There's a little girl over there!
 <alphonse>兄さん、ここはボクに任せて！！=<alphonse>Leave this to me, Big Brother!
 <alphonse>もう大丈夫。|今すぐ助けてあげるからね。=<alphonse>It's okay now.|I'm here to help you.
-<girl>ひっ…！？ へ、変なヨロイッ！？=<girl>Huh...!? A-an armor freak!?
+<girl>ひっ…！？ へ、変なヨロイッ！？=<girl>Huh...!? A-αan armor freak!?
 <alphonse>え……！？|あ、ち、違うよボクは……。=<alphonse>Wha...!?|Erm, n-no, I'm not...
 <girl>やああぁっ！|怖いよ——！|助けてええぇっ！！=<girl>Aaaaaah! I'm scared!|Mommy save meeee!!
 <alphonse>うぅ……。|と、とにかく、|この火をどうにかしないと……。=<alphonse>Uh...|I-I should do something about the fire for now.
@@ -2485,8 +2485,8 @@
 <boy>……この街を守るためなら、|俺だって戦うよ。=<boy>If it's to protect this city, then I'll fight too!
 <girl>——あっ！|変なヨロイの人だ！！=<girl>Ah! It's the armor freak!
 <mother>まぁ、あなた方は……。|いつぞやは、娘を助けてもらい、|ありがとうございます。=<mother>Oh, it's you two...|Thank you very much for saving my daughter before.
-<girl>私たち、ここに隠れてるの。|お兄ちゃんたちも、|かくれんぼしに来たんでしょ？=<girl>We're hiding here. Did you come to play hide-and-seek, too?
-<girl>ねぇ、お母さん。|私かくれんぼ飽きちゃった、|早くお外に出たいよー。=<girl>Hey, mom.|I'm tired of playing hide-and-seek,|I wanna go outside soon!
+<girl>私たち、ここに隠れてるの。|お兄ちゃんたちも、|かくれんぼしに来たんでしょ？=<girl>We're hiding here. Did you come to play hide-αand-seek, too?
+<girl>ねぇ、お母さん。|私かくれんぼ飽きちゃった、|早くお外に出たいよー。=<girl>Hey, mom.|I'm tired of playing hide-αand-seek,|I wanna go outside soon!
 <mother>もうちょっと、ガマンしましょうね……。|鬼さんに見つからないように……、|ここならきっと、大丈夫だからね……。=<mother>Let's have a little more patience...|That way the monsters won't find us.|I'm sure we'll be all right here.
 
 !FILE:0071_003/004.txt
@@ -2812,7 +2812,7 @@
 <venus>フフフ……。|さぁ……オシオキの時間だよ。=<venus>Heh heh... Well, time for your punishment.
 <janice>——なにっ！？=<janice>Whaaat!?
 <janice>——ッ、てっめぇ……！|いきなり、なにしやがんだ！！|痛ぇじゃねぇか、このブリキ野郎！！=<janice>Ugh, why you...! Attacking Janice all of a sudden...! That tin can hurts, y'know!?
-<edward>す……すげぇ……。=<edward>A-amazing...
+<edward>す……すげぇ……。=<edward>A-αamazing...
 <venus>そこの２人！|なにボサっと突っ立ってんだよ！=<venus>You two! What are you doing over there, staring into space!?
 <edward>——え？ オ、オレたちかよ？=<edward>Huh? You mean us?
 <venus>クレイギン将軍から聞いてるよ。|ここは我々にまかせて、おまえたちは、|そのエレベーターで下に行きな！=<venus>General Craigin told me about you.|Leave this to us, and take that|elevator downstairs.
@@ -3411,7 +3411,7 @@
 !FILE:0147_003/004.txt
 <blackbold>アイテム<normal>【オルゴール】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Music Box"
 <girl>あっ、変なヨロイの人……の、お兄ちゃん！|……ひみつだけどね、|私、ここに隠れてるの。=<girl>Ah, that armor freak's brother!|I'm hiding here secretly.
-<younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<girl>My mommy told me to play hide-and-seek until the loud noises stop.
+<younggirl>お母さんに言われたの。|大きな音が、しなくなるまで、|ずっと、かくれんぼしてなさい…って。=<girl>My mommy told me to play hide-αand-seek until the loud noises stop.
 <younggirl>ほんとは、ちょっと怖いけど……。|——大丈夫、|私、もう泣かないもん！=<girl>Honestly, I'm a bit scared...|But it's okay. I'm not gonna cry anymore!
 <younggirl>……まだかなぁ、お母さん。|後で来るって|言ってたのになぁ……。=<girl>I wonder if mommy is close...|She said she'd come back soon...
 
@@ -3449,7 +3449,7 @@
 <trigger>クク……超スーパーウルトラキャンサー|ネクストジェネレーションの威力！|たっぷりと思い知らせてやるゥ！=<trigger>Heh heh... Behold the power of the Hyper Super Ultra Cancer Next Generation!|This will surely teach you a lesson!
 <venus>いくよ、ハンマー！ トリガー！|あのボウヤを、メチャクチャに|かわいがっておやりっ！！=<venus>Let's go, Hammer! Trigger!|Pour your extraordinary love onto that boy!!
 <edward>——でえぇぇっ！？|イキナリかよっ！！！=<edward>N-NOOOO!|ANYTHING BUT THAT!!!
-<trigger>ウヒャアアァァァ！？|ま、またしても、|ボクのメカがぁぁぁっ！！！=<trigger>UWAAAAAH! A-again? My mechaaaaaa!!
+<trigger>ウヒャアアァァァ！？|ま、またしても、|ボクのメカがぁぁぁっ！！！=<trigger>UWAAAAAH! A-αagain? My mechaaaaaa!!
 <hammer>エンジンがやられてまさァ。|ピクリともしませんぜ。=<hammer>The engine's busted.|It's not moving at all.
 <venus>チィッ、またかい！？|だったら、|外に出て戦うよ！=<venus>Tch, again!?|In that case, we fight outside!
 <hammer>わかりました！|——あれ？|ドアが開かねーぞ。=<hammer>Gotcha!|...What? The door won't open.
@@ -4420,7 +4420,7 @@
 <edward>——ん？=<edward>Huh?
 <edward>ど、どうなってんだ、コリャ！？=<edward>Wh-what's going on here!?
 <edward>コラ———ッ！|何やってんだ、お前ら——！=<edward><bigtext>HEEEEYYYY!|WHAT ARE YOU GUYS|DOOOOOOING!?
-<winry>あら、やっと起きたのね。|見たら分かるでしょ？|洗濯よ、せ・ん・た・く！=<winry>Oh, you're finally awake.|Can't you tell? We're doing the laundry. The l-a-u-n-d-r-y!
+<winry>あら、やっと起きたのね。|見たら分かるでしょ？|洗濯よ、せ・ん・た・く！=<winry>Oh, you're finally awake.|Can't you tell? We're doing the laundry. The l-αa-u-n-d-r-y!
 <sophie>たまにはキレイにしなきゃ|フケツでしょ？|エドの服も、洗っておいたからね！=<sophie>You should clean from time to time.|Or do you want to be dirty? We had to wash your clothes too, Ed!
 <edward>洗っておいたからね、じゃ、なーい！！|寝てる間に、|人の服、剥ぎとりやがって——！=<edward>“We had to wash your clothes too"!? &^%$ THAT!! You can't take someone's clothes off while they're sleeping!
 <winry>起きないアンタが悪いのよ。|パンツだけは、|自分で洗いなさいよねー。=<winry>Your fault for not getting up!|You should at least wash your underwear yourself!
@@ -4479,9 +4479,9 @@
 <winry>こーの、変態が—————ッ！！=<winry>You <bigtext>PERVEEEEEERT!!
 <edward>ギャアアアアア———————ッ！！！=<edward><bigtext>GUAAAAAAAAAAAAA|AAAAAAAAAAAAAAA|AAAAAAAAAAAHHHH!!!
 <sophie>………………………。=<sophie>...
-<sophie>救急箱に入れておくね。|いざという時のタメに|備えておけば、安心だもんね。=<sophie>I'll put it in the first-aid kit. It's reassuring to have it at hand in case of an emergency.
-<sophie>救急箱に入れておくわ。|どんなに小さな傷だって、|手当ては、念入りにしなくちゃね。=<sophie>I'll put it in the first-aid kit. Even if it's a small wound, it must be treated thoroughly.
-<sophie>救急箱に入れておくね……って、|ずいぶんと大きなお薬ね……。|いわゆる『お徳用』ってヤツかしら……？=<sophie>I'll put it in the first-aid kit, but wow...|This is a huge bottle. I wonder if it's what they call a “value pack"?
+<sophie>救急箱に入れておくね。|いざという時のタメに|備えておけば、安心だもんね。=<sophie>I'll put it in the first-αaid kit. It's reassuring to have it at hand in case of an emergency.
+<sophie>救急箱に入れておくわ。|どんなに小さな傷だって、|手当ては、念入りにしなくちゃね。=<sophie>I'll put it in the first-αaid kit. Even if it's a small wound, it must be treated thoroughly.
+<sophie>救急箱に入れておくね……って、|ずいぶんと大きなお薬ね……。|いわゆる『お徳用』ってヤツかしら……？=<sophie>I'll put it in the first-αaid kit, but wow...|This is a huge bottle. I wonder if it's what they call a “value pack"?
 <sophie>どんな病気やケガも|たちどころに治してしまう、|伝説の回復薬——！？=<sophie>An elixir that will cure any illness or heal any injury in an instant!?
 <sophie>これさえあれば、|たとえ火の中！ 水の中！！|ミサイルだってへっちゃらね！=<sophie>As long as you have this, you don't need to worry about fire! Or water!! Nor even missiles!
 <edward><bigtext>なワケないだろ……。=<edward><bigtext>THERE'S NO WAY THAT'S|TRUE...
@@ -5201,7 +5201,7 @@
 <sophie>一族に見つからないための変装……。|そう——確か、あの変装モチーフは|キング・ブラッドレイ大総統……。=<sophie>They were disguises to fool the clan.|I'm sure the theme of that disguise was “Führer King Bradley."
 <edward><bigtext>——へ？=<edward><bigtext>HUH!?
 <sophie>完璧主義者のお父さんは、|変装にも妥協することはなかった。|完璧に、大総統になりきってた——。=<sophie>My perfectionist father didn't leave|his disguises to chance.|He was perfect as the Führer.
-<sophie>でも、あまりに似すぎてて噂になったの。|「大総統のそっくりさんがいる」|って……。=<sophie>But the resemblance was so great, that rumors started about a Führer look-alike.
+<sophie>でも、あまりに似すぎてて噂になったの。|「大総統のそっくりさんがいる」|って……。=<sophie>But the resemblance was so great, that rumors started about a Führer look-αalike.
 <sophie>野次馬が野次馬を呼び、|結局、それが、私とお父さんの|見つかる原因となってしまった……。=<sophie>The curious onlookers drew more people, and that was the reason my father and I were discovered.
 <sophie>コスプレは、お父さんの|唯一の楽しみだった……。|だけど、あの時、私が止めていれば——！=<sophie>Cosplaying was my father's only hobby, but... If I had stopped him back then...
 <edward>——コスプレ……。=<edward>Cosplaying...
