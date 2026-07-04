@@ -3338,7 +3338,7 @@
 いいえ=No
 エレベーターで上にのぼりますか？=Take the elevator up?
 <alphonse>もうすぐ外に出られるね。|早く教会に戻って、|ソフィやウィンリィと会いたいよ。=<alphonse>Finally home free. Let's head to the church immediately and meet with Sophie and Winry.
-<edward>ああ。だけど油断するなよ。|このまますんなり行かせてくれるとは|思えねーからな……。=<edward>Maybe, but don't let your guard down. I don't think they'll let us go so easily.
+<edward>ああ。だけど油断するなよ。|このまますんなり行かせてくれるとは|思えねーからな……。=<edward>Maybe, but don't let your guard down.|I don't think they'll let us go so easily.
 
 !FILE:0143_002/004.txt
 <smalltext><blackbold>アクセサリ<normal>【破れパンツ】<blackbold>を手に入れた！！=<smalltext><blackbold>Got accessory <normal>“Torn Briefs"
@@ -3359,7 +3359,7 @@
 <edward>くそッ……！|やるしかねぇってか！=<edward>Dammit! I guess we've got no choice!
 <venus>——フン。やっぱり、|おとなしく捕まるつもりは|ないんだね。=<venus>Hmph! It seems you're not going to go quietly after all.
 <venus>フフ、だったら力ずくで、|身体に言って聞かせる|しかないわよねぇ……！=<venus>Heh heh, in that case, there's no choice but to make your bodies listen through brute force!
-<venus>いくよっ、ハンマー！ トリガー！|ヴィーナス隊の恐ろしさ、|思い知らせておやりっ！！=<venus>Let's go, Hammer! Trigger!|We'll show them the terror of the Venus corps!
+<venus>いくよっ、ハンマー！ トリガー！|ヴィーナス隊の恐ろしさ、|思い知らせておやりっ！！=<venus>Let's go, Hammer! Trigger!|We'll show them the terror of the Venus Corps!
 <trigger>ヒィィィィィィィ！？|ウ、ウソだぁ———っ！！|ボクのメカがやられるなんてぇぇ！！！=<trigger>Heeeeeyyyy!? N-no way!!|My mecha was destroyeeed!!
 <venus>——ア、アンタたち！|何やってんだい！？=<venus>Y-you two! What are you doing!?
 <hammer>エンジンがやられたみたいでさぁ。|ウンともスンともいいませんぜ。=<hammer>The engine's gotta be broken.|It's not responding.
