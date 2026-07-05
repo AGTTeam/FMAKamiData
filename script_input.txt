@@ -549,7 +549,7 @@
 <yellow>防御力が１５上がり、凍結状態にならない<white>|ＨＯＴなカイロをエドのコートに編みこんだもの=<yellow>DEF increases by 15. Protects against freezing.<white>|A hand warmer is woven into Ed's coat.
 <yellow>気絶状態にならない<white>|黄色の作業用ヘルメット、頭部への衝撃を和らげてくれる=<yellow>Protects against stunning.<white>|A yellow work helmet that can soften blows to the head.
 <yellow>攻撃力、防御力が５上がり、気絶状態にならない<white>|ウィンリィの作った、メカニカルな兜=<yellow>ATK and DEF increase by 5. Protects against stunning.<white>|A helmet that Winry made from mechanical parts.
-<yellow>防御力が５０上がり、気絶状態にならない|通常の走りができなくなる<white> 超重量の兜=<yellow>DEF increases by 50. Protects against stunning|Makes it impossible to run. <white>A really heavy helmet.
+<yellow>防御力が５０上がり、気絶状態にならない|通常の走りができなくなる<white> 超重量の兜=<yellow>DEF increases by 50. Protects against stunning.|Makes it impossible to run. <white>A really heavy helmet.
 <yellow>防御力が５０上がり、気絶状態にならない<white>|にゃんこの贈り物、白銀を素材とした兜=<yellow>DEF increases by 50. Protects against stunning.<white>|A present from a cat, made of silver.
 <yellow>ＳＰゲージの溜まる速度が３倍に増加する<white>|ソフィが繕ってくれた、純白に輝くパンツ=<yellow>The SP Gauge fills three times as fast.<white>|The briefs mended by Sophie. They shine pure white.
 <yellow>防御力が１０下がる<white>|穴の開いたパンツ、なにかとデンジャラス=<yellow>DEF decreases by 10.<white>|Briefs with holes. Somewhat dangerous.
