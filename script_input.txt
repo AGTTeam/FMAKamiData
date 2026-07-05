@@ -10,9 +10,9 @@
 力の秘薬（小）=Strength Tonic (S)
 力の秘薬（中）=Strength Tonic (M)
 力の秘薬（大）=Strength Tonic (L)
-守りの秘薬（小）=>>Protection Tonic (βSγ)
-守りの秘薬（中）=>>Protection Tonic (M)
-守りの秘薬（大）=>>Protection Tonic (L)
+守りの秘薬（小）=>>Defense Tonic (βSγ)
+守りの秘薬（中）=>>Defense Tonic (M)
+守りの秘薬（大）=>>Defense Tonic (L)
 錬金の秘薬（小）=Alchemy Tonic (S)
 錬金の秘薬（中）=Alchemy Tonic (M)
 錬金の秘薬（大）=Alchemy Tonic (L)
@@ -564,8 +564,8 @@
 <yellow>通常取得経験値が１０％増加する<white>|えるうっどの恩返し、ニャンコの集団が微笑んでいる……=<yellow>EXP earned in battle increases by 10%.<white>|A present from Elwood. A group of cats is smiling.
 <yellow>通常取得経験値が５０％増加する<white>|ブラックハヤテ号がホークアイと共に微笑んでいる……=<yellow>EXP earned in battle increases by 50%.<white>|Hawkeye is smiling with Black Hayate.
 <yellow>通常取得経験値が２倍に増加する<white>|シャオメイがヨキをかじって微笑んでいる……=<yellow>EXP earned in battle are doubled.<white>|Shao May is biting Yoki and smiling.
-<yellow>すべての能力値が１上がる、あるものと装備すると…？<white>|たるみきった腹巻き、伝説の修行具という噂も……=<yellow>All stats increase by 1 when equipped together with...!?<white>|Rumor has it that this is a legendary training tool...#"Rumor has it that the loose bellyband is a legendary training tool..."
-<yellow>すべての能力値が１下がる、あるものと装備すると…？<white>|やる気のないももひき、伝説の修行具という噂も……=<yellow>All stats increase by 1 when equipped together with...!?<white>|Rumor has it that these are a legendary training tool...#"Rumor has it that these unmotivating pants are a legendary training tool..."
+<yellow>すべての能力値が１上がる、あるものと装備すると…？<white>|たるみきった腹巻き、伝説の修行具という噂も……=<yellow>All stats increase by 1, but when equipped together with...?<white>|Rumor has it that this is a legendary training tool...#"Rumor has it that the loose bellyband is a legendary training tool..."
+<yellow>すべての能力値が１下がる、あるものと装備すると…？<white>|やる気のないももひき、伝説の修行具という噂も……=<yellow>All stats decrease by 1, but when equipped together with...?<white>|Rumor has it that these are a legendary training tool...#"Rumor has it that these unmotivating pants are a legendary training tool..."
 <yellow>通常取得経験値が５％増加する<white>|鉄ゲタ、精神鍛錬にもなる…かもしれない=<yellow>EXP earned in battle increases by 5%.<white>|They may be a tool for mental discipline...
 <yellow>通常取得経験値が１０％増加する<white>|ウィンリィの作った、重量が２倍に強化された鉄ゲタ=<yellow>EXP earned in battle increases by 10%.<white>|Iron sandals, but twice as heavy. Reinforced by Winry.
 <yellow>コンボボーナス経験値が２倍に増加する（エドアル共に）<white>|ソフィが作った、腕の筋肉を鍛えるおもり=<yellow>EXP earned from combos are doubled. <orange>(Ed & Al)|<white>Weights made by Sophie to train arm muscles.
@@ -2226,7 +2226,7 @@
 
 !FILE:0042_003/004.txt
 <blackbold>アイテム<normal>【秘密の史書（１）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Secret Book (1)"
-<blackbold>アイテム<normal>【守りの秘薬（小）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Protection Tonic (S)"
+<blackbold>アイテム<normal>【守りの秘薬（小）】|<blackbold>を手に入れた！！=<blackbold>Got item <normal>“Defense Tonic (S)"
 <oldman>ワシは幻でも見てるのか……？|なぜ、あの者たちが|ヴァルドラを……！？=<oldman>Am I seeing things...?|What are these people doing to Valdolla!?
 <man>奴ら、子供も女も見境ねぇ、|片っ瑞から殺すつもりなんだ！=<man>They don't care if it's women or children, they're killing everyone they can.
 <man>ヴァルドラのほとんどが、|制圧されちまったっていうし……。|——軍は何してやがる！？=<man>I heard most of Valdolla's been invaded...|What the hell is the military doing!?
