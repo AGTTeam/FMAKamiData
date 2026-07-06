@@ -10,7 +10,7 @@
 力の秘薬（小）=Strength Tonic (S)
 力の秘薬（中）=Strength Tonic (M)
 力の秘薬（大）=Strength Tonic (L)
-守りの秘薬（小）=Defense Tonic (βSγ)
+守りの秘薬（小）=Defense Tonic (S)
 守りの秘薬（中）=Defense Tonic (M)
 守りの秘薬（大）=Defense Tonic (L)
 錬金の秘薬（小）=Alchemy Tonic (S)
@@ -3570,7 +3570,7 @@
 <zelgius>クックック……。|誰を父と呼んでいるのだ、お前は？=<zelgius>Ho ho ho...! Who are you calling father?
 <zelgius>ギルベルトか？|それとも、|名も知らぬヴェルザの父のことか？=<zelgius>Gilbert?|Or the unknown father of Velza?
 <zelgius>お前には、父などおらぬ。|愛情など偽りだ。=<zelgius>You have no such thing as a father.|That affection was a lie.
-<zelgius>ギルベルトにとって大事な道具、|「神の器」だから大切にされてきた。|ただ、それだけにすぎん。=<zelgius>You were an important tool to Gilbert, and he cherished you as the “vessel for the goddess.“ But that's all there was to it.
+<zelgius>ギルベルトにとって大事な道具、|「神の器」だから大切にされてきた。|ただ、それだけにすぎん。=<zelgius>You were an important tool to Gilbert, and he cherished you as the “vessel for the goddess." But that's all there was to it.
 <sophie>……ウソ……ウソよ…………。=<sophie>...Lies...lies...
 <zelgius>さぁ、「神の器」よ。|お前は、この時のために生きてきたのだ。|その役目を果たすがいい……！=<zelgius>Come now, “vessel for the goddess."|You were born for this moment.|Fulfill your duty!
 <sophie>…………お父、さん…………。=<sophie>...Fa...ther...
