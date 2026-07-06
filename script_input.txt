@@ -10,9 +10,9 @@
 力の秘薬（小）=Strength Tonic (S)
 力の秘薬（中）=Strength Tonic (M)
 力の秘薬（大）=Strength Tonic (L)
-守りの秘薬（小）=Defense Tonic (S)
-守りの秘薬（中）=Defense Tonic (M)
-守りの秘薬（大）=Defense Tonic (L)
+守りの秘薬（小）=>>Defense Tonic (βSγ)
+守りの秘薬（中）=>>Defense Tonic (M)
+守りの秘薬（大）=>>Defense Tonic (L)
 錬金の秘薬（小）=Alchemy Tonic (S)
 錬金の秘薬（中）=Alchemy Tonic (M)
 錬金の秘薬（大）=Alchemy Tonic (L)
@@ -3513,7 +3513,7 @@
 <man>あの魔女を殺せ！|じゃなきゃ、オレたちが殺されちまうぞ！|アイツが災いをもたらしたんだ！=<man>Kill that witch! Otherwise we're doomed! She's the one who brought disaster upon us!
 <sophie>——こ、この声は……！？=<sophie>This...this voice...
 <???>許さない……許さない……！=<???>Unforgivable... Unforgivable...!
-<???>私の大切な……すべて奪った……！=<???>They took away...everything that was precious to me!
+<???>私の大切な……すべて奪った……！=<???>They took everything that was precious to me!
 <???>許さない……絶対に許さない……！！=<???>Unforgivable... Absolutely unforgivable!!
 <sophie>ウウッ……アアアァッ！！=<sophie>Ugh... AAAAAAHH!!
 <alphonse>ソフィ！ ねぇ、ソフィってば！=<alphonse>Sophie! Hey, Sophie!
@@ -3521,7 +3521,7 @@
 <edward>どうしたんだ、ソフィ？|突然、ぼんやりして。|大丈夫か？=<edward>What's going on, Sophie? You seem dazed all of a sudden. Are you okay?
 <sophie>え……あ、ううん、大丈夫……。|なんでもないわ。|２人とも、行きましょう。=<sophie>Huh... Ah, yes, I'm fine... It's nothing.|Let's go, both of you.
 <edward>あ、ああ。=<edward>Ah, yeah.
-<sophie>（今のは……やっぱり、ヴェルザの声……。|そして、さっきの大勢の人の声は……|ヴェルザの記憶……？）=<sophie>(That was...Velza's voice, for sure. And the voices of that bloodthirsty crowd... Are these Velza's memories?)
+<sophie>（今のは……やっぱり、ヴェルザの声……。|そして、さっきの大勢の人の声は……|ヴェルザの記憶……？）=<sophie>(That was...Velza's voice, for sure. And the voices of that bloodthirsty crowd... Were those Velza's memories?)
 <sophie>（でも、どうして……？|どうして、私にヴェルザの声が……？）=<sophie>(But why...? Why am I hearing Velza's voice?)
 <sophie>うぅ……ん……。|——こ、これは……？=<sophie>Uuh...ngh...|Wh-where am I?
 <zelgius>——気がついたようだな。=<zelgius>So you've finally come back to your senses.
@@ -3570,7 +3570,7 @@
 <zelgius>クックック……。|誰を父と呼んでいるのだ、お前は？=<zelgius>Ho ho ho...! Who are you calling father?
 <zelgius>ギルベルトか？|それとも、|名も知らぬヴェルザの父のことか？=<zelgius>Gilbert?|Or the unknown father of Velza?
 <zelgius>お前には、父などおらぬ。|愛情など偽りだ。=<zelgius>You have no such thing as a father.|That affection was a lie.
-<zelgius>ギルベルトにとって大事な道具、|「神の器」だから大切にされてきた。|ただ、それだけにすぎん。=<zelgius>You were an important tool to Gilbert, and he cherished you as the “vessel for the goddess." But that's all there was to it.
+<zelgius>ギルベルトにとって大事な道具、|「神の器」だから大切にされてきた。|ただ、それだけにすぎん。=<zelgius>You were an important tool to Gilbert, and he cherished you as the “vessel for the goddess.“ But that's all there was to it.
 <sophie>……ウソ……ウソよ…………。=<sophie>...Lies...lies...
 <zelgius>さぁ、「神の器」よ。|お前は、この時のために生きてきたのだ。|その役目を果たすがいい……！=<zelgius>Come now, “vessel for the goddess."|You were born for this moment.|Fulfill your duty!
 <sophie>…………お父、さん…………。=<sophie>...Fa...ther...
