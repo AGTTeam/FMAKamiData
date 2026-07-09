@@ -602,7 +602,7 @@
 <yellow>手持ちの錬成武器が、無限に使える<white>|使っても減らない砥石、主婦の間で評判=>><yellow>Transmuteβd hβanβd weβaβpβoβns can bβe usβeβd inβdβefinitely.<white>|A whetstone that never wears out—popular with housewives.#Transmuted hand weapons can be used indefinitely.
 <yellow>弾数に制限のある武器が、無限に使える<white>|使ってもなくならない弾丸、銃マニアの間で評判=<yellow>Weapons with limited ammunition can be used indefinitely.<white>|Bullets that don't stop—popular with gun fanatics.
 <yellow>ＨＰが０になった時、自動的に復活する（発動後消滅）<white>|奇跡を呼ぶお守り、所持者の危機を救う=<yellow>Automatically revives its wearer when HP drops to 0.|<orange>(Single use) <white>A charm that works miracles.
-<yellow>錬成力が５％上昇する<white>|国家錬金術師の証、内側にはエドの決意が刻まれている=<yellow>ALC increases by 5%.|<white>Proof of a State Alchemist. Ed's promise is engraved inside.
+<yellow>錬成力が５％上昇する<white>|国家錬金術師の証、内側にはエドの決意が刻まれている=<yellow>ALC increases by 5%.|<white>Proof of a state alchemist. Ed's promise is engraved inside.
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、攻撃力が５上がる<white>|エドの全長を伸ばす必須アイテム=<yellow>The SP Gauge fills twice as fast. ATK increases by 5.<white>|Essential for Ed to seem taller.
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、防御力が５上がる<white>|ソフィの手作り、エドとウィンリィにえらく不評=<yellow>The SP Gauge fills twice as fast. DEF increases by 5.<white>|Sophie's handiwork—disliked by Ed and Winry.
 <yellow>自分が攻撃すると、パートナーのＳＰゲージも増加する<white>|兄弟の誓い、必ず２人で元の身体に戻る=<yellow>When you attack, your partner's SP Gauge also fills.<white>|The vow of two brothers to return to their original bodies.
@@ -2668,7 +2668,7 @@
 <edward>なっ……！？=<edward>What the—
 <mysteriousman>お前たちも、奴らの仲間か。|私の命を狙って、|こんな所まで侵入してくるとはな……。=<mysteriousman>You must be with those bastards too.|You've overrun this place to kill me, right?
 <edward>ちょ、ちょっと待ってくれ！|オレたちは敵じゃない！|——そうだ、これを見てくれよ！=<edward>Wa-wait a minute, please!|We're not with them!|Here, take a look at this!
-<mysteriousman>その銀時計は、国家錬金術師の……？=<mysteriousman>Is that the silver watch of a State Alchemist?
+<mysteriousman>その銀時計は、国家錬金術師の……？=<mysteriousman>Is that the silver watch of a state alchemist?
 <mysteriousman>——そうか。史上最年少で|国家資格を取ったという|「鋼の錬金術師」とは、君のことか……。=<mysteriousman>All right. You must be that “Fullmetal Alchemist," the youngest person in history to get state certification.
 <edward>——え？|オレのこと、知ってるんですか？=<edward>Oh?|You've heard of me?
 <craigin>うむ。いきなり銃を向けて悪かったな。|——私は、このヴァルドラ軍司令部を預かる|ロメオ・クレイギンだ。=<craigin>Yes. Sorry for holding you at gunpoint like that. I'm Romeo Craigin, I'm in charge of the Valdolla HQ.
@@ -3769,7 +3769,7 @@
 <???>そこまでだ！|異形の怪物どもよ！！=<???>That's as far as you go, you grotesque|monsters!
 <edward>——なっ！？=<edward>Who's there!?
 <alphonse>アームストロング少佐！！=<alphonse>Major Armstrong!
-<armstrong>怪物どもよ……|お前たちにも見せてやろう。|国家錬金術師のすばらしさを——！=<armstrong>I will show you as well, monsters...|The magnificence of a State Alchemist!
+<armstrong>怪物どもよ……|お前たちにも見せてやろう。|国家錬金術師のすばらしさを——！=<armstrong>I will show you as well, monsters...|The magnificence of a state alchemist!
 <armstrong>ハアアアアアアァァ——————ッ！！=<armstrong>HAAAAAAAAAAAAA!!
 <armstrong>ヌオオオオオオォォ——————ッ！！=<armstrong>NNNNGHHH!!
 <armstrong>フンヌウウウウゥゥ——————ッ！！=<armstrong>HMMMNUUUUUHH!!
@@ -3954,7 +3954,7 @@
 <bradley>……ところで君は、ヴェルザの一族と|称する奴らの不思譲な力のこと、|何か知っていないかね？=<bradley>By the way, do you know anything about the mysterious power of those that call themselves the Velza Clan?
 <edward>……別に、何も。=<edward>Nothing in particular.
 <bradley>——そうか。それは残念だ。=<bradley>I see. That's a shame.
-<bradley>奴らの力の秘密が分かれば、|国家錬金術師に次ぐ、|新たな軍の力になるかもしれん。=<bradley>If we knew the secret to their powers, we could form a powerful new military force, second only to the State Alchemists.
+<bradley>奴らの力の秘密が分かれば、|国家錬金術師に次ぐ、|新たな軍の力になるかもしれん。=<bradley>If we knew the secret to their powers, we could form a powerful new military force, second only to the state alchemists.
 <bradley>クレイギン中将に、その秘密を|手に入れるよう命じていたのだが……|収穫はなかったようだな。=<bradley>I ordered Lt. General Craigin to obtain that secret...but it seems he failed.
 <edward>な……んだと……！|今、なんて言った……！？=<edward>Wh...what!?|What did you just say...!?
 <bradley>ん？ どうかしたかね？=<bradley>Hrm? What's the matter?
@@ -3975,7 +3975,7 @@
 <armstrong>そこにひざまずけぃ！！|大総統閣下に|おわび申しあげるのだっ！！！=<armstrong>Kneel right here and now! You must beg His Excellency for forgiveness!!
 <edward>う……ぐっ……！=<edward>Uh...guh...!
 <roy>——恐れながら、大総統閣下……！=<roy>With all due respect, Your Excellency...
-<roy>国家錬金術師といえど、まだ子供。|この者、慣れぬ戦場の雰囲気に、|我を失ってしまったようです……！=<roy>He's still a child, even as a State Alchemist. He must have lost his common sense in the strange setting of the battlefield.
+<roy>国家錬金術師といえど、まだ子供。|この者、慣れぬ戦場の雰囲気に、|我を失ってしまったようです……！=<roy>He's still a child, even as a state alchemist. He must have lost his common sense in the strange setting of the battlefield.
 <bradley>……………………。=<bradley>...
 <roy>大総統に弓引くは国家の大罪なれど——|どうか、ご慈悲をもって、|お許しをたまわりたく……！=<roy>Rebelling against the Führer is a serious crime...|But please, have mercy and forgive him!
 <armstrong>差しでがましいようですが、|小官が、厳しく罰しておきますゆえ、|どうか命ばかりは——！=<armstrong>It may seem presumptuous of me, but I can punish him severely, so please spare his life!
@@ -5102,7 +5102,7 @@
 <sophie>お守り……？|ありがとう、大切にするわ。=<sophie>A charm?|Thank you, I'll take good care of it.
 <sophie>そうね……、いつも|もらってばかりじゃ悪いから……。=<sophie>Well... I feel bad always being the one who receives things...
 <sophie>——はい、これ。|教会の裏で見つけたの、|キレイな石でしょ、２人にあげるね！=<sophie>All right, here! This is a beautiful stone I found behind the church.|I'll give it to you two!
-<sophie>ふうん……。|この銀時計が、|国家錬金術師の証なんだ……。=<sophie>Hmm... This silver watch is the proof of being a State Alchemist.
+<sophie>ふうん……。|この銀時計が、|国家錬金術師の証なんだ……。=<sophie>Hmm... This silver watch is the proof of being a state alchemist.
 <sophie>……………？|フタが開かないようだけど、|中には何が入ってるの……？=<sophie>...?|The lid doesn't seem to open.|I wonder what's inside...
 <sophie>それは、エドにとって、|必要不可欠な物でしょ……？|受け取れないわ、大切にしてね。=<sophie>I think this is something absolutely essential for you, Ed. I can't accept it. Please, treasure it.
 <edward>必要不可欠……、|そこまで言うか……。=<edward>“Absolutely essential"...|You're really going that far?
@@ -5474,7 +5474,7 @@
 <winry>何よ。せっかく誉めてあげてるんだから|いちいち絡んでこないでよ。まったく、|小さいことにこだわるんだから。=<winry>What? I'm complimenting you, so stop picking fights with me all the time. Really, you get obsessed about such small things...
 <edward>だああああぁっ！！|また小さいって|言いやがったな——っ！！=<edward>AAAAAAARGH!! There it is, you said “small" again!!
 <winry>あーうるさい！ うるさい！！|実際に小さいんだから、小さいって言って|何が悪いのよ！=<winry>AW SHUT UP, SHUT UP!!|You actually are small, so what's the problem with calling you “small"!?
-<winry>まったく、身体が小さいと|心まで小さくなるみたいね……。|さすが、史上最小国家錬金術師だわ。=<winry>I guess if your body's small, your heart's small too... As you'd expect from the smallest State Alchemist in history.
+<winry>まったく、身体が小さいと|心まで小さくなるみたいね……。|さすが、史上最小国家錬金術師だわ。=<winry>I guess if your body's small, your heart's small too... As you'd expect from the smallest state alchemist in history.
 <edward>史・上・最・年・少・だ！！=<edward>THE—YOUNGEST—IN—HISTORY!!
 <mysteriousgirl>……クスッ……。=<mysteriousgirl>...Hehe...
 <alphonse>——あ。=<alphonse>Hm?
