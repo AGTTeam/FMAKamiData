@@ -4343,7 +4343,7 @@
 <edward>……これで、|ソフィの命を代価に|拳を振らなくても済むんだな。=<edward>Now you don't have to pay with your life every time I shake my fist, Sophie.
 <sophie>……ゴメンね。|ヒドイことしたと思ってる……。=<sophie>I'm sorry. I know I did a terrible thing.
 <alphonse>ううん、|あやまらなくていいよ、ソフィ……！=<alphonse>No, there's no need to apologize.
-<alphonse>——たしかに、|聖印の秘密を聞いたときは|ショックだったけど……。=<alphonse>To tell the truth, I was shocked when I first learned the truth about the mark.
+<alphonse>——たしかに、|聖印の秘密を聞いたときは|ショックだったけど……。=<alphonse>To tell the truth, I was shocked when I first learned about the cost of using the mark.
 <alphonse>……けど、これがなかったら、|ボクたちは、みんな、やられていた。|……他に方法は、なかったんだ……。=<alphonse>But we couldn't have stopped Velza without that power, nobody could.|There was no other way.
 <sophie>アル……。=<sophie>Al...
 <edward>——身体の方は、|大丈夫なのか……？=<edward>Are you feeling all right?
