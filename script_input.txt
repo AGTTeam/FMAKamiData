@@ -601,7 +601,7 @@
 <yellow>現在のＨＰが１００未満になると攻撃力が２倍に上昇する<white>|ソフィが作った、キメラの牙を素材とする腕輪=<yellow>When HP drops below 100, ATK doubles.<white>|An armlet made by Sophie from a chimera's fangs.#Changes the stat directly
 <yellow>手持ちの錬成武器が、無限に使える<white>|使っても減らない砥石、主婦の間で評判=>><yellow>Transmuteβd hβanβd weβaβpβoβns can bβe usβeβd inβdβefinitely.<white>|A whetstone that never wears out—popular with housewives.#Transmuted hand weapons can be used indefinitely.
 <yellow>弾数に制限のある武器が、無限に使える<white>|使ってもなくならない弾丸、銃マニアの間で評判=<yellow>Weapons with limited ammunition can be used indefinitely.<white>|Bullets that don't stop—popular with gun fanatics.
-<yellow>ＨＰが０になった時、自動的に復活する（発動後消滅）<white>|奇跡を呼ぶお守り、所持者の危機を救う=<yellow>Automatically revives its wearer when HP drops to 0.|<orange>(Single use) <white>A charm that works miracles.
+<yellow>ＨＰが０になった時、自動的に復活する（発動後消滅）<white>|奇跡を呼ぶお守り、所持者の危機を救う=<yellow>Automatically revives when HP drops to 0. <orange>(Single use)|<white>A charm that works miracles.
 <yellow>錬成力が５％上昇する<white>|国家錬金術師の証、内側にはエドの決意が刻まれている=<yellow>ALC increases by 5%.|<white>Proof of a state alchemist. Ed's promise is engraved inside.
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、攻撃力が５上がる<white>|エドの全長を伸ばす必須アイテム=<yellow>The SP Gauge fills twice as fast. ATK increases by 5.<white>|Essential for Ed to seem taller.
 <yellow>ＳＰゲージの溜まる速度が２倍に増加し、防御力が５上がる<white>|ソフィの手作り、エドとウィンリィにえらく不評=<yellow>The SP Gauge fills twice as fast. DEF increases by 5.<white>|Sophie's handiwork—disliked by Ed and Winry.
