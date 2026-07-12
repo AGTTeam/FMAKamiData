@@ -5182,7 +5182,7 @@
 <sophie>ウィンリィ……。|この手袋は機能性よりも、|見た目を重視してるから……。=<sophie>Winry, these gloves put looks above functionality.
 <winry>機能性のない手袋なんて邪魔なだけ！|真の手袋とは、どういうものか、|アンタたちに教えてあげるわ！=<winry>Gloves that aren't functional are good for nothing! I'll teach you what true gloves look like!
 <sophie>——なっ、何なの！？|この、お色気ムンムンの|エッチな下着は……！！=<sophie>Wha-what is this!?|This sexy, hot, and downright lewd underwear!?
-<sophie>お子様はクマさんパンティで十分よ！|私は絶対につけませんから！|こんなの没収よ、没収——！！=<sophie>Kids should stick to teddy bear panties! I'm never wearing such a thing!|This is confiscated. CONFISCATED!!
+<sophie>お子様はクマさんパンティで十分よ！|私は絶対につけませんから！|こんなの没収よ、没収——！！=<sophie>Kids should stick to teddy bear panties!|I'm never wearing such a thing!|This is confiscated. CONFISCATED!!
 <sophie>これだから、男の子は……。|私からもプレゼントあったけど、|あげるの、やめちゃおうかな……！=<sophie>So this is how boys are...|I also had a present for you, but I'm having second thoughts about it!
 <sophie>ムチ……？|これを私にどうしろと……？=<sophie>A whip?|What am I supposed to do with this?
 <sophie>——ッ！！|まっ、まさか、|エドって、そんな趣味が——！？=<sophie>Oh!! Don't...don't tell me...you have hobbies of this sort, Ed!?
