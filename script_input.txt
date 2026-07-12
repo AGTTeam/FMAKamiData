@@ -349,7 +349,7 @@
 ※アクセサリ予備用８７=Accessory Slot 87
 ※アクセサリ予備用８８=Accessory Slot 88
 ※アクセサリ予備用８９=Accessory Slot 89
-エーテルフラウ=Ether Lady
+エーテルフラウ=Etherflower
 片翼の天使像=>>One-Winged Angel
 レビスの指輪=Ring of Lebis
 不幸の神像=Idol of Misfortune
@@ -5243,7 +5243,7 @@
 <sophie>これって、囚人さんを|逃がさないための、|足かせってヤツよね……。=<sophie>These are shackles to stop prisoners from escaping, yes?
 <sophie>確かに珍しい物だけど、|もらっても、どうしようもないよ……。|ゴメン…これは返すね……。=<sophie>This is a rare item to be sure, but I don't know what to do with it.|Sorry, but I have to give this back.
 <sophie>——気にしないで。|教会の裏に、まだまだ、|いっぱい咲いてるから……。=<sophie>Don't worry about it. There are still plenty of them blooming behind the church.
-<sophie>辞書をひいて調べてみたの。|この花の名前は「エーテルフラウ」。|すごく希少な植物みたい……。=<sophie>I looked it up in an encyclopedia.|The name of this flower is “Ether Lady."|It seems to be a really scarce plant.
+<sophie>辞書をひいて調べてみたの。|この花の名前は「エーテルフラウ」。|すごく希少な植物みたい……。=<sophie>I looked it up in an encyclopedia.|“Etherflower" is its name.|It seems to be a really scarce plant.
 <sophie>錬金術と深い関係がある植物のようだけど、|詳しいことは分からなかったわ。|２人は、何か知ってる……？=<sophie>Apparently, it's a plant connected deeply to alchemy, but I don't know the details.|Do you know something about it?
 <sophie>翼の裏側に文字が……。|——「アルモニ」？|天使さんの名前かしら……？=<sophie>There's something written behind the wing.|“Armony"? I wonder if it's the angel's name...#This is a ref to FMA1
 <sophie>よく見ると、私と同い年くらいの女の子ね。|優しく笑ってるのに、|何だか、とても寂しそう……。=<sophie>On a second look, she's a girl about my age. She's smiling gently, and yet she seems to be so lonely...
