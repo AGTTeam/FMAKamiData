@@ -4909,7 +4909,7 @@
 <sophie>（本気だわ、この人……！）=<sophie>(This guy is serious!)
 <sophie>懐かしいなぁ……。|私のお父さんと、|同じ柄の下着だわ……。=<sophie>This brings back memories...|My father wore this kind of underwear.
 <sophie>大好きだったお父さん……。|でも、下着を一緒に洗うのだけは、|許すことができなかった……。=<sophie>I loved my father... But I couldn't forgive him for washing our underwear together.
-<sophie>「頼むからやめてよっ！！」|堪えきれなくて、一度、|つい怒鳴ってしまったの……。=<sophie>“Stop it, will you"!? |I couldn't bear it, so I yelled at him once.
+<sophie>「頼むからやめてよっ！！」|堪えきれなくて、一度、|つい怒鳴ってしまったの……。=<sophie>“Stop it, will you!?" |I couldn't bear it, so I yelled at him once.
 <sophie>あの時の驚いた表情……。|今になってみれば……、|ゴメンね……お父さん……。=<sophie>The look of surprise on his face at that time... Now that I think about it, I'm sorry...Father...
 <sophie><yellow>タッグバトルモードで|<yellow>パンツ姿のエドが|<yellow>使用可能になりました=<sophie><yellow>Underpants Ed is now available in Tag Battle Mode.
 <sophie><yellow>キャラクター選択画面で|<yellow>エドにカーソルを合わせ|<yellow>スタートボタンを押してみましょう=<sophie><yellow>On the character selection screen, move the cursor over Ed and press the Start button.
