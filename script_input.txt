@@ -1078,7 +1078,7 @@
 ＶＳ　ゴーレム=VS Golems
 ＶＳ　ファントム・レディ=VS Phantom Lady
 ＶＳ　砲台ゴーレム=VS Artillery Golems
-ＶＳ　恐竜ゴーレム=VS Dinosaur Golems
+ＶＳ　恐竜ゴーレム=VS Dinosaur Golem
 ＶＳ　銀弾の錬金術師=VS Silver Bullet Alchemist
 
 !FILE:0014_104.txt
@@ -1564,10 +1564,10 @@
 湧田　恵=Megumi Wakuta
 中目　乃利子=Noriko Nakanome
 <yellow><yellow>＜＜プロモーション＞＞=<yellow><yellow>Promotion
-二見　眞治=βShinji Futami / Kumi Sudoζβ
-須藤　久美=βδHideki Yamamoto / Munehiro Osawaεδβ
-山本　秀樹=δζγSara Tanaka / Chieko Tsurunaga
-大澤　宗弘=γγToshiyuki Inoue / Kumiko Ishidaζ
+二見　眞治=βShinji Futami ω Kumi Sudoζβ
+須藤　久美=βδHideki Yamamoto ω Munehiro Osawaεδβ
+山本　秀樹=δζγSara Tanaka ω Chieko Tsurunagaβ
+大澤　宗弘=γγβToshiyuki Inoue ω Kumiko Ishidaζ
 田中　さら=Masahiro Ohiraε
 鶴長　千恵子=　　　　　#leave spaces
 井上　敏行=<yellow><yellow>Web Team<white><white>
@@ -1582,12 +1582,12 @@
 <yellow><yellow>コーポレート・エグゼクティブ=<yellow><yellow>Publisher
 田口　浩司=Yoichi Wada
 <yellow><yellow>＜＜セールス＞＞=<yellow><yellow>Sales
-池田　美佳=ζζMika Ikeda / Kazuo Kusakawa
-草川　量雄=Koji Shirasugi / Yuken Furoεγ
-白杉　浩嗣=δγRyoma Tajima / Tomohiro Chiba
-須賀　浩二=εδγβMakoto Tsuda / Shinya Nakamura
-田島　龍馬=Toshihide Nomura / Saori Habaraζδδγγγ
-千葉　智博=ηδδKoji Suga / Masahiro Matsumoκβγγ
+池田　美佳=ζζMika Ikeda ω Kazuo Kusakawa
+草川　量雄=Koji Shirasugi ω Yuken Furoεγ
+白杉　浩嗣=δγRyoma Tajima ω Tomohiro Chibaβ
+須賀　浩二=εδγβMakoto Tsuda ω Shinya Nakamuraβ
+田島　龍馬=Toshihide Nomura ω Saori Habaraζδδγγγ
+千葉　智博=ηδδKoji Suga ω Masahiro Matsumoκβγγ
 津田　真=　　　　　#leave spaces
 中村　真也=<yellow><yellow>Senior Manager<white><white>
 野村　俊秀=Satoshi Kashiwazaki
@@ -2778,7 +2778,7 @@
 <janice>あれ？ チビが怒ってる。|アハッ！ おもしろーい！|もーっと言っちゃお♪ せーのっ——。=<janice>What? The bean's angry. Aha! How funny!|I'll say it again♪ Here we goooo:
 <janice>チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビ……！=<janice>Bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean-bean-bean-bean!
 <edward>だああああああぁぁッ！！|くぉの野郎！！ もう許さねぇ！！|ぶっとばしてやるっっ！！=<edward>AAAAAAARRGGHH!!|You bastard!! I'm not havin' it!!|I'm gonna kick your ass!!
-<janice>ほーら、いくわよぉ。|お・チ・ビ・ちゃん♪|キャハハハハハハハハハ！！=<janice>Look, here we go.|μμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμBμμμμμμμμ-Eμμμμμμμμ-Aμμμμμμμ-N♪ |Heee heee heee!!
+<janice>ほーら、いくわよぉ。|お・チ・ビ・ちゃん♪|キャハハハハハハハハハ！！=<janice>Look, here we go.|μμμμBμμμμ-Eμμμμ-Aμμμμ-N♪ |Heee heee heee!!
 <edward>へっ、人をさんざん|バカにしやがって。|思い知ったか！=<edward>Heh, that oughta teach ya a lesson for makin' fun of me!
 <janice>……ンの野郎……。=<janice>You bastards...
 <edward>ん……？=<edward>What's that...?
@@ -5576,7 +5576,7 @@
 <edward>ま、まずその|教主様とやらに会ってみないとな。=<edward>Well, first we must meet that priest.
 
 !FILE:0225_000/004.txt
-<bigtext><blackbold> レベル１クリア達成！！=<bigtext><blackbold>LEVEL 1 CLEAR!!
+<bigtext><blackbold> レベル１クリア達成！！=<bigtext><blackbold>CLEARED AT LEVEL 1!!
 <blackbold><8006><yellow>レベル１クリア<white>おめでとうございます！||お祝いとして、アイテム<normal>【超秘薬】❌１０コ<blackbold>|をプレゼントします！！=<blackbold><8006><white>Congratulations for completing the game at <yellow>level 1<white>! As a reward, <blackbold>you receive <normal>“Secret Tonic" ❌10!!
 <sophie>……………………。=<sophie>...
 <norn>ニャ～ン……。=<norn>Meow...
