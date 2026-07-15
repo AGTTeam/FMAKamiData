@@ -1108,7 +1108,7 @@
 ザ・ファングス=The Fangs
 太陽神ミラクルパワーズ=Sun God's Miracle Powers
 ロードガーディアンズ=Road Guardians
-キューティ☆エンジェルス=Cutieγ☆Angels
+キューティ☆エンジェルス=Cutieγβ☆Angels
 ストロンゲストマシーンズ=Strongest Machines
 ビューティフルぺアー=Beautiful Pair
 職業軍人コンビ=Career Soldier Duo
@@ -1318,7 +1318,7 @@
 <yellow><yellow>プロジェクトマネージャー=<yellow><yellow>Project Manager
 前川　滋=Shigeru Maekawa
 <yellow><yellow>プロジェクトリーダー=<yellow><yellow>Project Leader
-松野　裕一=M-γHiro
+松野　裕一=Mβ-γHiro
 <yellow><yellow>ＢＯＮＥＳ ＳＴＡＦＦ=<yellow><yellow>BONES STAFF
 <yellow><yellow>カットインイラスト スタッフ=<yellow><yellow>Cut-in Illustration Staff
 <yellow><yellow>原画=<yellow><yellow>Key Animation
@@ -1584,10 +1584,10 @@
 <yellow><yellow>＜＜セールス＞＞=<yellow><yellow>Sales
 池田　美佳=ζζMika Ikeda ω Kazuo Kusakawa
 草川　量雄=Koji Shirasugi ω Yuken Furoεγ
-白杉　浩嗣=δγRyoma Tajima ω Tomohiro Chibaβ
-須賀　浩二=εδγβMakoto Tsuda ω Shinya Nakamuraβ
-田島　龍馬=Toshihide Nomura ω Saori Habaraζδδγγγ
-千葉　智博=ηδδKoji Suga ω Masahiro Matsumoκβγγ
+白杉　浩嗣=δγRyoma Tajima ωβγTomohiro Chibaβ
+須賀　浩二=εδγβMakoto Tsudaβγω Shinya Nakamuraβ
+田島　龍馬=Toshihide Nomuraββω Saori Habaraζδδγγγ
+千葉　智博=ηδδKoji Sugaββω Masahiro Matsumoκβγγ
 津田　真=　　　　　#leave spaces
 中村　真也=<yellow><yellow>Senior Manager<white><white>
 野村　俊秀=Satoshi Kashiwazaki
@@ -1846,7 +1846,7 @@
 <yellow>ガードを貫通、物も壊せるハンマーを錬成<white>|・<L2a><L2b>押しながら<cross>=<yellow>Transmute a hammer that can break objects and blocks<white>|・While holding <L2a><L2b>, press <cross>
 <yellow>オブジェ錬成武器「爆弾」を|広範囲に複数投げられる「集束爆弾」に強化<white>=<white>Object Transmutation <yellow>Bomb <white>becomes <yellow>Focused Bomb<white>, which can be thrown multiple times in a wide area<white>
 <yellow>オブジェ錬成武器「牛さん」を|凶暴な「猛牛」に強化<white>=<white>Object Transmutation <yellow>Ms. Cow <white>becomes the ferocious <yellow>Raging Bull<white>
-<yellow>オブジェ錬成武器「閃光弾」を|周囲の敵に大ダメージを与える「打ち上げ花火」に強化<white>=<white>Object Transmutation <yellow>Flash Bomb <white>becomes <yellow>Skyrocket Fireworks<white>, which causes great damage to surrounding enemies<white>
+<yellow>オブジェ錬成武器「閃光弾」を|周囲の敵に大ダメージを与える「打ち上げ花火」に強化<white>=>><white>Object Transmutβatioβn <yellow>Flash Bγomβb <white>bβecβomes <yellow>Skyroβcket|Fireworks<white>, which causes great damage to surrounding enemies<white>
 
 !FILE:0014_070/001.txt
 突起錬成=Stonespikes#Removed "Transmutation" as too long
@@ -1910,9 +1910,9 @@
 画像マテリアル=Bonus Art
 
 !FILE:0014_071/002.txt
-|<smalltext>　<white>左スティック<white>　＝　<yellow>移動<white>|　<white>右スティック<white>　＝　<yellow>視点の移動<white>||　<square>　＝　<yellow>攻撃<white>|　<cross>　＝　<yellow>ジャンプ/受け身<white>|　<triangle>　＝　<yellow>強攻撃/武器装備・解除<white>|　<circle>　＝　<yellow>オブジェ錬成/突起錬成<white>||　<L1a><L1b>＝　<yellow>視点のリセット<white>|　  ＝　<yellow>ロックオン<white>|　<L2a><L2b>＝　<yellow>スキル錬成メニュー<white>|　<R1a><R1b>＝　<yellow>パートナー指示<white>|　<R2a><R2b>＝　<yellow>ガード/回避<white>|　  ＝　<yellow>カウンター<white>=<smalltext> <white>Left stick<white> ＝ <yellow>Movement<white>| <white>Right stick<white> ＝ <yellow>Move camera<white>|| <square> ＝ <yellow>Attack<white>| <cross> ＝ <yellow>Jump / Breakfall<white>| <triangle> ＝ <yellow>Heavy attack|<white>      ＝ β<yellow>Equip and remove weapon<white>| <circle> ＝ <yellow>Object Transmutation|<white>      ＝ β<yellow>Stonespikes Transmutation<white>|| <L1a><L1b> ＝ <yellow>Reset camera / Lock-on<white>| <L2a><L2b> ＝ <yellow>Skill Transmutations menu<white>| <R1a><R1b> ＝ <yellow>Partner instructions<white>| <R2a><R2b> ＝ <yellow>Block / Dodge / Counter<white>
+|<smalltext>　<white>左スティック<white>　＝　<yellow>移動<white>|　<white>右スティック<white>　＝　<yellow>視点の移動<white>||　<square>　＝　<yellow>攻撃<white>|　<cross>　＝　<yellow>ジャンプ/受け身<white>|　<triangle>　＝　<yellow>強攻撃/武器装備・解除<white>|　<circle>　＝　<yellow>オブジェ錬成/突起錬成<white>||　<L1a><L1b>＝　<yellow>視点のリセット<white>|　  ＝　<yellow>ロックオン<white>|　<L2a><L2b>＝　<yellow>スキル錬成メニュー<white>|　<R1a><R1b>＝　<yellow>パートナー指示<white>|　<R2a><R2b>＝　<yellow>ガード/回避<white>|　  ＝　<yellow>カウンター<white>=<smalltext> <white>Left stick<white> ＝ <yellow>Movement<white>| <white>Right stick<white> ＝ <yellow>Move camera<white>|| <square> ＝ <yellow>Attack<white>| <cross> ＝ <yellow>Jump / Breakfall<white>| <triangle> ＝ <yellow>Heavy attack|<white>      ＝ γ<yellow>Equip and remove weapon<white>| <circle> ＝ <yellow>Object Transmutation|<white>      ＝ γ<yellow>Stonespikes Transmutation<white>|| <L1a><L1b> ＝ <yellow>Reset camera / Lock-on<white>| <L2a><L2b> ＝ <yellow>Skill Transmutations menu<white>| <R1a><R1b> ＝ <yellow>Partner instructions<white>| <R2a><R2b> ＝ <yellow>Block / Dodge / Counter<white>
 |<smalltext><white>ＳＴＡＲＴボタン<white>|　＝　<yellow>キャンプ画面<white>||<white>ＳＥＬＥＣＴボタン<white>|　＝　<yellow>キャラクター切り替え<white>||<white>方向キー上<white>|　＝　<yellow>行動状態でキャラ切り替え<white>|<white>方向キー下<white>|　＝　<yellow>待機状態でキャラ切り替え<white>||<white>方向キー左<white>　＝　<yellow>エリアマップ表示<white>|<white>方向キー右<white>　＝　<yellow>レーダー表示<white>=<smalltext><white>START button<white>| ＝ <yellow>Main menu<white>||<white>SELECT button<white>| ＝ <yellow>Switch characters<white>||<white>D-Pad up<white>| ＝ <yellow>Switch characters while active<white>|<white>D-Pad down<white>| ＝ <yellow>Switch characters while in|     standby<white>||<white>D-Pad left<white> ＝ <yellow>Display Area Map<white>|<white>D-Pad right<white> ＝ <yellow>Display radar<white>
-|<smalltext>（人、宝箱、怪しい場所近くで）|　<square>/<circle>　＝　<yellow>話しかける<white>|　   　＝　<yellow>宝箱を開ける<white>|　   　＝　<yellow>調べる<white>|||（セーブポイント内で）|　<square>/<circle>　＝　<yellow>セーブ画面を開く<white>||セーブ画面を開いた時に、|<orange>エドとアルのＨＰが回復<white>します。=||<smalltext>(Near people, treasure chests|or suspicious places)| <square> / <circle> ＝ <yellow>Talk<white>|               ＝ <yellow>Open chest<white>|               ＝ <yellow>Examine<white>||(Inside a Save Point)| <square> / <circle> ＝ <yellow>Open Save screen<white>||When you open the Save screen,|<orange>Ed and Al's HP will recover.<white>
+|<smalltext>（人、宝箱、怪しい場所近くで）|　<square>/<circle>　＝　<yellow>話しかける<white>|　   　＝　<yellow>宝箱を開ける<white>|　   　＝　<yellow>調べる<white>|||（セーブポイント内で）|　<square>/<circle>　＝　<yellow>セーブ画面を開く<white>||セーブ画面を開いた時に、|<orange>エドとアルのＨＰが回復<white>します。=||<smalltext>(Near people, treasure chests|or suspicious places)| <square> / <circle> ＝ β<yellow>Talk<white>|               ＝ <yellow>Open chest<white>|               ＝ <yellow>Examine<white>||(Inside a Save Point)| <square> / <circle> ＝ <yellow>Open Save screen<white>||When you open the Save screen,|<orange>Ed and Al's HP will recover.<white>
 |<smalltext>　Ｒ３ボタン|（右スティック押しこみ）<white>| ＝　<yellow>操作キャラクターに|  　カメラがズーム<white>||（ロックオン中に）|　Ｒ３ボタン| ＝　<yellow>ターゲット切り替え<white>||（イベント中に）|　Ｌ３ボタン| ＝　<yellow>メッセージ非表示<white>|=|<smalltext> R3 button|(Press right stick)<white>| ＝ <yellow>Camera zooms in on|      controlled character<white>||(While locked-on)| R3 button| ＝ <yellow>Switch target<white>||(During an event)| L3 button| ＝ <yellow>Hide message<white>|
 <smalltext>【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|<square>→<square>→<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|<square>→<square>→<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>|<square>→<square>→<square>→<square>→<circle>=<smalltext>Basic combo|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|<square>→<square>→<square>→<square>→<square>|Heavy attack combo|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|<square>→<square>→<square>→<square>→<triangle>|Stonespikes Transmutation combo|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>|<square>→<square>→<square>→<square>→<circle>
 <smalltext>|　<triangle>　＝　<yellow>上昇攻撃<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>突進攻撃<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>破壊錬成<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|<square>＋<cross>同時押し＝<yellow>スライディング<white>|（左スティック後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>蹴り上げ<white>=<smalltext> <triangle> ＝ <yellow>Upwards attack<white>||(Moving left stick forward)| <triangle> ＝ <yellow>Rush attack<white>|(Moving left stick backwards)| <triangle> ＝ <yellow>Destructive Transmutation<white>||Press <square>＋<cross> together| ＝ <yellow>Foot sweep<white>|(Moving left stick forward)|Press <square>＋<cross> together| ＝ <yellow>Slide kick<white>|(Moving left stick backwards)|Press <square>＋<cross> together| ＝ <yellow>High kick<white>
@@ -1931,7 +1931,7 @@
 |<smalltext>（敵の方を向いて）|　<L1a><L1b>押し続け　＝　<yellow>ロックオン<white>||（ロックオン中）|　Ｒ３ボタン|  ＝　<yellow>ターゲット切り替え<white>||ロックオン中、その敵が正面に|来るようにカメラが移動します。||Ｒ３ボタン（右スティック押し|こみ）でターゲットを切り替え|ることもできます。=|<smalltext>(Facing the enemy)|Hold <L1a><L1b> ＝ <yellow>Lock-on<white>||(While locked on)|R3 button ＝ <yellow>Switch target<white>||While locked on, the camera moves |so the enemy is in front of you.||You can also switch targets |with the R3 button |(pressing the right stick).
 |<smalltext>（コンボ中に）|ひとつ前の攻撃を出しきった|瞬間、次の攻撃のボタンを押す|  ＝　<yellow>ジャストアタック<white>||ジャストアタックが成立すると|手が斉く光り、通常より大きな|ダメージを敵に与えます。=||<smalltext>(During a combo)|Precisely after finishing an attack, |press the button for the next |attack| ＝ <yellow>Accu-Strike<white>||If an accu-strike is successful,| your hand will glow and you will| deal greater damage than usual.
 |<smalltext>（ＳＰゲージＭＡＸ時に）|　<circle>＋<triangle>同時押し|  ＝　<yellow>スぺシャルアタック<white>||エドとアル、それぞれ別の|スぺシャルアタックが使えます。||<orange>ＳＰゲージ<white>は、敵にダメージを|与えたり、敵からダメージを|受けた時に上昇します。=||<smalltext>(When the SP Gauge is full)|Press <circle>＋<triangle> together| ＝ <yellow>Special Attack<white>||Ed and Al can each use different |Special Attacks.||<orange>The SP Gauge<white> fills when you |deal damage to enemies, |or receive damage from them.
-|<smalltext><yellow>【エドの特性】<white>|・回避、受け身が使える|・壁つたい歩きができる|・ほふく前進ができる|・ＨＰが０でゲームオーバー||<yellow>【アルの特性】<white>|・ダウンしにくい|・銃弾や炎などの攻撃に強い|・ＨＰが０になっても| エドに再錬成してもらうか| 一定時間で復活できる|=<smalltext><yellow>Ed's attributes<white>|・Can evade and do breakfalls|・Can walk along walls|・Can crawl forward|・If his HP reaches 0, it's game|    over||<yellow>Al's attributes<white>|・Hard to knock down|・Strong against bullets, fire and|    other attacks|・Even if his HP reaches 0,|    Ed can revive him after|    a certain period of time.
+|<smalltext><yellow>【エドの特性】<white>|・回避、受け身が使える|・壁つたい歩きができる|・ほふく前進ができる|・ＨＰが０でゲームオーバー||<yellow>【アルの特性】<white>|・ダウンしにくい|・銃弾や炎などの攻撃に強い|・ＨＰが０になっても| エドに再錬成してもらうか| 一定時間で復活できる|=<smalltext><yellow>Ed's attributes<white>|・Can evade and do breakfalls|・Can walk along walls|・Can crawl forward|・If his HP reaches 0, it's game|    over||<yellow>Al's attributes<white>|・Hard to knock down|・Strong against bullets, fire and|    other attacks|・Even if his HP reaches 0,|    Ed can revive him after|    a certain period of time
 |<smalltext>　<R1a><R1b>＝　<yellow>待機/行動の切り替え<white>||　<R1a><R1b>押し続け　＝　<yellow>呼び寄せる<white>||（エド操作・アルが側にいる時）|　<R1a><R1b>押し続け＝　<yellow>協力ジャンプ<white>||（錬成サークル内で）|　<R1a><R1b>＝<yellow>パートナーに錬成させる<white>||（武器の近くで）|　<R1a><R1b>＝　<yellow>武器を装備させる<white>|  　＝　<yellow>武器に乗せる<white>|=<smalltext><R1a><R1b> ＝ <yellow>Switch to Standby / Action<white>|Hold <R1a><R1b> ＝ <yellow>Summon partner<white>||(While controlling Ed, if Al is next|to him)|Hold <R1a><R1b> ＝ <yellow>Alleyoop<white>||(Inside a transmutation circle)| <R1a><R1b> ＝ <yellow>Make partner do the|            Transmutation<white>||(Near a weapon / vehicle)| <R1a><R1b> ＝ <yellow>Make partner equip the|            weapon<white>| ＝ <yellow>Make partner ride the vehicle<white>
 |<smalltext>敵を倒した時、カウンターや|回数の多いコンボを決めた時に|<orange>ＥＸＰ<white>を獲得できます。||一定以上のＥＸＰを溜めると、|<orange>レベルアップ<white>します。|<orange>ボーナスポイント<white>が手に入るので|好きな能力を強化してください。||レベルアップ時、スキル錬成の|レベルが上がったり、オブジェ|錬成武器を再錬成できるように|なる場合もあります。=<smalltext>You will gain<orange> Experience<white> upon|defeating enemies, doing|counters, or performing combos|with a high number of hits.||If you accumulate a certain|amount of EXP you will <orange>level up<white>.|Use the <orange>bonus points<white> you get to |strengthen the desired stats.||When you level up, your Skill |Transmutation level may increase, |and you may be able to |re-transmute weapons.
 |<smalltext><yellow>攻撃力<white>|素手/スキル錬成武器の攻撃値||<yellow>防御力<white>|受けるダメージを減少させる値||<yellow>体力<white>|最大ＨＰと連動する値||<yellow>錬成力<white>|オブジェ錬成武器の攻撃値|突起錬成の攻撃値=<smalltext><yellow>Attack<white>|Power of unarmed attacks |and Skill Transmutations||<yellow>Defense<white>|Value that reduces the damage |received||<yellow>Vitality<white>|Value related to maximum HP||<yellow>Alchemy<white>|Attack power of weapons |transmuted from objects |and Stonespikes
@@ -5577,7 +5577,7 @@
 
 !FILE:0225_000/004.txt
 <bigtext><blackbold> レベル１クリア達成！！=<bigtext><blackbold>CLEARED AT LEVEL 1!!
-<blackbold><8006><yellow>レベル１クリア<white>おめでとうございます！||お祝いとして、アイテム<normal>【超秘薬】❌１０コ<blackbold>|をプレゼントします！！=<blackbold><8006><white>Congratulations for completing the game at <yellow>level 1<white>! As a reward, <blackbold>you receive <normal>“Secret Tonic" ❌ 10!!
+<blackbold><8006><yellow>レベル１クリア<white>おめでとうございます！||お祝いとして、アイテム<normal>【超秘薬】❌１０コ<blackbold>|をプレゼントします！！=<blackbold><8006><white>Congratulations for completing the game at <yellow>level 1<white>! As a reward, <blackbold>you receive <normal>“Secret Tonic" ❌  10!!
 <sophie>……………………。=<sophie>...
 <norn>ニャ～ン……。=<norn>Meow...
 <sophie>……………………。=<sophie>...
