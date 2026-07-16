@@ -1582,12 +1582,12 @@
 <yellow><yellow>コーポレート・エグゼクティブ=<yellow><yellow>Publisher
 田口　浩司=Yoichi Wada
 <yellow><yellow>＜＜セールス＞＞=<yellow><yellow>Sales
-池田　美佳=ζζMika Ikeda ω Kazuo Kusakawa
-草川　量雄=Koji Shirasugi ω Yuken Furoεγ
-白杉　浩嗣=δγRyoma Tajima ωβγTomohiro Chibaβ
+池田　美佳=ζζMika Ikeda ω Kazuo Kusakawaβ
+草川　量雄=Koji Shirasugi ω Yuken Furoεγβ
+白杉　浩嗣=δγRyoma Tajima ββωβTomohiro Chibaβγ
 須賀　浩二=εδγβMakoto Tsudaβγω Shinya Nakamuraβ
-田島　龍馬=Toshihide Nomuraββω Saori Habaraζδδγγγ
-千葉　智博=ηδδKoji Sugaββω Masahiro Matsumoκβγγ
+田島　龍馬=γToshihide Nomuraββω ββSaori Habaraζδδγγγ
+千葉　智博=ηδδγKoji Sugaββω ββMasahiro Matsumoκβγγ
 津田　真=　　　　　#leave spaces
 中村　真也=<yellow><yellow>Senior Manager<white><white>
 野村　俊秀=Satoshi Kashiwazaki
@@ -1910,9 +1910,9 @@
 画像マテリアル=Bonus Art
 
 !FILE:0014_071/002.txt
-|<smalltext>　<white>左スティック<white>　＝　<yellow>移動<white>|　<white>右スティック<white>　＝　<yellow>視点の移動<white>||　<square>　＝　<yellow>攻撃<white>|　<cross>　＝　<yellow>ジャンプ/受け身<white>|　<triangle>　＝　<yellow>強攻撃/武器装備・解除<white>|　<circle>　＝　<yellow>オブジェ錬成/突起錬成<white>||　<L1a><L1b>＝　<yellow>視点のリセット<white>|　  ＝　<yellow>ロックオン<white>|　<L2a><L2b>＝　<yellow>スキル錬成メニュー<white>|　<R1a><R1b>＝　<yellow>パートナー指示<white>|　<R2a><R2b>＝　<yellow>ガード/回避<white>|　  ＝　<yellow>カウンター<white>=<smalltext> <white>Left stick<white> ＝ <yellow>Movement<white>| <white>Right stick<white> ＝ <yellow>Move camera<white>|| <square> ＝ <yellow>Attack<white>| <cross> ＝ <yellow>Jump / Breakfall<white>| <triangle> ＝ <yellow>Heavy attack|<white>      ＝ γ<yellow>Equip and remove weapon<white>| <circle> ＝ <yellow>Object Transmutation|<white>      ＝ γ<yellow>Stonespikes Transmutation<white>|| <L1a><L1b> ＝ <yellow>Reset camera / Lock-on<white>| <L2a><L2b> ＝ <yellow>Skill Transmutations menu<white>| <R1a><R1b> ＝ <yellow>Partner instructions<white>| <R2a><R2b> ＝ <yellow>Block / Dodge / Counter<white>
+|<smalltext>　<white>左スティック<white>　＝　<yellow>移動<white>|　<white>右スティック<white>　＝　<yellow>視点の移動<white>||　<square>　＝　<yellow>攻撃<white>|　<cross>　＝　<yellow>ジャンプ/受け身<white>|　<triangle>　＝　<yellow>強攻撃/武器装備・解除<white>|　<circle>　＝　<yellow>オブジェ錬成/突起錬成<white>||　<L1a><L1b>＝　<yellow>視点のリセット<white>|　  ＝　<yellow>ロックオン<white>|　<L2a><L2b>＝　<yellow>スキル錬成メニュー<white>|　<R1a><R1b>＝　<yellow>パートナー指示<white>|　<R2a><R2b>＝　<yellow>ガード/回避<white>|　  ＝　<yellow>カウンター<white>=<smalltext> <white>Left stick<white> ＝ <yellow>Movement<white>| <white>Right stick<white> ＝ <yellow>Move camera<white>|| <square> ＝ <yellow>Attack<white>| <cross> ＝ <yellow>Jump / Breakfall<white>| <triangle> ＝ <yellow>Heavy attack|<white>      β＝ <yellow>Equip and remove weapon<white>| <circle> ＝ <yellow>Object Transmutation|<white>      β＝ <yellow>Stonespikes Transmutation<white>|| <L1a><L1b> ＝ <yellow>Reset camera / Lock-on<white>| <L2a><L2b> ＝ <yellow>Skill Transmutations menu<white>| <R1a><R1b> ＝ <yellow>Partner instructions<white>| <R2a><R2b> ＝ <yellow>Block / Dodge / Counter<white>
 |<smalltext><white>ＳＴＡＲＴボタン<white>|　＝　<yellow>キャンプ画面<white>||<white>ＳＥＬＥＣＴボタン<white>|　＝　<yellow>キャラクター切り替え<white>||<white>方向キー上<white>|　＝　<yellow>行動状態でキャラ切り替え<white>|<white>方向キー下<white>|　＝　<yellow>待機状態でキャラ切り替え<white>||<white>方向キー左<white>　＝　<yellow>エリアマップ表示<white>|<white>方向キー右<white>　＝　<yellow>レーダー表示<white>=<smalltext><white>START button<white>| ＝ <yellow>Main menu<white>||<white>SELECT button<white>| ＝ <yellow>Switch characters<white>||<white>D-Pad up<white>| ＝ <yellow>Switch characters while active<white>|<white>D-Pad down<white>| ＝ <yellow>Switch characters while in|     standby<white>||<white>D-Pad left<white> ＝ <yellow>Display Area Map<white>|<white>D-Pad right<white> ＝ <yellow>Display radar<white>
-|<smalltext>（人、宝箱、怪しい場所近くで）|　<square>/<circle>　＝　<yellow>話しかける<white>|　   　＝　<yellow>宝箱を開ける<white>|　   　＝　<yellow>調べる<white>|||（セーブポイント内で）|　<square>/<circle>　＝　<yellow>セーブ画面を開く<white>||セーブ画面を開いた時に、|<orange>エドとアルのＨＰが回復<white>します。=||<smalltext>(Near people, treasure chests|or suspicious places)| <square> / <circle> ＝ β<yellow>Talk<white>|               ＝ <yellow>Open chest<white>|               ＝ <yellow>Examine<white>||(Inside a Save Point)| <square> / <circle> ＝ <yellow>Open Save screen<white>||When you open the Save screen,|<orange>Ed and Al's HP will recover.<white>
+|<smalltext>（人、宝箱、怪しい場所近くで）|　<square>/<circle>　＝　<yellow>話しかける<white>|　   　＝　<yellow>宝箱を開ける<white>|　   　＝　<yellow>調べる<white>|||（セーブポイント内で）|　<square>/<circle>　＝　<yellow>セーブ画面を開く<white>||セーブ画面を開いた時に、|<orange>エドとアルのＨＰが回復<white>します。=||<smalltext>(Near people, treasure chests|or suspicious places)| <square> / <circle> β＝ <yellow>Talk<white>|               ＝ <yellow>Open chest<white>|               ＝ <yellow>Examine<white>||(Inside a Save Point)| <square> / <circle> ＝ <yellow>Open Save screen<white>||When you open the Save screen,|<orange>Ed and Al's HP will recover.<white>
 |<smalltext>　Ｒ３ボタン|（右スティック押しこみ）<white>| ＝　<yellow>操作キャラクターに|  　カメラがズーム<white>||（ロックオン中に）|　Ｒ３ボタン| ＝　<yellow>ターゲット切り替え<white>||（イベント中に）|　Ｌ３ボタン| ＝　<yellow>メッセージ非表示<white>|=|<smalltext> R3 button|(Press right stick)<white>| ＝ <yellow>Camera zooms in on|      controlled character<white>||(While locked-on)| R3 button| ＝ <yellow>Switch target<white>||(During an event)| L3 button| ＝ <yellow>Hide message<white>|
 <smalltext>【基本コンボ】|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|<square>→<square>→<square>→<square>→<square>|【強攻撃コンボ】|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|<square>→<square>→<square>→<square>→<triangle>|【突起錬成コンボ】|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>|<square>→<square>→<square>→<square>→<circle>=<smalltext>Basic combo|<square>→<square>|<square>→<square>→<square>|<square>→<square>→<square>→<square>|<square>→<square>→<square>→<square>→<square>|Heavy attack combo|<square>→<triangle>|<square>→<square>→<triangle>|<square>→<square>→<square>→<triangle>|<square>→<square>→<square>→<square>→<triangle>|Stonespikes Transmutation combo|<square>→<circle>|<square>→<square>→<circle>|<square>→<square>→<square>→<circle>|<square>→<square>→<square>→<square>→<circle>
 <smalltext>|　<triangle>　＝　<yellow>上昇攻撃<white>||（左スティック前に入れて）|　<triangle>　＝　<yellow>突進攻撃<white>|（左スティック後ろに入れて）|　<triangle>　＝　<yellow>破壊錬成<white>||　<square>＋<cross>同時押し　＝　<yellow>足払い<white>||（左スティック前に入れて）|<square>＋<cross>同時押し＝<yellow>スライディング<white>|（左スティック後ろに入れて）|　<square>＋<cross>同時押し　＝　<yellow>蹴り上げ<white>=<smalltext> <triangle> ＝ <yellow>Upwards attack<white>||(Moving left stick forward)| <triangle> ＝ <yellow>Rush attack<white>|(Moving left stick backwards)| <triangle> ＝ <yellow>Destructive Transmutation<white>||Press <square>＋<cross> together| ＝ <yellow>Foot sweep<white>|(Moving left stick forward)|Press <square>＋<cross> together| ＝ <yellow>Slide kick<white>|(Moving left stick backwards)|Press <square>＋<cross> together| ＝ <yellow>High kick<white>
@@ -5577,7 +5577,7 @@
 
 !FILE:0225_000/004.txt
 <bigtext><blackbold> レベル１クリア達成！！=<bigtext><blackbold>CLEARED AT LEVEL 1!!
-<blackbold><8006><yellow>レベル１クリア<white>おめでとうございます！||お祝いとして、アイテム<normal>【超秘薬】❌１０コ<blackbold>|をプレゼントします！！=<blackbold><8006><white>Congratulations for completing the game at <yellow>level 1<white>! As a reward, <blackbold>you receive <normal>“Secret Tonic" ❌  10!!
+<blackbold><8006><yellow>レベル１クリア<white>おめでとうございます！||お祝いとして、アイテム<normal>【超秘薬】❌１０コ<blackbold>|をプレゼントします！！=<blackbold><8006><white>Congratulations for completing the|game at <yellow>level 1<white>! As a reward, <blackbold>you|receive <normal>“Secret Tonic" ❌  10!!
 <sophie>……………………。=<sophie>...
 <norn>ニャ～ン……。=<norn>Meow...
 <sophie>……………………。=<sophie>...
