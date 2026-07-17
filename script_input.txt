@@ -2776,9 +2776,9 @@
 <janice>アンタのコトに決まってんじゃん。|バッカじゃないの？|チビは、脳ミソもちっこいのかな～？=<janice>You, of course. Are ya stupid or what?|Does the little bean also have a microscopic brain?
 <edward>テ、テメェ……！|それ以上、チビとか言いやがったら、|女だって容赦しねぇぞ……！=<edward>Y-YOU...!|If you keep calling me a bean, I won't show any mercy, even if you're a girl!
 <janice>あれ？ チビが怒ってる。|アハッ！ おもしろーい！|もーっと言っちゃお♪ せーのっ——。=<janice>What? The bean's angry. Aha! How funny!|I'll say it again♪ Here we goooo:
-<janice>チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビ……！=<janice>Bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean-bean-bean-bean!
+<janice>チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビ……！=<janice>Bean-bean-bean-bean-bean-bean-bean-bean|-bean-bean-bean-bean-bean-bean-bean-bean|-bean-bean-bean-bean-bean-bean-bean-...!
 <edward>だああああああぁぁッ！！|くぉの野郎！！ もう許さねぇ！！|ぶっとばしてやるっっ！！=<edward>AAAAAAARRGGHH!!|You bastard!! I'm not havin' it!!|I'm gonna kick your ass!!
-<janice>ほーら、いくわよぉ。|お・チ・ビ・ちゃん♪|キャハハハハハハハハハ！！=<janice>Look, here we go.|μμμμBμμμμ-Eμμμμ-Aμμμμ-N♪ |Heee heee heee!!
+<janice>ほーら、いくわよぉ。|お・チ・ビ・ちゃん♪|キャハハハハハハハハハ！！=<janice>Look, here we go.|μμμBμμμ-Eμμμ-Aμμμ-N♪ |Heee heee heee!!
 <edward>へっ、人をさんざん|バカにしやがって。|思い知ったか！=<edward>Heh, that oughta teach ya a lesson for makin' fun of me!
 <janice>……ンの野郎……。=<janice>You bastards...
 <edward>ん……？=<edward>What's that...?
@@ -4709,8 +4709,8 @@
 <sophie>マリア、嗚呼、我が愛しのマリア！|この想い、どうしたら気づいてくれるのか|そうだ、彼女に詩を贈ろう=<sophie>Oh, Maria, my beloved Maria!|How could I convey my feelings to you?|I know! I'll write you a poem.
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>ついに詩ができた|マリアは心を打たれ|私を愛してやまずにいられない=<sophie>The poem is finished at last. Maria's heart will be touched. She won't be able to help but love me.
-<sophie><yellow>ラヴ ラヴ ラヴ ラヴ マリア様|ボクの心をワシ掴み|いつもあなたはボンキュッボン！=<sophie><yellow>Ma' love, μμma' dear, μμma' sweet,ηη|ηηma' rose -μμμμ Maria||You, μμwho hold my veryηη|ηηheart μμin your hand-μμμμμμμμ||Always μμand forever,μμμηη|ηηby your shape μμI am moved
-<sophie><yellow>ズバンとハートにロックオン|トリガーのラヴが火を吹くぜ|ファイアー ラヴリー ボンキュッボン！=<sophie><yellow>Schwing! μμμA perfervid engineηη|ηηturns for thee-μμμ||Trigger to pistons μμby wayηη|ηηof concupiscent μflameμμμμμ||That figureμμμ - lovely -ηη|ηηspark-ignition to desire
+<sophie><yellow>ラヴ ラヴ ラヴ ラヴ マリア様|ボクの心をワシ掴み|いつもあなたはボンキュッボン！=<sophie><yellow>Ma' love, μμma' dear, μμma' sweet,ηη|ηηηma' rose -μμμμμμμ Maria||You, μμwho hold my veryηηη|ηηηheart μμin your hand-μμμμμμμμ||Always μμand forever,μμμηηη|ηηby your shape μμI am moved
+<sophie><yellow>ズバンとハートにロックオン|トリガーのラヴが火を吹くぜ|ファイアー ラヴリー ボンキュッボン！=<sophie><yellow>Schwing! μμμA perfervid engineηη|ηζηturns for thee-μμμ||Trigger to pistons μμby wayηη|ηηof concupiscent μflameμμμμμ||That figureμμμ - lovely -ηηη|ηηspark-ignition to desire
 <sophie>◯月 ❌日=<sophie>XX month, XX day.
 <sophie>愛に障害は付き物だ|私の詩はゴミ箱へと捨てられた=<sophie>Love always comes with its obstacles.|She threw my poem into the trash bin.
 <sophie>めげないよ、マリア|愛してるんだ、マリア=<sophie>I won't give up, Maria. I love you, Maria.
