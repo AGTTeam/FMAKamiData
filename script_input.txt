@@ -2776,7 +2776,7 @@
 <janice>アンタのコトに決まってんじゃん。|バッカじゃないの？|チビは、脳ミソもちっこいのかな～？=<janice>You, of course. Are ya stupid or what?|Does the little bean also have a microscopic brain?
 <edward>テ、テメェ……！|それ以上、チビとか言いやがったら、|女だって容赦しねぇぞ……！=<edward>Y-YOU...!|If you keep calling me a bean, I won't show any mercy, even if you're a girl!
 <janice>あれ？ チビが怒ってる。|アハッ！ おもしろーい！|もーっと言っちゃお♪ せーのっ——。=<janice>What? The bean's angry. Aha! How funny!|I'll say it again♪ Here we goooo:
-<janice>チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビ……！=<janice>Bean-bean-bean-bean-bean-bean-bean-bean|-bean-bean-bean-bean-bean-bean-bean-bean|-bean-bean-bean-bean-bean-bean-bean-...!
+<janice>チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビチビチビ|チビチビチビチビチビチビチビチビ……！=<janice>Bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean-bean-bean-bean-|bean-bean-bean-bean-bean-bean-bean-...!
 <edward>だああああああぁぁッ！！|くぉの野郎！！ もう許さねぇ！！|ぶっとばしてやるっっ！！=<edward>AAAAAAARRGGHH!!|You bastard!! I'm not havin' it!!|I'm gonna kick your ass!!
 <janice>ほーら、いくわよぉ。|お・チ・ビ・ちゃん♪|キャハハハハハハハハハ！！=<janice>Look, here we go.|μμμBμμμ-Eμμμ-Aμμμ-N♪ |Heee heee heee!!
 <edward>へっ、人をさんざん|バカにしやがって。|思い知ったか！=<edward>Heh, that oughta teach ya a lesson for makin' fun of me!
