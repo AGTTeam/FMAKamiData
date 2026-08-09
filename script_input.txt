@@ -3910,7 +3910,8 @@
 <edward>世界は、オレたちが守る……！|だから……|もう少しの辛抱だ。=<edward>We're going to protect this world!|You just gotta hold on a little longer.
 <edward>必ず、お前も|救いだしてみせるからな……！！=<edward>And we'll definitely save you, too!!
 <verda>……我が終末の祈り……|邪魔は……させぬ……！！=<verda>I won't let anyone get in the way...of my Prayer of the End!!
-<verda>…終末の祈りは成就した……|我が子らよ…世界に満ちよ……！！=<verda>The Prayer of the End has been fulfilled...|Spread through the world, children of mine!
+<verda>…終末の祈りは成就した……|我が子らよ…世界に満ちよ……！！=<verda>The Prayer of the End has been fulfilled...
+<verda>…終末の祈りは成就した……|我が子らよ…世界に満ちよ……！！=<verda>Spread through the world, children of mine!
 
 !FILE:0218_003/004.txt
 <smalltext>腹部の弱点を狙え！=<smalltext>Aim for the weak spot at the abdomen!
