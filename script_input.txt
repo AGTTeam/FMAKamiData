@@ -1606,7 +1606,7 @@
 <yellow><yellow>エグゼクティブ・プロデューサー=　　　　　#leave spaces
 齊藤　陽介=<yellow><yellow>English Translation Patch
 田口　浩司=Anime Game Translations Team
-<yellow><yellow>パブリッシャー=<yellow><yellow>ηδδδζHacking:βγ<white><white>Illidan|<yellow><yellow>εζδζTranslation:βγ<white><white>SONICMANλ    ,βγIredc
+<yellow><yellow>パブリッシャー=<yellow><yellow>ηδδδζHacking:βγ<white><white>Illidan, renkinβ-jit|<yellow><yellow>εζδζTranslation:βγ<white><white>SONICMANλ    ,βγIredc
 和田　洋一=|<yellow><yellow>ηηηδγγγEditing:βγ<white><white>KahnerC,βγSONICMANλ|ηηζεε<yellow><yellow>Graphics:βγ<white><white>Phantom,βγSykoθ
 
 !FILE:1211_003.txt
@@ -3873,7 +3873,7 @@
 <alphonse>——ッ！|兄さん……！|まさか、まさか——！=<alphonse>Uh, Brother...!|No way, it can't be!
 <alphonse>ソフィの中に……|ヴェルザの魂が——！？=<alphonse>Velza's soul...is inside of Sophie!?
 <edward>——な、なんだと……！？|そんな……！|うそだろ——！？=<edward>Wh-what!?|Impossible! That can't be true!
-<verda>我が子らよ……|目覚めの時は来た……。|今こそ、すべての者に死を……！=<verda>My children...|The time for awakening has come.|Death to all who oppose me!
+<verda>我が子らよ……|目覚めの時は来た……。|今こそ、すべての者に死を……！=<verda>My children...|The time for awakening has come.|Everyone will die now!
 <verda>……見るがいい……。|世界が滅びゆく様を——。|我が苦しみの代価を——！！=<verda>...Behold... This world will soon perish. That is the price to pay for my suffering!
 <edward>——くっ！？=<edward>...Gah!
 <man>く、来るな……来るな……！|ウアアアァァ————ッ！！！=<man>Do...don't get closer... Don't get closer!|WAAAAGGGHHHH!!
@@ -5215,7 +5215,7 @@
 <sophie>このムチを打つだけで、|石のトゲトゲが現れるよ。|きっと、２人の役に立つと思う……。=<sophie>If you use this whip, stone spikes will appear. I'm sure it will be useful for you two.
 <sophie>やっぱり、靴下は真っ白が一番ね！|また汚しても、私が洗ってあげる、|任せといて、家事は得意なの。=<sophie>After all, nothing's better than pure white socks! If they get dirty again I'll wash them. Leave it to me, I'm good at house chores.
 <sophie>ちょっと、ダメじゃない！|ウィンリィがせっかく作ってくれたのよ？|大切にしなきゃ……。=<sophie>Hey, that's not nice!|Winry made these for you, right?|You must take care of them.
-<sophie>まぁ、クラシックなメガネ……。|こういうのを|モノクルって言うのよね。=<sophie>Oh, this is a classic style of glasses.|It's called a monocle.
+<sophie>まぁ、クラシックなメガネ……。|こういうのを|モノクルって言うのよね。=<sophie>Oh, this is a classic style of eyewear.|It's called a monocle.
 <sophie>私、視力はとってもいいの。|度が合わない眼鏡は、|目を悪くするって言うし……。=<sophie>I have very good eyesight. And they say that lenses with the wrong prescription damage your eyes.
 <sophie>ゴメンネ、気持ちだけ、|受け取っておくわ。=<sophie>I'm sorry.|But I appreciate the thought.
 <sophie>かっこいいサングラスね。|でも、これは完全に、|男物だから……。=<sophie>Those are cool sunglasses.|Though they're clearly for men...
