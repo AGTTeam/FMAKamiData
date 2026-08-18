@@ -3873,8 +3873,8 @@
 <alphonse>——ッ！|兄さん……！|まさか、まさか——！=<alphonse>Uh, Brother...!|No way, it can't be!
 <alphonse>ソフィの中に……|ヴェルザの魂が——！？=<alphonse>Velza's soul...is inside of Sophie!?
 <edward>——な、なんだと……！？|そんな……！|うそだろ——！？=<edward>Wh-what!?|Impossible! That can't be true!
-<verda>我が子らよ……|目覚めの時は来た……。|今こそ、すべての者に死を……！=<verda>My children...|The time for awakening has come.|Everyone will die now!
-<verda>……見るがいい……。|世界が滅びゆく様を——。|我が苦しみの代価を——！！=<verda>...Behold... This world will soon perish. That is the price to pay for my suffering!
+<verda>我が子らよ……|目覚めの時は来た……。|今こそ、すべての者に死を……！=<verda>My children...|The time for my awakening has come.|All who stand against me shall die!!
+<verda>……見るがいい……。|世界が滅びゆく様を——。|我が苦しみの代価を——！！=<verda>...Behold...|Watch as this world burns.|This is the price to pay for my suffering!
 <edward>——くっ！？=<edward>...Gah!
 <man>く、来るな……来るな……！|ウアアアァァ————ッ！！！=<man>Do...don't get closer... Don't get closer!|WAAAAGGGHHHH!!
 <woman>か、怪物！！|イヤ、来ないで……！！|キャアアアァァ————ッ！！=<woman>Mo-monsters! No, go away!!|AAAAAHHH!!
