@@ -1,7 +1,7 @@
 ﻿*************************************************************************
 *                                                                       *
 *           Hagane no Renkinjutsushi 3: Kami wo Tsugu Shoujo            *
-*                     English Translation Patch v1.0                    *
+*                     English Translation Patch v1.1                    *
 *                  By the Anime Game Translations Team                  *
 *                                                                       *
 *************************************************************************
@@ -42,12 +42,18 @@ https://discord.com/invite/UUF7Zbm
 
 We hope you enjoy!
 
+=Changelog=
+
+1.1
+-Added subtitles to a section of in-engine speech in Chapter 9, which occur when the timed section of the boss fight is failed.
+
                          ===========================
                                 PATCH CREDITS       
                          ===========================
 
 =Hacking=
  Illidan
+ renkin-jit
  
 =Translation=
  SONICMAN69
