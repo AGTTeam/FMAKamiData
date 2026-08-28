@@ -45,7 +45,7 @@ We hope you enjoy!
 =Changelog=
 
 1.1
--Added subtitles to a section of in-engine speech in Chapter 9, which occur when the timed section of the boss fight is failed.
+-Added subtitles to a section of in-engine speech in Chapter 9, which occurs when the timed section of the boss fight is failed.
 
                          ===========================
                                 PATCH CREDITS       
