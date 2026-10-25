@@ -3021,7 +3021,7 @@
 <venus>フッ……やっぱり、|アンタたちまで巻きこむ|ワケにはいかないね……。=<venus>Hmph... I suppose I shouldn't drag you two down with me...
 <trigger>コラコラコラ、ハンマー！|我が愛しのヴィーナス様に、|それ以上、近づくんじゃない！！=<trigger>Hey-hey-hey, Hammer! Don't get so close to my beloved Lady Venus!!
 <venus>ん？ どうしたんだい、トリガー？=<venus>Huh? What is it, Trigger?
-<trigger>ああ、今日も美しきヴィーナス様！|クレイギン将軍が、|お呼びになっていますです、ハイ。=<trigger>Ah, you're also beautiful today, Lady Venus! General Graigin has called for you, yes.
+<trigger>ああ、今日も美しきヴィーナス様！|クレイギン将軍が、|お呼びになっていますです、ハイ。=<trigger>Ah, you're also beautiful today, Lady Venus! General Craigin has called for you, yes.
 <venus>そうか——！|来たね……。=<venus>Is that so!? Then it's time...
 
 !FILE:0129_003/004.txt
